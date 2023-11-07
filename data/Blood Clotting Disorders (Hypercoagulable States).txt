@@ -1,0 +1,158 @@
+Blood Clotting Disorders (Hypercoagulable States)
+Overview
+What is a blood clotting disorder?
+A blood clotting disorder makes your blood form clots too easily. This is also called a hypercoagulable state or thrombophilia.
+When you get hurt, your body stops the bleeding by forming a blood clot. Clotting factors (proteins) your liver makes stick to platelets in your blood to form a blood clot (coagulate). Normal coagulation is important for stopping a cut from bleeding and starting the healing process.
+However, too much clotting can cause problems.
+
+Is a blood clotting disorder dangerous?
+Yes, blood clotting disorders can be dangerous, especially when you don’t get treatment. People with coagulation disorders have an increased risk of getting a blood clot in their:
+- Arteries (blood vessels that carry blood away from your heart).
+- Veins (blood vessels that carry blood to your heart).
+Another name for a clot inside a blood vessel is a thrombus or an embolus.
+Blood clots in your veins can travel through your bloodstream and cause:
+- Deep vein thrombosis (a blood clot in the veins of your pelvis, leg, arm, liver, intestines or kidneys).
+- A pulmonary embolus (blood clot in your lungs).
+Blood clots in your arteries can increase your risk for:
+- Stroke.
+- Heart attack.
+- Severe leg pain.
+- Difficulty walking.
+- Loss of an arm or leg.
+Can a blood clotting disorder cause miscarriage?
+Yes, it’s possible to have a miscarriage if you have a blood clot disorder like antiphospholipid syndrome. This disorder increases your blood clot risk, especially if you’ve had blood clots before. Higher blood volume and pressure during pregnancy play a role in making you five times more likely to develop a blood clot, even if you don’t have a blood clotting disorder.
+What are the most common blood clotting disorders?
+Factor V Leiden and prothrombin gene mutation (G20210A) are the most commonly identified genetic defects that increase your risk for blood clotting.
+About 3% to 8% of people with ancestors from Europe have a copy of the factor V Leiden mutation. Only 1 in 5,000 people has two copies of the mutation.
+About 1 in 50 white people in America and Europe have the prothrombin mutation.
+Both of these mutations are less common in other populations.
+Symptoms and Causes
+How do you know if you have a blood clotting disorder?
+Blood clotting disorder symptoms can vary depending on where in your body you have a blood clot.
+Symptoms may include:
+- Swelling, tenderness and pain in your leg can mean you have a deep vein thrombosis.
+- Chest pain with shortness of breath can mean a possible pulmonary embolism.
+- Heart attack.
+- Stroke.
+What causes a blood clotting disorder?
+Hypercoagulable states are usually genetic (inherited from parents) or acquired conditions.
+The genetic form of this disorder means you’re born with the tendency to form blood clots.
+Acquired conditions are usually a result of surgery, trauma, medications or a medical condition that increases the risk of forming clots.
+Inherited hypercoagulable conditions include:
+- Factor V Leiden (the most common).
+- Prothrombin gene mutation (G20210A).
+- Deficiencies of natural proteins that prevent clotting (such as antithrombin, protein C and protein S).
+- Elevated levels of fibrinogen or dysfunctional fibrinogen.
+- Elevated levels of factor VIII and other factors including factor IX and XI.
+- Abnormal fibrinolytic system.
+Acquired blood clotting disorders include:
+- Antiphospholipid syndrome (APS).
+- Disseminated intravascular coagulation (DIC).
+Causes of acquired blood clotting disorders include:
+- Cancer (one of the most common causes).
+- Some medications that treat cancer.
+- Recent trauma or surgery.
+- Central venous catheter placement.
+- Obesity.
+- Pregnancy.
+- Supplemental estrogen use, including oral contraceptive pills (birth control pills).
+- Hormone replacement therapy.
+- Not moving your body for a long time because of bed rest or long plane rides.
+- Heart attack, congestive heart failure, stroke and other illnesses that lead to decreased activity.
+- Heparin-induced thrombocytopenia (decreased platelets in your blood from heparin or low molecular weight heparin preparations).
+- Autoimmune disorders.
+- Antiphospholipid antibody syndrome.
+- Previous history of deep vein thrombosis or pulmonary embolism.
+- Myeloproliferative disorders such as polycythemia vera or essential thrombocytosis.
+- Paroxysmal nocturnal hemoglobinuria.
+- Inflammatory bowel syndrome.
+- Not having enough folate or other B vitamins.
+- HIV, sepsis or other infections.
+- Nephrotic syndrome (too much protein in your pee).
+Diagnosis and Tests
+How is a blood clotting disorder diagnosed?
+Certain conditions increase your risk of developing blood clots. However, that doesn’t mean you have a genetic hypercoagulable state. That’s why your healthcare provider will do a careful evaluation of your personal and family medical history.
+You may be a candidate for screening for coagulation disorders if you have:
+- A family history of abnormal blood clotting.
+- Abnormal blood clotting at a young age (younger than age 50).
+- Thrombosis in unusual locations, such as veins in your arms, liver, intestines, kidney or brain.
+- Blood clots that occur without a clear cause.
+- Blood clots that keep coming back.
+- A history of frequent miscarriages.
+- Stroke at a young age.
+What tests will be done to diagnose a blood clotting disorder?
+Blood tests can help your healthcare provider evaluate your condition.
+Blood clot disorder tests include:
+- PT-INR: The prothrombin time (PT) test helps your provider monitor your condition if you’re taking warfarin. Your results will help your provider figure out how fast your blood is clotting and whether you need a different dose.
+- Activated partial thromboplastin time (aPTT): Measures the time it takes your blood to clot. Your provider uses this test to monitor your condition if you’re taking heparin.
+- Fibrinogen test.
+- Complete blood count (CBC).
+Some of the tests help detect conditions that can be associated with hypercoagulable states.
+Tests used to help diagnose inherited coagulation disorders include:
+- Genetic tests, including factor V Leiden, activated protein C resistance and prothrombin gene mutation (G20210A).
+- Antithrombin activity.
+- Protein C activity.
+- Protein S activity.
+- Homocysteine test.
+Other tests that help diagnose acquired coagulation disorders include tests for:
+- Things that are part of the antiphospholipid antibody syndrome.
+- Heparin antibodies (in people who develop low platelet counts while exposed to heparin).
+Testing can help:
+- Identify whether you’re at risk for further clotting.
+- Determine the right course and length of treatment to prevent future clots.
+- Identify relatives who don’t currently have symptoms but may be at risk.
+A specialized coagulation laboratory should do the tests. A pathologist or clinician with expertise in coagulation, vascular medicine or hematology should interpret them.
+Ideally, the tests should be done when you aren’t having an acute clotting event.
+Management and Treatment
+How is a blood clotting disorder treated?
+In most cases, you only need blood clotting disorder treatment when a blood clot develops in a vein or artery. Anticoagulants decrease your blood’s ability to clot and prevent additional clots from forming.
+Anticoagulant medications include:
+- Aspirin.
+- Warfarin (Coumadin® or Jantoven®), a tablet you swallow.
+- Heparin, a liquid medication you get through an IV in your vein or from an injection in the hospital.
+- Low-molecular weight heparin, an injection you get once or twice a day. You can take it at home.
+- Fondaparinux, an injection.
+- Direct oral anticoagulants (tablets) such as rivaroxaban, apixaban or dabigatran.
+Your healthcare provider will talk to you about the benefits and risks of these medications. This information, along with your diagnosis, will help determine the type of anticoagulant medication you will take, how long you will need to take it, and the type of follow-up monitoring you need.
+As with any medication, it’s important to know how and when to take your anticoagulant according to your provider’s guidelines and to have frequent blood tests. You shouldn’t take warfarin if you're pregnant or planning to become pregnant. If you are, ask your provider about switching to a different type of anticoagulant medication, especially during the first trimester and before delivery.
+What can’t I eat with a blood clotting disorder?
+Ask your healthcare provider about specific dietary guidelines you'll need to follow while taking warfarin. Certain foods, such as foods high in vitamin K, can change the way the medication works. These include:
+- Brussels sprouts.
+- Spinach.
+- Broccoli.
+Complications/side effects of the treatment
+Side effects of anticoagulants may include:
+- Bad headaches.
+- Dizziness.
+- Heavy bleeding.
+How do I take care of myself?
+If you're taking warfarin:
+- You should order and wear a medical identification bracelet so you can get proper medical care in case of an emergency situation.
+- Certain medications you buy without a prescription affect how anticoagulants work. Don’t take any other medications without first talking to your provider.
+- You’ll need to have frequent blood tests to evaluate how well warfarin is working. Based on your test results, you may need to take a different dose.
+Prevention
+How can I prevent a blood clotting disorder?
+If you’re born with an inherited form of blood clotting disorder, you can’t prevent it. Still, that doesn’t mean you’re going to get a blood clot.
+Possible ways to prevent an acquired blood clotting disorder include:
+- Finding non-estrogen alternatives to birth control pills or hormone replacement therapy.
+- Staying at a healthy weight.
+- Making sure you’re getting the vitamins you need.
+- Getting up and walking around, especially during long flights and after surgery.
+Outlook / Prognosis
+What can I expect if I have a blood clotting disorder?
+You can manage blood clot disorders by taking medicine and going to follow-up appointments with your healthcare provider. If you’re planning to have surgery or become pregnant, talk with your provider about how to stay safe during these times.
+How long do blood clotting disorders last?
+If you inherited your blood clotting disorder from your parents, you’ll have it for the rest of your life. Although that doesn’t mean you’ll get a blood clot, there may be times in your life when an additional risk factor increases the risk you already have.
+Many acquired coagulation disorders go away when the situation that caused them goes away. For example, when you’re up and moving again after a long plane ride, your risk of clots goes back down.
+Living With
+When should I see my healthcare provider?
+If you’re taking warfarin, you may bleed or bruise more easily when you’re injured. Call your provider if you experience heavy or unusual bleeding or bruising.
+Contact your provider if you think you have deep vein thrombosis.
+When should I go to the ER?
+Call 911 if you think you’re having a pulmonary embolism because you have chest pain and difficulty breathing. Heart attack and stroke are other medical conditions that need emergency treatment.
+What questions should I ask my doctor?
+- Which kind of blood clotting disorder do I have?
+- What’s the best treatment for me?
+- Is there a support group where I can talk with other people who have this condition?
+A note from Cleveland Clinic
+If you have a blood clotting disorder, be sure to stay in touch with your healthcare provider. Take any medicine they prescribe for you and keep going to your follow-up appointments. Let them know if you’re planning to become pregnant or have surgery. And ask first before taking any medicine you buy without a prescription. Your provider is on your side and wants to help you, so don’t be afraid to ask questions about your condition.

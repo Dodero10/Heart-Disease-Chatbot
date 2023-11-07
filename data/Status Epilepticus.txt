@@ -1,0 +1,157 @@
+Status Epilepticus
+Overview
+What is status epilepticus?
+Status epilepticus (SE) is when a person has a continuous seizure or multiple seizures without enough time to recover between them. While it’s more likely to happen to people with epilepsy, many conditions can cause continuous or repeated seizures in people who don’t have epilepsy. This condition is a life-threatening medical emergency and needs immediate medical care.
+- If you or someone you’re with has a seizure that lasts more than five minutes, or has back-to-back seizures without becoming fully awake and alert between them, call 911 (or your local emergency services number) immediately.
+Who does it affect?
+Seizures can happen to anyone under the right circumstances, and the same is true of SE. But people with certain characteristics are more likely to have it. Those characteristics are:
+- Age: SE is most likely to happen to children under 1 year of age and older adults over 60, but can happen at any age. The higher risk in these two groups is because of conditions that can lead to SE (see Causes and Symptoms).
+- Sex: SE is slightly more likely to happen in men or people assigned male at birth (AMAB).
+- History of epilepsy: People with SE are much more likely to have a history of epilepsy. In children, between 16% and 38% have a history of epilepsy. In adults, it’s between 42% and 50%.
+How common is this condition?
+SE is uncommon overall but is one of the most common brain-related medical emergencies. Experts estimate there are between 7 and 40 cases per 100,000 people each year. That means there are between 23,000 and 131,800 cases annually in the U.S. About 2% of seizures turn into SE and around 23% of new seizure cases involve status epilepticus.
+How does this condition affect my body?
+While SE originates in your brain, it has dangerous effects on multiple systems throughout your entire body. To better understand how SE works, it helps to understand what a seizure is.
+Status epilepticus and its effects on the brain
+Your neurons can’t handle extended periods of uncontrolled activity. Just as too much electrical current can overload and damage an electronic device, uncontrolled seizure activity during SE can damage your neurons. That kind of damage is often permanent, which means you’ll lose abilities that affected areas of your brain once controlled.
+Status epilepticus effects on the body
+SE can involve widespread, uncontrolled muscle movements throughout your body. This causes your body temperature to go up and your muscles to tire out. Your body can try to compensate for this by releasing chemicals into your blood to help keep you going, but that only helps for a limited time.
+If SE continues for too long, it can affect the following systems and processes in your body:
+- Heart: The chemical changes in your blood can become harmful instead of helpful if they last too long, causing irregular heart rhythms or even heart damage. Some seizures can cause the heart to slow down (bradycardia) or even stop altogether (asystole).
+- Muscles: The continued activity damages your muscles, like what happens if you overdo it during a workout. That can cause injuries to muscles and other soft tissues. In severe cases, the damage can result in your muscle tissue breaking down.
+- Kidneys: The breakdown of damaged muscle tissue is toxic. Your kidneys can filter that out in limited amounts, but too much will overwhelm and damage them, causing kidney failure.
+- Breathing: SE also disrupts how you breathe, starving your brain and body of oxygen, which is eventually deadly. People with SE also commonly inhale fluids from their stomach into their lungs. This problem is known as aspiration and can lead to pneumonia and infection.
+- High body temperature: Much like the danger of a high fever, SE can raise your body temperature to dangerous levels. This can damage systems throughout your body, especially your brain.
+Symptoms and Causes
+What are the symptoms?
+The symptoms of SE depend on the area of the brain affected. Depending on where they happen in your brain, you can have different types of seizures. And because there are different seizure types, there are also different subtypes of SE. They are:
+- Convulsive SE: This form involves uncontrolled shaking or convulsing on both sides of your body. Generalized tonic-clonic seizures are a key type of seizure that can turn into SE.
+- Nonconvulsive SE: This form involves seizure activity without convulsions or uncontrolled shaking and muscle movements throughout your body. Some minor muscle movements may still happen, but they’re usually small twitches or slow, repetitive motions with a hand or part of your face. Absence seizures and other kinds of focal seizures — which affect only a limited part of the brain — can cause nonconvulsive SE.
+What causes the condition?
+Seizures are the only cause of SE, and there are two main ways that seizures can happen:
+- Provoked seizures: These happen because of other conditions or circumstances, such as high fevers, alcohol or drug withdrawal, low blood sugar, strokes, tumors and encephalitis. Provoked seizures make up about 25% to 30% of all seizures. When a brain injury provokes a seizure, it’s an acute symptomatic seizure and has a higher risk of turning into status epilepticus.
+- Unprovoked seizures: These seizures aren’t symptoms of a current medical condition or circumstance. They occur when a person’s brain can more easily produce spontaneous seizures. This type also includes seizures that happen more than seven days after a specific cause (like a head injury or stroke).
+Specific causes of seizures
+Seizures can happen for many different reasons, and certain causes are also why people of certain ages have a higher risk of SE. Those specific causes are:
+- Fevers, especially very high ones. Known as febrile seizures, these are the main cause of seizures in children under 1 year old.
+- Strokes, aneurysms and brain hemorrhages. Any circulatory condition that can damage the brain or disrupt how it works can cause a seizure. Strokes and other related problems, such as aneurysms and brain bleeds, are the most common causes of seizures in people over 60.
+Other causes of seizures include:
+- Brain tumors (including cancer).
+- Cerebral hypoxia (lack of oxygen).
+- Severe concussion and traumatic brain injury.
+- Degenerative brain diseases like Alzheimer’s disease or frontotemporal dementia.
+- Drugs and alcohol (this includes prescription medications, recreational drugs and even caffeine).
+- Drug or alcohol withdrawal.
+- Eclampsia (a condition where high blood pressure can cause seizures in people who are pregnant).
+- Electrolyte problems, especially low sodium (hyponatremia), calcium or magnesium.
+- Sensitivity to flashing or flickering light.
+- Genetic disorders (conditions you have at birth that you inherited from one or both parents).
+- Hormone-related changes (for example, catamenial epilepsy can affect people with a menstrual cycle, making seizures happen more often at certain points in the cycle).
+- Infections (especially encephalitis or meningitis, which are infections that can happen because of viruses, bacteria, parasites or fungi).
+- Inflammation from autoimmune conditions (where your immune system attacks your brain).
+- Metabolic problems, especially high blood sugar (hyperglycemia) or low blood sugar (hypoglycemia).
+- Problems with your brain structure (especially ones you’ve had since birth).
+- Sepsis.
+- Toxins and poisons (such as carbon monoxide poisoning or heavy metal poisoning).
+Diagnosis and Tests
+How is status epilepticus diagnosed?
+A healthcare provider can tentatively diagnose SE based on a person’s seizure symptoms and how long they have a seizure or if they have more than one seizure without enough time to recover between them. But it’s also important for providers to find out why the person had a seizure that led to SE. That usually takes a combination of methods.
+What tests will be done to diagnose this condition?
+An electroencephalogram (EEG) is the gold standard for any seizure diagnosis, including SE. This diagnostic test involves sensors coated in a sticky, electrically conductive gel and placed on your head. The gel helps the sensors pick up the electrical activity of your brain.
+By examining the patterns in your brain activity, providers can definitively diagnose a seizure. If the person has an ongoing seizure or has multiple seizures in a row, a provider can diagnose SE. EEG is especially important when a person has nonconvulsive SE.
+However, it’s also important for a provider to determine if the person’s seizures are provoked or unprovoked. Doing that can involve several different tests and exams, including:
+- Blood tests (these look for metabolic and blood chemistry imbalances, immune system problems, toxins and poisons and more).
+- Computerized tomography (CT) scan.
+- Magnetic resonance imaging (MRI).
+- Spinal tap (lumbar puncture).
+Your healthcare provider might also recommend other tests. Possible reasons include whether you have (or they suspect you have) any injuries, your health history, the type of seizure you had and more. Your provider (or someone you choose to make medical decisions for you) is the best person to tell you what kind of tests they recommend and why.
+Management and Treatment
+How is status epilepticus treated, and is there a cure?
+Treating SE involves a combination of techniques. That’s because SE affects your entire body, with the potential to cause serious or life-threatening complications. These methods include:
+- Medications.
+- Intubation.
+- Treating underlying causes (if any).
+- Supportive treatments.
+When SE resists treatment, it’s known as refractory SE. But there are still treatment options available.
+Medications
+Medications are key in stopping seizure activity in your brain. They can also treat other complications that SE can cause, such as heart rhythm problems.
+The most likely medications for directly stopping seizures include:
+- Benzodiazepines (Benzos): These medications limit the electrical activity in your neurons so seizures stop. They’re usually injected directly into your body or an intravenous (IV) line inserted into one of your veins. There’s also a nasal spray and a gel form of these medications, which providers can give orally or rectally (the tissue in your mouth and rectum can rapidly absorb gel medications). Most of these are first-line medications, but some are reserved for when other medications aren’t effective.
+- Antiseizure medications: Benzodiazepines are only effective at stopping seizures on their own in about 50% of cases. In the other 50% of cases, the seizures will begin again once the initial medications wear off, so these drugs can keep seizures from happening again over longer periods. Antiseizure drugs also change how your brain functions, slowing down electrical activity in the brain. These medications come in IV form.
+- General anesthesia: In the most severe cases, healthcare providers use anesthesia to put a person into a medically induced coma. This protects a person’s brain and body from continued damage from SE.
+Intubation
+Intubation means inserting a tube down a person’s trachea (windpipe). That tube ensures that a person’s windpipe stays open. It also allows medical personnel to use manual resuscitation bags or a ventilator to breathe for you.
+Treating underlying causes
+When a person has a provoked seizure, treating the underlying cause can sometimes be enough to stop the seizures from happening. Some examples include seizures due to medications, poisons and toxins, withdrawal from alcohol or recreational drugs, metabolic problems like too much or too little sodium or potassium, etc.
+Antiseizure treatments
+Another approach is to keep seizures from happening so they don’t cause SE again. Some of the most common ways to prevent seizures (or make them less severe or happen less often) include:
+- Medications.
+- Epilepsy surgery.
+- Dietary changes (especially low-carb or no-carb ketogenic diets).
+- Nervous system stimulation (such as deep brain stimulation or vagus nerve stimulation).
+Other treatments
+Depending on your specific case and circumstances, other treatments and techniques are also possible. Your healthcare provider (or someone authorized to make medical decisions for you) is the best person to explain to you what treatments they recommend and why.
+Complications/side effects of treatments
+The complications or side effects possible with treatments for SE depend on many factors. These include:
+- Memory loss.
+- Mental health complications (such as depression and/or anxiety).
+- The specific treatments you received.
+- The cause of the seizures (if providers can identify one).
+- Your medical history and conditions you already have.
+Your healthcare provider is the best person to explain the likely or possible complications and side effects. They can also offer guidance on preventing or minimizing those side effects and complications when possible.
+How do I take care of myself or manage symptoms?
+SE is a life-threatening medical emergency. People who have it can’t take care of themselves or do anything to stop the seizure directly. The only safe way to diagnose and treat them is in an emergency room — or another type of emergency medical setting — with the necessary equipment and supplies. Because of those factors, this condition is always a reason to call 911 (or your local emergency services number) for immediate medical attention.
+How soon after treatment will I feel better, and how long does it take to recover from treatment?
+The time it takes to recover from SE and treatments for it can depend on many factors. The most important factors that determine recovery time are what caused your status epilepticus and how long your status epilepticus lasted. Your healthcare provider is the best person to tell you the timeline for recovery in your case.
+Prevention
+How can I reduce my risk or prevent status epilepticus?
+Seizures can happen for many reasons, many of which happen unpredictably. Because of this, there’s no way to prevent seizures and SE completely. But there are ways to reduce your risk of having a seizure. Doing so makes it less likely that you’ll have a seizure that can turn into SE. Ways you can reduce your chances of having a seizure include:
+- Having rescue medications available. For people with a known seizure disorder, having a “rescue” medication can make a huge difference. Examples of these include benzodiazepines in a nasal spray form that someone can give you to stop a seizure. Another example is a medication that comes in a disintegrating tablet you take by mouth. Taking that between seizures can stop a cluster of repeated seizures. If someone else is having a seizure, wait until it stops before giving them their prescribed pill.
+- Eating a balanced diet and maintaining a weight that’s healthy for you. Many conditions related to your circulatory and heart health, especially stroke, can damage areas of your brain. This is a key cause of seizures in people over 60. Managing your diet can also help avoid seizures from electrolyte problems (too much or too little sodium, for example). Some people may need a low-carb or no-carb diet to prevent their seizures, and a healthcare provider can guide and help you with these diets.
+- Treating infections. Eye and ear infections are especially important to treat. Infections can spread to your brain and/or cause high fevers, both of which can lead to seizures.
+- Wearing safety equipment. Head injuries are a major cause of seizures. Using safety equipment — such as helmets, safety belts and restraints — whenever necessary can help you avoid an injury that leads to a seizure.
+- Avoiding alcohol, prescription and recreational drug misuse. Improperly using these can lead to seizures, and withdrawal from these substances can lead to seizures if you’re dependent on them.
+- Managing your health conditions. Managing chronic conditions can help you avoid seizures, especially those that happen because of your blood sugar with Type 1 diabetes and Type 2 diabetes. Managing your conditions also includes taking antiseizure drugs if you have epilepsy.
+Outlook / Prognosis
+What can I expect if I have status epilepticus?
+If you have SE, you’ll lose consciousness as the seizure disrupts how your brain works. During a seizure, the malfunctions in your brain keep you from knowing what’s happening to you or taking any deliberate action. The exact effects on your body depend on the type of seizure that causes SE. People with SE may also have injuries from falling or from colliding with nearby objects and items.
+How long does status epilepticus last?
+SE lasts at least five minutes, and the longer a seizure lasts, the less likely it’ll stop on its own. That means that SE will most likely continue until the effects of this condition cause death.
+Outlook for this condition
+SE is a medical emergency because it’s usually fatal without treatment. However, treatment methods have improved greatly. Today, SE on its own is only deadly in about 0.5% to 2% of cases.
+In general, children and infants who have SE from febrile seizures have the best outlook. But when it happens along with more severe conditions like stroke, the risk of death goes up (either from SE or from the other conditions). That’s why the survival rate of SE is lower in adults over age 60.
+Living With
+How do I take care of myself?
+Preventing seizures is a key way to take care of yourself if you have a history of SE. The most important steps you can take to prevent seizures include:
+- Have rescue medications available. If you have a rescue medication prescribed by your healthcare provider, always have it with you. Don’t leave home without it. You may also want to consider carrying a card or wearing a medical info bracelet that notes your condition and any medication needs or allergies. This can be helpful when you need medical care and don’t have someone with you who knows your condition and can assist first responders.
+- Take your medication as prescribed. Taking your anti-epilepsy medications can reduce how often you have seizures or how severe they are. That’s key to preventing SE. You should never stop taking your medications even though you feel better or you’ve been seizure-free for a long time. You should only stop taking medications with help from your provider.
+- Talk to your provider about alternatives. If you want to taper off or switch medications, your healthcare provider can tell you if this is possible and what your options are. If it’s possible to stop or switch, your provider can help you do it safely.
+- See your provider as recommended. Your healthcare provider will set up a schedule for you to see them. These visits are especially important to help manage your conditions and find the right medications or treatments.
+- Don’t ignore or avoid symptoms. Your provider can help you learn the warning signs or symptoms that can happen before seizures. You should also tell your provider if you notice any changes in your seizure-related symptoms or in your medications’ effectiveness.
+- Avoid seizure triggers. If there are situations that increase your risk of seizures, such as flickering lights or sleep deprivation, avoid those triggers whenever possible.
+When should I go to the ER?
+SE is a medical emergency. Since you can’t call 911 for yourself if you have SE, having someone else do it for you can make a huge difference. If you have a history of SE and a risk of it happening again, talking to your family, loved ones, coworkers and friends can help. Educating them on when to call for help could save your life or someone else’s.
+If someone you’re with has a seizure that lasts more than five minutes or has more than one seizure without recovering between them, call 911, or your local emergency services number, immediately. The faster a person receives treatment for SE, the better the odds of a good outcome.
+Additional Common Questions
+What should I do if someone I’m with has a seizure?
+If you’re with someone who’s having a seizure, there are several things you can do as part of seizure first aid. If a seizure lasts more than five minutes or a person doesn’t fully recover before they have another seizure, call 911 (or your local emergency services number) immediately.
+Here are some things you should and shouldn’t do when someone is having a seizure:
+Do
+- Make sure they can breathe. Loosen any clothing around the person’s neck to make sure they’re breathing.
+- Move dangerous objects away from them. This includes breakable items that might fall and hurt them. If they wear glasses, carefully take the glasses off and move them out of reach.
+- Put them in the rescue position. Turn the person on their side. This position helps protect their ability to breathe and keeps them from inhaling fluid like saliva or vomit. Try to keep their head aligned with their spine (using their outstretched lower arm, a pillow or other object under their head) so the angle of their neck doesn’t close their airway and prevent breathing.
+- Try to time the seizure as best you can. Telling a healthcare provider how long the seizure lasted can be critical information. It can also help you know if you need to call for emergency medical help.
+- Stay with them as they come out of the seizure and recover. People who have a seizure often feel confused or afraid as they wake up and return to normal. Help reassure and comfort them.
+- Make sure they’re OK once they wake up. If they have any injuries after the seizure, check if they need medical care. If the person hit their head or there’s a risk of an injury to their head, neck or back, the safest thing to do is to get medical care and make sure there aren’t any serious injuries that you can’t see.
+- Call for help if a person doesn’t recover within 10 to 15 minutes. You should call for emergency medical help if a person doesn’t start to recover or is unresponsive for more than 10 to 15 minutes after the convulsions stop. That may be a sign of a seizure continuing in their brain even though their body’s no longer shaking.
+Don’t
+- Panic. Stay calm. If others around you panic, talk to them as calmly as possible and reassure them as best you can.
+- Restrain the person having the seizure. You could hurt the person or hurt yourself.
+- Put anything in someone’s mouth if they’re having a seizure. There are many myths about seizures and epilepsy. One myth is that putting something in a person’s mouth like a belt or spoon can keep them from swallowing or biting their tongue. Don’t do this. You shouldn’t put anything into the mouth of someone having a seizure. You could hurt them or hurt yourself.
+What should I do if I think I’m about to have a seizure?
+Many people experience symptoms that are warning signs of a seizure that’s about to happen. If you think you’re going to have a seizure, you can do the following to prepare and protect yourself:
+- Make yourself as safe as possible. Sit or lie down so you don’t fall and injure yourself. You should also stop what you’re doing if it’s something like driving or using heavy machinery or tools.
+- Contact someone you trust to help you. Tell them where you are and how to find you.
+- If you can’t contact someone you know, tell someone in your immediate surroundings. Look for someone who’s in a position of responsibility or authority and let them know you think you’re about to have a seizure. For example, you could tell a police officer, security guard, teacher or store employee.
+A note from Cleveland Clinic
+Status epilepticus (SE) is a life-threatening medical emergency that happens when a seizure lasts more than five minutes, or when you don’t have enough time to recover fully between seizures. Being at risk for seizures and SE or watching a loved one having a prolonged seizure can be a source of anxiety and fear. However, with fast care, many people survive and recover from this condition. With ongoing medical care, medications and other treatment approaches, many people with a history of SE can recover and return to living their lives.

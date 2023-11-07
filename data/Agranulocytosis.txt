@@ -1,0 +1,87 @@
+Agranulocytosis
+Overview
+What is agranulocytosis?
+Agranulocytosis (pronounced “ay-GRAN-yoo-loh-sy-TOH-sis”) is a life-threatening condition that involves having severely low levels of white blood cells called neutrophils. White blood cells are part of your immune system. They protect your body from infection by fighting off germs that make you sick.
+Low levels of neutrophils make you very vulnerable to infection. You may get sick from germs that wouldn’t be harmful otherwise.
+Agranulocytosis gets its name from “granulocyte.” Granulocytes are white blood cells that contain enzymes that kill germs and break down substances that may harm your body. There are three types of granulocytes: neutrophils, eosinophils and basophils. Most of your body’s white blood cells are neutrophils. This is why healthcare providers check neutrophil levels to diagnose agranulocytosis.
+Agranulocytosis is also called granulocytopenia.
+What's the difference between neutropenia and agranulocytosis?
+Agranulocytosis is a severe form of neutropenia. Neutropenia involves having lower-than-normal levels of white blood cells. People with fewer than 1,500 neutrophils per microliter (mL) of blood have neutropenia. People with fewer than 100 neutrophils per microliter of blood have the most severe form of neutropenia, agranulocytosis.
+What are the types of agranulocytosis?
+There are two types of agranulocytosis.
+- Inherited agranulocytosis results from a genetic disorder that affects how your body makes neutrophils. It’s more common among babies and children.
+- Acquired agranulocytosis can have many causes but is usually a medication side effect (up to 70% of agranulocytosis cases). This form of agranulocytosis appears most often in adults.
+How common is agranulocytosis?
+Agranulocytosis is rare, affecting about 7 people out of every 1 million each year.
+Symptoms and Causes
+What are the symptoms of agranulocytosis?
+Agranulocytosis causes symptoms of infection that may appear suddenly or gradually. Symptoms may include:
+- Fever and chills.
+- Faster heart rate and breathing.
+- Muscle weakness and fatigue.
+- Sore throat (pharyngitis) and bleeding, inflamed gums.
+- Sores in your mouth and throat that make it difficult to swallow.
+- Sudden low blood pressure (hypotension), which can make you feel lightheaded or weak, or cause you to pass out.
+What causes agranulocytosis?
+Agranulocytosis occurs when your neutrophil level falls dangerously low. This can happen when:
+- Your body isn’t producing enough neutrophils that work effectively.
+- The neutrophils you do have are being destroyed or die too early.
+Inherited agranulocytosis
+Inherited agranulocytosis involves problems with the gene that your body needs to make neutrophils. This form of agranulocytosis is congenital (present at birth).
+Infantile genetic agranulocytosis is a rare form of inherited agranulocytosis. It’s also called Kostmann syndrome or congenital agranulocytosis. Newborns with this condition have recurring infections, fevers, inflammation and problems with their bones.
+Acquired agranulocytosis
+Several types of prescription medicines cause agranulocytosis. Infections, other health conditions and exposure to chemicals can also lead to severely low neutrophil levels. Causes of acquired agranulocytosis include:
+- Autoimmune diseases, including lupus and rheumatoid arthritis.
+- Bone marrow disease and bone marrow failure disorders like aplastic anemia.
+- Cancers that affect your bone marrow, like leukemia.
+- Chemotherapy treatments for cancer.
+- Exposure to toxins or chemicals, such as lead or mercury.
+- Infections such as malaria, tuberculosis and Rocky Mountain spotted fever.
+- Poor nutrition and vitamin deficiencies, including vitamin B12 and folate.
+- Prescription drugs, including some antibiotics, antipsychotic medications and drugs to treat thyroid problems, among many others.
+What are the risk factors for agranulocytosis?
+It’s slightly more common in women and people assigned female at birth. People of all ages can experience agranulocytosis.
+Agranulocytosis is more common among people who:
+- Are receiving chemotherapy treatments for cancer.
+- Have autoimmune diseases (conditions that cause your immune system to attack part of your own body) such as lupus or rheumatoid arthritis.
+- Take certain prescription drugs, such as the antipsychotic clozapine (Clozaril®), the antibiotic trimethoprim/sulfamethoxazole (Bactrim™) and the thyroid medication methimazole (Tapazole®).
+What are complications of agranulocytosis?
+Agranulocytosis places a person at risk for frequent or chronic (long-term) infections. Agranulocytosis that lasts longer than three to four weeks leads to infection nearly 100% of the time. Without treatment, agranulocytosis can lead to a potentially life-threatening immune system overreaction called sepsis.
+You’re more likely to experience complications with agranulocytosis if you’re over age 65 or if you have other health conditions like heart, kidney or lung disease.
+Diagnosis and Tests
+How is agranulocytosis diagnosed?
+Your healthcare provider will order a blood test called a complete blood count (CBC) and differential to check the level of neutrophils in your blood. Agranulocytosis occurs when the absolute neutrophil count (ANC) is fewer than 100 neutrophils per microliter of blood. Normally, people have at least 1,500 neutrophils per microliter.
+Your provider may also take a sample of your bone marrow (bone marrow biopsy and aspirate) to check how your bone marrow is producing neutrophils. Bone marrow is the tissue inside some bones where blood cells are made. They’ll also ask about your symptoms, medications, recent infections and chemical exposures. If your provider believes you have the inherited form of the disease, you may need genetic testing. This may be a skin biopsy and/or a blood test.
+Management and Treatment
+How is agranulocytosis treated?
+If a prescription medication is causing your symptoms, it’s essential to stop taking it. Talk to your healthcare provider about how to stop safely.
+Agranulocytosis treatment includes:
+- Antibiotics: If you have an infection, your healthcare provider will prescribe antibiotics and other medications to relieve your symptoms.
+- Granulocyte colony-stimulating factor (G-CSF): Your provider may recommend injections of a drug to help your body produce neutrophils faster. Your provider may prescribe filgrastim (Neupogen®), pegfilgrastim (Neulasta®) or lenograstim (Granocyte®).
+- Immunosuppressants: If an autoimmune disorder causes agranulocytosis, your healthcare provider may recommend medicines that suppress (calm) your immune system, such as prednisone.
+- Bone marrow transplant: If other treatments aren’t effective, you may need a bone marrow transplant. During this procedure, you receive bone marrow from a donor so your body can make more neutrophils.
+- Preventing infection: People with agranulocytosis should be careful to avoid infection. Wash your hands often, avoid crowds and wear a face covering in public. Talk to your provider about additional steps you can take to avoid getting sick.
+How soon after treatment will I feel better?
+Recovery time depends on what’s causing your low levels and how severe your condition is.
+If your agranulocytosis is a medication side effect, you’ll need to allow your body time to make more neutrophils after stopping the medicine. It typically takes one to three weeks for the neutrophil count to return to normal once you stop taking medicine that’s causing low levels.
+Prevention
+Can I prevent agranulocytosis?
+You may not be able to prevent agranulocytosis.
+If you’re taking a prescription medication that lowers your neutrophils, talk to your provider. You may need regular blood tests to track your neutrophil levels.
+If you’re receiving chemotherapy for cancer, your healthcare provider may recommend injections of G-CSF to improve your body’s ability to make neutrophils.
+Outlook / Prognosis
+What is the outlook for people with agranulocytosis?
+Agranulocytosis is treatable, but the outlook varies from person to person.
+Receiving treatment or stopping a medication that’s causing low neutrophil levels often resolves agranulocytosis.
+Untreated, agranulocytosis leads to severe infection and can be fatal. The risk of infection increases the longer the neutrophil count remains dangerously low. The risk of a complication like sepsis is higher for adults over 65 and people with other health conditions, such as kidney disease, heart disease or breathing problems.
+Living With
+When should I see my healthcare provider about agranulocytosis?
+Agranulocytosis is life-threatening. It’s essential to get diagnosed and treated immediately.
+If you have signs of infection, see your healthcare provider. Tell your provider if you have frequent infections or infections that last a long time.
+A note from Cleveland Clinic
+Agranulocytosis is serious but treatable. See your healthcare provider right away if you have signs of infection, especially if you have infections that come and go frequently. If you have an autoimmune disorder or take a prescription medication that decreases neutrophils, don’t skip appointments. With regular checkups, your healthcare provider can monitor your neutrophil levels and help prevent infections. You can also take precautions, like frequent handwashing and wearing a mask in public, to protect yourself.
+Resources
+- Curtis BR. Non-chemotherapy drug-induced neutropenia: key points to manage the challenges. Hematology Am Soc Hematol Educ Program. 2017;2017(1):187-193. Accessed 3/23/2023.
+- Merck Manuals, Consumer Version. Neutropenia. Accessed 3/23/2023.
+- Pick AM, Nystrom KK. Non-chemotherapy drug-induced neutropenia and agranulocytosis: could medications be the culprit? J Pharm Pract. 2014;27(5):447-452. Accessed 3/23/2023.
+- Sedhai YR, Lamichhane A, Gupta V. Agranulocytosis. 2022 May 29. In: StatPearls [Internet]. Treasure Island, FL: StatPearls Publishing; 2022 Jan-. Accessed 3/23/2023.

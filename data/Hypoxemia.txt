@@ -1,0 +1,104 @@
+Hypoxemia
+Overview
+What is hypoxemia?
+Hypoxemia is when oxygen levels in the blood are lower than normal. If blood oxygen levels are too low, your body may not work properly. Someone with low blood oxygen is considered hypoxemic.
+Oxygen gets to your blood through your lungs. When you breathe in, oxygen from the air travels through your lungs into small air sacks (alveoli). Blood vessels (capillaries) travel close to the alveoli and pick up the oxygen. Finally, oxygen travels through your blood to your tissues.
+Hypoxemia can happen if you can’t breathe in enough oxygen or if the oxygen you breathe in can’t get to your blood. Air and blood flow are both important to having enough oxygen in your blood. This is why lung disease and heart disease both increase your risk of hypoxemia.
+Depending on the severity and duration, hypoxemia can lead to mild symptoms or lead to death. Mild symptoms include headaches and shortness of breath. In severe cases, hypoxemia can interfere with heart and brain function. It can lead to a lack of oxygen in your body’s organs and tissues (hypoxia).
+Hypoxemia can happen for a short duration leading to “acute” respiratory failure. In situations where it's a long-term problem over months and years, you may hear it referred to as “chronic respiratory failure”.
+Hypoxemia vs. hypoxia: What’s the difference?
+You may hear the words hypoxemia and hypoxia used interchangeably, but they aren’t the same. The names sound similar because they both involve low levels of oxygen, but in different parts of your body.
+Hypoxemia is low oxygen levels in your blood and hypoxia is low oxygen levels in your tissues. Hypoxemia can lead to hypoxia and they often both appear together, but not always. You can be hypoxemic but not hypoxic and vice-versa.
+Who does hypoxemia affect?
+Any condition that reduces the amount of oxygen in your blood or restricts blood flow can cause hypoxemia. People living with heart or lung diseases such as congestive heart failure, COPD or asthma, are at an increased risk for hypoxemia. Some contagious illnesses, like influenza, pneumonia and COVID-19, can also increase your risk of hypoxemia.
+Symptoms and Causes
+What are the symptoms of hypoxemia?
+Hypoxemia symptoms vary depending on the severity and underlying cause. Some hypoxemia symptoms include:
+- Headache.
+- Difficulty breathing or shortness of breath (dyspnea).
+- Rapid heart rate (tachycardia).
+- Coughing.
+- Wheezing.
+- Confusion.
+- Bluish color in skin, fingernails and lips (cyanosis).
+What is the most common cause of hypoxemia?
+Hypoxemia has many causes, but its most common cause is an underlying illness that affects blood flow or breathing (like heart or lung conditions). Certain medications can slow breathing and lead to hypoxemia.
+Sleep apnea and mild lung disease can cause nocturnal hypoxemia — when your blood oxygen levels drop during your sleep.
+Being at high altitudes can also cause hypoxemia, which is why it can be hard to breathe when you’re in the mountains.
+Medical conditions that can lead to hypoxemia include:
+- Acute respiratory distress syndrome (ARDS).
+- Anemia.
+- Asthma.
+- Bronchitis.
+- Chronic obstructive pulmonary disease (COPD).
+- Congenital heart defects.
+- Congestive heart failure.
+- Emphysema.
+- Pneumonia.
+- Pneumothorax (air in the space around your lung or collapsed lung).
+- Pulmonary edema (fluid on your lungs).
+- Pulmonary embolism (blood clot in your lung).
+- Pulmonary fibrosis (lung scarring).
+- Pulmonary hypertension.
+What are the five causes of hypoxemia?
+Heart and lung function issues can lead to five categories of conditions that cause hypoxemia: ventilation-perfusion (V/Q) mismatch, diffusion impairment, hypoventilation, low environmental oxygen and right-to-left shunting.
+Ventilation-perfusion (V/Q) mismatch
+For oxygen to get to your blood, you need both airflow into your lungs (ventilation) and blood flow to your lungs (perfusion) to pick up the oxygen. If one of these isn’t working, you’ll end up with plenty of oxygen in your lungs but too little blood flow to pick it up, or vice-versa. This is called ventilation-perfusion, or V/Q, mismatch. It’s usually caused by a heart or lung condition.
+Diffusion impairment
+Even if you have good airflow and good blood flow, sometimes it’s difficult for the oxygen to pass — or diffuse — from your lungs to your blood vessels (diffusion impairment). Diffusion impairment can be caused by emphysema, scarring of your lungs or diseases that impair the blood flow between your heart and lungs.
+Hypoventilation
+Hypoventilation is when you don’t breathe deeply enough or breathe too slowly. This means not enough oxygen is getting into your lungs. Many lung conditions and some brain diseases can cause hypoventilation.
+Low environmental oxygen
+If there’s not enough oxygen in the air around you to breathe in, your blood can’t get the oxygen it needs to keep your body working. Locations at high altitudes have less oxygen available in the air than those at lower altitudes.
+Right-to-left shunting
+Deoxygenated blood flows into your heart from the right, gets pumped out to your lungs to get oxygen, then comes back in from the left to get pumped out to your body. In some people, deoxygenated blood can get pushed over to the left side of your heart and go out to your tissues without getting oxygen in your lungs first. This is called right-to-left shunting and it’s usually caused by an abnormality in your heart.
+Diagnosis and Tests
+How is hypoxemia diagnosed?
+To diagnose hypoxemia, your healthcare provider will do a physical examination to listen to your heart and lungs. Abnormalities in these organs can be a sign of low blood oxygen. Your doctor may also check to see if your skin, lips or fingernails look bluish.
+Your provider will use tests to check your oxygen levels, which can include:
+- Pulse oximetry: A sensor that slips over your finger measures the amount of oxygen in your blood. Pulse oximetry is painless and noninvasive. Many doctors use it routinely each time you visit.
+- Arterial blood gas test: A needle is used to take a blood sample from your wrist, arm or groin to measure the levels of oxygen in your blood.
+- Six-minute walk test (6MWT): You see your oxygen levels with exertion and how far you can walk on a flat surface in six minutes. This test helps evaluate lung and heart function.
+Management and Treatment
+How is hypoxemia treated?
+Depending on the underlying cause of hypoxemia, medications or other treatments can help raise your blood oxygen level. To help raise oxygen levels, your provider might use “supplemental oxygen” via oxygen tanks or oxygen concentrators. These may be needed continuously or only with exertion depending on the severity of the disease.
+In the case of severe hypoxemia, especially with acute respiratory distress syndrome, healthcare providers may use a machine that breathes for you (ventilator). If hypoxemia doesn’t resolve, a condition known as refractory hypoxemia, additional medications or therapies may be used.
+Treatments, which focus on the underlying cause, may include:
+- Inhalers with bronchodilators or steroids to help people with lung disease like COPD.
+- Medications that help to get rid of excess fluid in your lungs (diuretics).
+- Continuous positive airways pressure mask (CPAP) to treat sleep apnea.
+- Supplemental oxygen may be used to treat an ongoing risk of hypoxemia. Oxygen devices vary, but you can expect to get a machine that delivers extra oxygen through a breathing mask or small tube (cannula). You may receive oxygen at home, with a portable machine while you travel, or in the hospital.
+How do I manage the symptoms of hypoxemia?
+If you are experiencing symptoms like confusion, shortness of breath or rapid heart rate, or if you notice your nails, lips or skin appear bluish, you should seek medical attention immediately. You can also check your oxygen levels with a pulse oximeter at home. Hypoxemia should be treated right away to prevent organ damage in severe cases.
+COPD, sleep apnea and other medical conditions may cause chronic or intermittent hypoxemia with less severe or no symptoms. Talk to your healthcare provider about managing your specific condition to reduce your symptoms and the risk of your oxygen levels dropping too low.
+What are the complications or side effects of hypoxemia?
+If your blood has low levels of oxygen, it can’t deliver enough oxygen to your organs and tissues that need it to keep working (hypoxia). This can damage your heart or brain if it persists over time (for instance, with nocturnal hypoxemia caused by sleep apnea). Acute cases of hypoxemia can be fatal.
+Prevention
+How can I reduce my risk of hypoxemia?
+The best way to reduce your risk of hypoxemia is to manage any underlying conditions that can lower your blood oxygen levels. If you're living with lung or heart conditions, talk to your healthcare provider about your concerns and specific ways to lower your risk.
+Even for those without heart or lung conditions, certain medications and situations — like traveling to a higher altitude — can increase your risk of hypoxemia. Ask your provider about any special precautions you need to take while traveling or taking medication. Allow time to safely adjust to higher altitudes when you travel.
+Outlook / Prognosis
+What is the outlook for people with hypoxemia?
+Depending on the cause, people with hypoxemia may require treatment once or on an ongoing basis. Your healthcare provider will work with you to manage the condition so you can live an active, healthy life.
+Living With
+How can I raise my oxygen level?
+Managing any underlying conditions is the best way to keep your blood oxygen at safe levels and lower your risk of hypoxemia.
+- Don’t ignore new symptoms. Trust yourself if you feel something is off. Contact your healthcare provider or go to the ER.
+- If your healthcare provider prescribes oxygen, use it as directed.
+- Practice pulmonary hygiene. If you have COPD or asthma, know your triggers and make sure you always have a rescue inhaler with you if prescribed. Commit to using an incentive spirometer, performing breathing exercises and following any other recommendations for lung health from your healthcare provider.
+- Quit smoking. If you smoke, quitting can help increase lung function to bring more oxygen into your lungs. Quitting also helps prevent further damage to your lungs.
+- Take any medication as prescribed by your healthcare provider.
+- Make a plan for high altitude travel. Even those without heart or lung conditions can have trouble breathing at high altitudes. Understand how it might affect you and make a plan for how to adjust to the change. Know what you will do ahead of time if you should need medical attention. Give yourself plenty of time to adjust if necessary and make sure to bring any extra equipment or medication you might need.
+When should I go to ER?
+Hypoxemia can be a life-threatening condition. Go to the ER if:
+- You have any symptoms of hypoxemia or if others notice a sudden change in your behavior or awareness (restlessness, confusion change in consciousness).
+- You have an ongoing medical condition and your usual symptoms worsen suddenly or you experience new symptoms that you think might be hypoxemia.
+What questions should I ask my healthcare provider about hypoxemia?
+If you or a loved one is diagnosed with hypoxemia, here are some questions you can ask your healthcare provider:
+- Is hypoxemia related to an underlying medical condition?
+- How can I manage my condition to reduce my risk of hypoxemia?
+- Did this cause any organ damage or other complications?
+- Are there any changes in lifestyle that could reduce my risk of hypoxemia?
+- Do changes in travel plans or medication increase my risk of hypoxemia?
+A note from Cleveland Clinic
+Hypoxemia can be a life-threatening condition, but it’s treatable with prompt medical attention. It can also happen intermittently without obvious symptoms — for instance overnight, if you have sleep apnea. This can cause damage to your heart over time, so it’s important to know your risk and what preventative measures you can take.

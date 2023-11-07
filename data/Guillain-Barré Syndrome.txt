@@ -1,0 +1,86 @@
+Guillain-Barré Syndrome
+Overview
+What is Guillain-Barré syndrome?
+Guillain-Barré syndrome (pronounced “ghee-AHN buh-RAY”) is a rare autoimmune condition in which your immune system attacks your peripheral nerves. It leads to symptoms like numbness, tingling and muscle weakness that can progress to paralysis. But with treatment, most people fully recover from the condition.
+Who typically gets Guillain Barré syndrome?
+Guillain-Barré syndrome (GBS) can occur at any age, but it most commonly affects people between 30 and 50.
+How common is Guillain-Barré syndrome?
+Guillain-Barré syndrome is rare. About 100,000 people worldwide develop GBS every year. To put that into perspective, the world population is about 7.8 billion. That means healthcare providers diagnose GBS in about 1 in 78,000 people each year.
+Symptoms and Causes
+What are the symptoms of Guillain-Barré syndrome?
+Guillain-Barré syndrome affects your peripheral nerves, which control muscle movement, pain signals, and temperature and touch sensations. Thus, GBS causes issues related to these functions.
+The first symptoms of Guillain-Barré syndrome are muscle weakness and/or tingling sensations (paresthesia). These symptoms typically come on suddenly. They usually affect both sides of your body and start in your feet and legs and spread up to your arms and face. Muscle weakness in your legs may make it difficult to walk or climb stairs.
+The severity of GBS can range from very mild to severe. Depending on the severity of the condition, other symptoms may include:
+- Deep muscular pain in your back and/or legs.
+- Paralysis of your legs, arms and/or facial muscles. In severe cases, you may experience near-total paralysis.
+- Chest muscle weakness, which can make it difficult to breathe. This affects about 1 in 3 people with GBS.
+- Difficulty speaking and swallowing (dysphagia).
+- Difficulty moving your eyes and vision issues.
+The symptoms of GBS can progress over hours, days or a few weeks. Most people reach the most severe stage of weakness within the first two weeks after symptoms appear. By the third week, about 90% of people are at their weakest.
+If you experience sudden muscle weakness that gets worse over hours or days, see a healthcare provider right away. It’s important to start treatment for GBS as soon as possible.
+What are the complications of Guillain-Barré syndrome?
+If GBS affects your autonomic nerves, it can lead to life-threatening complications. Your autonomic nervous system controls the automatic functions of your body that you need to survive, like your heart rate, blood pressure and digestion. When you have issues with this system, it’s called dysautonomia.
+Complications due to GBS-related dysautonomia can include:
+- Cardiac arrhythmias.
+- Unstable blood pressure.
+- Digestion issues (gastrointestinal stasis).
+- Bladder control issues, like urinary retention.
+What causes Guillain-Barré syndrome?
+Guillain-Barré syndrome is a post-infectious, immune-mediated neuropathy. This means:
+- Post-infectious: The condition typically develops after you’ve had some type of infection (“post-” means “after”). In up to 70% of people who’ve had GBS, their symptoms started within one to six weeks of an illness. Researchers don’t know why GBS affects some people after they get sick and not others.
+- Immune-mediated: An immune-mediated condition results from an abnormal immune system response. For some people, after they get sick, their immune system responds abnormally and attacks and damages their peripheral nerves, leading to GBS. This is another way of saying it’s an autoimmune condition. But unlike most autoimmune conditions, GBS isn’t chronic (lifelong).
+- Neuropathy: “Neuropathy” is an umbrella term for conditions that damage your nerves. In the case of GBS, it’s peripheral nerves. Your immune system attacks your nerves rapidly over days and causes loss of myelin — the “insulation” of your nerves.
+Researchers have identified some infections and other immune system-related factors that can trigger Guillain-Barré syndrome, including:
+- Diarrhea or a respiratory infection: About 2 in 3 people with GBS had diarrhea or a respiratory infection weeks before developing GBS symptoms. Infection with the bacteria Campylobacter jejuni, which causes diarrhea, is one of the most common triggers of GBS.
+- Viral infections: Some people with GBS have had the flu or infections with cytomegalovirus, Epstein-Barr virus, Zika virus or other viruses.
+- Vaccines: In very rare cases, people have developed GBS in the days or weeks after getting certain vaccines. It’s important to know that the benefits of vaccination far outweigh the possible risks. Studies show that you have a greater chance of getting GBS after getting the flu than you do after getting vaccinated against the flu.
+- Surgery: Very rarely, GBS can develop after any surgery.
+Diagnosis and Tests
+How is Guillain-Barré syndrome diagnosed?
+Healthcare providers typically diagnose Guillain-Barré syndrome based on your symptoms and medical history. They’ll ask how and when your symptoms started and if you’ve been sick recently. They’ll also do physical and neurological exams to look for signs of muscle weakness and weak or absent deep-tendon reflexes (hyporeflexia or areflexia).
+However, many other neurological conditions share the same symptoms as GBS. So, your provider will likely do other tests to rule out other possible conditions. These tests may include:
+- Electromyography (EMG) and nerve conduction tests: These tests evaluate the health and function of your skeletal muscles and the nerves that control them.
+- Spinal tap (lumbar puncture): For this procedure, your healthcare provider inserts a needle into your lower back to get a sample of cerebrospinal fluid (CSF). They send the sample to a lab where a pathologist examines the substances in it. In about 80% of GBS cases, there’s a normal amount of white blood cells and an elevated CSF protein level. Other abnormalities in CSF may point to other conditions.
+- Imaging test: Your provider may recommend an MRI (magnetic resonance imaging) of your spine.
+Management and Treatment
+How is Guillain-Barré syndrome treated?
+If you have Guillain-Barré syndrome, you’ll likely need to receive medical care in a hospital’s intensive care unit (ICU). This is so your healthcare team can monitor you for any complications of GBS, like difficulty breathing or blood pressure fluctuations.
+There’s no known cure for Guillain-Barré syndrome. But some therapies can lessen the severity of the condition and shorten your recovery time. The main treatment for GBS includes one of two options:
+- Plasma exchange (plasmapheresis): In this treatment, a machine separates the plasma from your blood, treats it, and then returns the plasma and blood to your body. Plasma exchange filters out the antibodies in your plasma that are attacking your nerves.
+- Intravenous immunoglobulin therapy (IVIG): This treatment involves intravenous (IV) injections of immunoglobulins, which are proteins that your immune system naturally makes to attack invading organisms. The immunoglobulins come from a collection of thousands of healthy donors. IVIG can lessen your immune system’s attack on your nerves.
+Both of these treatments usually shorten your recovery time if you start one of them within two weeks of developing GBS symptoms.
+Treatment for complications
+Complications of GBS can develop if the condition affects your autonomic nerves, causing near-total paralysis. Your healthcare team will carefully monitor your breathing, heart rate and blood pressure. They’ll act quickly if any complications develop. Examples of treatments for complications include:
+- Respiratory care: If GBS affects the muscles you need for breathing, you may need mechanical ventilation. Respiratory failure affects up to 30% of people with GBS.
+- Blot clot prevention: Your provider may give you heparin (an anticoagulant) to help prevent deep vein thrombosis. This can happen if you have near-total paralysis and are in a medical bed for an extended period of time.
+- IV fluids and tube feeding: If it’s difficult to swallow, you may need IV fluids to prevent dehydration and a nasogastric tube to prevent malnutrition. These can also help prevent aspiration pneumonia.
+Rehabilitation
+As you begin to improve, your healthcare team may transfer you to a rehabilitation setting. Here, you’ll work with physical therapists and other therapists to regain strength and resume activities of daily living. Types of therapy include:
+- Physical therapy: This helps you improve how your body moves. A physical therapist will help you manage symptoms like pain, stiffness and discomfort. They’ll also help you with exercises to regain muscle strength.
+- Occupational therapy: This type of therapy helps you improve your ability to do daily tasks. An occupational therapist will help you learn how to stand, sit, move or use different tools to participate in your activities safely.
+- Speech therapy: If GBS affects the muscles in your mouth or throat, a speech-language pathologist can help you regain skills of swallowing and speaking.
+- Mobility aids: Devices such as canes, braces, walkers and wheelchairs can improve your mobility and help prevent falls. They can also help reduce fatigue.
+Prevention
+Can I prevent Guillain-Barré syndrome?
+In most cases, Guillain-Barré syndrome isn’t preventable. Researchers don’t know why some people develop GBS after they get sick and others don’t. But one way you can try to lower your risk of GBS is to stay as healthy as possible. These steps can help:
+- Wash your hands often.
+- Keep away from those who have the stomach flu or other infections.
+- Eat healthily and exercise regularly to help boost your immune system.
+- Clean and disinfect common surfaces such as tables and countertops, toys, door handles, phones and bathroom fixtures.
+- Stay up-to-date with all vaccines.
+Outlook / Prognosis
+What is the prognosis for someone with Guillain-Barré syndrome?
+The prognosis (outlook) for Guillain-Barré syndrome can vary. Most people with GBS improve considerably over a period of months. But about 30% of adults — and even more children — have some remaining muscle weakness three years after diagnosis.
+Does Guillain-Barré go away?
+In the majority of cases, the symptoms of Guillain-Barré syndrome improve significantly with time and treatment. Most people start to recover two to three weeks after symptoms first start. The length of total recovery can vary from months to a year or more depending on the severity.
+Guillain-Barré syndrome life expectancy
+People who recover from Guillain-Barrésyndrome have a normal life expectancy. Less than 2% of people die from GBS in the acute phase — when symptoms are at their worst. Common causes of death related to GBS include:
+- Pneumonia.
+- Sepsis.
+- Acute respiratory distress syndrome (ARDS).
+- Blood clots in your lungs (pulmonary embolism).
+- Cardiac arrest.
+Living With
+How do I take care of myself if I have Guillain-Barré syndrome?
+The recovery process for Guillain-Barré syndrome can be slow for some. Don’t hesitate to lean on loved ones for support — both physically and emotionally. Your healthcare team will also be by your side.
+Suddenly and unexpectedly developing weakness or paralysis can be overwhelming. Consider talking to a mental health professional, like a psychologist, if GBS is causing distress. A support group may also help you relate to others who are going through similar experiences and feelings.

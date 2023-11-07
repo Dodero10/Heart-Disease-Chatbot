@@ -1,0 +1,117 @@
+Myopathy
+Overview
+What is myopathy?
+Myopathy refers to diseases that affect skeletal muscles (muscles that connect to your bones). These diseases attack muscle fibers, making your muscles weak.
+Are there different types of myopathies?
+Myopathy can be categorized by its cause. Basically, myopathies are separated into two categories: inherited and acquired.
+Inherited myopathies
+Inherited myopathies are those that you’re born with, often from inheriting an abnormal gene mutation from a parent that causes the disease. Conditions that are inherited myopathies include:
+Congenital myopathies
+Symptoms of congenital myopathies usually start at birth or in early childhood, but may not appear until the teen years or even later in adulthood. Congenital myopathies are somewhat unique compared with other inherited myopathies, as weakness typically affects all muscles (not just proximal [closest to the center of your body] ones) and is often not progressive.
+Mitochondrial myopathies
+Mitochondrial myopathy is caused by a defect in the mitochondria, which are the energy-producing part of cells. These conditions have muscle weakness, but also a variety of other symptoms, as mitochondrial disorders typically affect other organ systems like your heart, brain and gastrointestinal tract. Diseases in this group can be caused by gene mutations with or without a family history.
+Metabolic myopathies
+Defects in genes that code for enzymes that are needed for normal muscle function and movement cause metabolic myopathies. They often show as exercise intolerance, exertional muscle pains in your shoulders and thighs, or non-traumatic rhabdomyolysis (muscle fiber condition). These can also happen with episodes of weakness that come and go with other times of normal strength.
+Muscular dystrophies
+Muscular dystrophies are characterized by progressive degeneration of muscle tissue due to abnormal or insufficient structural support proteins being present. They all involve your arms and/or legs to varying degrees, and some involve the muscles of your eyes or face.
+Acquired myopathies
+Acquired myopathies develop later in life and can be due to other medical disorders, infections, exposure to certain medications or electrolyte imbalances, among other possibilities. Conditions that are acquired myopathies include:
+Autoimmune/inflammatory myopathy
+Autoimmune/inflammatory myopathies are diseases in which your body attacks itself, causing problems with muscle function.
+Toxic myopathy
+Toxic myopathy happens when a toxin or medication interferes with muscle structure or function.
+- Toxins: Alcohol and toluene (a vapor in spray paint and other substances that can be inhaled by people who abuse substances).
+- Medications: Checkpoint inhibitor immunotherapy (pembrolizumab, nivolumab), corticosteroids (prednisone), cholesterol-lowering drugs (statins), amiodarone, colchicine, chloroquine, antivirals and protease inhibitors used in the treatment of HIV infection, omeprazole.
+Endocrine myopathies
+Endocrine myopathies happen when hormones interfere with muscle function.
+- Thyroid: Low thyroid (hypothyroidism) is more common, but increased thyroid (hyperthyroidism) can also be problematic.
+- Parathyroid: Hyperparathyroidism resulting in increased calcium levels.
+- Adrenal: Addison’s disease and Cushing syndrome.
+Infectious myopathies
+Infectious myopathies occur as the result of infections that affect muscle function. These include:
+- Viral infections like HIV, influenza, Epstein-Barr.
+- Bacterial pyomyositis.
+- Lyme disease.
+- Parasitic infections like trichinosis, toxoplasmosis, cysticercosis.
+- Fungal infections like Candida, Coccidiomycosis.
+Electrolyte imbalance
+High or low levels of the following electrolytes can interfere with muscle function:
+- Potassium: Hypokalemia (low), hyperkalemia (high).
+- Magnesium: Hypermagnesemia (high).
+Critical illness myopathy
+Critical illness myopathy is a disease of your limbs and the muscles that help you breathe (respiratory muscles). It develops while you’re being cared for in an intensive care unit, and may be caused in part by being in bed for a long period of time (prolonged immobility), or by the medications used during your care, such as muscle relaxants, corticosteroids or sedatives.
+Symptoms and Causes
+Who gets myopathy and how common is it?
+Anyone can get a myopathy.
+Factors that might increase your risk include:
+- Having a family history of myopathy. This increases the likelihood you might inherit an abnormal gene that causes muscle disease.
+- Being designated male at birth (DMAB). Some myopathies are carried on the X chromosome, and actually affect more men than women. Other inherited forms of myopathy carried on other chromosomes affect all sexes equally.
+- Having an autoimmune, metabolic or endocrine disorder.
+- Being exposed to certain medications or toxins (see toxic myopathy below for a list of some of these medications).
+How common myopathies are depends on their type. In acquired myopathies, for example:
+- Inflammatory and endocrine myopathies are more common than other types and are more common in people designated female at birth (DFAB) than those DMAB.
+- The number of people diagnosed with inflammatory myopathy is between 9 and 32 per 100,000.
+- Anywhere from 25% to 79% of adults with hypothyroidism will develop muscle symptoms; though, overt myopathy might be as low as 10%.
+The most common inherited myopathies are muscular dystrophies and these are typically more common in men and people DMAB.
+- Duchenne’s and Becker’s muscular dystrophies are the most common, with 7 per 100,000 people worldwide.
+- Mitochondrial disorders affect 1 in 5,000 people, and most affect skeletal muscle. Other forms of inherited myopathies are rare.
+What are the symptoms of myopathy?
+Many myopathies share common symptoms. These common symptoms include:
+- Muscle weakness, most commonly of your upper arms and shoulders and thighs (more common and more severe).
+- Muscle cramps, stiffness and spasms.
+- Fatigue with exertion.
+- Lack of energy.
+What does myopathy feel like?
+Most myopathies share the common symptom of symmetric muscle weakness (similar on both sides of your body), especially in proximal muscles. Proximal muscles are those closest to the center of your body, such as the muscles in your shoulders, upper arms, hips and thighs. This can lead to the following:
+- Difficulty performing activities of daily living such as bathing, dressing or combing your hair.
+- Trouble getting out of a chair, climbing stairs or performing tasks that require reaching over your head, like changing a ceiling light bulb.
+- Muscle cramps or spasms.
+- Muscle fatigue with activity.
+- Shortness of breath with exertion.
+The muscles in your hands or feet aren’t usually affected.
+Other symptoms vary depending on the type of myopathy.
+- Muscle weakness can be either non-progressive, or very slowly progressive.
+- In some disorders, muscle weakness is intermittent with other normal periods of strength.
+- Slow development of skills requiring the use of muscles in children (such as walking, hopping, climbing stairs or grasping a spoon or pencil).
+- Children who can’t keep up with their peers during sports or games like tag.
+- Trouble with the muscles that control your swallowing and speech, which can lead to choking and slurring of words.
+Diagnosis and Tests
+What do I do if I think I have myopathy?
+You should first contact your primary care doctor to alert them to the symptoms you’re concerned about. Depending on the nature of your symptoms, you might be referred to a specialist such as a neurologist or a rheumatologist.
+How is myopathy diagnosed?
+Your healthcare provider will ask about your medical and family history, prescription drug history and your symptoms. Your healthcare provider will conduct a physical exam, which will include an exam of your skin, reflexes, muscle strength, balance, and sensation.
+Tests your healthcare provider may order include:
+- Blood tests: Muscle enzymes such as creatine kinase (CK) or aldolase may be elevated in certain myopathies as a result of the breakdown of muscle fibers.Electrolyte levels such as sodium, magnesium, potassium, calcium and phosphorus.Autoimmune disease testing such as antinuclear antibodies (ANA), rheumatoid factor, sedimentation rate and c-reactive protein.Endocrine testing such as thyroid hormone.
+- Muscle enzymes such as creatine kinase (CK) or aldolase may be elevated in certain myopathies as a result of the breakdown of muscle fibers.
+- Electrolyte levels such as sodium, magnesium, potassium, calcium and phosphorus.
+- Autoimmune disease testing such as antinuclear antibodies (ANA), rheumatoid factor, sedimentation rate and c-reactive protein.
+- Endocrine testing such as thyroid hormone.
+- Electromyography (EMG and nerve conduction studies), including testing the electrical conduction of your nerves and needle examination of your muscles to assess the type and degree of muscle damage.
+- Magnetic resonance imaging (MRI) of your muscles.
+- Genetic tests.
+- Muscle biopsy, in which your healthcare provider surgically removes a small piece of muscle tissue for testing.
+Management and Treatment
+How is myopathy treated?
+After determining your specific type of myopathy, your healthcare provider will develop a treatment plan specific to your symptoms.
+Most treatments include physical therapy, occupational therapy and some form of exercise. Other treatments are more specific and based on the type of myopathy. In general, most acquired myopathies can be well controlled and treated to minimize weakness and symptoms. Some inherited myopathies have specific treatments that can stop the progression of the disease. At the present time, most inherited myopathies don’t have specific treatments, but people can benefit from physical therapy and certain types of exercise.
+Inflammatory and autoimmune-related myopathies
+The goal of treatment is to decrease inflammation and your body’s autoimmune response. These myopathies are often treated with:
+- Immunomodulatory/immunosuppressant drugs such as methotrexate, cyclosporine, tacrolimus, azathioprine, mycophenolate, rituximab and intravenous (IVIg) or subcutaneous (SubQIg) immunoglobulin.
+- Corticosteroids such as prednisone or methylprednisolone.
+Inherited and genetic myopathies
+Most inherited and genetic myopathies don’t have a specific treatment or cure. Management is largely based on symptom control and different forms of therapy. There are multiple ongoing clinical trials in various areas of research looking at treatments and gene therapy.
+Duchenne muscular dystrophy and Pompe disease are disorders that can be treated with specific medication.
+Other acquired myopathies
+Healthcare providers manage acquired myopathies including endocrine, toxic and infectious myopathies by treating the underlying disease causing the myopathy. Toxin-related myopathies are treated by stopping the offending agent (alcohol or toluene, for example) or medication (statins, for example). Muscle symptoms that result from infections caused by bacteria, viruses or other infectious organisms are improved by treating the infection directly with antibiotics.
+Living With
+How do I take care of myself?
+Although myopathy is a long-term (chronic) disease whether inherited or acquired, you can take steps to improve your health to help control your illness. These might include:
+- Eat a healthy, well-balanced diet full of a variety of fruits and vegetables.
+- Stay active with mild cardiovascular exercise. It may be recommended to avoid certain types of weight lifting depending on your myopathy type, and you should discuss this with your doctor prior to starting any exercise routine.
+- Maintain a healthy weight.
+- If you have a dermatomyositis rash, protect your skin from sunlight, which can worsen the rash. Wear full-cover clothing and a hat when able. Be sure to apply sunscreen with a sun-protective factor (SPF) of at least 30 before going outdoors.
+- If you have trouble swallowing, eat soft or semisolid foods. Consider pureeing your food. If you’re bedbound, eat sitting up in bed.
+- Take all medications as prescribed.
+- Participate in your therapies if recommended — physical, occupational or speech.
+A note from Cleveland Clinic
+Since there are many types of myopathies, your healthcare provider has to put together a treatment approach specific to your myopathy and its symptoms. So, it’s important to closely follow the instructions of your healthcare provider. Also, be aware of your body. Make a note of any changes in your disease and the severity of your symptoms. See your healthcare provider at regularly scheduled intervals (or sooner if you notice changes) so adjustments in your treatment plan can be made early when symptoms arise.

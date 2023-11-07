@@ -1,0 +1,217 @@
+Pneumonia
+Overview
+What is pneumonia?
+Pneumonia is an infection in your lungs caused by bacteria, viruses or fungi. Pneumonia causes your lung tissue to swell (inflammation) and can cause fluid or pus in your lungs. Bacterial pneumonia is usually more severe than viral pneumonia, which often resolves on its own.
+Pneumonia can affect one or both lungs. Pneumonia in both of your lungs is called bilateral or double pneumonia.
+What’s the difference between viral and bacterial pneumonia?
+While all pneumonia is inflammation caused by an infection in your lungs, you may have different symptoms depending on whether the root cause is a virus, bacteria or fungi.
+Bacterial pneumonia tends to be more common and more severe than viral pneumonia. It’s more likely to require a hospital stay. Providers treat bacterial pneumonia with antibiotics. Viral pneumonia causes flu-like symptoms and is more likely to resolve on its own. You usually don’t need specific treatment for viral pneumonia.
+What are the types of pneumonia?
+We categorize pneumonia by which pathogen (virus, bacteria or fungi) caused it and how you got it — community-acquired, hospital-acquired or ventilator-associated pneumonia.
+Community-acquired pneumonia (CAP)
+When you get pneumonia outside of a healthcare facility, it’s called community-acquired pneumonia. Causes include:
+- Bacteria: Infection with Streptococcus pneumoniae bacteria, also called pneumococcal disease, is the most common cause of CAP. Pneumococcal disease can also cause ear infections, sinus infections and meningitis. Mycoplasma pneumoniae bacteria causes atypical pneumonia, which usually has milder symptoms. Other bacteria that cause CAP include Haemophilus influenza, Chlamydia pneumoniae and Legionella (Legionnaires’ disease).
+- Viruses: Viruses that cause the common cold, the flu (influenza), COVID-19 and respiratory syncytial virus (RSV) can sometimes lead to pneumonia.
+- Fungi (molds): Fungi, like Cryptococcus, Pneumocystis jirovecii and Coccidioides, are uncommon causes of pneumonia. People with compromised immune systems are most at risk of getting pneumonia from a fungus.
+- Protozoa: Rarely, protozoa like Toxoplasma cause pneumonia.
+Hospital-acquired pneumonia (HAP)
+You can get hospital-acquired pneumonia (HAP) while in a hospital or healthcare facility for another illness or procedure. HAP is usually more serious than community-acquired pneumonia because it’s often caused by antibiotic-resistant bacteria, like methicillin-resistant Staphylococcus aureus (MRSA). This means HAP can make you sicker and be harder to treat.
+Healthcare-associated pneumonia (HCAP)
+You can get HCAP while in a long-term care facility (such as a nursing home) or outpatient, extended-stay clinics. Like hospital-acquired pneumonia, it’s usually caused by antibiotic-resistant bacteria.
+Ventilator-associated pneumonia (VAP)
+If you need to be on a respirator or breathing machine to help you breathe in the hospital (usually in the ICU), you’re at risk for ventilator-associated pneumonia (VAP). The same types of bacteria as community-acquired pneumonia, as well as the drug-resistant kinds that cause hospital-acquired pneumonia, cause VAP.
+Aspiration pneumonia
+Aspiration is when solid food, liquids, spit or vomit go down your trachea (windpipe) and into your lungs. If you can’t cough these up, your lungs can get infected.
+How can I tell if I have pneumonia versus the common cold or the flu?
+It can be difficult to tell the difference between the symptoms of a cold, the flu and pneumonia, and only a healthcare provider can diagnose you. As pneumonia can be life-threatening, it’s important to seek medical attention for serious symptoms that could be signs of pneumonia, such as:
+- Congestion or chest pain.
+- Difficulty breathing.
+- A fever of 102 degrees Fahrenheit (38.88 degrees Celsius) or higher.
+- Coughing up yellow, green or bloody mucus or spit.
+Who is most at risk of getting pneumonia?
+You’re at an increased risk of pneumonia if you:
+- Are over the age of 65 and or under the age of 2.
+- Are living with a lung or heart condition. Examples include cystic fibrosis, asthma, chronic obstructive pulmonary disease, emphysema, pulmonary fibrosis or sarcoidosis.
+- Are living with a neurological condition that makes swallowing difficult. Conditions like dementia, Parkinson’s disease and stroke increase your risk of aspiration pneumonia.
+- Are in the hospital or at a long-term care facility.
+- Smoke.
+- Are pregnant.
+- Have a weakened immune system. You might have a weakened immune system if you’re on chemotherapy, are an organ transplant recipient, are living with HIV/AIDS or are taking medications that suppress your immune system.
+How common is pneumonia?
+Anyone can get pneumonia. It’s a common illness, with millions of people diagnosed each year in the United States. About 55,000 people die each year of pneumonia in the U.S. It’s the most common cause of death in developing countries.
+Symptoms and Causes
+What are the signs and symptoms of pneumonia?
+Symptoms of pneumonia depend on the cause. Symptoms can range from mild to severe. Babies, young children and older adults may have different symptoms.
+Symptoms of bacterial pneumonia
+Symptoms of bacterial pneumonia can develop gradually or suddenly. Symptoms include:
+- High fever (up to 105 F or 40.55 C).
+- Cough with yellow, green or bloody mucus.
+- Tiredness (fatigue).
+- Rapid breathing.
+- Shortness of breath.
+- Rapid heart rate.
+- Sweating or chills.
+- Chest pain and/or abdominal pain, especially with coughing or deep breathing.
+- Loss of appetite.
+- Bluish skin, lips or nails (cyanosis).
+- Confusion or altered mental state.
+Symptoms of viral pneumonia
+Symptoms of viral pneumonia usually develop over several days. You might have symptoms similar to bacterial pneumonia or you might additionally have:
+- Dry cough.
+- Headache.
+- Muscle pain.
+- Extreme tiredness or weakness.
+Symptoms of pneumonia in young children
+Babies and newborns may not show any symptoms of pneumonia or their symptoms may be different from adults, including:
+- Fever, chills, general discomfort, sweating/flushed skin.
+- Cough.
+- Difficulty breathing or rapid breathing (tachypnea).
+- Loss of appetite.
+- Vomiting.
+- Lack of energy.
+- Restlessness or fussiness.
+Signs you can look for in babies and young children include:
+- Grunting sound with breathing or noisy breathing.
+- A decreased amount of pee or diapers that are less wet.
+- Pale skin.
+- Limpness.
+- Crying more than usual.
+- Difficulty feeding.
+Symptoms of pneumonia in adults over 65
+Adults over 65 or those with weakened immune systems may have mild or less noticeable symptoms of pneumonia (like cough and shortness of breath). Symptoms of ongoing health conditions may worsen. Older adults may experience:
+- A sudden change in mental state.
+- Low appetite.
+- Fatigue.
+What causes pneumonia?
+Pneumonia can develop when your immune system attacks an infection in the small sacs of your lung (alveoli). This causes your lungs to swell and leak fluids.
+Many bacteria, viruses and fungi can cause the infections that lead to pneumonia. Bacteria are the most common cause in adults and viruses are the most common cause in school-aged children. Common illnesses that can lead to pneumonia include:
+- Common cold (rhinovirus).
+- COVID-19 (SARS-COV-2).
+- The flu (influenza virus).
+- Human metapneumovirus (HMPV).
+- Human parainfluenza virus (HPIV).
+- Legionnaires’ disease.
+- Mycoplasma pneumonia bacteria.
+- Pneumococcal disease.
+- Pneumocystis pneumonia.
+- Respiratory syncytial virus (RSV).
+Is pneumonia contagious?
+Pneumonia itself isn’t actually contagious, but the bacteria and viruses that cause it are. For instance, the flu is contagious and can lead to pneumonia, but most people who get the flu won’t get pneumonia.
+The bacteria that most commonly causes pneumonia, Streptococcus pneumoniae, can be spread from person to person by touching infected surfaces or through coughing and sneezing.
+Pneumonia caused by fungi isn’t contagious. Fungal infections aren’t spread from person to person like viruses and bacteria.
+Diagnosis and Tests
+How is pneumonia diagnosed?
+To diagnose pneumonia, a healthcare provider will ask about your health history and conduct a physical exam. They’ll listen to your lungs with a stethoscope and may perform or order additional tests. These include imaging (like chest X-rays), pulse oximetry (checking oxygen levels in your blood), blood tests or sputum (spit) tests.
+Even if your healthcare provider confirms that you have pneumonia, sometimes, they can’t find the exact cause.
+What tests will be done to diagnose pneumonia?
+Your provider may perform tests that look at your lungs for signs of infection, measure how well your lungs are working and examine blood or other body fluids to try to determine the cause of your pneumonia. These include:
+- Imaging: Your provider can use chest X-ray or CT scan to take pictures of your lungs to look for signs of infection.
+- Blood tests: Your provider can use a blood test to help determine what kind of infection is causing your pneumonia.
+- Sputum test: You’re asked to cough and then spit into a container to collect a sample for a lab to examine. The lab will look for signs of an infection and try to determine what’s causing it.
+- Pulse oximetry: A sensor measures the amount of oxygen in your blood to give your provider an idea of how well your lungs are working.
+- Pleural fluid culture: Your provider uses a thin needle to take a sample of fluid from around your lungs. The sample is sent to a lab to help determine what’s causing the infection.
+- Arterial blood gas test: Your provider takes a blood sample from your wrist, arm or groin to measure oxygen levels in your blood to know how well your lungs are working.
+- Bronchoscopy: In some cases, your provider may use a thin, lighted tube called a bronchoscope to look at the inside of your lungs. They may also take tissue or fluid samples to be tested in a lab.
+Management and Treatment
+How is pneumonia treated?
+Treatment for pneumonia depends on the cause — bacterial, viral or fungal — and how serious your case is. In many cases, the cause can’t be determined and treatment is focused on managing symptoms and making sure your condition doesn’t get worse.
+Some treatments may include:
+- Antibiotics: Antibiotics treat bacterial pneumonia. They can’t treat a virus but a provider may prescribe them if you have a bacterial infection at the same time as a virus.
+- Antifungal medications: Antifungals can treat pneumonia caused by a fungal infection.
+- Antiviral medications: Viral pneumonia usually isn’t treated with medication and can go away on its own. A provider may prescribe antivirals such as oseltamivir (Tamiflu®), zanamivir (Relenza®) or peramivir (Rapivab®) to reduce how long you’re sick and how sick you get from a virus.
+- Oxygen therapy: If you’re not getting enough oxygen, a provider may give you extra oxygen through a tube in your nose or a mask on your face.
+- IV fluids: Fluids delivered directly to your vein (IV) treat or prevent dehydration.
+- Draining of fluids: If you have a lot of fluid between your lungs and chest wall (pleural effusion), a provider may drain it. This is done with a catheter or surgery.
+Can pneumonia go away on its own?
+Viral pneumonia often goes away on its own, but you should always follow your healthcare provider’s recommendations to treat symptoms and reduce your risk of serious complications.
+How do I manage the symptoms of pneumonia?
+Over-the-counter medications and other at-home treatments can help you feel better and manage the symptoms of pneumonia, including:
+- Pain relievers and fever reducers: Your provider may recommend medicines like ibuprofen (Advil®) and acetaminophen (Tylenol®) to help with body aches and fever.
+- Cough suppressants: Check with your healthcare provider before taking cough suppressants for pneumonia. Coughing is important to help clear your lungs.
+- Breathing treatments and exercises: Your provider may prescribe these treatments to help loosen mucus and help you to breathe.
+- Using a humidifier: Your provider may recommend keeping a small humidifier running by your bed or taking a steamy shower or bath to make it easier to breathe.
+- Drinking plenty of fluids.
+How soon after treatment for pneumonia will I begin to feel better?
+How soon you’ll feel better depends on:
+- Your age.
+- The cause of your pneumonia.
+- The severity of your pneumonia.
+- If you have other health conditions or complications.
+If you’re otherwise healthy, most symptoms of bacterial pneumonia usually begin to improve within 24 to 48 hours after starting treatment. You might start to feel better after a few days of treatment for viral pneumonia. Some symptoms, like cough and fatigue, may linger for several weeks.
+How long am I contagious if I have pneumonia?
+If you have bacterial pneumonia, you’re no longer considered contagious when your fever is gone and you’ve been on antibiotics for at least two days. If you have viral pneumonia, you’re still considered contagious until you feel better and have been free of fever for several days.
+Prevention
+How can I prevent pneumonia?
+The best way to prevent pneumonia is to get vaccinated against bacteria and viruses that commonly cause it. There are also everyday precautions you can take to help reduce your risk of pneumonia.
+Vaccines for pneumonia
+There are two types of vaccines (shots) that prevent pneumonia caused by pneumococcal bacteria. Similar to a flu shot, these vaccines won’t protect against all types of pneumonia, but if you do get sick, it’s less likely to be severe.
+- Pneumococcal vaccines: Pneumovax23® and Prevnar13® protect against pneumonia bacteria. They’re each recommended for certain age groups or those with increased risk for pneumonia. Ask your healthcare provider which vaccine would be appropriate for you or your loved ones.
+- Vaccinations against viruses: As certain viruses can lead to pneumonia, getting vaccinated against COVID-19 and the flu can help reduce your risk of getting pneumonia.
+- Childhood vaccinations: If you have children, ask their healthcare provider about other vaccines they should get. Several childhood vaccines help prevent infections caused by the bacteria and viruses that can lead to pneumonia.
+Other ways to reduce your risk of pneumonia
+In addition to getting vaccinated, you can reduce your risk of getting and spreading pneumonia with some healthy habits:
+- Quit smoking and avoid secondhand smoke. Smoking damages your lungs and makes you more likely to get an infection.
+- Wash your hands with soap and water before eating, before handling food and after using the restroom. If soap isn’t available, use an alcohol-based hand sanitizer.
+- Avoid close contact and sharing items with other people if either of you has an infectious disease such as the flu, a cold or COVID-19.
+- If you have to stay in a hospital or other healthcare facility, don’t be afraid to ask your providers about how to reduce your risk of getting an infection during your stay.
+- Eat a healthy diet, exercise and get enough rest.
+- Get treated for any other infections or health conditions you may have. These conditions could weaken your immune system, which could increase your chance of pneumonia.
+- Avoid excessive alcohol consumption.
+Outlook / Prognosis
+What can I expect if I have pneumonia?
+If you’re otherwise healthy, you can recover quickly from pneumonia when you get prompt care. However, pneumonia can be life-threatening if left untreated, especially if you have an underlying health condition.
+Even people who’ve been successfully treated and have fully recovered may face long-term health issues. After recovering from pneumonia, you may experience:
+- Decreased ability to exercise.
+- Worsening of cardiovascular disease.
+- Mental decline.
+- General decline in quality of life.
+Children who’ve recovered from pneumonia have an increased risk of chronic lung diseases.
+Follow up with your healthcare provider if you have ongoing health concerns after recovering from pneumonia.
+What are possible complications of pneumonia?
+Pneumonia can lead to serious complications that can require hospitalization, including:
+- Breathing difficulties. Pneumonia can lead to respiratory failure or acute respiratory distress syndrome (ARDS).
+- Fluid around your lungs (pleural effusion).
+- Bacteria in your bloodstream (bacteremia), or sepsis. The bacteria that cause pneumonia can enter your bloodstream, spreading the infection to other organs and leading to sepsis or organ failure.
+- Lung abscess. Pneumonia can lead to pus-filled holes in your lungs.
+When would I need to be hospitalized for pneumonia?
+If you have a severe case of pneumonia or complications, you may need to stay in the hospital for treatment. You’re more likely to be hospitalized for pneumonia if you’re:
+- Under age 2 or over age 65.
+- Have a weakened immune system.
+- Have health conditions that affect your heart and lungs
+It may take six to eight weeks to feel back to normal if you’ve been hospitalized with pneumonia.
+Living With
+What can I do to feel better if I have pneumonia?
+You can help yourself feel better while you have pneumonia by:
+- Managing your symptoms as recommended by your healthcare provider.
+- Finishing all medications and therapies prescribed by your provider. Don’t stop taking antibiotics when you start feeling better. Continue taking them until no pills remain. If you don’t take all of your antibiotics, your pneumonia may come back.
+- If your provider has recommended over-the-counter medicines to reduce fever (aspirin, acetaminophen, ibuprofen, naproxen), take them as directed on the label. Never give aspirin to children.
+- Getting lots of rest.
+If at any time you start to feel worse, call your doctor right away.
+What are some signs that pneumonia is improving?
+As you begin to recover from pneumonia, your temperature will probably return to normal first. After that, you may notice that you’re coughing up less mucus. Feeling like you’re up to returning to some of your normal activities is a good sign that you’re improving.
+When can I return to work, school and regular activities if I have pneumonia?
+You can typically resume your normal activities if your symptoms are gone, mild or improving and you don’t have new or worsening:
+- Shortness of breath or tiredness (less energy).
+- Chest pain.
+- Mucus, fever or cough.
+If you’re generally healthy, most people feel well enough to return to previous activities in about a week. However, it may take about a month to feel totally back to normal.
+When should I see a healthcare provider?
+Especially if you’ve been sick or have an underlying health condition, call your doctor if you have new or worsening:
+- Shortness of breath.
+- Fever or cough with mucus.
+- Tiredness (fatigue).
+- Have a change in appetite (you feel less hungry).
+When should I go to the emergency room?
+Go to the emergency room or call 911 if you:
+- Struggle to breathe or are short of breath while sitting still.
+- Have new or worsening chest pain.
+- Are confused or can’t think clearly.
+Additional Common Questions
+Is it possible to have pneumonia without having a fever?
+Yes, while fever is common in pneumonia, it’s possible to have pneumonia with a low fever or no fever. This is more likely if you:
+- Are older than 65 or younger than 2 (especially newborns and infants).
+- Have a weakened immune system.
+Is pneumonia treated any differently in children?
+Pneumonia isn’t usually treated any differently in children. However, young children can be at higher risk for severe illness from pneumonia. They’re more likely to be hospitalized for treatment than adults.
+A note from Cleveland Clinic
+With so many causes and varying symptoms, pneumonia can feel confusing. It can be worrying to wonder if your symptoms mean something more serious is going on. A high fever, bloody or unusually colored mucus, chest pain and shortness of breath are symptoms you shouldn’t ignore. Don’t hesitate to get medical attention when your body is telling you that something isn’t right.

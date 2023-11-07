@@ -1,0 +1,88 @@
+Trifascicular Block
+Overview
+What is a trifascicular block?
+A trifascicular block is a type of heart block. When you have a heart block, the heart signals don’t travel through your heart as they should.
+In the case of a “fascicular block,” there is a slowing or stopping of the transmission of electrical signals within the heart’s fascicles. Fascicles are bundles of specialized heart muscle cells. Also known as bundle branches, fascicles are found in the heart’s lower chambers (ventricles). They quickly send electrical impulses that help the heart chambers contract and pump blood.
+Heart attacks, heart surgery and heart (cardiovascular) disease can cause a trifascicular block. This problem affects the heart’s pumping action. Without treatment, you’re at risk for heart failure, arrhythmias and other life-threatening problems.
+Where are the fascicles in the heart ventricles?
+Your heart is part of the body’s circulatory system. This organ has four pumping chambers: the atria (upper two chambers) and ventricles (lower two chambers). Trifascicular blocks affect the ventricles.
+- Right ventricle: The lower-right chamber pumps blood to the pulmonary arteries in the lungs to pick up oxygen. The right ventricle has one fascicle called the right bundle branch.
+- Left ventricle: The lower-left heart chamber pumps oxygenated blood through the aorta to flow to the body. The left ventricle is the heart’s largest and strongest pumping chamber. The left anterior (front) fascicle and left posterior (rear) fascicle make up the left bundle branch. These fascicles eventually turn into millions of tiny muscle fascicles called the Purkinje fibers.
+What are the classifications of heart blocks?
+Healthcare providers classify heart blocks (AV blocks) by degrees of severity:
+- First-degree: There’s a delay in the transmission of electrical signals from the atria to the ventricles. A first-degree blockage (also called an incomplete blockage) rarely causes symptoms or needs treatment.
+- Second-degree: Some — but not all — electrical impulses reach the ventricles. This incomplete blockage causes a slow heart rate (bradycardia). Or it may cause an irregular heartbeat (arrhythmia). A second-degree blockage may require treatment if it becomes a third-degree blockage.
+- Third-degree: No electrical signals reach the ventricles from the atria. There is a complete blockage. The AV node, a bundle of His or ventricles controls heart rhythm. The heartbeat is too slow. This life-threatening condition requires immediate treatment.
+What is the definition of a trifascicular block?
+The prefix tri- indicates three. With a trifascicular block, there are three types of heart blockages below the AV node.
+A trifascicular block means there are signal problems with the right bundle branch and both of the left fascicles that make up the left bundle branch. This is also known as a complete heart block. (If blockages occur in the right bundle branch and just one of the two left fascicles, you have a bifascicular block.)
+A trifascicular block means you have:
+- Right bundle branch block: This block slows the electrical signal from the right fascicle to the left bundle branch.
+- Left bundle branch block: The electrical signal travels too slowly through the left ventricle. In a trifascicular block, blockages affect both the left anterior and left posterior fascicles.
+How common is heart block?
+Experts estimate that 1 in 10 people over age 70 with a history of heart disease will develop a third-degree heart block at some point.
+Symptoms and Causes
+What causes a trifascicular block?
+Your risk for any type of heart block increases with age. These blockages can occur for no known reason. They may even be present at birth (congenital heart disease).
+Often, damage to the heart causes a trifascicular block. This damage may be due to:
+- Coronary artery disease.
+- Enlarged heart (hypertrophic cardiomyopathy).
+- Heart attacks.
+- Heart disease.
+- Heart valve disease.
+- High potassium (hyperkalemia).
+- Minimally invasive heart surgery or open-heart surgery.
+- Overactive vagus nerve.
+- Rheumatic fever.
+- Sarcoidosis.
+What are the signs and symptoms of trifascicular blocks?
+Less severe (first- or second-degree) heart blockages may not cause symptoms. But a trifascicular block affects all bundle branches and is more likely to cause symptoms. You may experience:
+- Angina (chest pain or pressure).
+- Dizziness and fainting (syncope).
+- Fatigue.
+- Heart palpitations.
+- Nausea.
+- Shortness of breath.
+What are the complications of a trifascicular block?
+Heart blocks make it harder for your heart to pump blood to the body. You may experience potentially life-threatening complications, such as:
+- Arrhythmia.
+- Heart attack.
+- Heart failure.
+- Sudden cardiac death (sudden cardiac arrest).
+Diagnosis and Tests
+How are trifascicular blocks diagnosed?
+Healthcare providers use electrocardiograms (ECGs) to diagnose changes to the heart’s electrical system. This test measures the heart’s electrical activity. It also measures how long it takes electrical signals to travel through the heart. It shows the timing of all four pumping chambers. You may also know this test as an EKG.
+An ECG is a painless, non-invasive test that takes about 15 minutes. It uses electrodes (small patches) that stick to the chest, arms and legs. Wires connect the electrodes to an ECG machine. This machine captures information about your heart’s electrical activity in a graph format. (An ECG does not send electrical charges through your body.)
+Management and Treatment
+How are trifascicular blocks treated?
+Most people with trifascicular blocks need surgically implanted devices to regulate heart rhythm. A pacemaker sends electrical signals to your heart to keep the pumping chambers in rhythm. Some implantable cardioverter defibrillators (ICD) act as pacemakers. ICDs also shock (defibrillate) the heart when there’s a risk of sudden cardiac arrest.
+Prevention
+Can you prevent trifascicular blocks?
+These steps can help protect your heart health:
+- Eat a heart-healthy diet and stay physically active.
+- Limit alcohol consumption.
+- Look for healthy ways to manage stress.
+- Lose weight (if needed) and maintain a healthy weight.
+- Manage conditions that strain the heart like high blood pressure, diabetes and high cholesterol.
+- Seek help to quit smoking, and avoid secondhand smoke.
+Outlook / Prognosis
+What is the outlook for people with trifascicular heart blocks?
+With proper treatment, most people with trifascicular heart blocks don’t develop complete heart blocks. The risk is larger if a trifascicular heart block goes untreated. An arrhythmia can result, which is more likely to cause death than an actual heart block. Proper treatment — usually with a pacemaking device — helps lower this risk.
+Living With
+When should I call the doctor?
+You should call your healthcare provider if you experience:
+- Extreme fatigue.
+- Irregular heartbeat.
+- Severe chest pain.
+- Shortness of breath.
+- Signs of a heart attack.
+- Unexplained nausea.
+What should I ask my provider?
+You may want to ask your healthcare provider:
+- What caused the trifascicular block?
+- How can I reduce my risk of a heart attack or heart problems?
+- Do I need a pacemaker or ICD?
+- What are the risks of a pacemaker or ICD?
+- Should I look out for signs of complications?
+A note from Cleveland Clinic
+A trifascicular heart block affects all of the bundle branches that transmit electrical signals through the heart. A blockage delays or stops the signals that cause the heart to contract and pump blood. A third-degree or complete heart block can cause a life-threatening arrhythmia or even sudden cardiac death. People over 70 who have heart disease are most at risk. A noninvasive ECG test helps detect problems with the heart’s electrical system. Your provider may recommend a pacemaker or ICD. These devices send electrical signals to keep your heart chambers in rhythm.

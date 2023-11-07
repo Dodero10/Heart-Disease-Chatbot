@@ -1,0 +1,96 @@
+Organ Failure
+Overview
+What is organ failure?
+Organ failure is when one (or several) of your vital organs stops functioning. It can be a gradual (chronic) or sudden (acute) process. Your vital organs are the ones you can’t live without.
+When one of your vital organs begins to fail, you’ll need life support to aid or replace the failing organ and do the jobs it’s no longer doing. Sometimes organs recover, but sometimes they don’t. When organ failure is final, it can be fatal.
+What are the different types of organ failure?
+The vital organs that can fail include your:
+- Liver. Your liver performs hundreds of functions necessary to sustain life, including filtering toxins from your blood. Liver failure can be acute or chronic.
+- Kidneys. Your kidneys remove waste from your blood through your pee and balance your fluids and electrolytes. Kidney failure can be chronic or acute.
+- Heart. Your heart delivers oxygen-rich blood to all of your other organs. When your heart is failing, it can affect your whole body. Acute heart failure is a rapid decline in heart function. Congestive heart failure is a chronic condition that progresses over time.
+- Lungs. Your lungs are part of your respiratory system, which delivers oxygen to all of your body’s tissues. Respiratory failure can be acute or chronic.
+- Small intestine. Your small intestine absorbs most of the nutrition from your food that your body needs to operate. When your small intestine fails, the result is malnutrition or starvation.
+- Brain. Your brain tells all of your other organs how to function. Degenerative brain diseases can cause chronic, progressive brain failure. Acute brain failure is the process of brain death. When your brain or brainstem dies, the rest of your organs will follow.
+Different conditions may cause one of your organs to fail, or several at once. When it’s more than one, providers may call it:
+- Multiple organ failure.
+- Total organ failure.
+- Multiple organ dysfunction syndrome.
+What does it mean to have organ failure?
+The term, “organ failure,” can be misleading. It seems to imply that your organ is already expired. But that’s only the end stage. It really means that your organ isn’t up to its full capacity. It’s failing to do its whole job. As it does less of its job, you’ll need more support. You may need it urgently if you have acute organ failure, and it may be temporary. You’ll need a longer-term plan for chronic organ failure.
+What happens when you go into organ failure?
+Chronic organ failure progresses in stages that healthcare providers define a little differently for each organ. There are usually four or five. In general, the last stage or two are considered the “end-stages.” This is the point where your organ is coming close to absolute failure. It’s damaged enough and has lost enough of its functionality that you’ll need artificial life support, or an organ transplant, to survive.
+Acute organ failure either starts in the end stages or progresses there rapidly. It requires immediate intervention. However, acute multiple-organ failure may occur in something like stages. Since your vital organs support each other, sometimes one failing organ can trigger others to fail in a domino effect. How this occurs can vary depending on how it starts, but it’s often a predictable sequence of events.
+Symptoms and Causes
+What does organ failure feel like?
+Some common symptoms of many types of organ failure include:
+- Weakness, faintness or fatigue.
+- Drowsiness or loss of consciousness.
+- Difficulty concentrating, confusion.
+- Loss of appetite.
+- Nausea and vomiting.
+- Fast, shallow breathing.
+- Fast or irregular heartbeat.
+- Fever, chills.
+- Swelling in your extremities or in your abdomen.
+- Persistent chest pain or abdominal pain.
+What clinical signs may indicate organ failure?
+Additional signs and symptoms of specific organ failure include:
+- A yellow tint to your skin and eyes (jaundice, from liver failure).
+- A bluish tint to your lips and under your fingernails (cyanosis, from respiratory failure or heart failure).
+What causes organ failure?
+Some common causes of organ failure include:
+Chronic diseases
+Chronic diseases can cause progressive damage to your organs over time. Some diseases you’re born with, and others may occur later in your life. Once you have a chronic disease, it usually won’t go away, though there may be ways of slowing down the damage it does. It may take decades for this damage to accumulate until it noticeably affects your organ function or requires intervention.
+- Chronic liver diseases such as fatty liver disease and hepatitis C are among the most common causes of chronic liver failure.
+- Chronic kidney diseases such as glomerulonephritis and polycystic kidney disease can lead to chronic kidney failure. Other common causes include hypertension and diabetes.
+- Chronic heart diseases, including coronary artery disease and congenital heart disease, can lead to progressive heart failure.
+- Chronic inflammatory bowel diseases, such as Crohn’s disease, and chronic intestinal motility disorders, such as intestinal pseudo-obstruction, can lead to chronic intestinal failure.
+- Chronic respiratory diseases such as asthma and chronic obstructive pulmonary disease (COPD) can cause chronic respiratory failure.
+- Chronic degenerative brain diseases such as Alzheimer’s disease and Parkinson’s disease cause chronic brain failure (dementia).
+Traumatic injury
+A severe injury to one of your organs may cause acute organ failure. If your organ recovers, but it sustains permanent damage from the injury, that may cause chronic organ failure. Your organ may not be able to do its job as well as before. A severe injury that affects your whole body may provoke a state of shock, which stops blood flow to all of your organs. This can cause acute multiple-organ failure.
+- Surgical removal of a large portion of your small intestine (short bowel syndrome), often because of disease, is a common cause of permanent small intestinal failure.
+- There’s no clear evidence that traumatic brain injury can cause degenerative brain disease (chronic brain failure). However, it can cause brain death (acute brain failure).
+Toxic injury
+Toxins can cause both acute and chronic organ injury. They can affect any or all of your vital organs. You can get toxic poisoning from substances in your environment, from bacterial infections that produce toxins in your body or from substances that you take. Your liver and kidneys filter low levels of toxins from your blood every day. If they fail, these toxins may build up and injure your other organs.
+- Chronic drug or alcohol use can cause chronic liver failure (toxic hepatitis), chronic heart failure (alcohol-induced cardiomyopathy) or chronic brain failure (alcohol-related brain damage), and significantly contributes to chronic intestinal and kidney diseases. Substance overdose or acute alcohol poisoning can cause acute heart failure, acute liver failure or acute kidney injury.
+- Environmental toxins can cause chronic respiratory failure, kidney disease or liver disease and contribute to developing degenerative brain diseases.
+- Bacterial infections produce toxins as byproducts, which may affect individual organs or all of them if they get in your blood. Infection in your bloodstream can lead to sepsis and shock.
+Loss of blood/oxygen supply
+Your organs receive oxygen through blood flow. If something cuts off blood flow to your organ, it won’t have the oxygen it needs to function (hypoxia). This can cause acute or chronic organ failure, depending on how severely the blood supply is cut off. Ischemia is a loss of blood supply to a particular organ. It can be severe or a slow, gradual loss. Shock is a sudden loss of blood flow throughout your body.
+- Ischemia in any organ may cause inflammation, followed by tissue death. This can be fast or slow. An ischemic stroke in one part of your brain can cause acute brain damage and, in some cases, brain death. Ischemic cardiomyopathy is a common cause of chronic heart failure.
+- A major cardiac event, such as a heart attack, cardiac arrest or stroke, can stop blood and oxygen supply to the rest of your organs. It risks not only acute heart failure or brain damage but multiple organ failure. If your heart or brain stem dies, the other organs will follow.
+- Shock is an acute, system-wide loss of blood flow. It has many causes, including bloodstream infection (septic shock), heart damage (cardiogenic shock), cardiac obstruction (obstructive shock) and allergic reaction (anaphylactic shock). It can cause acute multiple-organ failure.
+Diagnosis and Tests
+How is organ failure diagnosed?
+Healthcare providers use specific tests to diagnose organ failure in your different organs. For example:
+- Liver function tests and kidney function tests measure chemicals in your blood and urine that give healthcare providers information about how your organs are functioning. They might follow up with a renal scan or liver stiffness scan (elastography).
+- Blood tests for malnutrition, followed by an enteroscopy of your small intestine, can diagnose small intestinal failure due to malabsorption or pseudo-obstruction.
+- An echocardiogram can measure your heart’s ejection fraction to determine how well it’s functioning.
+- Neurocognitive testing and brain scans can help diagnose brain damage.
+- A pulmonary function test can assess how well your respiratory system is working. A pulse oximetry (pulse ox) or arterial blood gas test can measure your blood oxygen levels.
+- Imaging tests of the organs, such as an ultrasound or CT scan.
+Management and Treatment
+How do healthcare providers treat organ failure?
+For acute organ failure, healthcare providers offer supportive care to stabilize your condition. This may include:
+- IV fluids.
+- Antibiotics.
+- Blood transfusion.
+- IV nutrition.
+- Oxygen therapy or mechanical ventilation.
+- Vasopressor medications to increase blood flow.
+- Dialysis.
+In some cases, an organ transplant can cure acute organ failure.
+For chronic organ failure, healthcare providers offer:
+- Diet and lifestyle advice to help slow or reverse the course of chronic liver failure. When it reaches the end stage, you’ll need a liver transplant.
+- Dialysis to slow the progression of chronic kidney failure. When it reaches the end stage, you’ll need a kidney transplant.
+- Various breathing interventions for chronic respiratory failure can help you get more oxygen. At the end stage, you’ll either need a lung transplant or permanent mechanical ventilation.
+- Medications to treat chronic heart failure and its causes, such as high blood pressure and coronary artery disease. In the later stages, heart failure surgery options include various implanted devices to help your heart operate, and finally, a heart transplant.
+- Parenteral nutrition for chronic intestinal failure. You can continue parenteral nutrition for life, but long-term treatment can lead to complications. You may also have an intestinal transplant.
+- Medications to treat the symptoms that accompany progressive dementia. There’s currently no treatment to slow or reverse its progress. There’s no treatment for brain death.
+Outlook / Prognosis
+Can you recover from organ failure?
+Sometimes organs recover from acute organ failure. This is true even when many are failing at once. You may only need life support temporarily in this case. Chronic organ failure is sometimes reversible in the early stages if you’re able to treat the original cause effectively. However, the later stages are generally marked by irreversible damage, such as fibrosis (scarring in your organs) or tissue death.
+A note from Cleveland Clinic
+If you are diagnosed with chronic organ failure, all hope isn’t lost. You probably have many years to try and turn the tides on your condition. Many therapies are also available to help compensate for the failing organ and ease your symptoms if you have any. Some people never progress to the end stages of chronic organ failure. When those stages are in sight, you can usually apply for an organ transplant.
+Acute organ failure is often the result of an unexpected illness or injury. It’s difficult to prevent, and it’s an emergency when it occurs. Healthcare providers in the intensive care unit (ICU) will do everything they can to support your many body systems while your failing organ or organs attempt to recover.

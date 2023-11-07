@@ -1,0 +1,105 @@
+Ventricular Dyssynchrony
+Overview
+What is ventricular dyssynchrony?
+Ventricular dyssynchrony is an uncoordinated beat (contraction) of one or more of your heart’s lower chambers (ventricles). You may have dyssynchrony if you have as little as a 40-millisecond delay in the contraction of various parts of your ventricle or from one ventricle to the other.
+Your heart works best when your ventricle muscles contract at the same time. Normally, signals go through your heart in an organized way. When your heart’s two ventricles get a signal to contract, the muscles in your ventricles should contract the same amount at the same time. Your left ventricle, which is the main pumping chamber of your heart, needs to contract in a coordinated way, with both sides of the chamber squeezing toward the middle.
+When the signal can’t reach both of your heart’s ventricles at the same time, your muscles can’t contract at the same time. This is dyssynchrony.
+Ventricular dyssynchrony affects your body in these ways:
+- It makes your heart work less efficiently.
+- It can make blood flow backward (the wrong way) from valves that normally keep blood moving in one direction.
+- It decreases the amount of blood your heart can pump (cardiac output).
+Types of heart muscle dyssynchrony
+The types of ventricular dyssynchrony include:
+- Atrioventricular: Your atria (upper chambers) and ventricles (lower chambers) don’t contract in a coordinated manner.
+- Interventricular: Your left and right ventricles (lower chambers) contract at different times.
+- Intraventricular: Muscles in different parts of the same ventricle contract at different times.
+Who does ventricular dyssynchrony affect?
+Ventricular dyssynchrony affects people who have:
+- Heart failure.
+- Left bundle branch block (LBBB).
+- Right bundle branch block (RBBB).
+- Cardiomyopathy.
+- High blood pressure.
+- Heart disease.
+How common is ventricular dyssynchrony?
+As many as one-third of people with a certain type of heart failure get ventricular dyssynchrony. About 2% of adults in developed nations have heart failure. About 6% to 10% of people older than 65 have heart failure.
+Symptoms and Causes
+What are the symptoms?
+Ventricular dyssynchrony makes symptoms of heart failure more severe or can have symptoms of its own. These symptoms include:
+- Shortness of breath.
+- Fatigue.
+- Cough.
+- Swelling in your body (edema).
+What causes ventricular dyssynchrony?
+Several different heart issues cause ventricular dyssynchrony, including:
+- Ventricular dysfunction.
+- Scar tissue from a heart attack.
+- Electrical conduction delay, including left bundle branch block and right bundle branch block.
+- Diseased heart muscle.
+- Ischemia (not enough blood flow to heart muscle).
+Diagnosis and Tests
+What tests will be done to diagnose ventricular dyssynchrony?
+Your provider will evaluate your heart’s function by taking a history and performing a physical exam. Listening to your heart with a stethoscope can uncover ventricular dyssynchrony. An electrocardiogram (ECG) is the most common test for detecting problems with your heart’s conduction system, which are responsible for dyssynchrony in the ventricle. These include right bundle branch block and left bundle branch block. These findings will prompt further evaluation and testing.
+Providers often use an echocardiogram to diagnose ventricular dyssynchrony.
+Other tests include:
+- Positron emission tomography (PET).
+- Multigated acquisition (MUGA) scan.
+- Heart magnetic resonance imaging (MRI).
+- Computed tomography (CT).
+- Single photon emission computed tomography (SPECT).
+Management and Treatment
+How is ventricular dyssynchrony treated?
+Healthcare providers may treat the condition that’s causing your ventricular dyssynchrony.
+In many cases, cardiac resynchronization therapy (which your provider may call CRT or a biventricular pacemaker) can help your heart pump better by pacing the heart from both sides. But it only improves symptoms for 50% to 70% of people who get it. Successful treatment is more likely to happen in those with severe dyssynchrony.
+Complications of CRT
+Complications from putting in a CRT (biventricular pacemaker) may include:
+- Collapsed lung (pneumothorax).
+- Hemothorax (blood between your chest wall and your lung).
+- Heart puncture.
+- Stimulation of muscles other than your heart.
+- Pacemaker leads out of place.
+How soon after treatment will I feel better?
+CRT decreases ventricular dyssynchrony right away. Some people feel an improvement just a few weeks after having the device implanted. And there are long-term benefits as well, such as:
+- Improving your cardiac output.
+- Reducing mitral valve leaks.
+- Improving your quality of life.
+- Increasing the distance you can walk in six minutes.
+What medications are used?
+For dyssynchrony-causing conditions like heart failure, cardiomyopathy or high blood pressure, a provider may prescribe medicines, including:
+- Angiotensin-converting enzyme (ACE) inhibitors.
+- Angiotensin II receptor blockers (ARBs).
+- Beta-blockers.
+- Diuretics.
+While these medications will improve the function of your heart, they won’t in themselves reverse dyssynchrony that abnormal electrical conduction causes.
+Prevention
+How can I reduce my risk of ventricular dyssynchrony?
+The best thing you can do to reduce your risk is to take good care of your heart. If you do that, you may be able to prevent some of the conditions that cause ventricular dyssynchrony.
+Ways to care for your heart include:
+- Eating foods low in saturated fat.
+- Exercising for 30 minutes on most days.
+- Maintaining a weight that’s healthy for you.
+- Taking medicines your provider prescribes.
+Outlook / Prognosis
+What can I expect if I have ventricular dyssynchrony?
+You’re likely to have a poor outcome if you don’t treat left ventricular dyssynchrony. People who have left ventricular dyssynchrony have a higher risk of cardiac events than those who don’t. You can have dyssynchrony in either ventricle (or both), but your left ventricle is the pump that sends oxygen-rich blood to your body. This is a very important job.
+The treatment, CRT (a biventricular pacemaker), can help people with heart failure have fewer hospital stays and live longer.
+The underlying cause of the dyssynchrony also affects the outlook/prognosis. Some will have a worse outlook than others.
+Living With
+How do I take care of myself?
+If your provider prescribed medicine for you, be sure to keep taking it according to the instructions. Don’t stop taking prescription medication unless your provider tells you to stop.
+If you have a biventricular pacemaker, be sure to go to your follow-up appointments. These allow your provider to check that your pacemaker is working correctly. Some hospital systems offer special clinics called CRT clinics, where heart rhythm physicians and heart failure specialists work together to make sure you’re getting the most out of your biventricular pacemaker.
+When should I see my healthcare provider?
+Contact your provider if the medicines they prescribed for you aren’t working. Also, contact them if you’re having trouble with your biventricular pacemaker.
+When should I go to the ER?
+Get medical help right away if you feel:
+- Chest pain or discomfort.
+- Lightheaded.
+- Short of breath.
+- Sick to your stomach.
+- Pain in your back, neck or jaw.
+What questions should I ask my doctor?
+- What caused my ventricular dyssynchrony?
+- Am I a candidate for CRT?
+- Is there a support group for people with heart failure?
+A note from Cleveland Clinic
+It’s unsettling to know that your heart isn’t working the way it should. Your provider can find the cause of your dyssynchrony and select the right treatment for you. Be sure to follow the instructions on your medicine bottles. Taking medicine at the same time every day can make it easier to remember. Marking your appointments on a calendar or putting reminders on your phone can help you avoid missing checkups.

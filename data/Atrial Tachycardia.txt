@@ -1,0 +1,121 @@
+Atrial Tachycardia
+Overview
+What is atrial tachycardia?
+Atrial tachycardia is a type of arrhythmia — an irregular heart rhythm — that causes the upper chambers (atria) of your heart to beat faster than normal. They can beat 100 to 250 beats per minute. Atrial tachycardia is a type of SVT or supraventricular tachycardia. These happen in your atria, which are the upper chambers of your heart.
+This condition has several possible causes, but usually isn’t dangerous. It’s often curable or manageable with medication.
+Who does atrial tachycardia affect?
+In general, atrial tachycardia can happen to anyone. However, certain types of atrial tachycardia are more likely to happen at different ages.
+Atrial tachycardia is fairly common, and it becomes more common as people get older. There are about 90,000 new cases of paroxysmal (short-lived) atrial tachycardia per year in the U.S.
+What happens during atrial tachycardia?
+During atrial tachycardia, the upper chambers of your heart squeeze faster than the lower chambers. A faulty electrical signal or malfunctioning cell can cause this. There are three ways that this usually happens:
+- Automaticity:Another group of cells or a single cell in your heart can become dominant over your normal cells that set the pace of your heart rhythm. This can happen because of an imbalance of sodium, potassium and calcium.
+- Triggered activity: Sometimes, a chemical imbalance in heart muscle cells may make them fire when they aren’t supposed to.
+- Reentry: Because of a redirection of electricity, cells can form a circuit and propagate this wave of electricity leading to abnormal beats. This typically happens after surgery or with scar tissue in your heart.
+What are the different types of atrial tachycardia?
+Atrial tachycardia has two types:
+Focal. This kind of atrial tachycardia starts in a specific location (focus) on your heart. It’s usually not dangerous. However, it can be if it continues over a longer period.
+In some cases, there can be more than one focus. This is called multifocal atrial tachycardia. This type of atrial tachycardia can be easier to diagnose but may also be harder to treat. Chronic obstructive pulmonary disease (COPD) and other lung issues are common causes.
+Micro-reentrant. This type of atrial tachycardia works similarly to reentry, but it affects a wider area. It also usually happens because the signal has to travel around a part of your heart or an area of scar tissue.
+Symptoms and Causes
+What are the symptoms of atrial tachycardia?
+Atrial tachycardia can happen without symptoms, especially when it happens only for short periods. When it does cause symptoms in adults, they commonly include:
+- Heart palpitations.
+- Dizziness and lightheadedness.
+- Fainting or passing out.
+- Chest pain (angina).
+- Shortness of breath.
+Infants and children can have these atrial tachycardia symptoms:
+- Vomiting.
+- Feeding problems.
+- Rapid breathing.
+What causes atrial tachycardia?
+There are several potential causes of atrial tachycardia. Some of these include:
+- Coronary artery disease and other types of heart disease.
+- Heart attack.
+- COPD.
+- Electrolyte imbalances.
+- Alcohol.
+- Toxic effects of digoxin (a medication that can treat heart rhythm problems).
+- Caffeine and other stimulants (including recreational drugs).
+Diagnosis and Tests
+How is atrial tachycardia diagnosed?
+A healthcare provider can diagnose atrial tachycardia when you have symptoms of a heart rhythm problem. Typically, they’ll want to get an electrocardiogram (EKG), which involves attaching stickers to your chest and obtaining a printout of your heart rhythm at that time.
+Other tests include wearing a small monitor for a period of time to catch the abnormal rhythm. If the suspicion is high for atrial tachycardia but noninvasive tests have failed to prove this, your provider may take you into the lab under sedation and place catheters in your heart to detect and/or induce this abnormal rhythm.
+What tests will be done to diagnose atrial tachycardia?
+The following tests are often used to diagnose atrial tachycardia:
+- Physical exam: This is the type of exam you get during an annual physical. Your provider may hear a fast heart rhythm even if you have no other symptoms. Most providers will also review your medical history to see if you have any risk factors for this condition.
+- Electrocardiography (ECG or EKG): This test measures your heart’s electrical activity using sensors attached to the skin of your chest. You can get this test in minutes at a healthcare facility.
+- Holter monitor: This is similar to an electrocardiogram but records heart activity over a few days or weeks. You take this device home with you and return it after the set recording period ends.
+- Ambulatory monitors: These devices function like an electrocardiogram. However, you take them home and wear them for up to 30 days. Some monitors track your heart’s activity constantly but only record the data when you activate the device. Others can activate themselves when they detect an abnormal rhythm.
+- Electrophysiology study: This is a procedure that maps and measures the electrical activity of your heart. This can show areas where electrical activity in your heart isn’t happening as it should.
+Management and Treatment
+Can atrial tachycardia be cured?
+Depending on the type, atrial tachycardia is often curable. When a chronic disease is the cause, treating that disease can often make atrial tachycardia stop.
+- Focal atrial tachycardia: This type has a very high cure rate, especially with catheter-based techniques.
+- Multifocal atrial tachycardia: This is harder to cure because the problems start at different points in your heart. However, treating other diseases that cause it can resolve multifocal atrial tachycardia.
+- Micro-reentrant atrial tachycardia: It’s often possible to cure this using catheter-based techniques. In rarer cases, you may need a surgical approach.
+If you don’t have symptoms and atrial tachycardia only lasts for short periods, your healthcare provider may just monitor your condition.
+In some cases — especially cases where it only happens for short periods — atrial tachycardia can also go away on its own.
+What is the treatment for atrial tachycardia?
+Medications that providers often use to treat atrial tachycardia include:
+- Beta-blockers: This type of medication can stop or slow down certain cell functions, especially in your heart.
+- Calcium channel blockers: These change the way your heart muscle cells use calcium. This can reduce how sensitive your heart muscle cells are to an electrical signal.
+- Other arrhythmia medications: Depending on what caused the arrhythmia in the first place, other anti-arrhythmia medications may help. Your healthcare provider can offer options based on the risks, benefits and possible side effects.
+Ablation is another common atrial tachycardia treatment. Ablation treats certain areas of your heart to stop them from improperly conducting electricity. This is very helpful in stopping focal atrial tachycardia. It also can stop reentry problems by blocking part of a faulty electrical circuit.
+Your provider can perform an ablation using the following methods:
+- Catheter ablation: Your provider inserts a device into a major blood vessel (usually near your groin). Then, they thread it up to your heart to treat the problem area. They can do this with either heat (radiofrequency ablation) or extreme cold (cryoablation). This type of procedure has a success rate of 90% or better.
+- Surgical ablation: If your provider can’t fix your issue with catheter ablation, they may do surgery. Surgical approaches use similar methods but access the heart through an incision in your chest.
+Complications of the treatment
+Although they happen rarely, you can have these complications from either type of ablation:
+- Bleeding.
+- Infection.
+- Blood clots.
+- Damage near the treatment area.
+How soon after treatment will I feel better?
+Most people who undergo catheter-based procedures can go home that same day or the following day. However, for surgical procedures, the recovery time can take longer, possibly a few days. These procedures should stop your atrial tachycardia. However, in some cases, it can return or other types of arrhythmias may happen.
+Your healthcare provider can tell you when you can expect to start feeling better when you’re taking medication for atrial tachycardia. They’ll also schedule a follow-up visit to determine if the medication is helping or if you need a different dose or type of medicine.
+Prevention
+How can I reduce my risk?
+Doing the following can reduce your risk of developing atrial tachycardia:
+- Limit how much alcohol you drink. Drinking too much alcohol has negative effects on your heart.
+- Limit your intake of stimulants. This includes caffeine and chocolate. You should also avoid recreational drugs like cocaine and methamphetamine and abuse of prescription medications.
+- Quit using tobacco products. This includes all vape and smokeless tobacco products. Your provider can help you find ways to quit.
+- Manage your health with diet and exercise. This can help delay or prevent developing conditions like coronary artery disease.
+How can I prevent atrial tachycardia?
+Atrial tachycardia is unpredictable and isn’t preventable. However, it’s possible to reduce your risk of developing it by avoiding potential triggers. You can also try to prevent or delay developing conditions that can cause atrial tachycardia.
+Outlook / Prognosis
+What can I expect if I have atrial tachycardia?
+Getting symptoms checked out early is important. This is because some of the symptoms also happen with more serious — possibly deadly — heart problems.
+For most people, this condition only happens for short periods. It’s not dangerous when it’s short-lived, and you shouldn’t experience any long-term problems from it. However, when it happens for long periods, it can cause problems if you wait too long to get medical care.
+Fortunately, there are many different ways to treat atrial tachycardia. Some treatments can cure it completely. You can also keep it from returning or getting worse by avoiding things that cause it, like caffeine and recreational drugs.
+How long does atrial tachycardia last?
+For some people, atrial tachycardia may go away on its own. For others, it may never return after an ablation procedure. Unfortunately, there are some cases — especially when another disease is the cause — where it may become a lifelong concern. For them, medication may reduce or control the symptoms.
+Living With
+How do I take care of myself?
+If you have atrial tachycardia, your healthcare provider can offer you guidance on what to do to care for yourself. In general, you should always:
+- Follow up with your doctor as instructed. These follow-up visits can help track any lingering effects from the condition and spot signs that it has returned.
+- Take your medication. This is especially crucial for people whose atrial tachycardia can’t be easily cured or treated in other ways.
+- Manage your overall health. Diet and exercise all play a role in your heart health. Your healthcare provider can provide you with resources and guidance on how to eat right, keep moving and stay healthy in ways that are best for your heart.
+When should I see my healthcare provider?
+You should talk to your healthcare provider if your symptoms:
+- Get worse.
+- Happen more often.
+- Start to disrupt your life.
+When should I go to the ER?
+You should get emergency medical care if you suddenly:
+- Develop shortness of breath.
+- Have chest pain.
+- Pass out for an unknown reason or become very dizzy.
+Atrial tachycardia symptoms also happen frequently with many more serious heart problems like heart attacks.
+What questions should I ask my doctor?
+- What type of atrial tachycardia do I have?
+- What’s the best treatment for my situation?
+- How often do I need follow-up appointments with you?
+Additional Common Questions
+Is atrial tachycardia the same as atrial fibrillation?
+No. They’re different. Atrial tachycardia typically causes your heart’s upper chambers to beat 100 to 250 beats per minute. However, this number can be higher in children and infants. While this is unusually fast, it doesn’t interfere with your heart’s normal pumping ability.
+Atrial fibrillation is dangerous because it causes your heart’s upper chambers to beat 350 to 600 beats per minute. When this happens, your heart’s upper chambers can’t fill with blood and may not pump all of the blood already inside them. This causes blood to pool, which can allow clots to form. These clots can travel from your heart to your brain, causing a stroke.
+Is atrial tachycardia life-threatening?
+When atrial tachycardia only lasts for short periods, it’s not considered dangerous. However, when you have sustained atrial tachycardia or if you’re in atrial tachycardia a lot of the time, it can cause a problem called cardiomyopathy, which can weaken and damage your heart. If cardiomyopathy isn’t treated, it can lead to heart failure and death.
+A note from Cleveland Clinic
+Atrial tachycardia, an irregular heart rhythm, can cause symptoms that might make you feel afraid or anxious. However, it’s a condition that’s often curable. When it can’t be cured, it’s often possible to manage it. When caught and treated early, it’s also unlikely to have any long-term negative effects. Talk to your healthcare provider about this condition and what they can do to help you. They can also provide you with resources that will help ease your mind. That way, you can focus on caring for yourself.

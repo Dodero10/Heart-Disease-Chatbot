@@ -1,0 +1,101 @@
+Insulinoma
+Overview
+What is Insulinoma?
+Insulinoma is one of several pancreatic neuroendocrine tumors (pNET) or islet cell tumors. These are rare tumors that start in your pancreas’ endocrine cells. They affect the endocrine cell that releases insulin, the hormone that keeps your blood sugar (blood glucose) levels from getting too high. More than 90% of insulinomas are benign tumors, meaning they don’t spread outside of your pancreas. Healthcare providers use surgery to remove insulinomas and cure the condition.
+Who does it affect?
+Approximately 4 in 1 million people develop insulinomas. Most people are ages 40 to 50 when they’re diagnosed.
+How does insulinoma affect my body?
+Insulinomas release insulin, the hormone that keeps your blood sugar from dropping. If you have an insulinoma, your body might be flooded with insulin. When that happens, you may feel (and look shaky). You may feel like your heart is racing. In very extreme circumstances, you may faint or have seizures.
+Can insulinomas become malignant?
+Yes, insulinomas can become malignant, meaning they can spread from your pancreas to other areas of your body. Malignant insulinomas usually spread to your liver or lymph nodes. But malignant insulinomas are extremely rare.
+What’s the difference between insulinoma and diabetes?
+If you have diabetes, it means your pancreas isn’t making enough insulin to maintain a healthy blood sugar level or your body isn’t processing the insulin your pancreas makes and releases. When that happens, your blood sugar level increases. If you have insulinoma, your body is making too much insulin, causing your blood sugar levels to drop.
+What’s the difference between pancreatic cancer and insulinoma?
+Pancreatic cancer is cancer in your pancreas itself. When people talk about pancreatic cancer, they’re usually referring to adenocarcinoma of the pancreas, which usually develops in your pancreas’ ducts. Insulinoma is a neuroendocrine tumor in the beta (endocrine) cells in your pancreas.
+Symptoms and Causes
+What causes insulinoma?
+Every person’s situation is different, so researchers may not know the specific cause every time someone develops insulinoma. But insulinoma is associated with the following syndromes and conditions:
+- Multiple endocrine neoplasia type 1 (MEN1): This is an inherited condition that affects your endocrine glands and your duodenum. Your duodenum is the first part of your small intestine.
+- Von Hippel-Lindau syndrome: This is an inherited condition that causes tumors throughout your body.
+- Neurofibromatosis type 1 (NF1): This condition affects your skin and nervous system.
+- Tuberous sclerosis complex (TCS): This is an inherited condition that may cause epilepsy, tumors (usually benign) and skin growths.
+What are insulinoma symptoms?
+Insulinomas make insulin, the hormone that lowers your blood sugar levels. When an insulinoma releases too much insulin, your blood sugar level dips, causing the following symptoms:
+- Low blood sugar (hypoglycemia).
+- Weakness.
+- Confusion.
+- Sweating.
+- Rapid heartbeat.
+- Loss of consciousness.
+- Coma.
+- Seizures.
+Diagnosis and Tests
+How do healthcare providers diagnose insulinoma?
+Healthcare providers use several tests to diagnose insulinoma, starting with a physical exam and medical history. They’ll ask about your specific symptoms, if your symptoms come and go, how long you’ve had the symptoms and if your symptoms are getting worse.
+What tests do providers use to diagnose insulinoma?
+If you’re having symptoms, your healthcare provider may ask you to have a blood glucose test:
+- Your healthcare provider may recommend you fast up to three days to bring on low blood sugar episodes. You’ll be monitored during your fast.
+- If your blood glucose test shows you have insulinoma, your healthcare provider will check your blood insulin levels.
+What other tests do providers use to diagnose insulinoma?
+Your healthcare provider will probably do one or more of the following imaging tests to assess your tumor’s size and its location in your pancreas:
+- Computed tomography (CT) scan: This test uses X-rays and a computer to produce 3D images of your pancreas.
+- Magnetic resonance imaging (MRI): This test produces detailed images using a magnet, radio waves and a computer.
+- Endoscopic ultrasound(EUS): Healthcare providers use a thin, tube-like instrument with a light and lens for viewing, called an endoscope, and high-energy sound waves to obtain pictures of your insulinoma. They insert the endoscope through your mouth or rectum. A probe at the end of the endoscope bounces soundwaves off of your internal tissues, making echoes that form pictures called sonograms.
+What other tests do healthcare providers use to diagnose insulinoma?
+If imaging tests don’t provide enough information, your healthcare provider may decide to obtain samples of your pancreas’ tissue and cells so they can examine the tissue and cells under a microscope. Those tests may include:
+- Intraoperative ultrasound: This procedure takes place during surgery. Healthcare providers place a transducer on your pancreas. The transducer makes sound waves that create echoes, which the transducer receives and sends to a computer. The computer uses those echoes to make sonograms.
+- Biopsy: Healthcare providers remove cells or tissues from your pancreas. They might do a biopsy during an X-ray or ultrasound by inserting a fine needle into your pancreas.
+Are there different grades or stages of insulinoma?
+Grading or staging is the process healthcare providers use to estimate how quickly a pNET like insulinoma might spread. They examine cells under a microscope, comparing the difference in appearance between normal and abnormal cells. They also check whether abnormal cells appear to be multiplying. Here is information about pNET grades or stages:
+- Grade 1 (also called low-grade or well-differentiated) tumors have cells that look more like normal cells and are not multiplying quickly.
+- Grade 2 (also called intermediate-grade or moderately differentiated) tumors have features in between those of low- and high-grade tumors.
+- Grade 3 (also called high-grade or poorly differentiated) tumors have cells that look very abnormal and are multiplying faster.
+Management and Treatment
+Can insulinoma be cured?
+Yes, most insulinomas can be cured with surgery. One study showed 88% of people who had surgery for insulinoma were alive 10 years after diagnosis. Your healthcare provider will consider factors such as your tumor’s size and location before recommending a specific surgery. Surgical options include:
+- Enucleation: Healthcare providers do this surgery by removing your insulinoma without cutting into it, the same way you might remove the yolk from a hard-boiled egg.
+- Partial pancreatectomy: Like the name sounds, this surgery involves removing part of your pancreas; in this case, the part where your insulinoma is located.
+- Whipple surgery: Healthcare providers remove part of your pancreas, your gallbladder, nearby lymph nodes and part of your stomach, small intestine and bile duct. This surgery is done if your insulinoma is malignant, meaning it has spread outside of your pancreas.
+Are there other treatments for insulinomas?
+Yes, healthcare providers may choose to combine surgery with medical or nonsurgical treatments or use medical treatments when surgery isn’t an option. Your healthcare provider might recommend:
+- Peptide receptor radionuclide therapy (PRRT): This treatment involves injecting a drug into your bloodstream. The drug combines radioactive atoms and amino acids to target and kill insulinoma cells.
+- Targeted therapy: Targeted therapy uses drugs or other substances to attack cancer cells without hurting normal cells.
+- Chemotherapy: Healthcare providers use several types of drugs to kill cancer cells.
+- Diazoxide (dye az OX ide): This medication helps treat low blood sugar (hypoglycemia).
+- Octreotide/lanreotide: This is an analog (synthetic version) of somatostatin that helps to control neuroendocrine tumor (NET) symptoms. It’s less predictable as a treatment for people who have insulinoma symptoms.
+- Verapamil and phenytoin: Some people have benefitted from taking these medications.
+- Liver-directed therapy: Healthcare providers may use this treatment for tumors in your liver.
+What are these treatments complications?
+There’s a wide range of pNET treatments, from major surgery to chemotherapy. Talk to your healthcare provider about your treatment options and potential side effects.
+Prevention
+How can I reduce my risk of insulinoma?
+Unfortunately, there aren’t steps you can take to reduce your risk. Insulinomas happen when the endocrine cells in your pancreas that create insulin begin multiplying uncontrollably, and researchers aren’t sure why that happens.
+That said, insulinoma is associated with certain inherited conditions. If you know your family medical history includes inherited conditions, ask your healthcare provider if your family medical history puts you at risk of insulinoma.
+While you may not be able to prevent developing an insulinoma, you can keep them from affecting your health. You can do that by keeping track of changes in your body, including signs you have low blood sugar.
+Outlook / Prognosis
+What can I expect if I have an insulinoma?
+Your condition can be cured if the tumors are diagnosed and treated with surgery to remove them. If you’ve been diagnosed with insulinoma, your healthcare provider may recommend you change your diet as well.
+Living With
+How do I take care of myself if I have insulinoma?
+Most insulinomas are treated with surgery to remove the tumor or parts of your pancreas. Ask your healthcare provider what you can and can’t do as you recover from your surgery.
+Insulinoma is one of several pNET types, and pNETs have common symptoms, like fatigue — feeling extremely tired day after day — and diarrhea, that you might have to manage throughout your treatment. Try to get as much rest as you can. If diarrhea is an issue, talk to your healthcare provider about ways to reduce its frequency and severity. Here are some other suggestions that might be helpful:
+- Try eating a healthy, well-balanced diet. If your symptoms and treatment side effects make eating difficult, ask a nutritionist for suggestions on finding foods you can tolerate and that’ll help you keep up your strength.
+- If you’re having a hard time emotionally, ask your healthcare provider about services that might help you manage your feelings so you can focus on your health.
+When should I see my healthcare provider?
+You should see your healthcare provider if your treatment side effects become worse. For example, if you had surgery, you should contact your healthcare provider if you have pain that persists despite taking prescribed pain medication.
+You also should contact your healthcare provider if notice changes in your body that resemble your symptoms, particularly low blood sugar symptoms. These changes might be unrelated to your condition, and the best way to be sure of that is to talk to your healthcare provider.
+Your healthcare provider may also recommend you have follow-up examinations three to four months after your surgery.
+When should I go to the emergency room?
+If you have insulinoma, you likely had surgery to remove your tumor. While most surgeries are uneventful, you should go to the emergency room any time you have the following symptoms:
+- Sudden severe shortness of breath.
+- Fever that’s higher than 100.4 degrees Fahrenheit (38.3 degrees Celsius). A fever may be a sign you have an infection.
+- You’re vomiting a lot or you have persistent diarrhea.
+What questions should I ask my healthcare provider?
+You may be surprised and a little alarmed to learn you have a rare disease. Questions you might want to ask your healthcare provider include:
+- What is insulinoma?
+- Why did I develop insulinoma?
+- What are my treatment options?
+- What are treatment side effects?
+- Does having insulinoma mean I have diabetes or I will develop diabetes?
+A note from Cleveland Clinic
+Insulinomas are rare tumors that develop in your pancreas’ endocrine cells. Fortunately, surgery to remove your insulinoma almost always cures your condition. Even so, it’s not easy to learn you have a rare illness that requires surgery. Talk to your healthcare provider about your treatment plan, including your treatment options and treatment side effects. That way, you’ll know what to expect and what you can do to support your recovery from surgery and any other treatment.

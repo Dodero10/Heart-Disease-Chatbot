@@ -1,0 +1,93 @@
+Sarcomatoid Carcinoma
+Overview
+What is sarcomatoid carcinoma?
+Sarcomatoid carcinoma is a rare, aggressive (fast-growing) form of cancer that’s a mix of carcinoma and sarcoma. Classifications like “carcinoma” and “sarcoma” describe the type of tissue in your body where malignant cells (cancer cells) begin forming:
+- Carcinoma begins in the tissue that lines your organs or skin. This tissue is called epithelial tissue because it’s made of epithelial cells. Most cancers are carcinoma.
+- Sarcoma begins in bone, connective tissue and soft tissue. Sarcoma is made of mesenchymal cells, the building blocks of nerves, muscle, fat, etc. Sarcoma is less common than carcinoma.
+With sarcomatoid carcinoma, tumors form that contain cells and tissue found in both carcinoma and sarcoma. These tumors grow rapidly and often spread quickly to various parts of your body (metastasize). The cancer damages healthy tissue in your body as it spreads.
+Where is sarcomatoid carcinoma found in the body?
+Sarcomatoid carcinoma is most commonly associated with your lungs. Still, cancer that has features of both carcinoma (epithelial tumors) and sarcoma (mesenchymal tumors) can appear throughout your body, including your:
+- Skin.
+- Bones.
+- Mouth.
+- Thyroid gland.
+- Breasts.
+- Stomach.
+- Small intestine.
+- Liver.
+- Pancreas.
+- Uterus.
+- Prostate.
+- Bladder.
+- Kidneys.
+- Mediastinum (the area between your lungs that includes your heart, esophagus and thymus).
+Sarcomatoid carcinoma that starts in your lungs often spreads quickly. Tumors may spread to your adrenal glands, brain, bone, liver, kidney, peritoneum (the lining of your abdomen and abdominal organs), pancreas, skin and heart. It’s common during metastasis involving sarcomatoid carcinoma for the cancer to spread to multiple sites.
+What are the different types of sarcomatoid carcinoma?
+In 2015, the World Health Organization (WHO) classified sarcomatoid carcinoma into five subtypes. Each type is considered a poorly differentiated non-small cell lung carcinoma. Poorly differentiated means that the cells look so abnormal that it’s difficult to classify them. Non-small cell lung carcinoma is the most common type of lung cancer. It grows and spreads quickly.
+The five types of sarcomatoid carcinoma include:
+- Pleomorphic carcinomas are mostly carcinoma but usually contain at least 10% sarcoma elements. The carcinoma components may include various carcinoma subtypes. These subtypes may include adenocarcinoma, squamous cell carcinoma, adenosquamous-cell carcinoma and large-cell undifferentiated carcinoma. The sarcoma components may consist of spindle cells, giant cells or a mix of both cell types. Pleomorphic carcinomas are the most common type of sarcomatoid carcinoma.
+- Spindle-cell carcinoma is named after the way its cells look under a microscope. They’re long and slender, like a spindle. Spindle-cell carcinoma has characteristics of both carcinoma and sarcoma.
+- Giant cell carcinoma consists of large cells arranged in a pattern typical in sarcoma. They usually form in the upper part of your lungs.
+- Carcinosarcoma contains tissue found in certain carcinoma subtypes, including adenocarcinoma and squamous cell carcinoma. The sarcoma components are abnormal and incompletely formed. They may include tissue found in sarcoma subtypes, including chondrosarcoma, osteosarcoma, rhabdomyosarcoma or angiosarcoma.
+- Pulmonary blastoma contains adenocarcinoma components that resemble fetal lung tissue. Pulmonary blastoma also contains mesenchymal cells (as in sarcoma).
+Who does sarcomatoid carcinoma affect?
+Sarcomatoid carcinoma is most common in men and people assigned male at birth who currently smoke or used to smoke tobacco products. The average age of diagnosis is 65.
+How common is sarcomatoid carcinoma?
+Sarcomatoid carcinoma is extremely rare. Only .1% to .4% of malignant (cancerous) lung tumors are sarcomatoid carcinoma.
+Symptoms and Causes
+What are the symptoms of sarcomatoid carcinoma?
+Your symptoms will depend on where the cancer has spread in your body. Symptoms of sarcomatoid carcinoma in your lungs may include:
+- Cough.
+- Shortness of breath (dyspnea).
+- Chest pain.
+- Bloody phlegm.
+- Unexplained weight loss.
+What causes sarcomatoid carcinoma?
+Sarcomatoid carcinoma likely forms because of a process called epithelial-mesenchymal transition (EMT). Most sarcomatoid carcinoma probably begins as cancerous epithelial cells common in non-small cell lung carcinoma. Changes in these cells cause some of them to transform into mesenchymal cells. These malignant, transformed cells spread throughout your body quickly.
+The cell changes and rapid spreading likely relate to cell genetic mutations (or errors). Your genes contain the instructions that tell your cells how to behave. A mutation is a change or error that can interfere with these instructions. Scientists have identified many gene mutations associated with sarcomatoid carcinoma.
+What are the risk factors for sarcomatoid carcinoma?
+A risk factor increases the likelihood that you’ll develop a condition. Smoking is the most well-known risk factor for sarcomatoid carcinoma. About 80% to 90% of people diagnosed with pulmonary (lung) sarcomatoid carcinoma currently smoke or used to smoke.
+Diagnosis and Tests
+How is sarcomatoid carcinoma diagnosed?
+Your healthcare provider will perform a clinical exam and imaging procedures. To make a positive diagnosis, they’ll perform a biopsy that allows them to analyze tumor cells closely.
+- Imaging: Your provider may perform a computed tomography (CT) scan to see where the tumors are located. They may conduct a CT/Pet scan or F-fluorodeoxyglucose (FDG)-PET for more detailed views of the inside of your body. A CT/Pet scan allows your provider to perform two imaging procedures (a CT scan and a PET scan) at the same time. Fluorodeoxyglucose is a chemical inserted into your body during a PET scan. It clusters around cancer cells, so they show up more clearly during imaging.
+- Histopathology: Your provider will remove a tumor sample during a biopsy and study the tissue closely beneath a microscope. This type of analysis is called histopathology. Your provider can determine if a tumor is sarcomatoid carcinoma based on how its cells look. They’ll also classify it into subtypes (for example, pleomorphic carcinoma, spindle-cell carcinoma, etc.)
+- Immunohistochemistry: Immunohistochemistry tests for substances, called antigens, associated with specific cell types. Certain types of antigens can signal that a cell is abnormal or malignant (cancerous).
+Management and Treatment
+How is sarcomatoid carcinoma treated?
+The most effective treatment is surgery to remove the entire tumor. Chemotherapy following surgery can help destroy remaining cancer cells. Usually, though, surgery isn’t an option because the cancer’s already spread by the time people receive a diagnosis. You may receive radiation therapy if a tumor causes problems like pain, bleeding or trouble breathing.
+A clinical trial may be the best option for treatment with sarcomatoid carcinoma. A clinical trial is a study that tests the safety and effectiveness of new treatments. Targeted therapy and immunotherapy are two treatments researchers are studying that may help prolong survival with sarcomatoid carcinoma.
+- Targeted therapy targets features in cancer cells that cause them to multiply out of control.
+- Immunotherapy boosts your immune system so that it’s better able to find and destroy cancer cells.
+Prevention
+How can I reduce my risk?
+Choosing not to smoke or use tobacco products can reduce your risk of developing sarcomatoid carcinoma and other lung cancers.
+Outlook / Prognosis
+Is sarcomatoid carcinoma curable?
+Sarcomatoid carcinoma isn’t curable. Still, as scientists learn more about the cell characteristics common in these tumors, like genetic mutations, they can develop treatments that target them. You may be eligible for a clinical trial testing these new treatments if you’re diagnosed with sarcomatoid carcinoma. Ask your healthcare provider.
+What is the survival rate of sarcomatoid carcinoma?
+The median survival rate is about 10 months, while the five-year survival rate for sarcomatoid carcinoma is approximately 15%. Still, multiple factors shape likely outcomes, including your survival rate. Factors include:
+- The specific type of cells.
+- The particular type of gene mutations involved.
+- How much time has passed from the time you had symptoms to diagnosis.
+- How much of the tumor has grown and destroyed healthy tissue.
+- How much of the cancer has spread.
+- If your provider can remove the tumor.
+Discuss these specifics with your provider to gain a more accurate understanding of your prognosis.
+Living With
+What questions should I ask my doctor?
+- Has my cancer spread?
+- How aggressive is my cancer?
+- What treatments would you recommend?
+- What treatment side effects should I expect?
+- Would you recommend I get a second opinion?
+- Should I work with palliative care specialists?
+- Should I participate in a clinical trial?
+A note from Cleveland Clinic
+Learning that you have a sarcomatoid carcinoma may feel especially concerning and confusing because these tumors are so varied and complex. Speaking openly with your healthcare provider about your treatment options and prognosis is essential. Your provider can explain what to expect based on the characteristics of your cancer cells and the cancer’s location in your body. They can also connect you with resources to help you navigate your diagnosis, including clinical trials (if you’re eligible) and palliative care.
+Resources
+- Baldovini C, Rossi G, Ciarrocchi A. Approaches to tumor classification in pulmonary sarcomatoid carcinoma. Lung Cancer (Auckl). 2019;10:131-149. Accessed 8/2/2022.
+- Feng L, Cai D, Muhetaer A, et al. Spindle cell carcinoma: the general demographics, basic clinico-pathologic characteristics, treatment, outcome and prognostic factors. Oncotarget. 2017;8(26):43228-43236. Accessed 8/2/2022.
+- Karim NA, Schuster J, Eldessouki I, et al. Pulmonary sarcomatoid carcinoma: University of Cincinnati experience. Oncotarget. 2017;9(3):4102-4108. Accessed 8/2/2022.
+- Li X, Wu D, Liu H, Chen J. Pulmonary sarcomatoid carcinoma: progress, treatment and expectations. Ther Adv Med Oncol. 2020;12:1758835920950207. Accessed 8/2/2022.
+- Yang Z, Xu J, Li L, et al. Integrated molecular characterization reveals potential therapeutic strategies for pulmonary sarcomatoid carcinoma. Nat Commun. 2020;11(1):4878. Accessed 8/2/2022.

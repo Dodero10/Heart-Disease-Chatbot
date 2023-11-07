@@ -1,0 +1,81 @@
+Heparin-Induced Thrombocytopenia
+Overview
+What is heparin-induced thrombocytopenia (HIT)?
+Heparin-induced thrombocytopenia (HIT) is a potentially life-threatening complication of taking the drug heparin. Heparin is an anticoagulant (blood thinner) that prevents blood clots. A blood clot is a gel-like collection of blood in your veins or arteries. Your healthcare provider may prescribe heparin to treat a blood clot you already have or to prevent blood clots after a major medical procedure, like surgery.
+In rare cases, heparin triggers a reaction that causes your blood to clot excessively instead of preventing clots. It causes your immune system to make antibodies that activate your platelets. Your platelets are blood cells that cause your blood to clot. In the presence of heparin, excessive blood clotting puts you at risk of developing life-threatening blood clots (thrombosis). The reaction also causes your platelet levels to drop (thrombocytopenia).
+As HIT is a complication that may cause you to have too few platelets and dangerous blood clots, it’s sometimes called heparin-induced thrombocytopenia and thrombosis (HITT).
+What are the types of heparin-induced thrombocytopenia?
+There are two types of heparin-induced thrombocytopenia, HIT I and HIT II. Only HIT II is considered a medical complication that requires treatment.
+- HIT I: Your platelet levels may drop within the first few days of taking heparin but then return to normal. This type of HIT doesn’t put you at risk of blood clots and doesn’t require treatment.
+- HIT II: Your body’s immune system activates your platelets in response to heparin. This reaction causes your platelet levels to drop and puts you at risk of developing serious blood clots.
+Most people who reference heparin-induced thrombocytopenia mean HIT II, as it’s the only serious form.
+Who does heparin-induced thrombocytopenia affect?
+Anyone taking heparin can potentially develop HIT, regardless of dose or frequency. It’s more common in women and people assigned female at birth (AFAB) who are 40 or older. Doctors aren’t sure why some people react to heparin while others don’t.
+How common is heparin-induced thrombocytopenia?
+Heparin-induced thrombocytopenia is uncommon. Approximately 5% of people who take heparin for more than four days develop HIT.
+Symptoms and Causes
+What are the signs and symptoms of heparin-induced thrombocytopenia?
+Your healthcare provider will keep track of how many blood cells you have if you’re taking heparin. Low levels of platelets may be a sign of HIT. About half of people with HIT develop a new blood clot, such as a deep vein thrombosis (DVT) or pulmonary embolism (PE).
+Symptoms may include:
+- Pain, swelling, redness or tenderness in your arm or leg.
+- Sudden sharp pain in your chest (like a heart attack).
+- High blood pressure (hypertension).
+- Feeling faint, dizzy or light-headed.
+- Rapid heartbeat (tachycardia).
+- Coughing and wheezing.
+- Feeling out of breath.
+- Excessive sweating.
+- Fever and chills.
+You may also notice pain, soreness or a rash at the injection site where you received heparin.
+Seek emergency medical attention immediately if you’re taking heparin and experiencing any of these symptoms.
+When does heparin-induced thrombocytopenia occur?
+Symptoms often begin five days to two weeks after you start taking heparin. HIT can occur at other times, too.
+- Early-onset HIT appears one to three days after you start taking heparin. This early form of HIT occurs when you’ve taken heparin in the past (usually within the last three months). When this happens, your body “remembers” heparin because it’s already been exposed to it. It’s already made antibodies to heparin that are ready to react.
+- Refractory (persistent) HIT lasts for weeks after you’ve stopped heparin.
+- Delayed onset HIT doesn’t appear until you’ve stopped taking heparin. It starts five or more days after you quit your medication.
+What causes heparin-induced thrombocytopenia?
+HIT occurs when heparin binds to a protein in platelets called PF4. Heparin and PF4 form what’s called a complex. The complex is named heparin-PF4 after its parts (heparin and PF4). The presence of heparin-PF4 triggers your immune system to make antibodies. These antibodies bind to heparin-PF4. Once the antibodies attach, your platelets start clotting.
+The clotting platelets release more PF4, causing a chain reaction. In other words, the newly released PF4 binds with more heparin, creating more heparin-PF4. Antibodies bind to heparin-PF4, triggering more clotting and so on.
+All the clotting action uses up your platelets. As a result, your platelet levels drop. All the clotting can lead to large, life-threatening blood clots that block your veins and arteries.
+What are the risk factors for heparin-induced thrombocytopenia?
+Risk factors for HIT include:
+- Your sex: HIT is more common in women and people AFAB.
+- Taking certain forms of heparin: Some studies suggest that the form of heparin you take may reduce your risk of HIT. It’s possible that taking unfractionated heparin instead of low-molecular-weight heparin can reduce your risk. More research is needed to know for sure.
+- Taking heparin after surgery: People who receive heparin to prevent blood clots after surgery are more likely to develop HIT than people receiving treatment for clots they already have. Orthopaedic surgery, heart surgery and cardiopulmonary bypass are all associated with an increased risk of developing heparin-induced thrombocytopenia.
+Diagnosis and Tests
+How is heparin-induced thrombocytopenia diagnosed?
+Blood tests can show if you have HIT. Blood tests measure:
+- Platelet levels: Your platelet levels reveal whether you have low platelets, or thrombocytopenia.
+- Clot formation: Blood tests can show if your blood is forming clots.
+- PF4 antibody levels: The amount of PF4 antibody levels in your blood can confirm that your immune system is activating your platelets. Antibody tests confirm a HIT diagnosis.
+Your healthcare provider may also order ultrasounds to screen your legs for blood clots (deep vein thrombosis, DVT). Depending on your condition, your healthcare provider may perform imaging on other areas, such as your arms, to check for clots.
+The antibody test results may take a while to confirm that you have HIT. As HIT can be fatal without treatment, your provider won’t wait to receive the results to begin treatment. Instead, they’ll decide to start treatment based on how likely it is you have HIT.
+What is the 4Ts test in heparin-induced thrombocytopenia?
+The 4Ts test is a scoring system used to determine how likely it is you have HIT. It provides enough information about your condition so your provider doesn’t have to delay treatment while waiting on the results of an antibody test. Your healthcare provider assigns a score (from 0 points to 2 points) for the following criteria:
+- Thrombocytopenia: How low is your platelet count?
+- Timing of your reaction to heparin: When did your platelet levels fall?
+- Thrombosis: Are there signs of clotting?
+- Other causes of thrombocytopenia: Is it possible that what’s causing your low platelets isn’t heparin?
+The higher the score, the greater the likelihood that you have HIT.
+Management and Treatment
+What is the treatment for heparin-induced thrombocytopenia?
+Treatment includes stopping heparin and switching to a different blood thinner. Your platelet count should start increasing within a few days of stopping heparin. In the meantime, your healthcare provider will recommend an alternative to heparin to prevent blood clots.
+Alternatives to heparin may include:
+- Direct thrombin inhibitors (argatroban, bivalirudin).
+- Fondaparinux.
+- Direct oral anticoagulants.
+Your healthcare provider may switch you to a blood thinner called warfarin once your platelet levels have returned to normal and you’re no longer at risk of clots associated with HIT.
+Prevention
+How can I prevent heparin-induced thrombocytopenia?
+There’s nothing you can do to prevent HIT. Still, your healthcare provider can monitor your platelet count closely to reduce your risk of complications from heparin.
+Outlook / Prognosis
+What can I expect if I have heparin-induced thrombocytopenia?
+Heparin-induced thrombocytopenia (HIT) is serious without early treatment. Large clots in your arms and legs can do long-term damage to your limbs. Clots affecting major organs can be fatal. Fortunately, greater awareness about HIT and better treatments have improved the survival rate.
+Getting diagnosed early, before serious blood clots have formed, is key to a positive outcome. Once your provider recognizes signs of HIT, like low platelets, they can prescribe treatments to reduce your risk of developing dangerous blood clots.
+Living With
+How do I take care of myself?
+You’ll need to see your healthcare provider regularly to monitor your platelets and ensure you remain free of blood clots. In addition, your provider will watch for side effects that can arise when switching from heparin to a new blood thinner. For instance, some people experience bleeding as a side effect of blood thinners.
+In the meantime, take medications as prescribed. Even if you don’t have a clot, you might need to take a non-heparin blood thinner for a month at a minimum. If you did have a clot, you might need to be on blood thinners for longer.
+One of the best ways to take care of yourself is to ensure that future healthcare providers know you’ve experienced this complication. You shouldn’t take heparin in the future if you’ve had HIT.
+A note from Cleveland Clinic
+Seek emergency medical attention immediately if you’re noticing changes in your body while taking heparin. Although heparin-induced thrombocytopenia (HIT) is rare, it’s too serious to ignore signs of a potential clot. Without treatment, HIT can be life-threatening. With treatment, your platelet count should return to normal and your risk for clots should decrease. Work with your healthcare provider to determine the best substitutes for heparin moving forward.

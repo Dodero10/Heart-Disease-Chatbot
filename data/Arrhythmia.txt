@@ -1,0 +1,191 @@
+Arrhythmia
+Overview
+What is arrhythmia?
+An arrhythmia (also called dysrhythmia) is an abnormal heartbeat. Arrhythmias can start in different parts of your heart and they can be too fast, too slow or just irregular.
+Normally, your heart beats in an organized, coordinated way. Issues with various parts of your heart — or even the blood your heart pumps — can affect your heart’s normal rhythm. Having a normal heart rhythm matters because your heart supplies your whole body with nutrients and oxygen through the blood it pumps.
+How serious is a heart arrhythmia?
+Some types of arrhythmia are harmless and don’t require treatment. Others can put you at risk for cardiac arrest. Many are in between these two extremes. A healthcare provider can tell you which type of arrhythmia you have and what kind of treatment you need, if any.
+What are the types of arrhythmia?
+Healthcare providers describe arrhythmias by where in your heart they start.
+- Supraventricular arrhythmias: These begin in your atria (your heart’s upper chambers). “Supraventricular” means above your ventricles or lower chambers of your heart.
+- Ventricular arrhythmias: These begin in your heart’s ventricles or lower chambers.
+- Bradyarrhythmias and junctional rhythms: These can happen because of issues in your heart’s conduction system, such as the sinoatrial (SA) node, atrioventricular (AV) node or His-Purkinje network.
+How common is arrhythmia?
+An estimated 1.5% to 5% of people have arrhythmias. However, some people don’t have symptoms, making it difficult to estimate how many people actually have arrhythmias. In the U.S., atrial fibrillation is the most common type of arrhythmia.
+Symptoms and Causes
+What are the warning signs of arrhythmia?
+Heart arrhythmia symptoms may include:
+- Heart palpitations.
+- Dizziness or lightheadedness.
+- Fainting episodes.
+- Shortness of breath.
+- Chest discomfort.
+- Weakness or fatigue.
+A cardiac arrhythmia may be “silent” and not cause any symptoms.
+What causes arrhythmia?
+Arrhythmia causes include:
+- Coronary artery disease.
+- Irritable tissue in your heart (due to genetic or acquired causes).
+- High blood pressure.
+- Changes in your heart muscle (cardiomyopathy).
+- Valve disorders.
+- Electrolyte imbalances in your blood.
+- Injury from a heart attack.
+- The healing process after heart surgery.
+- Other medical conditions.
+What is the main cause of arrhythmia?
+Most arrhythmias happen because of an issue with your heart’s arteries, valves or muscles.
+What are the risk factors for arrhythmia?
+Risk factors for arrhythmia include:
+- Using tobacco products.
+- Drinking alcohol.
+- Consuming drinks and foods that have caffeine.
+- Taking stimulants like cold medicines or herbal supplements.
+- Having high blood pressure.
+- Having a BMI (body mass index) higher than 30.
+- Having high blood sugar.
+- Having sleep apnea.
+What are the complications of arrhythmia?
+Without treatment, arrhythmias can lead to complications such as:
+- Weakening of your heart muscle (cardiomyopathy).
+- Cardiac arrest.
+- Stroke.
+Diagnosis and Tests
+How is an arrhythmia diagnosed?
+A healthcare provider can find an irregular heartbeat during an examination by taking your pulse and listening to your heart.
+After assessing your symptoms and performing a physical examination, they may order diagnostic tests to help confirm that you have an arrhythmia. This can also help find the cause.
+You may also want to see an electrophysiologist — a cardiologist who has additional specialized training in the diagnosis and treatment of heart rhythm disorders.
+What tests will be done to diagnose arrhythmia?
+Some tests that can check for an irregular heart rhythm and associated diseases include:
+- Electrocardiogram (ECG or EKG).
+- Blood tests to check your electrolyte levels or look for a genetic issue.
+- Ambulatory monitors.
+- Stress test.
+- Echocardiogram.
+- Cardiac catheterization.
+- Electrophysiology study (EPS).
+- Tilt table test.
+- Computed tomography (CT).
+- Heart MRI (magnetic resonance imaging).
+Management and Treatment
+How is an arrhythmia treated?
+Treatment depends on the type and severity of your arrhythmia. In some cases, no treatment is necessary. Heart arrhythmia treatment options include:
+- Medications.
+- Lifestyle changes.
+- Therapies.
+- Devices.
+- Surgery.
+Medications
+Many medications can treat arrhythmias. Because everyone is different, you may have to try several medications and doses to find the one that works best for you. Heart arrhythmia treatments include:
+- Antiarrhythmic drugs that convert the arrhythmia to sinus rhythm (normal rhythm) or prevent an arrhythmia.
+- Medicines that control your heart rate.
+- Anticoagulant or antiplatelet therapy drugs (such as warfarin or aspirin) that reduce the risk of blood clots forming.
+- Medications that treat related conditions that may be causing an abnormal heart rhythm.
+It’s important to know:
+- The names of your medications.
+- Why you take them.
+- How often and at what times to take them.
+- Side effects of your medications.
+Lifestyle changes
+Simple changes to the way you live can help with arrhythmias. These changes may include:
+- Managing blood pressure and blood sugar levels.
+- Avoiding tobacco products.
+- Cutting back on alcohol intake.
+- Avoiding caffeine and stimulants.
+- Working toward a healthy weight.
+Therapies
+In addition to medicine, some people need therapies to treat or eliminate irregular heart rhythms. Your healthcare provider will determine the best treatment for you and discuss the benefits and risks of these therapies with you.
+Therapies include:
+- Cardioversion: An electrical impulse synchronizes your heart and allows your normal rhythm to restart.
+- Catheter ablation: A catheter sends high-frequency electrical energy to a small area of tissue inside your heart to “disconnect” the abnormal rhythm’s pathway. Ablation can treat most SVTs, atrial flutter, atrial fibrillation and some atrial and ventricular tachycardias.
+- Pulmonary vein isolation: This type of ablation creates rings of scars to isolate areas that may cause atrial fibrillation. This can help people with frequent, paroxysmal or persistent atrial fibrillation.
+Devices
+A cardiologist may insert certain devices during a procedure in the electrophysiology lab. Devices to treat a heart arrhythmia include:
+- Permanent pacemaker: This device sends small electrical impulses to your heart muscle to maintain a normal heart rate and keep your heart from beating too slowly.
+- Implantable cardioverter defibrillator (ICD): This device constantly monitors your heart rhythm. When it detects a very fast, abnormal heart rhythm, it delivers energy to your heart muscle to make it beat in a normal rhythm. This device treats ventricular tachycardia and ventricular fibrillation, two life-threatening heart rhythms.
+- Biventricular (B-V) pacemakers and defibrillators (also called cardiac resynchronization therapy or CRT): These devices help to synchronize the contraction of your left ventricle. In addition to the leads that go to the right side of your heart, they have a lead that goes to your left ventricle. People with heart failure and uncoordinated left ventricle contractions may need this.
+Surgery
+People with arrhythmias may require heart surgery for any of these reasons:
+- To treat heart disease that may be causing the arrhythmia, including valve surgery or coronary artery bypass surgery.
+- A maze procedure can correct atrial fibrillation that doesn’t respond to medications or nonsurgical treatment methods.
+- In some cases, a provider may place biventricular pacemaker leads (tiny wires) on your heart using minimally invasive or surgical techniques.
+Complications/side effects of the treatment
+Side effects and complications vary depending on the treatment. They may include:
+Arrhythmia medication
+- Allergic reactions.
+- Dizziness.
+- Headaches.
+- Bleeding.
+- Upset stomach.
+Cardioversion
+- Embolization of blood clots.
+- Skin bruises.
+- Skin rash.
+Catheter ablation
+- Bleeding.
+- Blood clots.
+- Stroke.
+- Infection.
+- Injury to a vein or heart tissue.
+Pulmonary vein isolation
+- Allergic reaction to dye (if used).
+- Infection.
+- Injury to your heart, esophagus or vein.
+- Stroke.
+Devices
+- Device malfunction.
+- Infection.
+- Bleeding.
+- Collapsed lung.
+Surgery
+- Bleeding.
+- Infection.
+- Stroke.
+- Heart attack.
+- Need for a pacemaker.
+How soon after treatment will I feel better?
+It may take a little time to find the right medication and dose that works for your arrhythmia. Depending on the procedure or surgery, recovery afterward can take weeks or months. If you have a procedure like catheter ablation or pulmonary vein isolation, you may still have arrhythmias for several weeks while you’re healing. Your provider can tell you what to expect in your specific situation.
+Prevention
+How can I lower my risk of arrhythmia?
+Here are some ways to lower your risk of arrhythmia:
+- Stop using tobacco products.
+- Limit your intake of alcohol.
+- Limit or stop using caffeine. Some people are sensitive to caffeine and may notice more symptoms when using caffeinated products (like tea, coffee, colas and some over-the-counter medications).
+- Don’t take stimulants. Beware of stimulants in cough and cold medications and herbal or nutritional supplements. Some of these medications contain ingredients that promote irregular heart rhythms. Read the label and ask your provider what medication would be best for you.
+- Manage high blood pressure.
+- Work toward a weight that’s healthy for you.
+- Manage blood sugar levels.
+- Treat sleep apnea.
+- Avoid activities that appear to trigger an arrhythmia.
+Outlook / Prognosis
+What can I expect if I have an arrhythmia?
+Depending on the type of cardiac arrhythmia you have, you may have mild or severe symptoms or none at all. You may not need treatment, but some people need medicine or a procedure. With heart arrhythmia treatment, many people can live full lives. Some people with more serious arrhythmias have a cardiac arrest and may or may not survive.
+How long arrhythmia lasts
+Harmless arrhythmias go away and come back in response to what triggers them. However, people with other types of arrhythmias — especially those that put you at risk for cardiac arrest — need treatment for the rest of their lives.
+Living With
+How do I take care of myself?
+If you have a cardiac arrhythmia, you might find it useful to know how to take your pulse. Your pulse is your heart rate, or the number of times your heart beats in 1 minute. Pulse rates vary from person to person. Your pulse is slower when you’re at rest and increases when you exercise. A normal heart rate (at rest) is 60 to 100 beats per minute. If you have a fitness tracker or smartwatch, it can track your heart rate.
+You should also make sure that your family and friends know how to recognize your arrhythmia symptoms. It can give you peace of mind if they learn how to start CPR.
+What can’t I eat/drink with this condition?
+If you have an arrhythmia, you should limit the amount of alcohol and caffeine you consume. Both of these can trigger arrhythmias.
+When should I see my healthcare provider?
+Your provider will tell you how often you should visit. Call them in between visits if your symptoms become more frequent or severe.
+You’ll need to visit your provider for regular follow-up visits to:
+- Make sure your arrhythmia treatments are working.
+- Properly adjust your medications.
+- Evaluate how well any implanted devices are working.
+- Make sure you’re staying healthy and not having other medical issues.
+When should I go to the ER?
+Get immediate medical care if you have:
+- Trouble breathing.
+- Chest pain.
+- Dizziness.
+- Fainting episodes.
+What questions should I ask my doctor?
+Questions you may want to ask your provider include:
+- Which type of arrhythmia do I have?
+- Do I need treatment?
+- What’s the best treatment for me?
+- What do I need to do to maintain my device?
+A note from Cleveland Clinic
+There are many ways for your heartbeat to be irregular. Some of these irregular heartbeats, called arrhythmias, don’t cause symptoms. It’s important to see your healthcare provider if you do notice symptoms like extreme fatigue or heart palpitations. Your provider will help determine the best treatment option for you, but you can also help yourself by making appropriate lifestyle changes.

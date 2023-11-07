@@ -1,0 +1,87 @@
+Timothy Syndrome
+Overview
+What is Timothy syndrome?
+Timothy syndrome is a rare genetic condition that affects your child’s heart, physical appearance, nervous and immune systems. Symptoms range in severity based largely on heart rhythm involvement, which can be life-threatening.
+Who does Timothy syndrome affect?
+Timothy syndrome can affect anyone since it’s a genetic condition. Only one copy of a gene variant from one parent needs to pass to the child for them to inherit the condition (autosomal dominant). It’s possible to inherit this condition from a parent who doesn’t have symptoms of the condition because only some cells in their body have the affected gene (mosaic). It’s unlikely that a person diagnosed with Timothy syndrome will pass the gene onto the next generation due to the severity of symptoms.
+In most cases, Timothy syndrome is the result of a new genetic variant that forms sporadically, with no history of the condition in a person’s family.
+How common is Timothy syndrome?
+Timothy syndrome is rare. There are fewer than 100 people diagnosed with the condition worldwide.
+Symptoms and Causes
+What are the symptoms of Timothy syndrome?
+Symptoms of Timothy syndrome affect each person differently and range in severity. Your child may experience some symptoms and not others. Symptoms affect different parts of their body, especially the heart, and cause distinct physical characteristics and changes to how their body functions.
+Heart symptoms
+Symptoms that affect the heart include palpitations and a loss of consciousness (syncope). These symptoms are the result of the following:
+- Recharging delay between heartbeats (prolonged QT).
+- Abnormal structure of the heart that affects its ability to pump blood (congenital heart disease).
+- Irregular heart rhythm (arrhythmia).
+- Low chambers of the heart beat too fast (ventricular tachycardia).
+Symptoms that affect the heart are life-threatening and can lead to cardiac arrest or sudden death.
+Physical characteristics
+Timothy syndrome can cause distinct physical characteristics that are present after your child is born including:
+- Webbed fingers and toes (cutaneous syndactyly).
+- Flat nasal bridge.
+- Low-set ears.
+- Small upper jaw.
+- Thin upper lip.
+- Small, misaligned teeth.
+- Baldness at birth.
+Body system symptoms
+Timothy syndrome targets a part of your child’s brain that controls how certain body systems function. This leads to symptoms that include:
+- Developmental delays and problems with cognitive function.
+- Frequent infections.
+- Low blood sugar (hypoglycemia).
+- Low body temperature (hypothermia).
+- Seizures (epilepsy or photosensitive epilepsy).
+- Trouble with communication and socialization (autism spectrum disorder).
+What causes Timothy syndrome?
+A genetic variant (mutation) of the CACNA1C gene causes Timothy syndrome. This gene provides instructions to build a protein that helps transport calcium atoms (ions) to heart cells (cardiomyocytes) and nerve cells (neurons) in the brain. Calcium atoms help your body:
+- Regulate electrical activity of cells.
+- Help cells communicate with other cells.
+- Tense muscle fibers (muscle contraction).
+- Regulate genes that build the brain and bones during fetal development.
+The protein that the CACNA1C gene builds is a door. It opens and closes to allow positively charged calcium atoms to move in and out of cells. When a genetic variant affects the CACNA1C gene, the protein’s door stays open, which causes calcium to congregate by the door. Clusters of calcium atoms cause symptoms of Timothy syndrome and prevent certain body systems from functioning normally.
+Diagnosis and Tests
+How is Timothy syndrome diagnosed?
+Diagnosis of Timothy syndrome can occur before birth or during infancy. During a prenatal ultrasound, your healthcare provider will check your baby’s heart rate to see if it is normal. An abnormal heart rhythm associated with Timothy syndrome is fetal bradycardia or a slow heart rate.
+Once your child is born, an EKG can examine your child’s heart rhythm. The following tests are also useful in establishing the diagnosis of Timothy Syndrome:
+- Genetic test to identify the gene responsible for symptoms.
+- Imaging tests (MRI, CT scan, X-ray).
+- Cardiology evaluation to check heart health.
+- Neurology evaluation to identify nervous system function.
+- Metabolic blood tests to check for additional symptoms.
+Management and Treatment
+How is Timothy syndrome treated?
+Treatment for Timothy syndrome focuses on preventing life-threatening symptoms that affect the heart including:
+- Taking medicine to regulate heart rate (beta blockers).
+- Using an implanted cardioverter defibrillator (ICD) or pacemaker.
+Treatment options are also available to treat other symptoms that affect your child including:
+- Taking antibiotics to treat an infection.
+- Surgery to treat webbed fingers and toes.
+- Blood sugar monitoring.
+- Enrolling in special education programs.
+Are there any complications of the treatment?
+For children diagnosed with Timothy syndrome, there is a high risk of heart arrhythmias and cardiac complications due to the use of anesthetic medications, particularly those that prolong the QT interval.
+Prevention
+How can I prevent Timothy syndrome?
+You can’t prevent Timothy syndrome since it’s the result of a genetic variant that you either inherit or it happens without a history of the condition in your family.
+If you plan on becoming pregnant and want to understand your risk of having a child with a genetic condition like Timothy syndrome, talk to your provider about genetic testing.
+Outlook / Prognosis
+What can I expect if my child has Timothy syndrome?
+There is no cure for Timothy syndrome, but treatment focuses on improving a child’s quality of life by reducing life-threatening symptoms.
+Prognosis is poor for children diagnosed with severe heart symptoms. Nearly 80% of cases result in death during early childhood from arrhythmias or ventricular tachycardia.
+Less severe cases of Timothy syndrome lead to a better outcome.
+Living With
+How do I take care of my child diagnosed with Timothy syndrome?
+Since symptoms of Timothy syndrome can be life-threatening, it’s important to visit your child’s provider regularly to check their overall health, especially their heart. Regular preventative testing is helpful to find and treat other symptoms that arise from their diagnosis.
+If your child experiences developmental delays or problems with cognitive development, your child could benefit from special education programs or supportive therapies to help them in school.
+When should I see my child’s healthcare provider or visit the ER?
+If your child experiences symptoms of Timothy syndrome, like an infection, difficulty maintaining body temperature or frequent low blood sugars, visit your healthcare provider.
+More severe symptoms that require immediate medical attention include seizures and heartbeat abnormalities, especially a fast heartbeat or an irregular pattern of their heartbeat, which could be life-threatening. If your child experiences any severe symptoms, visit the emergency room or call 911,
+What questions should I ask my child’s doctor?
+- Are there any side effects to the medication you prescribed?
+- Does my child need surgery?
+- Is my child healthy enough for surgery?
+- How can I monitor my child’s symptoms?
+A note from Cleveland Clinic
+Navigating a rare genetic condition can be challenging for new parents and children alike. It’s important to stay regular with your child’s checkups to monitor their health during their diagnosis, especially to verify that their treatment is helping their symptoms and prolonging the amount of time they can spend with you. While your child’s care is top of mind, make sure you make time for yourself and your family to reduce stress and anxiety and learn more about how you can provide for your child by talking with a licensed mental health professional.

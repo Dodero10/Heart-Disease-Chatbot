@@ -1,0 +1,104 @@
+Hypoxia
+Overview
+What is hypoxia?
+Hypoxia is when the tissues of your body don’t have enough oxygen. When you breathe, you take oxygen into your lungs, where it travels through your airways out into small sacks called alveoli. From there, it gets picked up by your blood in small vessels that travel close to the alveoli (capillaries). Finally, it travels through your blood out to other tissues.
+You can think of oxygen as billions of passengers flying into the airport (your lungs). They get picked up at the gate and get on the highway (blood vessels) to be taken to their destination (your tissues). As the oxygen gets dropped off, it makes room for a different passenger to be picked up: carbon dioxide. Carbon dioxide is a waste product, which is then taken back to your lungs and exits your body when you breathe out.
+If not enough oxygen gets through at any place on the journey, it can lead to hypoxia. Airflow and blood flow are both important to the process. This is why lung disease and heart disease both increase your risk of hypoxia. Someone who experiences hypoxia is called hypoxic.
+Hypoxia vs. hypoxemia: What’s the difference?
+You may hear the words hypoxia and hypoxemia used interchangeably, but they aren’t the same. The names sound similar because they both involve a lack of oxygen but in different parts of your body.
+Hypoxia is low oxygen levels in the tissues and hypoxemia is low oxygen levels in the blood. Hypoxia is often caused by hypoxemia but not always. You can be hypoxic but not hypoxemic and vice versa.
+Who does hypoxia affect?
+Any condition that reduces the amount of oxygen in your blood or restricts blood flow can cause hypoxia. People living with heart or lung diseases such as COPD, emphysema or asthma, are at an increased risk for hypoxia. Some infections, like pneumonia, influenza and COVID-19 can also increase your risk of hypoxia.
+What is hypoxia and what does it do to the body?
+Your cells need oxygen to produce energy and help your organs and tissues to do their jobs. While some of your tissues can adjust to temporary dips in oxygen levels, prolonged hypoxia can cause organ damage. Brain and heart damage are particularly dangerous and can lead to death. Lack of oxygen to your brain is called cerebral hypoxia.
+Symptoms and Causes
+What are the signs and symptoms of hypoxia?
+Hypoxia symptoms vary depending on the severity, underlying cause and what parts of your body are affected. When your oxygen is low, you might feel like you can’t breathe or think properly. Some hypoxia symptoms include:
+- Restlessness.
+- Headache.
+- Confusion.
+- Anxiety.
+- Rapid heart rate (tachycardia).
+- Rapid breathing (tachypnea).
+- Difficulty breathing or shortness of breath (dyspnea).
+Severe hypoxia can cause additional symptoms:
+- Slow heart rate (bradycardia).
+- Extreme restlessness.
+- Bluish skin (cyanosis).
+What causes hypoxia?
+Hypoxia is most often caused by an underlying illness that affects blood flow or breathing. Conditions that can lead to hypoxia include:
+- Anemia.
+- Asthma.
+- Bronchitis.
+- Chronic obstructive pulmonary disease (COPD).
+- Congenital heart defects.
+- Congestive heart failure.
+- Emphysema.
+- Pneumonia (bacterial and viral).
+- Pneumothorax (air in the space around the lung or collapsed lung).
+- Pulmonary edema (fluid on the lungs).
+- Pulmonary embolism (blood clot in the lung).
+- Pulmonary hypertension.
+- Pulmonary fibrosis (lung scarring).
+- Sleep apnea.
+What are the 4 types of hypoxia?
+For oxygen to make it to the cells in your tissues, you need:
+- Enough oxygen in the air you breathe in.
+- Healthy lung function to get oxygen to your alveoli.
+- Healthy heart and circulatory functions to get oxygen-rich blood to your tissues.
+- Enough red blood cells to deliver oxygen.
+- Tissue cells capable of using oxygen.
+The four types of hypoxia are each caused by a lack of oxygen in any one of these areas.
+Hypoxemic hypoxia
+Low amounts of oxygen in the blood (hypoxemia) can lead to hypoxemic hypoxia, the most common cause of hypoxia. Hypoxemia can be caused by lung and heart diseases, congenital heart defects, and medications that slow your breathing. Traveling to a high altitude, where levels of oxygen are lower, can also cause hypoxemia.
+Circulatory hypoxia
+Your blood can have plenty of oxygen, but not enough of it gets to your tissues if the heart doesn’t pump enough blood or there is a blockage in a blood vessel. This is called circulatory hypoxia (also called stagnant hypoxia or ischemic hypoxia). Congestive heart failure and blood clots can increase your risk of circulatory hypoxia.
+Anemic hypoxia
+Anemic hypoxia happens when you don’t have enough red blood cells to carry oxygen from your lungs to other tissues. You can become anemic if your body doesn’t make enough red blood cells or it makes deformed red blood cells.
+Histotoxic hypoxia
+Histotoxic hypoxia happens when your cells aren’t able to use oxygen properly. In this case, you can have plenty of oxygen coming into your lungs and entering your blood. But when it arrives at your tissues, something keeps your cells from being able to use it. This can happen with cyanide poisoning.
+Diagnosis and Tests
+How is hypoxia diagnosed?
+Your healthcare provider will perform a physical exam, including listening to your heart and lungs. They may check your skin, nails and lips to see if they look bluish. Your provider may also order tests to check your oxygen levels and determine the underlying cause of hypoxia, including:
+- Pulse oximetry: Your healthcare provider places a sensor over your finger to measure the amount of oxygen in your blood. This procedure is noninvasive and painless.
+- Arterial blood gas test (ABG): A thin needle is used to draw blood from your wrist, arm, or groin to check your oxygen levels.
+- Pulmonary function test (PFT): You blow out and breathe in to a mouthpiece attached to a machine that measures how well your lungs work.
+- Imaging: X-rays, CT scans, and V/Q scans all use special equipment to get images of your internal organs. Imaging can help your provider determine the cause of hypoxia.
+- Six-minute walk test (6MWT): You walk on a flat surface for six minutes to see how far you can walk in that time. This test helps your healthcare provider evaluate lung and heart function.
+Management and Treatment
+How is hypoxia treated?
+The treatment for hypoxia depends on the underlying cause. The cause might be a one-time event or it could be an ongoing condition. Treatments might include:
+- Inhaled steroids that can open up your airways to treat asthma or other lung disease.
+- Medications that help to reduce excess fluid on the lungs (diuretics).
+- Continuous positive airways pressure mask (CPAP) to treat sleep apnea.
+- BiLevel positive airway pressure (often known under the trade name BiPAP®) to treat COPD or and some kinds of sleep apnea.
+- Supplemental oxygen to treat ongoing (chronic) hypoxia. An oxygen delivery device is attached to your nose with a mask or tubes to increase the amount of oxygen getting into your lungs and down to your alveoli.
+- Mechanical ventilation in a hospital, in circumstances of severe acute hypoxia (sudden onset).
+How do I manage the symptoms of hypoxia?
+If you experience symptoms like confusion, rapid heart rate or breathing, or if you notice your nails, lips, or skin appear bluish, you should seek medical attention immediately. Hypoxia should be treated right away to prevent permanent organ damage. COPD and other medical conditions may cause chronic hypoxia with less severe symptoms. Your healthcare provider will talk to you about managing your specific condition to reduce your symptoms and the risk of your oxygen levels dropping too low.
+Prevention
+How can I reduce my risk of hypoxia?
+The best way to reduce your risk of hypoxia is to manage any underlying conditions that can lower your oxygen levels. If you live with a heart or lung condition, talk to your healthcare provider about your concerns and specific ways to lower your risk. Be aware that certain medications and situations — like traveling to a higher altitude — might increase your risk of hypoxia. Ask your provider about any special precautions you need to take while traveling or changing medication.
+Outlook / Prognosis
+What can I expect if I have this condition?
+Hypoxia usually requires medical treatment immediately. Your healthcare provider will talk to you about the underlying cause and how to manage it going forward.
+In some circumstances, hypoxia resolves when the underlying condition is treated. In these cases, the need for supplemental oxygen goes away. In other circumstances, you may need chronic supplemental oxygen to ensure there is no ongoing hypoxia or tissue damage from low oxygen levels. Your healthcare provider will discuss your options with you.
+Living With
+How do I take care of myself?
+If you have an underlying condition that led to — or could lead to — hypoxia, managing that condition is the best way to lower your risk of it happening again.
+- Don’t ignore new symptoms. Trust yourself if you feel something is off and contact your healthcare provider or go to the ER.
+- Take care of yourself. If you have asthma, know your triggers and make sure you have a rescue inhaler if prescribed. Perform breathing exercises using an incentive spirometer and follow any other recommendations for lung health provided by your healthcare provider.
+- Quit smoking and using tobacco products. If you smoke, quitting can help increase lung function and prevent further damage to your lungs.
+- Take any medication as prescribed by your healthcare provider.
+- Make a plan for high-altitude travel. Even those without underlying conditions can have trouble breathing at high altitudes. Understand how it might affect you and make a plan for how to adjust to the change. Think about what you will do if you need medical attention. Give yourself plenty of time to acclimate if necessary and make sure to bring any extra equipment or medication you might need.
+When should I go to ER?
+Hypoxia can be a life-threatening condition. Go to the emergency room if you have any symptoms of hypoxia or if others notice a sudden change in your behavior or awareness (confusion, restlessness, change in consciousness). Go to the ER if you have an ongoing medical condition and your typical symptoms worsen suddenly, or you experience new symptoms that you think might be hypoxia.
+What questions should I ask my healthcare provider?
+If you or a loved one is diagnosed with hypoxia, here are some questions you can ask your healthcare provider:
+- Is hypoxia related to an underlying medical condition?
+- How can I manage my condition to reduce my risk of hypoxia?
+- Did this cause any organ damage or other complications?
+- Are there any changes in lifestyle that could reduce my risk of hypoxia?
+- Do changes in travel plans or medication increase my risk of hypoxia?
+A note from Cleveland Clinic
+Hypoxia is a life-threatening condition that is treatable with prompt medical attention. If you have a heart or lung condition that puts you at risk for hypoxia, talk to your healthcare provider about the signs and symptoms to look for and what to do if you think your oxygen is too low. Trust that you know your body best and don’t hesitate to call your healthcare provider or go to the nearest ER if you experience any worrisome symptoms.

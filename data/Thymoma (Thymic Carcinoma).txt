@@ -1,0 +1,101 @@
+Thymoma (Thymic Carcinoma)
+Overview
+What are thymoma and thymic carcinoma?
+Thymoma and thymic carcinoma are forms of cancer that start in a gland called your thymus. Your thymus is located behind your breastbone. It plays an essential role in the development of white blood cells that fight infection called T-lymphocytes (T-cells).
+Your thymus consists of two cell types: epithelial cells and lymphocytes. Either type can grow abnormally and transform into cancer:
+- Abnormal epithelial cell growth leads to thymoma and thymic carcinoma.
+- Abnormal lymphocyte growth leads to Hodgkin or non-Hodgkin lymphoma.
+Thymoma and thymic carcinoma are also called thymic epithelial tumors (TETs) because they start in your thymus and originate from epithelial cells.
+What is the difference between thymoma and thymic carcinoma?
+Thymomas and thymic carcinoma are both thymic epithelial tumors (TETs), but there are some important differences:
+- Thymoma grows slowly and rarely spreads beyond your thymus.
+- Thymic carcinoma develops fast and is more likely to spread to other parts of your body (metastasize).
+The treatments your healthcare provider prescribes and your prognosis depend on whether you have thymoma (less aggressive) or thymic carcinoma (more aggressive).
+Who does it affect?
+Thymomas and thymic carcinoma are most common in adults between 40 and 75. Most people diagnosed in the U.S. have Asian or Pacific Islander heritage.
+Autoimmune paraneoplastic syndromes are commonly associated with thymoma. If you have an autoimmune paraneoplastic syndrome, your body’s immune cells mistakenly attack healthy cells, causing unpleasant symptoms. The most common paraneoplastic syndromes associated with thymoma are:
+- Myasthenia gravis: An autoimmune condition that impacts your nerves and muscles, causing muscle weakness.
+- Pure red cell aplasia (PRCA): A blood disorder where your bone marrow doesn’t make enough red blood cells. PRCA causes anemia.
+- Hypogammaglobulinemia (Good syndrome): An immune system disorder where your body doesn’t make enough antibodies to fight disease and prevent infections.
+Other paraneoplastic syndromes associated with thymomas appear less often. They include:
+- Polymyositis.
+- Lupus erythematosus.
+- Rheumatoid arthritis.
+- Thyroiditis.
+- Sjögren syndrome.
+Thymoma and thymic carcinoma are the most frequently occurring tumors you get in your thymus. Still, they’re rare overall. Only about 400 people in the U.S. are diagnosed each year.
+Symptoms and Causes
+What are the signs and symptoms of thymoma and thymic carcinoma?
+Most people don’t have symptoms in the early stages. Instead, symptoms often arise when a tumor impacts organs in your chest. Other symptoms are associated with paraneoplastic syndromes.
+Symptoms of a tumor impacting an organ in your chest
+Pain and breathing issues may be signs of thymoma or thymic carcinoma. Symptoms include:
+- Chest pain or a feeling of pressure on your chest.
+- Cough that won’t go away.
+- Shortness of breath.
+- Trouble swallowing.
+Tumors can block or squeeze the large veins that carry blood to your heart, called the vena cava. Compression of the vena cava can cause a very serious condition known as superior vena cava syndrome. If this happens, you may experience symptoms that include:
+- Cough.
+- Shortness of breath.
+- Fatigue.
+- Dizziness.
+- Headaches.
+- Swelling in your neck and face.
+- Swelling in your arms and hands.
+- Visible veins in the upper part of your body.
+Signs and symptoms of paraneoplastic syndromes
+If you have a thymoma, you may notice signs and symptoms of one or more paraneoplastic syndromes, including:
+- Double vision, drooping eyelids, fatigue and muscle weakness (myasthenia gravis).
+- Anemia (pure red blood cell aplasia).
+- Frequent infections, diarrhea and swollen lymph nodes (hypogammaglobulinemia).
+What causes thymoma (thymic carcinoma)?
+There are no known genetic or environmental risk factors for thymoma. Research is ongoing to look for links to viruses, heredity and other cancers.
+Diagnosis and Tests
+How is thymoma (thymic carcinoma) diagnosed?
+Your healthcare provider may discover you have a tumor after performing imaging to explore what’s causing your symptoms.
+To make a diagnosis, your healthcare provider will perform a physical exam and ask about your symptoms and medical history. They may perform any of the following procedures to get more information about your tumor:
+- Chest X-ray: An X-ray can show masses inside of your body and provide important information, like how defined a tumor’s edges are. A tumor with clearly defined edges is easier to remove during surgery.
+- CT scan: A chest CT scan is the most common imaging procedure to detect thymoma. Your provider may inject dye into your vein (called a contrast medium) to make your tumor stand out more on imaging. Often, a CT scan is the only imaging needed to detect thymoma or thymic carcinoma.
+- MRI: An MRI can provide a detailed image of your tumor, allowing your provider to tell it apart from other potential growths. For example, your provider may use an MRI to better understand whether a mass is a thymoma or thymic carcinoma.
+- PET scan or a PET/CT: During a PET Scan, a provider injects a safe, radioactive sugar into your veins. This solution, or contrast medium, collects around cells that use a lot of energy — like cancer cells. The contrast medium makes tumors show up more clearly on imaging. Often, providers can perform a PET scan and a CT scan (PET/CT) simultaneously.
+- Biopsy: A biopsy is the only way to confirm a diagnosis. Your provider will remove tumor cells and analyze them beneath a microscope. If it’s possible to do so safely, your provider will remove the entire tumor and test the cells. If your provider can’t safely remove the whole tumor, they’ll remove a sample for testing.
+How is thymoma (thymic carcinoma) staged?
+Cancer staging classifies cancer based on how serious it is. Many factors determine disease severity. Your cancer’s stage helps your healthcare provider plan treatments and predict likely outcomes.
+Thymomas and thymic carcinoma are staged using the TNM system. TNM stands for tumor, lymph nodes and metastasis. To stage your cancer, healthcare providers ask questions like:
+- Tumor: Is there a tumor? How big is the tumor? Where is the tumor located?
+- Nodes: Has cancer spread to the lymph nodes? Which ones? How many nodes?
+- Metastasis: Has the cancer spread to other body parts outside the thymus? Which parts?
+Your healthcare provider will use the answers to these questions to stage your cancer from I to IV. Increasing numbers mean more cancer spread. For example, stage I cancer hasn’t spread as much as stage IV cancer.
+Your provider may consider other factors, like how abnormal the cancer cells are, to determine your condition’s seriousness.
+Management and Treatment
+What are the treatments for thymoma (thymic carcinoma)?
+Your treatment will depend on various factors, including the type of cancer you have and your cancer stage. Other factors include whether the cancer’s newly diagnosed or if it went away and then returned (recurred).
+Treatments include:
+- Surgery: A specialist in performing chest surgeries called a thoracic surgeon may remove your tumor. They may remove your lymph nodes, thymus or lung lining if cancer spreads there. Surgery is the standard treatment for early-stage thymoma. If it’s impossible to remove the entire tumor safely, the surgeon may remove as much of it as possible to help relieve symptoms it may cause.
+- Radiation: A radiation oncologist may deliver radiation at the cancer site using external beam radiation therapy. This treatment uses a machine to direct X-rays to the tumor to kill cancer cells. You may receive radiation as a standalone treatment or alongside other treatments, like chemotherapy and surgery.
+- Chemotherapy: You may receive chemotherapy drugs to kill cancer cells if your tumor can’t be removed with surgery. A hematologist or medical oncologist may also prescribe chemotherapy to shrink tumors before surgery or to treat cancer that’s recurred.
+- Targeted therapy: You may receive targeted therapy if your cancer cells contain specific gene mutations. Targeted therapies are designed to target specific gene mutations to kill cancer cells. Targeted therapies may be a treatment option for both thymoma and thymic carcinoma if other treatments, like chemotherapy, haven’t worked.
+- Immunotherapy: Immunotherapy helps boost your immune system so it’s better able to identify and destroy cancer cells. Immunotherapy may be an option if you have thymic carcinoma that hasn’t responded to chemotherapy.
+- Clinical trial: A clinical trial is a study that tests the safety and effectiveness of new or different cancer treatments. Depending on your cancer type, you may be eligible for a clinical trial to test new cancer treatments. Ask your healthcare provider if this is an option for you.
+Your healthcare provider may recommend that you work with a palliative care team to support you throughout your cancer diagnosis. Palliative care professionals include doctors, nurses and other care specialists who can help you manage cancer symptoms and treatment side effects. Palliative care is an excellent resource, no matter your cancer stage or prognosis.
+Outlook / Prognosis
+What is the survival rate for thymoma and thymic carcinoma?
+Generally, thymoma is associated with a better prognosis than thymic carcinoma. Also, cancer only in your thymus is associated with a better survival rate than cancer that’s spread. The five-year survival rates for cancers in your thymus are as follows:
+- Only in your thymus: 95%.
+- Spread to nearby organs and lymph nodes: 78%.
+- Spread to other body parts (metastasized): 38%.
+Still, these numbers don’t consider specifics like your overall health, type of cancer, cancer stage or response to treatment. Your survival rate depends on multiple factors that your healthcare provider can explain.
+What can I expect if I have this cancer?
+In some cases, all signs and symptoms of the cancer disappear (remission), and the cancer doesn’t return. However, often, both types recur. With thymoma, you may go longer without the cancer returning. You’ll still need to visit your healthcare provider regularly to ensure you’re cancer-free.
+Living With
+What questions should I ask my doctor?
+Discuss your diagnosis and treatment options with your care team. Don’t hesitate to ask your healthcare provider any questions you have about the cancer itself or what it means for your life moving forward. Questions might include:
+- What stage is my cancer?
+- What are my treatment options?
+- Am I eligible to participate in a clinical trial? Would you recommend I participate?
+- What’s the goal of treatment?
+- What side effects should I expect?
+- When should I expect side effects to start?
+- How likely is it that the cancer will return?
+- How will my diagnosis and treatment impact my life?
+A note from Cleveland Clinic
+A thymoma or thymic carcinoma diagnosis can mean many things. Some tumors are slow-growing, while others are more aggressive. Some can be removed completely with surgery, while others have already spread by the time your healthcare provider diagnoses you. Ask your provider about how your cancer will determine your outcomes. Discuss the benefits and risks associated with all potential treatment options.

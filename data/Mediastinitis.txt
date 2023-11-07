@@ -1,0 +1,112 @@
+Mediastinitis
+Overview
+What is mediastinitis?
+Mediastinitis is inflammation or infection in a part of your chest called your mediastinum. The most common causes are complications from chest surgery and a perforation (tear) in your esophagus. Less often, mediastinitis can result from fungal infections, medical conditions like tuberculosis, or extension from oral or neck infection.
+Your mediastinum is the middle compartment in a large, hollow space called your thoracic cavity. Your thoracic cavity also includes two pleural cavities, which sit on each side of your mediastinum and house your lungs.
+Your mediastinum holds your heart and other important structures. These include part of your esophagus and portions of major blood vessels connected to your heart. Understanding this anatomy can help you understand why mediastinitis can be very serious. Your chest holds many organs and blood vessels vital to keeping you alive. So, inflammation or infection in any of the tissues in your mediastinum can be life-threatening.
+Mediastinitis can be either acute (sudden) or chronic (developing over time).
+How does mediastinitis affect my body?
+Mediastinitis can be life-threatening. The inflammation disrupts the normal workings of your organs and blood vessels within your chest. This can lead to serious complications. The sooner you receive treatment, the better your chances of recovery and survival.
+Possible complications of mediastinitis include:
+- Blocked airway, leading to trouble breathing.
+- Constrictive pericarditis.
+- Pneumonia that keeps coming back.
+- Right-sided heart failure.
+- Sepsis.
+- Severe bleeding.
+- Superior vena cava syndrome.
+How common is mediastinitis?
+Healthcare providers consider mediastinitis a rare condition. But its prevalence (how many people within a certain population have the condition) and who’s affected vary based on the form (acute vs. chronic).
+Acute mediastinitis is a complication of chest surgeries that involve a median sternotomy. This is a procedure that separates your sternum (breastbone) so your surgeon can access your heart or nearby blood vessels. Between .25% and 5% of people who have a median sternotomy develop acute mediastinitis as a complication. The prevalence varies by location and hospital.
+Chronic mediastinitis is rare. It’s usually diagnosed in regions where a form of fungi called Histoplasma capsulatum is endemic (native to that area). However, not everyone exposed to this fungus gets sick from it. Researchers estimate that less than 1% of people exposed go on to develop a fungal infection in their body (histoplasmosis). And of those who do, very few develop chronic mediastinitis. Several hundred people in the U.S. are living with fibrosing mediastinitis today, according to research.
+Symptoms and Causes
+What is the difference between acute mediastinitis and chronic mediastinitis?
+Acute mediastinitis is sudden, with noticeable and often severe symptoms. In the case of an esophageal perforation (tear in your esophagus), acute mediastinitis develops within a few hours. It could occur during the course of a neck or oral infection. As a complication of chest surgery, acute mediastinitis usually appears within the first month. Rarely, it can happen later on within the first year. Acute mediastinitis is a medical emergency. It needs prompt treatment to improve your chances of survival.
+Chronic mediastinitis is also a serious condition, but it develops more slowly over several months or years. It can lead to a buildup of scar tissue in your mediastinum (a condition known as fibrosing mediastinitis, or mediastinal fibrosis). Chronic mediastinitis is usually due to a fungal infection.
+You may not have symptoms of chronic mediastinitis for a while, or you may have no symptoms at all. If you do have symptoms, such as trouble breathing, they may be mild at first and gradually get worse over time. Symptoms occur because scar tissue builds up in your chest. This tissue presses on your trachea (windpipe) or superior vena cava (large vein that carries blood back to your heart). Treatment focuses on easing your symptoms and improving your quality of life.
+What are the symptoms of mediastinitis?
+Symptoms of acute mediastinitis include:
+- Abrupt, severe chest pain.
+- Chills.
+- Drainage from your wound (if you had a median sternotomy).
+- Fever.
+- Shortness of breath.
+Chronic mediastinitis may cause no symptoms. However, those with fibrosing mediastinitis may experience:
+- Chest pain.
+- Cough, which may produce blood.
+- Shortness of breath.
+- Additional symptoms associated with superior vena cava syndrome.
+What causes mediastinitis?
+Acute mediastinitis happens when the tissues inside your chest suddenly become infected. Causes of infection include:
+- Complications from a median sternotomy. The bacterium Staphylococcus aureus causes most of these post-surgery infections. Tissues in your chest or surgical wound can become infected during the surgery or soon afterward.
+- Esophageal perforation. This is a tear in your esophagus, which can happen for a variety of reasons. These include complications from endoscopic procedures and forceful vomiting (Boerhaave syndrome).
+- Infection that spreads from your head or neck. Healthcare providers call this diagnosis “descending necrotizing mediastinitis.” It means infection that began above your chest has spread down into your chest and damaged the tissues there. Infections in your mouth (such as an abscessed tooth) and your throat can cause this to happen.
+Chronic mediastinitis also happens due to infection. But in this case, your tissues develop inflammation more slowly (rather than immediately after exposure to a bacterium). Causes of chronic mediastinitis include:
+- Fungal infection (most common).
+- Tuberculosis.
+- Radiation therapy.
+- Silicosis.
+- Sarcoidosis.
+Sometimes, chronic mediastinitis is idiopathic, meaning there’s no identifiable cause.
+The most common cause of chronic mediastinitis is infection due to the fungus Histoplasma capsulatum. In the U.S., this fungus is native to the Ohio River valley and Mississippi River valley. Globally, it’s found in parts of Africa, Asia, Australia, Central America and South America.
+The fungus lives in soil and is harmless unless it becomes airborne and you inhale it. Exposure doesn’t necessarily make you sick. In fact, most people exposed to this fungus don’t get sick at all or have a minor infection with no symptoms. But there’s a small chance your immune system will overreact to the fungus sometime after exposure (often many years later). This can lead to inflammation of the tissues in your mediastinum and potential complications.
+What are the risk factors for developing mediastinitis?
+If you need open-heart surgery that requires a median sternotomy, you may worry about complications. Talk with your provider about your risk. In general, you face a higher risk of acute mediastinitis following a median sternotomy if you have:
+- A condition that suppresses your immune system.
+- Chronic obstructive pulmonary disease (COPD).
+- Diabetes.
+- Kidney failure.
+- Obesity.
+- Peripheral artery disease (PAD).
+Smoking and tobacco use also raise your risk of post-surgery complications.
+Some factors related to the surgery itself that raise your risk of mediastinitis include:
+- A longer time spent in surgery or connected to cardiopulmonary bypass.
+- Repeat surgery (you had a chest surgery in the past).
+You face a higher risk of developing chronic mediastinitis if the fungus Histoplasma capsulatum is native to where you live.
+Diagnosis and Tests
+How is mediastinitis diagnosed?
+Healthcare providers usually diagnose mediastinitis through a physical exam and testing.
+During your physical exam, your provider will ask you about:
+- Your symptoms.
+- Your medical history.
+- Any recent surgeries or procedures you’ve had.
+- Your travel history.
+Your provider may also order testing to confirm a diagnosis.
+What tests diagnose mediastinitis?
+Contrast-enhanced computed tomography (CT) scans are the gold standard for diagnosing mediastinitis. Your provider may also order a chest X-ray or needle biopsy.
+Management and Treatment
+How is mediastinitis treated?
+Mediastinitis treatment varies based on the form you have (acute vs. chronic) and the cause.
+Acute mediastinitis that occurs after a median sternotomy may require:
+- Antibiotics, typically given through an IV.
+- Surgery to remove dead tissue and drain fluid.
+Acute mediastinitis that occurs due to an esophageal tear may require:
+- Antibiotics.
+- Surgery to repair the tear, remove dead tissue and/or drain fluid.
+If you have acute mediastinitis, your healthcare provider will admit you to the intensive care unit (ICU). There, your medical team will closely monitor your symptoms and healing.
+Treatment for chronic mediastinitis may include surgery to relieve symptoms. Your provider may recommend procedures that open up your airway or help blood flow better through the blood vessels in your chest. Researchers continue to explore treatment options for people with chronic mediastinitis.
+Talk to your healthcare provider about your available treatment options and what you can expect.
+Prevention
+How can I prevent mediastinitis?
+Mediastinitis is often a complication of medical procedures. Talk to your provider about ways to lower your risk of complications if you’re having chest surgery or an endoscopic procedure. Ask what measures your care team will take to reduce the chances of infection. Also, be sure to ask how to care for your incision at home as you heal from your surgery.
+Preventing infections or treating them early can also reduce your risk of acute mediastinitis. Infections from your mouth and throat can travel to your chest and cause serious problems. Some actions you can take to prevent these issues include:
+- Taking good care of your teeth and gums (oral hygiene) to prevent dental infections.
+- Visiting a dentist every six months for a cleaning, or according to the schedule your dentist provides.
+- Seeing a healthcare provider each year for a checkup to monitor your overall health.
+- Seeing a provider right away if you have signs of an infection, and taking all medication as prescribed to treat any infections.
+Outlook / Prognosis
+Is mediastinitis fatal?
+Mediastinitis is a life-threatening condition that can be fatal. Early diagnosis and treatment are essential for improving your chances of survival. Here’s what researchers know about the mortality rate for mediastinitis:
+- The mortality rate for people who develop acute mediastinitis after a median sternotomy ranges from 1% to 14%. This number is better than it was in the past (12% to 50%), thanks to improvements in surgical management. You might wonder why these ranges are so big. That’s because different research studies use different populations to study mortality rate. So, your outcome depends on many factors, including where you have your surgery, your age and your overall health.
+- The mortality rate for people with acute mediastinitis due to an esophageal tear varies widely. It depends on how soon you receive treatment. Of those who receive treatment within 24 hours of the tear, fewer than 10% die. That number rises to 30% to 40% for those who receive treatment more than 24 hours later. Being older also raises your risk of a poor outcome.
+- People who develop descending necrotizing mediastinitis may quickly experience sepsis and organ failure. As a result, the mortality rate ranges from 11% to 40%.
+These numbers may seem bleak, but there are reasons to be hopeful. Learning the causes of mediastinitis, as well as the signs and symptoms, can help you know when to seek medical care if needed. Plus, medical advances continue to make surgeries safer and offer treatments for complications.
+Living With
+When should I see my healthcare provider?
+Acute mediastinitis comes on suddenly. If you experience symptoms, immediately call 911 or your local emergency number. The sooner you get treatment, the better your outcome.
+You should also talk to your provider if:
+- You plan to have open-heart surgery or another procedure that raises your risk of mediastinitis. Ask how to lower your risk.
+- You have symptoms of chronic mediastinitis or you’re concerned about your risk.
+A note from Cleveland Clinic
+Mediastinitis is a serious condition that can be fatal. Learning the causes and symptoms can help you know when to seek medical attention if needed. Medical advances continue to give people a better chance of recovering from mediastinitis.
+If a loved one has mediastinitis, you may feel concerned or helpless. Learning about the condition can give you some sense of control. This knowledge can help you talk with your loved one’s care team about what’s happening. Ask their care team what you can do to support your loved one as they recover.

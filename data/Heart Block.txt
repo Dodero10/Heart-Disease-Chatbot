@@ -1,0 +1,94 @@
+Heart Block
+Overview
+What is heart block?
+Heart block is a problem with your heart's electrical system, which makes your heart beat and controls your heart rate and rhythm. The condition is also called atrioventricular (AV) block or a conduction disorder.
+What happen if I have heart block?
+Normally, electrical signals travel from the upper chambers of your heart (atria) to the lower chambers (ventricles). The AV node is a cluster of cells that connect the electrical activity – like a bridge – from the top chambers of your heart to the bottom chambers. If you have heart block, the electrical signal does not travel through the AV node to the ventricles. The result is a heart that doesn’t function effectively, meaning your heart beats slowly or skips beats and it can’t pump blood through its chambers and out to the body as a normal heart would.
+What are the types of heart block?
+Heart block can be first, second or third degree, depending on the extent of electrical signal impairment.
+- First-degree heart block: The electrical impulse still reaches the ventricles, but moves more slowly than normal through the AV node. The impulses are delayed. This is the mildest type of heart block.
+- Second-degree heart block is classified into two categories: Type I and Type II. In second-degree heart block, the impulses are intermittently blocked.Type I, also called Mobitz Type I or Wenckebach’s AV block: This is a less serious form of second-degree heart block. The electrical signal gets slower and slower until your heart actually skips a beat.Type II, also called Mobitz Type II: While most of the electrical signals reach the ventricles every so often, some do not and your heartbeat becomes irregular and slower than normal.
+- Type I, also called Mobitz Type I or Wenckebach’s AV block: This is a less serious form of second-degree heart block. The electrical signal gets slower and slower until your heart actually skips a beat.
+- Type II, also called Mobitz Type II: While most of the electrical signals reach the ventricles every so often, some do not and your heartbeat becomes irregular and slower than normal.
+- Third-degree heart block: The electrical signal from the atria to the ventricles is completely blocked. To make up for this, the ventricle usually starts to beat on its own acting as a substitute pacemaker but the heartbeat is slower and often irregular and not reliable. Third-degree block seriously affects the heart’s ability to pump blood out to your body.
+Is heart block serious or dangerous?
+It can be. Type of heart block, its location and severity, and symptoms vary from person to person. If left untreated, severe heart block can cause sudden cardiac arrest (your heart suddenly stops beating), but most commonly can cause either lightheadedness or fainting spells.
+Who is at risk of having heart block?
+You may be at increased risk of a heart block if:
+- Your mother has an autoimmune disease, such as lupus.
+- You are of older age. Risk of heart block increases with age.
+- You have other heart conditions including coronary artery disease, heart valve disease.
+- You have birth defects of the heart.
+- You have a disease that affects the heart including rheumatic heart disease or sarcoidosis.
+- You have an overactive vagus nerve (causes the heart to slow down).
+- You take medications that slow the conduction of the heart’s electrical impulses including some heart medications (beta blockers, calcium channel blockers, digoxin), high blood pressure drugs, antiarrhythmics; muscle relaxants and sedatives; antidepressants and antipsychotics; diuretics; lithium. Ask your provider to review the medications you take.
+Symptoms and Causes
+What causes heart block?
+The most common cause of heart block is heart attack. Other causes include heart muscle disease, usually called a cardiomyopathy, heart valve diseases and problems with the heart’s structure. Heart block can also be caused by damage to the heart during open heart surgery, as a side effect of some medications or exposure to toxins. Genetics can be another cause.
+What are the symptoms of heart block?
+Symptoms of heart block vary depending on the type of block.
+First-degree heart block:
+- May not have any symptoms.
+- May be found during a routine electrocardiogram (ECG) although heart rate and rhythm are usually normal.
+First-degree block is common in athletes, teenagers, young adults and those with a highly active vagus nerve.
+Second-degree heart block symptoms:
+- Fainting, feeling dizzy.
+- Chest pain.
+- Feeling tired.
+- Shortness of breath.
+- Heart palpitations.
+- Rapid breathing.
+- Nausea.
+Third-degree heart block symptoms:
+- Dizziness, fainting.
+- Chest pain.
+- Feeling tired.
+- Shortness of breath.
+Symptoms of third-degree heart block are more intense due to the slow heart rate. If you have severe symptoms, get medical attention right away.
+Diagnosis and Tests
+How is heart block diagnosed?
+Your cardiologist will first review your medical history and family health history and ask questions about your overall health, your diet and activity level and your symptoms. You’ll also be asked about any medications you are taking (prescription or over-the-counter) and if you smoke or use illicit drugs.
+During your physical exam, your cardiologist will listen to your heart and check your heart rate. You’ll also be checked for signs of heart failure, such as fluid buildup in your feet, ankles an legs.
+Your cardiologist may refer you to an electrophysiologist. Electrophysiologists are physicians who specialize in the electrical activity of the heart. Tests you might undergo include:
+- An ECG: An electrocardiogram (ECG) records your heart’s electrical activity – its heart rate and rhythm and the timing of electrical signals as they move through your heart. This test can help determine the severity of the heart block (if it’s present). You may need to wear a portable ambulatory monitor device, such as a Holter monitor or an event recorder, for 24 to 48 hours or longer to collect more information about your heart’s electrical activity. If you need to use a monitor, you’ll get detailed information about how to use it.
+- An implantable loop recorder: This is a very slender device that is injected under the skin of your chest and can monitor your heart rhythm for up to five years. This is implanted as an outpatient in just a few minutes and is useful for patients who have very infrequent but important episodes without a clear explanation of their origin.
+- An electrophysiology study: An electrophysiology study involves inserting a long, thin tube called a catheter through a blood vessel and guiding it to your heart to measure and record electrical activity from inside your heart. If you need this test, you’ll get more detailed information.
+What are the complications of heart block?
+The complications can be life-threatening and include:
+- Heart failure.
+- Arrhythmia (irregular heartbeat).
+- Heart attack.
+- Sudden cardiac arrest.
+Management and Treatment
+How is heart block treated?
+Your cardiologist will determine how heart block (its type, location and severity) is affecting your heart’s ability to function and consider your symptoms to determine how to manage your condition. Symptoms and treatment vary from person to person.
+Sometimes, making changes to medications or treatment for heart disease stops heart block.
+- First-degree block: If you have first-degree heart block, you probably won’t need treatment.
+- Second-degree block: If you have second-degree heart block and have symptoms, you may need a pacemaker to keep your heart beating like it should. A pacemaker is small device that sends electrical pulses impulses to your heart.
+- Third-degree block: Third degree heart block is often first discovered during an emergency situation. Treatment almost always includes a pacemaker.
+If you need a pacemaker, your cardiologist/electrophysiologist will talk to you about the details, the type that is best for you, and what to expect before, during and after you get your pacemaker.
+Prevention
+Can heart block be prevented?
+Some cases of heart block may be congenital (present at birth). But most heart block develops after birth. Some causes can’t be prevented. We also know that the risk of heart block increases with age and so does heart disease. Some causes of heart disease are preventable.
+Steps you can take to keep your heart and body as healthy as possible include:
+- Lead a heart-healthy lifestyle, which includes eating a heart healthy diet, exercising regularly, getting an adequate amount of sleep each night, reducing stress, limiting alcohol and stopping smoking and use of illicit drugs.
+- Talk with your healthcare provider about reviewing medications and other supplements you are taking to determine if any change the normal levels of potassium, calcium and magnesium – substances in your body that play a role with your heart’s electrical system. Your provider can change your medication to a different drug class if needed.
+Outlook / Prognosis
+How does heart block affect my life?
+If you have first-degree heart block, ask your cardiologist or electrophysiologist what – if any – changes you need to make to your lifestyle or medications. This type of heart block does not usually get in the way of your normal activities.
+If you have a pacemaker for second- or third-degree heart block, your cardiologist may recommend some restrictions about the types of exercise you can participate in (such as contact sports). However, in general, a pacemaker will not seriously restrict your ability to take part in sports and leisure activities.
+Your cardiologist will want to periodically check your pacemaker to make sure that it continues to meet your needs. Monitoring is done with both remote and in-person evaluations. The remote monitoring uses wireless cellular communication, often using blue tooth or Wifi as well. This allows your doctor’s office to monitor you almost continuously. You will also need to be seen in person to have your pacemaker fully evaluated and adjusted, usually once a year. It is important to follow your doctor’s instructions for pacemaker monitoring so they can ensure your pacemaker is correctly regulating your heartbeat.
+Living With
+Are there special instructions or information I need to share with others if I have a pacemaker?
+If you have a pacemaker:
+- Avoid close contact with magnetic devices and any device that sends out an electrical field. This includes staying at least six inches from cell phones.
+- When going through security screening stations at airports, courthouses or any place that requires security screening, use the backscatter screener (when you raise your hands) or get a hand check. Don't allow the technicians to use the hand held wands. If you must go through the scanning stations it will likely indicate that you have metal, but it will not harm the pacemaker. Tell security screeners that you have a pacemaker. Always carry a card that states the type of pacemaker you have.
+- Tell all of your doctors, your dentist and other healthcare providers that you have a pacemaker. Some medical procedures, such as magnetic resonance imaging (MRI), can interfere with pacemakers. However, provision for an MRI can often be made.
+When should I call my healthcare professional?
+Call your healthcare provider if you feel:
+- Dizzy or faint.
+- Chest pain.
+- Racing heartbeat or skipped heartbeat.
+- Weakness.
+- Shortness of breath.
+- Swollen feet, ankles or legs.

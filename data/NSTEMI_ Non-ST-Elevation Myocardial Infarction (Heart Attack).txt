@@ -1,0 +1,138 @@
+NSTEMI: Non-ST-Elevation Myocardial Infarction (Heart Attack)
+Overview
+What is an NSTEMI heart attack?
+A non-ST-elevation myocardial infarction is a type of heart attack that happens when a part of your heart is not getting enough oxygen. This condition gets its name because — unlike an ST-elevation myocardial infarction (STEMI heart attack) — it doesn’t cause a very specific, recognizable change to your heart’s electrical activity.
+Any heart attack, including an NSTEMI, is a life-threatening medical emergency and needs care immediately. If you or someone you’re with appears to be having a heart attack, call 911 (or the local emergency services number for your area) right away. Delaying medical care can be extremely dangerous and can lead to permanent heart damage or death.
+Why is it called an NSTEMI?
+The medical term for a heart attack is myocardial infarction. An infarction is a lack of blood flow to a part of your body, and myocardial means it’s happening in your heart muscle. Without enough blood flow, the affected part of your heart muscle starts to die.
+Your heart’s electrical activity is easily detectable by a test called an electrocardiogram. That test uses several sensors (usually 10) attached to your skin to detect your heart’s electrical activity. It then shows the electrical activity as a wave pattern on either a paper printout or a digital display. The wave pattern is also broken down into segments, with each part of the wave labeled with a letter of the alphabet from P to U.
+STEMI heart attacks are diagnosed when part of the wave, the ST segment, rises higher than normal. In most cases, a STEMI heart attack happens because of a total blockage of one of the main coronary arteries that provide blood flow to your heart muscle. People with symptoms of heart attack who don’t have ST elevation could have an NSTEMI, which usually happens because of a partial coronary artery blockage or blockage in a branch off of your main coronary artery. Some electrical pattern changes are often visible with NSTEMI, but they’re often not as distinctive, making other tests much more important in diagnosing NSTEMI.
+Who is affected by NSTEMIs?
+Several risk factors can increase your chances of a heart attack. Some of those factors can be modified, while others can’t.
+Factors you can change
+The factors you can manage most are your lifestyle choices. These include:
+- Tobacco use and smoking.
+- Diet, including your intake of sodium (blood pressure), sugar (diabetes) or fat (cholesterol).
+- Your level of physical activity.
+- Recreational drug use (especially stimulants like amphetamines, cocaine or any other medications that affect your heart).
+Factors you can’t change
+- Age. Your age affects your risk of having a heart attack. The older you are, the greater the risk.
+- Sex. Men tend to have heart attacks earlier than women. The risk for men starts going up at age 45, while for women, it starts going up at age 50 (or after you reach menopause, whichever is first).
+- Family history. Your risk goes up sooner if you had a father or brother diagnosed with heart disease or heart attack before age 55, or a mother or sister similarly diagnosed before age 65.
+- Inherited or conditions present at birth. Certain medical conditions or disorders that affect other systems in your body can also increase your risk of a heart attack. This includes genetic (inherited) or congenital (present at birth) conditions.
+How common are NSTEMIs?
+Acute coronary syndrome (including NSTEMI) is very common in the United States. An estimated 780,000 cases of acute coronary syndrome are diagnosed each year. About 70%, or approximately 546,000, of those cases, are NSTEMIs.
+Symptoms and Causes
+What happens before and during an NSTEMI?
+NSTEMI is a type of acute coronary syndrome, which is an umbrella term for three conditions that cause a lack of blood flow to your heart. The other two conditions are STEMI and unstable angina (sudden chest pain from lack of blood flow, usually while resting, but not as dangerous as a heart attack).
+Without a steady supply of blood, a problem called ischemia (pronounced iss-key-me-uh) happens. That means the affected part of your heart starts dying because it isn’t getting enough blood. Unlike other muscles, your heart muscle can’t regenerate or regrow. That means the damage will be permanent without quick restoration of blood flow.
+NSTEMI can happen because of direct or indirect causes, including those listed below.
+Conditions that are direct causes
+Several conditions can directly reduce your heart’s blood supply.
+- Plaque. This wax-like substance comes from cholesterol in your blood. Much like a clogged pipe can cause a slow drain, plaque buildup can slow blood flow to your heart. Plaques in your arteries can also erode or split, which can cause blood clots to form on the plaque and rapidly (over minutes to hours) narrow down or close your artery.
+- Vasospasm. There’s a lining of smooth muscle in your blood vessels that controls how narrow or wide those vessels are. Much like you can get cramps or spasms in the muscles of your legs or back, the muscle lining of the arteries of your heart can also spasm. Known as vasospasm, this can limit or block blood flow and cause a heart attack. These are rare.
+- Coronary embolism. This is a blood clot that gets stuck in one of your heart's arteries and partially or completely stops blood flow. These are extremely rare.
+Injury or trauma to your heart
+Though your rib cage and other structures surround and protect your heart, injuries are still possible. Injury-related causes of NSTEMI include:
+- Myocarditis. This is an inflammation of the muscle of your heart. A possible cause of this is an infection (usually viral) that’s affecting your heart muscle.
+- Poisons and toxins. Certain substances have toxic effects and can damage the heart muscle, which can cause you to have a heart attack. This is rare overall. One of the most common ways this happens is because of carbon monoxide poisoning.
+- Cardiac contusion. A contusion is a bruise, and a bruise of your heart muscle can cause swelling that leads to an NSTEMI. These are rare and usually only happen with major injuries such as those from car crashes.
+Indirect causes
+Several conditions can interfere with your body’s ability to supply blood and oxygen to your cells. When your body can’t supply enough blood to meet the demand, this can cause an NSTEMI. Conditions that disrupt blood supply include:
+- Severe high blood pressure (known as “malignant hypertension” or “hypertensive emergency”) and low blood pressure (hypotension). Your body naturally responds to low blood pressure by making your heart pump harder. High blood pressure can happen because your blood vessels have greater resistance to blood flow. In both situations, your heart tries to pump harder, and it needs more blood flow to maintain that level of effort.
+- Tachycardia (fast heart rate). When part or all of your heart pumps too fast, it becomes less efficient and pumps less blood. The heart muscle may also need more oxygen than the blood flow can provide.
+- Aortic stenosis. This condition is a narrowing of the aortic valve, the last valve that blood flows through before exiting your heart. In people with severe aortic stenosis, the heart muscle must work very hard to compensate for the narrowing, and may need more oxygen than blood flow can provide.
+- Pulmonary embolism. This is when a blood clot gets stuck in your lungs, blocking blood from passing through and picking up oxygen before going back to your heart and out to your body.
+What are the symptoms?
+People having a heart attack commonly describe these symptoms:
+- Chest pain (angina).
+- Trouble breathing or feeling short of breath.
+- Nausea, stomach discomfort or pain (may feel like indigestion or heartburn).
+- Heart palpitations (the unpleasant feeling of your own heartbeat; may also feel like your heart is skipping or adding extra heartbeats).
+- Feeling lightheaded, dizzy or passing out.
+Heart attack symptoms women may experience
+While women may experience any of the symptoms described above, they’re less likely to report symptoms of discomfort that feel like indigestion or pain in the center of their chest. They’re also more likely to report the following symptoms:
+- Fatigue, shortness of breath or insomnia that began before the heart attack.
+- Pain that radiates (spreads outward) to their jaw, neck, shoulders, arms, back or belly.
+- Nausea and vomiting.
+Diagnosis and Tests
+How is this condition diagnosed?
+A physician diagnoses an NSTEMI based on a combination of tests and other types of information gathering. Combining these methods is especially important because an NSTEMI is more likely to have symptoms or test results that are less specific than those seen with STEMI or other conditions.
+The first step in this process is a direct examination, where a healthcare provider listens to your heart and breathing, checks your blood pressure and more. Then, if you’re medically stable and can answer questions, they’ll also gather a “patient history,” which includes details about your current lifestyle, personal circumstances and your medical history.
+What tests will be done to diagnose this condition?
+A heart attack diagnosis can involve the following tests.
+Electrocardiogram (EKG or ECG)
+An electrocardiogram is one of the most important ways to diagnose a heart attack. As described earlier, this test detects your heart’s electrical activity and shows it as a wave. A heart attack can cause changes in the pattern that trained medical professionals can interpret and use for a diagnosis.
+Where a STEMI causes the ST segment of the wave to be consistently taller, that doesn’t happen with an NSTEMI. Instead, the following changes may — but don’t always — show up on an EKG:
+- Transient ST-elevation. This means that the ST segment does get taller, but it only stays that way for short periods.
+- ST-depression. Under normal circumstances, the ST segment is usually even with the overall baseline of the wave. However, with an NSTEMI, the ST-segment may drop below its normal baseline position.
+- New T-wave inversions. The T-wave is the last wave in the pattern, with the U-point marking the end of the T-wave, after which the pattern starts over again at the next heartbeat’s P-point. New T-wave inversion means that if your T-waves normally curve upward (like a hill), they now curve downward (like a bowl).
+Lab testing
+When there’s damage to your heart muscle cells or they die for any reason, they release a unique chemical called troponin. That chemical is detectable with blood tests, making those tests one of the most reliable ways to diagnose any kind of heart attack. However, it might be necessary to repeat a troponin test because it can take time to reach detectable levels (usually fewer than six hours).
+Imaging
+Using imaging tests may also help with a diagnosis, especially if earlier tests were inconclusive. Some of these tests may involve exercise to try to provoke symptoms that were undetectable when you were resting.
+Some of the most common imaging tests used include:
+- Echocardiography. This test uses ultra-high-frequency sound waves to create an image of the inside and outside of your heart. This test is often used in emergency rooms because the equipment can travel on a mobile cart for use at the bedside.
+- Computed tomography (CT) scan. This test uses X-rays to take images, and then a computer assembles the images into a complete three-dimensional picture. This might involve an injectable substance that shows up clearly on the scan, which will allow healthcare providers to identify plaque or narrowing in your coronary arteries that provide blood flow to your heart muscle.
+- Magnetic resonance imaging (MRI). This test uses an extremely powerful magnet and computer processing to create extremely detailed scans of your heart.
+Management and Treatment
+What treatments are used with NSTEMIs?
+Treatment of all heart attacks is time-sensitive, and the faster the restoration of blood flow happens, the better. Oxygen may help if your blood oxygen levels are low, but this varies from person to person. Several other treatments and techniques are possible, some of them in sequence or at the same time.
+Percutaneous coronary intervention (PCI)
+Percutaneous coronary intervention is a procedure where an interventional cardiologist inserts a catheter device into a major blood vessel somewhere in your body (usually in your wrist or near your upper thigh). They then thread that device up to your heart and your artery in question. Once there, they inflate a balloon at the device’s tip, helping clear the blockage. Stent placement, which uses a scaffold-like device to help hold the blood vessel open, is also possible and common during PCI.
+PCI works best when done sooner rather than later.
+Medication
+Several medications (some of which you’ll take before diagnosis confirmation) can help people who are having a heart attack. These include:
+- Aspirin or other antiplatelet medications. These drugs stop platelets from bunching together and forming clots in your blood. That’s important because it stops clot-based blockages from getting worse.
+- Anticoagulants. Like antiplatelet medications, these also interfere with clotting, but do so by interfering with the clotting process itself rather than the platelets.
+- Angiotensin-converting enzyme (ACE) inhibitors. These medications interfere with your body’s natural conversion of a protein that raises your blood pressure. Blocking that process lowers your blood pressure. Use of these drugs is more likely if you have heart failure, high blood pressure, kidney problems or diabetes.
+- Beta-blockers. These medications slow down your heart rate and cause your heart to pump with less force. Both effects are important because they reduce how much oxygen your heart needs by easing how hard it works. These medications might not be an option if you have conditions like low blood pressure, heart failure or certain types of heart rhythm problems (arrhythmias).
+- Nitroglycerin. This medication causes blood vessels to widen, which improves blood flow. That means, this drug is especially effective at treating chest pain caused by a lack of blood flow.
+- Statins. These medications lower how much cholesterol is in your blood and reduce the risk that plaque in your coronary arteries will worsen.
+Coronary artery bypass grafting (CABG)
+In cases where one or more of your heart’s arteries has significant narrowing or blockage, surgery may be a better option to restore blood flow. This surgery is known as coronary artery bypass grafting (often shortened to CABG, pronounced “cabbage”). Its other names include bypass surgery or open-heart surgery.
+During CABG, a surgeon takes a blood vessel from somewhere else in your body (such as one of your legs or the inside of your chest wall). They then use that blood vessel to create a bypass around your heart’s blocked artery (or arteries). That allows blood flow to “bypass” the problem area.
+Prevention
+Can I prevent a heart attack?
+There are several things you can do to help prevent a heart attack, or at least delay one. One key thing is to schedule a physical (also called a checkup or wellness visit) with your primary care provider.
+Many health conditions — such as high blood pressure and diabetes — don’t cause symptoms until they’re very advanced. Before symptoms appear, however, these conditions can cause ongoing damage to your heart and coronary arteries, and greatly increase your risk of having a heart attack. But these conditions are easily detectable early on with simple, non-invasive tests done during your yearly visit. Your healthcare provider can also offer guidance and resources if they do find any potential problems or concerns.
+Some of the best things you can do to avoid a heart attack include:
+- Maintaining a healthy weight.
+- Eating a balanced diet (your healthcare provider can recommend diets, such as the Mediterranean diet, that work especially well for heart health).
+- Staying physically active (at least 150 minutes per week of moderate-intensity exercise).
+- Managing health conditions you already have. If you take medications for any conditions, be sure to keep taking them exactly as instructed.
+- If you use tobacco in any form (including vaping products), quitting will be especially helpful in preventing a heart attack.
+Unfortunately, some people may experience a heart attack even if they take all these preventive steps, particularly if they’re prone to heart attacks due to family history or another condition. However, you may be able to postpone when you have a heart attack or make it less severe if you follow the above guidelines. Being in good health also tends to make recovery easier and improves your overall outlook after a heart attack.
+Outlook / Prognosis
+How long should I expect to stay in the hospital?
+The length of your hospital stay depends on several factors, including the severity of your heart attack, your overall health, the treatments you underwent and more. The average hospital stay is between two and seven days, with PCI having shorter stays and surgeries having longer stays.
+When will I start to feel better?
+Your symptoms should start diminishing while you’re receiving treatment. Many people experience some weakness or fatigue after a heart attack, but these often go away within several days. Your healthcare provider will also advise you on your need for rest and recovery.
+What is the outlook for an NSTEMI?
+The outlook for an NSTEMI depends on several factors. The severity of your heart attack and your overall health may change your outlook greatly. Your healthcare provider is the best person to explain what you should expect, as well as any problems you should watch for or things to avoid.
+What else can I expect after an NSTEMI?
+If you’ve had a heart attack, your odds for having another go up. Follow-up care and preventive measures are important to avoid having another heart attack, so your healthcare provider will likely offer you some options, including:
+- Follow-up visits and imaging. Monitoring how well your heart functions is one of the most common and most important ways to prevent another heart attack.
+- Cardiac rehabilitation. These are programs that help you improve your health through physical activity. They’re also medically based, which means you have trained experts from several different fields — including dietitians and nutritionists, exercise physiologists and more — helping you along the way.
+When can I resume my usual activities and routine?
+The timeline of your recovery depends on your particular health situation and is something your healthcare provider is best prepared to explain. Talk to them and ask them questions about goals you can set and when you can resume certain activities such as driving, exercise, etc. Following their guidelines is the best way to pace yourself and ensure you don’t have any problems on the road to recovery.
+Living With
+How do I take care of my health after a heart attack?
+Many of the tips listed above under the Prevention section are also good for helping take care of yourself after a heart attack. Focusing on diet and exercise, maintaining a healthy weight, managing other health conditions and going to your follow-up visits are all very important steps.
+When should I call my healthcare provider?
+Your healthcare provider will advise you on what sort of issues or concerns to watch for and when you should contact them. They’ll also explain when you need medical attention immediately. You should contact your healthcare provider if you experience any new symptoms or your existing symptoms change, too, especially if the changes are sudden or they begin interfering with your life.
+When should I go to the hospital or ER?
+You should go to the hospital if you notice any sudden return of symptoms related to your heart or if symptoms unexpectedly worsen. Main symptoms meaning you need immediate medical attention include:
+- Chest pain (angina) or pain that radiates to nearby parts of your body (such as your neck or jaw, back, arms or shoulders, or your abdomen).
+- Trouble breathing or catching your breath.
+- Sweating.
+- Heart palpitations.
+- Nausea or vomiting.
+- Feeling lightheaded, dizzy or passing out.
+Should I drive myself to the hospital if I need immediate medical care?
+You shouldn’t drive yourself to the hospital if you think you’re having a heart attack because that puts you at risk in several different ways. There are also advantages to calling emergency services if you think you’re having a heart attack, including:
+- First responders can begin assessing your condition and treating your symptoms on the way to the hospital. The information they gather can also save healthcare providers valuable time in the diagnosis process at the hospital.
+- If you pass out on the way to the hospital, going in an ambulance ensures you don’t put yourself or others at risk by losing consciousness while driving.
+- First responders can take you directly into the emergency room. This avoids any possible delays that might happen if you go in through the lobby.
+A note from Cleveland Clinic
+Symptoms of a heart attack can be frightening and confusing. Fortunately, medical science has made great advances in improving the diagnosis and treatment of heart attacks. Treatment techniques, medication options and science’s understanding of the heart itself are always moving forward, which means your chances for a good outcome are always getting even better. If you or a loved one are experiencing symptoms of a heart attack, call for medical help immediately.

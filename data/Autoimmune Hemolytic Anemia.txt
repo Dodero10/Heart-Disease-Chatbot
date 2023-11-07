@@ -1,0 +1,120 @@
+Autoimmune Hemolytic Anemia
+Overview
+What is autoimmune hemolytic anemia?
+Autoimmune hemolytic anemia (AIHA) occurs when your immune system mistakes red blood cells as unwanted substances. As a result, your body produces antibodies that destroy red blood cells, which can lead to a low amount of red blood cells (known as anemia).
+AIHA is highly manageable, but it can be fatal if left untreated. Immediate intervention is essential.
+What’s the difference between primary and secondary autoimmune hemolytic anemia?
+If your AIHA develops without the obvious presence of an underlying condition, it’s called primary AIHA.
+Secondary AIHA is when it’s linked to another condition, such as a viral illness, other autoimmune diseases, medication or underlying blood cancer (such as lymphoma).
+What are the types of autoimmune hemolytic anemia?
+There are two main types of autoimmune hemolytic anemia: warm autoimmune hemolytic anemia and cold autoimmune hemolytic anemia. This classification depends on the type of antibodies involved in the disease.
+Warm autoimmune hemolytic anemia
+The most common type of AIHA, warm autoimmune hemolytic anemia, involves IgG antibodies, which bind red blood cells at normal body temperature. Generally, symptoms occur gradually over the course of several weeks. In some cases, however, they can develop within days.
+Cold autoimmune hemolytic anemia
+Affecting 10% to 20% of cases, cold autoimmune hemolytic anemia involves IgM autoantibodies. These bind red blood cells when your blood is at cooler temperatures compared to your body’s core temperature. There’s a wide variation in the temperature threshold at which a cold autoantibody will bind to red blood cells.
+Who does autoimmune hemolytic anemia affect?
+AIHA can affect people of all ages and genders, though it most commonly occurs in females over the age of 40.
+How common is autoimmune hemolytic anemia?
+Autoimmune hemolytic anemia is rare, affecting approximately 1 to 2 out of every 100,000 people each year.
+Symptoms and Causes
+What are the symptoms of autoimmune hemolytic anemia?
+AIHA can result in a wide range of symptoms, including:
+- Fever.
+- Tiredness.
+- Weakness.
+- Rapid heartbeat.
+- Shortness of breath.
+- Paleness.
+- Jaundice (yellowing skin).
+- Headaches.
+- Muscle pain.
+- Dark pee.
+- Nausea and vomiting.
+- Difficulty breathing.
+- Diarrhea.
+- A sore tongue.
+- Heart palpitations.
+Many symptoms are specific to the type of AIHA you have.
+For example, warm autoimmune hemolytic anemia most commonly causes:
+- Tiredness.
+- Dizziness.
+- Jaundice (yellowing skin).
+- Heart palpitations.
+Cold autoimmune hemolytic anemia symptoms often include:
+- Tiredness.
+- Dizziness.
+- Cold hands and feet.
+- Jaundice.
+- Chest pain.
+- Pain in the backs of your legs.
+- Raynaud’s disease.
+- Blue coloring in your hands and feet.
+- Arrhythmia.
+- Heart murmur.
+- Heart failure.
+What causes autoimmune hemolytic anemia?
+In approximately half of all cases, autoimmune hemolytic anemia causes are unknown (idiopathic autoimmune hemolytic anemia). In other cases, there’s a link between AIHA and other disorders.
+What disorders can cause autoimmune hemolytic anemia?
+There are several autoimmune diseases associated with secondary AIHA. They include:
+- Lupus.
+- Rheumatoid arthritis.
+- Sjogren’s syndrome.
+- Thyroid disease.
+- Ulcerative colitis.
+- Hashimoto’s disease.
+Sometimes, viruses can cause AIHA to develop, though the anemia goes away once the infection is treated. Common viruses that may be linked to AIHA include:
+- Epstein-Barr virus.
+- Measles.
+- Mumps.
+- Rubella.
+- Atypical pneumonia.
+- Varicella, the virus that causes chickenpox.
+- HIV.
+- Hepatitis.
+- Cytomegalovirus.
+Medications associated with AIHA include:
+- Antibiotics.
+- Nonsteroidal anti-inflammatory drugs (NSAIDs).
+- Anti-cancer drugs.
+Diagnosis and Tests
+How is autoimmune hemolytic anemia diagnosed?
+Your healthcare provider will recommend a complete blood count (CBC) to look for warning signs of anemia. Specifically, this test measures:
+- How many red blood cells, white blood cells and platelets you have.
+- The size of your red blood cells.
+- Hemoglobin, the protein in your blood that carries oxygen throughout your body.
+- Hematocrit (how much space your red blood cells take up in your blood).
+What other tests help diagnose autoimmune hemolytic anemia?
+If your healthcare provider suspects anemia, they might order additional tests. These assessments may include:
+- Peripheral smear. Your healthcare provider examines a sample of your blood under a microscope to see if your blood cells are being destroyed.
+- Reticulocyte count. This test measures how many young red blood cells are in your body. If your bone marrow is making a lot more cells to replace the destroyed ones, then your reticulocyte count will be high.
+- Bilirubin test. Bilirubin increases when red blood cells are destroyed.
+- Coombs’ test. Your healthcare provider will run this test to determine if your body is making antibodies against red blood cells.
+- Haptoglobin test. Haptoglobin is a protein that eliminates debris produced by damaged red blood cells. If your body is using up a lot of haptoglobin, your levels will be low.
+- Lactate dehydrogenase (LDH). Lactate dehydrogenase is an enzyme that’s present in red blood cells. When red blood cells are destroyed, the LDH level will rise.
+- Cold agglutinin titer. If your healthcare provider suspects cold autoimmune hemolytic anemia, they may perform this test. It tells your healthcare provider the level of antibodies that attack red blood cells at cold temperatures.
+Management and Treatment
+How is autoimmune hemolytic anemia treated?
+Autoimmune hemolytic anemia treatment usually involves addressing underlying conditions first. For example, if your AIHA is linked to lupus, then your healthcare provider will probably start by treating the lupus directly. If AIHA is caused by lymphoma, treating the lymphoma directly is important. If AIHA is associated with a certain drug, you’ll likely stop taking that medication. In addition, people with mild AIHA may not need treatment at all.
+Medications
+Corticosteroids help weaken your body’s immune response. That’s why they’re typically the first line of treatment for autoimmune hemolytic anemia. If corticosteroids don’t work, then your healthcare provider may prescribe immunosuppressants. The goal is to stop your immune system from attacking your bone marrow.
+Splenectomy
+When medications don’t work, you may need surgery to remove your spleen. Your spleen is responsible for eliminating abnormal red blood cells from your bloodstream, including those with antibodies. The spleen also houses antibody-producing cells. A splenectomy can help preserve red blood cells, reducing the risk of anemia.
+Blood transfusion
+In severe cases, people with AIHA may need a blood transfusion.
+Are warm and cold autoimmune hemolytic anemia treated differently?
+Primary cold autoimmune hemolytic anemia is treated differently from warm autoimmune hemolytic anemia. Medications that work for warm autoimmune hemolytic anemia include corticosteroids or immunosuppressants. If that approach doesn’t work, then you may need a splenectomy. Blood transfusions are considered in the situation of severe anemia as supportive care while the disease is being treated.
+Cold autoimmune hemolytic anemia doesn’t respond well to corticosteroids or splenectomy. In a mild case of cold autoimmune hemolytic anemia, keeping warm by using hand/feet warmers, gloves, socks or even moving to a warmer climate may be enough to keep the disease at bay. When treatment is needed, rituximab with or without other immunosuppressive agents is the first line of therapy.
+Prevention
+How can I reduce my risk for autoimmune hemolytic anemia?
+It’s not always possible to prevent autoimmune hemolytic anemia. But if you have a viral infection or use medications that are commonly linked to AIHA, then your healthcare provider can monitor your situation in an effort to reduce your risk of developing the condition.
+Outlook / Prognosis
+Is autoimmune hemolytic anemia serious?
+Autoimmune hemolytic anemia can be so mild you don’t need treatment. But it can also be so advanced that you require surgery or a blood transfusion. If you’ve been diagnosed with AIHA, your healthcare provider can talk with you about the severity of your diagnosis and your treatment options.
+Can autoimmune hemolytic anemia be cured?
+Yes. Most people with AIHA only need minimal treatment, if any. About 20% to 30% of people require medication, surgery or a blood transfusion.
+It’s important to note that AIHA can be fatal if left untreated. That’s why immediate intervention is so important.
+Living With
+When should I see my healthcare provider?
+If you start showing anemia symptoms — such as fatigue, weakness, jaundice or shortness of breath — schedule an appointment with your healthcare provider right away.
+A note from Cleveland Clinic
+Autoimmune hemolytic anemia happens when your immune system attacks your red blood cells. Symptoms may be mild or severe and can be treated using a number of different methods. While AIHA is highly treatable, it can be serious — and even fatal — if left unaddressed. Your healthcare provider can run tests to determine the severity of your condition and recommend appropriate treatment so you can ease your symptoms and get back to normal life.

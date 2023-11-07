@@ -1,0 +1,111 @@
+Immunotherapy Side Effects
+What is immunotherapy?
+Immunotherapy is a cancer treatment that uses your body’s immune system to find and destroy cancer cells. Your immune system identifies harmful substances (including germs and abnormal cells) and destroys them to keep you healthy. But cancer cells are good at slipping past your immune system defenses. Cancer cells can multiply and spread without treatment.
+Immunotherapy is designed to give your immune system the boost it needs to rid your body of cancer cells. Immunotherapy strengthens your body’s cancer-fighting power by:
+- Stimulating your immune system to make more cancer-fighting immune cells.
+- Helping your body produce cancer-fighting immune cells that effectively locate and destroy cancer cells.
+Immunotherapy is an effective treatment for many forms of cancer because it strengthens the immune defenses you already have.
+Why does immunotherapy cause side effects?
+Any form of treatment — including immunotherapy — has potential downsides. Although immunotherapy is designed to help your immune system attack cancer cells, immune cells may mistakenly attack healthy tissue. This is called an immune-related adverse effect, or irAE.
+As a result, immunotherapy can cause inflammation in healthy tissue that you may experience as one or more side effects.
+How common are immunotherapy side effects?
+You may not experience side effects at all. About 20% of people receiving immunotherapy experience an irAE. Usually, side effects are mild and easily managed. Still, you should tell your healthcare provider about any changes you notice while on immunotherapy or even after.
+You’re more likely to experience a side effect if you’re taking a combination of immunotherapy drugs or if you have an autoimmune disease. An autoimmune disease involves your immune system mistakenly attacking your body’s healthy tissue.
+What are the most common side effects of immunotherapy?
+The most common immunotherapy side effects are mild, including:
+- Fatigue.
+- Itchy rash.
+- Diarrhea.
+- Nausea and vomiting.
+- Decreased thyroid hormone levels.
+How does immunotherapy affect various organs and body systems?
+Your immune system protects your entire body. This means that a supercharged immune system (thanks to immunotherapy) can affect multiple organs and body systems. Most of the signs and symptoms of immunotherapy are minor. Others are serious and require immediate medical attention. Tell your provider about any symptoms you’re experiencing to be safe.
+Immunotherapy can cause an allergic reaction affecting your skin. Symptoms include:
+- Rash.
+- Itchy skin.
+- Blisters.
+- Cracked skin.
+- Painful sores or ulcers.
+- Skin that’s more sensitive to sunlight.
+Immunotherapy may cause the enzyme levels in your liver to increase. Most often, people don’t notice related symptoms when this happens. More severe complications of immunotherapy include:
+- A liver condition called hepatitis, which can cause jaundice, dark-colored urine, stomach pain on your right side, vomiting, a sick feeling in your stomach and increased chances of bleeding or bruising.
+- A gastrointestinal condition called colitis, which causes diarrhea. It can also cause bloody, dark, tarry and/or slick stools and stomach pain.
+In rare cases, immunotherapy can cause inflammation in your lungs, or pneumonitis. Symptoms include:
+- Coughing.
+- Chest pain.
+- Shortness of breath.
+Immunotherapy can cause problems with the glands that produce hormones, especially your thyroid. Your thyroid may produce too few hormones (hypothyroidism). Less commonly, your thyroid may produce too many hormones (hyperthyroidism). Symptoms include:
+- Hair loss.
+- Dizziness.
+- Headaches.
+- Constipation.
+- Severe fatigue.
+- Weight changes.
+- Excess sweating.
+- Faster heartbeat.
+- Feeling like fainting.
+- Increased hunger or thirst.
+Although it’s rare, immunotherapy can cause nervous system conditions. The most common include:
+- A brain condition called encephalitis, which may cause a fever, unusual behaviors, moodiness, stiff neck, seizures and eyes that are sensitive to light.
+- A nervous system condition called neuropathy, which causes tingling, numbness or weakness in your hands, feet or face.
+Although it’s uncommon, immunotherapy can affect your cardiovascular system. Immunotherapy can cause an irregular heartbeat (arrhythmia). It may also lead to:
+- Conditions that cause inflammation in your heart, including myocarditis and pericarditis.
+- A condition that causes inflammation in your blood vessels, called vasculitis.
+Immunotherapy can cause inflammation in your joints (arthritis). Symptoms include:
+- Joint swelling.
+- Joint pain.
+What side effects are associated with different types of immunotherapy?
+Potential side effects depend on the type of immunotherapy you receive. Most research on side effects has focused on a particular type of immunotherapy called immune checkpoint inhibitors (ICI). But there are several immunotherapy types and possible side effects.
+Immune checkpoint inhibitors (ICI)
+Cancer cells can prevent cancer-fighting immune cells called T-cells from recognizing cancer as dangerous. Cancer cells can hide in plain sight. As a result, your body’s T-cells don’t attack the cancer. ICIs help T-cells recognize cancer cells as harmful so that they can destroy them.
+ICIs may cause symptoms like fatigue, diarrhea and a rash. More severe side effects include conditions that cause inflammation in your organs.
+Adoptive cell therapy (T-cell transfer therapy)
+With adoptive cell therapy, your provider removes your cancer-fighting T-cells and changes them in a lab, so they’re better at finding and destroying cancer cells. Then, your provider places the T-cells back into your body.
+Side effects will depend on the type of adoptive cell therapy you receive:
+- Tumor-infiltrating lymphocytes therapy (TIL) can cause a rare condition called capillary leak syndrome. Fluid leaks from tiny blood vessels called capillaries, causing low blood pressure or more serious symptoms.
+- CAR T-cell therapy can cause cytokine release syndrome (CRS). With CRS, your immune system releases proteins called cytokines that ramp up your immune system. You may experience various symptoms, including fever, headache, fast heartbeat and shortness of breath. Your healthcare provider can help you manage the symptoms of cytokine release syndrome.
+CAR T-cell therapy may also cause side effects that affect your immune system, including:
+- Headaches.
+- Confusion.
+- Seizures.
+Monoclonal antibodies
+Monoclonal antibodies are lab-made proteins designed to target specific weaknesses in various types of cancer cells. Potential side effects include:
+- Flu-like symptoms (fatigue, fever, chills, achy muscles or joints, sore throat, shortness of breath).
+- Abnormal blood pressure (too low or too high).
+- Bleeding or blood clots.
+- Wounds that heal slowly.
+- Rash.
+Treatment vaccines
+Vaccines teach your immune system to recognize signs of cancer cells so your cancer-fighting immune cells can find and destroy them.
+Side effects may include:
+- Flu-like symptoms.
+- High blood pressure.
+Immune system modulators (immunomodulators)
+Immunomodulators change your immune system in ways that help your body fight cancer. Immunomodulators may increase your immune cells, stimulate the cells you already have to fight cancer more aggressively, etc.
+Thalidomide, lenalidomide and pomalidomide are immunomodulators that may cause the following side effects:
+- Fatigue and drowsiness.
+- Nerve damage (neuropathy).
+- Blood clots.
+Imiquimod is an immunomodulator that’s applied as a cream. Some people who use it have skin reactions.
+When do the side effects of immunotherapy start?
+There isn’t a set time when side effects begin. Usually, it takes time for immunotherapy to start working. It may take months or even years for side effects to occur — if they occur at all. Some side effects don’t appear until over a year after starting therapy.
+When do the side effects of immunotherapy end?
+Most side effects are temporary. In rare cases, they cause long-term effects. If you have side effects, they may linger for some time, even after the medicine is out of your system. Immunotherapy’s effects last because it isn’t a drug that works while it’s in your system and stops working once it’s out. Instead, it has lasting effects on your immune system so your immune cells can fight cancer effectively.
+How can I manage immunotherapy side effects?
+It’s essential that you speak with your healthcare provider about any symptoms you’re experiencing during (or after) immunotherapy treatments, no matter how small or unimportant they may seem. Often, your provider can adjust your treatment or prescribe additional medications to ease your symptoms while preventing complications.
+Your provider may:
+- Stop treatment in the short term to give your immune system a cooling period.
+- Prescribe medications to lessen your immune response. Medications include steroids and immunosuppressants.
+Your provider may also suggest lifestyle changes to help you manage symptoms.
+Do side effects mean that treatment is working?
+Some studies suggest that side effects associated with ICI may be a sign that the treatment is getting rid of your cancer. Still, just because you don’t have side effects doesn’t mean immunotherapy isn’t helping. More research is needed to determine the relationship between side effects and the effectiveness of various immunotherapy treatments.
+What are the benefits of immunotherapy?
+Understanding immunotherapy’s potential risks and side effects naturally invites the question: Is it worth it? While there are no guarantees that any cancer treatment will work for everyone, immunotherapy has many potential benefits. Immunotherapy:
+- Improves the long-term survival rate of many types of cancer.
+- Destroys multiple tumor types and can prevent tumors from returning in many cases.
+- Can prevent many types of cancer from spreading.
+- Supercharges your immune system so it continues fighting cancer even after you’ve stopped treatment.
+- Causes side effects that are (on average) less severe than those associated with more traditional cancer treatments, like chemotherapy.
+Discuss the pros and cons of immunotherapy with your healthcare provider to determine if it’s the right treatment option for you.
+A note from Cleveland Clinic
+Immunotherapy isn’t a one-size-fits-all type of treatment. Instead, it relies upon the strength of your immune system. Similarly, it’s impossible to know what side effects you’ll experience. The kind of cancer you have, where the cancer’s located in your body and your overall health could influence your experience. The specific type and dosage of immunotherapy you receive also play a role. Ask your healthcare provider about all the factors that will likely shape your experience. Keep them posted about any symptoms or side effects you notice during treatment.

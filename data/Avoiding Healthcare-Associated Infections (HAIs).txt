@@ -1,0 +1,42 @@
+Avoiding Healthcare-Associated Infections (HAIs)
+Overview
+What are healthcare-associated infections (HAIs)?
+Healthcare-associated infections (HAIs) are infections you can get at a healthcare facility while you're being treated for other diseases or conditions. These infections can cause serious illness or death. They are a growing threat to patient safety in the United States and worldwide.
+HAIs cause thousands of deaths a year and cost the U.S. healthcare system billions of dollars annually.
+HAIs are often associated with surgical or medical procedures where devices such as catheters or ventilators are used. On any given day in the United States, 1 in 25 patients is affected by an HAI.
+Yet most HAIs can be prevented. Patients and their families should work with healthcare providers to make sure they stay safe.
+What increases the risk of healthcare-associated infections (HAIs)?
+HAIs happen in hospitals, nursing homes, long-term care facilities, ambulatory surgical centers, dialysis centers, and other healthcare facilities. These factors increase the risk of an HAI:
+- Use of catheter (drainage tube) or ventilator (breathing tube).
+- Injections.
+- Surgery.
+- Facility or equipment not properly cleaned and disinfected.
+- Disease that spreads between healthcare worker to patient or patient to patient.
+What types of healthcare-associated infections (HAIs) are common?
+Some types of HAIs are related to the procedures or devices used to provide healthcare. These include:
+- Central line-associated bloodstream infection (CLABSI): A central line, also called a central venous catheter, is placed into a major vein near your heart to give medicines and take blood.
+- Surgical site infection (SSI): These infections happen when you have surgery. They can be in your skin or deeper within your body and more serious.
+- Catheter-associated urinary tract infection (CAUTI): A catheter is a tube that goes from your bladder through your urethra to allow urine to drain from your body into a collection bag. Urinary tract infections (UTIs) are the most common type of HAI. They affect the urinary tract (kidneys, bladders, urethra and ureters). About 75% of these UTIs are linked to the use of catheters, especially if the catheter is used for a long time.
+- Ventilator-associated pneumonia (VAP): A ventilator is a machine that also uses tubes. These tubes help oxygen get to your lungs either by way of your mouth or through a hole in your neck. Pneumonia is a lung infection that can happen if the germs enter your lungs because of the tube.
+Another way of identifying HAIs involves the actual germs that cause the infections. These include infections like the following:
+- Gram-negative bacteria, which can cause infections like pneumonia, bloodstream infections or meningitis. Acinobactere infections, a type of infection not usually found outside of a healthcare facility, belongs in this type.
+- Clostridioides difficile (C. diff), which is a germ that can cause colon inflammation and a very contagious form of diarrhea.
+- Methicillin-resistant Staphylococcus aureus(MRSA), which is a form of infection that is resistant to common antibiotics like penicillin, amoxicillin and methicillin. Outside of healthcare facilities, MRSA is usually found as a skin infection. Inside healthcare facilities, you can come down with MRSA infections that are serious and might actually cause death. There are other infections that resist other types of antibiotics, including carbapenem and vancomycin.
+- Hepatitis, a group of viral infections that affect the liver and are easily transmitted in healthcare facilities.
+Management and Treatment
+How are healthcare-associated infections (HAIs) treated?
+HAIs can cause illnesses ranging from mild to extremely serious and life-threatening. Treatment of HAIs depends on the infection involved. Some respond to carefully chosen antibiotic treatments. However, some HAIs can be extremely difficult to treat because of their resistance to antibiotics. Because of this, the best treatment for HAIs is prevention.
+Prevention
+How can patients help prevent healthcare-associated infections (HAIs)?
+You and your family can help make sure you’re doing as much as possible to keep you safe from HAIs. Take the following steps:
+- Keep your hands clean. Regular hand washing is one of the best ways to remove germs, avoid getting sick, and prevent spreading germs. Ask anyone who will be touching you to wash their hands first.
+- Ask your healthcare workers what they're doing to keep you safe from infection. Don’t be afraid to speak up.
+- Ask your doctor what the healthcare team does to prevent infection during and after surgery. Ask how you can prepare for surgery to help prevent infection.
+- If you have a catheter, ask each day if it’s necessary.
+- Ask if tests will be done to make sure you are prescribed the correct antibiotic. Take antibiotics only when your provider thinks you need them. Ask if your antibiotic is necessary. If you take antibiotics when you don’t need them, you’re only exposing yourself to unnecessary risk of side effects and potentially serious infections in the future. If you do need antibiotics, take them exactly as they’re prescribed.
+- Recognize the signs of skin infection. Redness, draining, or pain around the surgical or catheter insertion sites are signs of infection. These symptoms often come with a fever. Tell your doctor right away if you have these symptoms.
+- Get a flu shot and other necessary vaccinations to avoid complications later.
+- Watch for diarrhea, which can be deadly with the C. diff infection. If you have diarrhea three or more times in 24 hours, tell your doctor, especially if you're taking an antibiotic.
+Resources
+A note from Cleveland Clinic
+Healthcare-associated infections can happen while you're being treated for a separate condition. These are often avoidable. We all play an important role in patient safety. If you see something that could place a patient, or yourself, at risk for an infection, speak up to your healthcare team.

@@ -1,0 +1,137 @@
+STEMI Heart Attack
+Overview
+What is a STEMI?
+An ST-elevation myocardial infarction (STEMI) is a type of heart attack that is more serious and has a greater risk of serious complications and death. It gets its name from how it mainly affects the heart’s lower chambers and changes how electrical current travels through them.
+Any heart attack is a life-threatening medical emergency that needs immediate care. If you or someone you’re with appears to be having a heart attack, do not hesitate to call 911 (or the appropriate number for local emergency services). Any delay in receiving care can lead to permanent damage to the heart muscle or death.
+Why is it called a STEMI?
+Myocardial infarction is the medical term for a heart attack. An infarction is a blockage of blood flow to the myocardium, the heart muscle. That blockage causes the heart muscle to die.
+A STEMI is a myocardial infarction that causes a distinct pattern on an electrocardiogram (abbreviated either as ECG or EKG). This is a medical test that uses several sensors (usually 10) attached to your skin that can detect your heart’s electrical activity. That activity is then displayed as a wave pattern on a paper readout or a digital display. The different parts of the wave are labeled using letters, starting at P and ending at U.
+To best understand ST-elevation, it helps to know about two specific wave sections:
+- QRS complex: This is the large peak that appears on a heart wave. The ventricles cause this wave when they pump blood out of your heart.
+- ST-segment: This is a short section immediately after the QRS complex. Normally, there shouldn’t be any electrical activity in that segment, causing it to be flat and back to baseline.
+When there’s an elevation in the ST segment, that often means there’s a total blockage of one of the heart's main supply arteries. When that is happening during a heart attack, it can be a sign that the muscle of the ventricles is dying. That’s critical information for healthcare providers to know during a STEMI because it means the heart muscle is in the process of dying. That also means reopening that artery and restoring blood flow as soon as possible may prevent permanent damage, or at least limit the severity of the damage.
+That’s dangerous because the ventricles are the chambers of your heart that pump blood to your lungs and body. If there’s too much damage to the muscle in the ventricles, your heart can’t pump enough blood to support your body. That’s why STEMIs are so dangerous and why restoring blood flow quickly is so critical.
+Your heart muscle also can’t regrow or regenerate itself, so if the muscle goes without blood flow for too long, the damage to that muscle can be permanent. However, restoring blood flow quickly may keep the damage from being permanent or at least minimize the severity of the damage.
+What happens before and during a STEMI heart attack?
+Blockages in the arteries that supply blood to your heart muscle are what cause most heart attacks. Usually, the blockage happens because plaque, a fatty, waxy buildup accumulates on the inside of your arteries. A blood clot can form on the plaque deposits, rapidly closing the artery and interrupting blood flow to the heart muscle.
+Once blood flow is partially or totally blocked, it causes ischemia (iss-key-me-uh). This is the medical term for how your cells and tissues start to die because they aren't getting blood flow. During a heart attack, the loss of blood flow causes the muscle in your ventricles to begin to die. If too much heart muscle sustains damage, your heart may not have the ability to supply enough blood to your body. That leads to a condition known as cardiogenic shock, which is often fatal. Also, ischemia of the heart muscle may also trigger a dangerous electrical rhythm known as ventricular tachycardia or ventricular fibrillation, which can lead to cardiac arrest (where your heart stops entirely) and sudden death.
+Among heart attacks, STEMIs are typically more severe. Between 2.5% and 10% of people who have one die within 30 days.
+Acute coronary syndrome
+STEMI is one of three conditions that fall under acute coronary syndrome, a disease that happens because of limited or no blood flow to a part of your heart. The other two conditions are non-ST elevation heart attacks (NSTEMI) and unstable angina (sudden chest pain, usually while resting, caused by limited blood flow to the heart).
+Anterior and inferior or lateral STEMI
+There are three coronary arteries that provide blood flow to your heart muscle. Depending on which arteries contain the blockage, damage will happen in different areas of the heart muscle.
+- Anterior STEMI. This type of STEMI usually occurs when a blockage occurs in the left anterior descending (LAD) artery, the largest artery which provides blood flow to the anterior (front) side of your heart. Because the LAD is so large and feeds so much heart muscle, a heart attack affecting this area has a much greater negative effect.
+- Inferior or lateral STEMI. These types of STEMI usually involve the right coronary artery (RCA), which supplies the inferior (bottom) side of your heart, or the left circumflex (LCX) artery which supplies the side wall of your heart. The RCA and LCX are usually smaller than the LAD and supply less heart muscle, so these STEMIs are slightly less severe than anterior STEMI.
+What is the difference between a STEMI and a non-STEMI heart attack?
+The key characteristic that identifies a STEMI is the ST-segment elevation. ST-segment elevation usually indicates a total blockage of the involved coronary artery and that the heart muscle is currently dying. Non-STEMI heart attacks usually involve an artery with partial blockage, which usually does not cause as much heart muscle damage. While ECG results can suggest an NSTEMI, diagnosis usually requires a test that looks for a certain chemical, troponin, in your blood. When there’s damage to your heart muscle, those cells release troponin into your blood. If the blood test detects troponin and you don't have ST-segment elevation, this means it's likely you had a non-ST-elevation heart attack or NSTEMI.
+Who is affected by STEMIs?
+Several risk factors increase the chances of having a heart attack. You can change some of those factors, but not others.
+Factors you can change
+You can manage or modify lifestyle factors. These include:
+- Tobacco use and smoking.
+- Diet, including your intake of sodium (blood pressure), sugar (diabetes) or fat (cholesterol).
+- Your level of physical activity.
+- Alcohol use.
+- Drug use (especially stimulants like amphetamines, cocaine or any other medications that affect your heart).
+Factors you can’t change
+These factors include:
+- Age. Your risk of heart attack goes up as you get older.
+- Sex. Men's heart attack risk starts going up at age 45. Women's heart attack risk increases at age 50 or after menopause (whichever comes first).
+- Family history. If you have a parent or sibling who had a heart attack at your age or younger, your risk goes up significantly. It also includes if you had a father or brother diagnosed with heart disease before age 55 or a mother or sister diagnosed before age 65.
+- Genetic or congenital conditions. Certain medical conditions or disorders can increase your risk of a heart attack. If you inherited these conditions (genetic) or were born with them (congenital), they can’t be changed.
+How common is this condition?
+There are an estimated 550,000 new heart attacks and 200,000 repeat heart attacks (meaning the person has had one before) heart attacks in the U.S. each year. About 38% of people who go to the emergency room with acute coronary syndrome were diagnosed with a STEMI. That means there are a little over 280,000 people who have a STEMI in the U.S. each year.
+Symptoms and Causes
+What are the symptoms?
+The most common symptoms of heart attack, described by those having one, include:
+- Chest pain (angina).
+- Shortness of breath or trouble breathing.
+- Nausea, stomach pain or discomfort. It may feel like indigestion in some cases.
+- Heart palpitations (where you’re unpleasantly aware of your heartbeat).
+- Anxiety or a feeling of impending doom.
+- Sweating.
+- Feeling dizzy, lightheaded or fainting.
+Heart attack symptoms in women
+Women are less likely to say they have pain in the center of the chest or discomfort that feels like indigestion. Heart attack symptoms that women experience can often be those listed above but may also include:
+- Insomnia, fatigue or shortness of breath that started in advance of the heart attack.
+- Pain that spreads (or radiates) to their back, shoulders, jaw, neck, arms or belly.
+- Nausea and vomiting.
+Diagnosis and Tests
+How is this condition diagnosed?
+A physician will diagnose STEMI based on a combination of physical examination of your symptoms and diagnostic tests. Once you're medically stable, and if you're able to answer questions, a provider can do a physical examination and patient history assessment (where the doctor asks you questions about your medical history and personal circumstances).
+What tests will be done to diagnose this condition?
+Tests done to confirm or rule out a heart attack diagnosis include:
+Electrocardiogram (EKG): This test, which shows electrical activity in the heart like a wave pattern (described above), is key to diagnosing a STEMI.
+Imaging: The most common imaging test used with suspected heart attacks is echocardiography. This test uses ultra-high-frequency sound waves to create an image of your heart, including the internal structure. This is also mobile and doable without moving you from a hospital bed, making it especially useful and fast in emergencies.
+Other imaging tests are also possible, especially when EKG or other tests are inconclusive but there’s still enough reason to suspect a heart attack. Use of the following tests is also possible:
+- Computed tomography (CT) scan: This test uses X-rays and computer processing to generate a highly detailed, layer-by-layer view of the heart. This test is often done with contrast or some other kind of substance or dye that’s added to your blood. This dye can help show where blood is flowing and where it isn’t, helping diagnose any blockages.
+- Magnetic resonance imaging (MRI): This test uses an extremely powerful magnet and a computer to process images and create high-resolution pictures of the heart.
+Lab testing: Damage to your heart’s cells causes them to release a chemical called troponin. A troponin test can help confirm a heart attack, which is important because a few other conditions can cause ST elevation. Some of those conditions include:
+- Inflammation of the heart or the pericardium (the sac around the heart).
+- Heart problems caused by extreme stress or emotional strain (takotsubo cardiomyopathy, also known as broken heart syndrome).
+- Irregular heart rhythms (arrhythmias).
+- Electrolyte imbalances.
+Management and Treatment
+How is STEMI treated?
+Treating a STEMI is time-sensitive. That means the faster the treatment, the better the chances for a favorable outcome. If your blood oxygen levels are low, treatment may include supplemental oxygen. There are also several different potential treatments for heart attack, several of which may happen in sequence or at the same time.
+Percutaneous coronary intervention (PCI)
+An interventional cardiologist performs this treatment, inserting a catheter-based device into a major blood vessel (usually in your wrist or near your upper thigh). They then thread the catheter up to your heart. Once there, the cardiologist injects contrast (“dye”) into your arteries to identify a blockage and may then inflate a balloon on the end of the catheter to clear the blockage.
+PCI is time-sensitive, which is why hospitals set a “door-to-balloon time” goal for heart attack cases. This is the time it takes for a patient to go from entering the ER to undergoing PCI, and faster is better. During PCI, placement of a stent (a scaffold-like device at the location of the blockage) is also possible. The stent will help hold the artery open and prevent another blockage from forming.
+Medication
+In most cases, several medications are given early on in the treatment of heart attack. They include:
+- Beta-blockers. These reduce how hard your heart pumps and slow down your heart rate. That effect helps the heart muscle handle reduced blood supply, prevent irregular heart rhythms and reduce damage to your heart.
+- Statins. These medications lower the levels of cholesterol in your blood by block its production in the liver. This is important because cholesterol (especially at higher levels) is what forms plaque that can obstruct arteries.
+- Aspirin and antiplatelet medications. These medications help reduce the formation of blood clots on the plaque in the arteries and, if stent placement happens during PCI, on the metal surface of the stent itself.
+- Anticoagulants. These medications also interfere with clotting but do so in a slightly different way from antiplatelet drugs and aspirin.
+- Nitroglycerin. This medication is very effective at vasodilation, meaning it causes your blood vessels to widen. That’s why it’s so effective at helping with chest pain from blockages of blood vessels.
+- Pain medications. When chest pain is severe, morphine or other strong pain medications may help.
+Coronary artery bypass grafting (CABG) surgery
+Severe blockages of your heart's arteries may need coronary artery bypass grafting (CABG, pronounced like "cabbage). During this procedure, a surgeon takes a blood vessel from somewhere else in your body and uses it to craft a new blood vessel that bypasses the blockage. CABG is often called bypass surgery or open-heart surgery.
+Prevention
+Can I prevent a heart attack?
+There are several things you can do that will help prevent a heart attack. Perhaps the most important of them is to get a yearly physical. This annual visit with your primary care provider (sometimes called a checkup or wellness visit) is one of the most important ways to catch problems early. Conditions like high blood pressure or diabetes may not cause symptoms until they're advanced, but a healthcare provider can easily catch them during an annual checkup.
+There are several other steps — many of which your primary care provider can offer guidance and resources about — that you can take:
+- Maintain a healthy weight.
+- Eat a balanced diet.
+- Get at least 150 minutes per week of moderate-intensity exercise (or higher).
+- If you use tobacco products, quit as soon as possible.
+- Manage your health, especially conditions like high cholesterol, high blood pressure and diabetes (this includes taking your medication regularly, not just when you remember).
+However, because of the factors that you can’t change — especially your age and family history — preventing a heart attack isn’t always possible. Even so, it may be possible to delay when a heart attack happens. Recovering from a heart attack — or virtually any illness, for that matter — is also easier when you’re healthy.
+Outlook / Prognosis
+How long will I need to stay in the hospital?
+The length of a hospital stay after a heart attack can vary from case to case. It often depends on the severity of the attack and the treatments you received. The average hospital stay ranges from four days with PCI treatment to seven days with CABG surgery.
+How long will it take before I feel better?
+The symptoms of your heart attack should decrease as you receive emergency care. It’s common for you to feel weaker or tired for several days after your heart attack and after you return home.
+What is the outlook for a STEMI heart attack?
+The outlook after a STEMI depends on several factors. The most important factor is how much damage there is to the heart muscle from the STEMI. That’s why it is so critical that you get medical attention quickly if you experience symptoms of a STEMI. Your healthcare provider is the best person to tell you what your outlook is, what to expect and what you can do to improve your situation.
+What else can I expect after a STEMI?
+Once you’ve had a heart attack, you have a greater risk of having another. Your healthcare provider will likely recommend rest and follow-up care to help reduce the risk of that happening. Some of the most likely types of follow-up care include:
+- Regular follow-up and diagnostic imaging. These visits with your healthcare provider can track your recovery, your overall condition and any changes in your heart function.
+- Cardiac rehabilitation. This type of program specializes in helping people with a history of heart conditions recover. These programs often include experts from several different fields, including diet and nutrition, exercise physiology and physical training, and more to help you.
+When can I go back to my normal routine?
+For the most part, you should be able to resume most of your usual activities within weeks or months after you return home. However, if you underwent surgery or your heart attack was more severe, your recovery will likely take longer. Your healthcare provider can tell you more about how long your recovery should take, what goals you can set and what you can do to help yourself recover.
+Living With
+How do I take care of myself?
+Most of the tips listed above under “Prevention” are also helpful here. In general, you should focus on maintaining your overall health and any symptoms you have. That includes:
+- Exercising regularly, as recommended by your healthcare provider.
+- Managing your diet and weight.
+- Taking your medications as recommended.
+- Seeing your doctor as recommended for follow-up care.
+- Calling your doctor if you have any new symptoms or questions about your condition, medications, etc.
+When should I call my healthcare provider?
+You should contact your healthcare provider anytime you have questions about your condition, care, medications, etc. This is especially true if you notice any changes to your health that haven’t yet become severe. Your provider can also tell you specific problems or signs that mean you should call them or seek medical attention.
+When should I go to ER?
+You should seek immediate medical attention if you have a sudden return or change in your symptoms, especially if they are symptoms of a heart attack or related problem. The main symptoms to watch for are:
+- Chest pain (angina) or pain that radiates to your jaw, neck, back, arms or abdomen.
+- Shortness of breath.
+- Nausea or vomiting.
+- Dizziness, feeling lightheaded or passing out.
+- Sweating.
+- Heart palpitations.
+If fast care is important, is it better to call 911 or drive myself to the hospital?
+You should never drive yourself to the hospital if you think you might be having a heart attack. You should also not have someone drive you. Calling 911 (or the appropriate number for emergency services in your area) is best because of the following reasons.
+- First responders are specially trained and equipped to transport you and start your care on the way. They can also provide information to healthcare providers at the hospital before you arrive, saving even more time.
+- First responders can also take you directly into the emergency room rather than you having to enter through a lobby and waiting room.
+- It’s not safe to drive yourself to the hospital during a possible heart attack because there’s a risk of you having a dangerous heart rhythm or passing out, which would be dangerous for yourself and anyone else on the road near you.
+A note from Cleveland Clinic
+ST-elevation heart attacks are a dangerous and sometimes deadly condition. Fortunately, modern medicine’s understanding has uncovered effective ways to treat this problem. That understanding also is always growing, with new treatments, medications and methods continuing to become available. That means your chances of getting life-saving care and recovering — especially if you get care quickly — have never been better.

@@ -1,0 +1,104 @@
+Monomorphic Ventricular Tachycardia
+Overview
+What is monomorphic ventricular tachycardia?
+Monomorphic ventricular tachycardia is a type of irregular heart rhythm (arrhythmia) that happens when the lower chambers of your heart beat at a dangerously fast pace. It can turn into a dangerous — or even deadly — problem depending on how and when it happens.
+Ventricular tachycardia can easily turn into ventricular fibrillation, which is a deadly arrhythmia that can stop your heart. If you’re with someone who passes out and has no pulse, it’s important to call 911, start CPR immediately and find a nearby automated external defibrillator (AED).
+If you don’t know how to give CPR, 911 operators often have training in how to direct you over the phone on how to give CPR. If you’re in a public place, many buildings and facilities also have on-site automated external defibrillators (AEDs), which can be a critical, life-saving tool in these situations.
+What does this condition’s name mean?
+The name “monomorphic ventricular tachycardia” breaks down into the following terms and meanings:
+- Mono-: One.
+- -morphic: Shape.
+- Ventricular: Involves the lower chambers of your heart, your left and right ventricles.
+- Tachy-: Fast.
+- -cardia: Heart.
+Ventricular tachycardia (VT) means that your lower chambers beat fast yet insufficiently. This is usually due to abnormal electrical circuits in the ventricular muscles. The term "monomorphic" comes from how this heart rhythm appears on an electrocardiogram (often shortened using one of two abbreviations, ECG or EKG). Monomorphic VT makes up about 70% of all cases of VT.
+An EKG detects your heart’s electrical activity using several sensors (usually 12) called electrodes that attach to the skin of your chest. Those electrodes pick up the electrical activity and show it as a series of waves on either a paper printout or a screen display. Monomorphic VT means that the waves all consistently have the same shape.
+There are two subtypes of monomorphic VT
+- Non-sustained: This type of monomorphic VT only happens for more than three heartbeats in a row but fewer than 30 seconds. However, it can happen repeatedly. In cases where it comes and goes, it’s often harder to detect.
+- Sustained: This is monomorphic VT that happens for more than 30 seconds or that needs some kind of treatment to make it return to a normal heart rhythm.
+What’s the difference: Monomorphic ventricular tachycardia vs. polymorphic ventricular tachycardia?
+Polymorphic ventricular tachycardia is similar to monomorphic VT but with a key difference. Polymorphic means “many shapes.” On an EKG, polymorphic VT waves change from beat to beat. That means the electrical activity in your heart is much more unstable than with monomorphic VT.
+Who does it affect?
+Ventricular tachycardia is more common in men and those assigned male at birth. It tends to affect adults, especially older adults or those with any form of heart disease, especially heart failure with reduced ejection fraction. It can happen to children, but this is rare and it tends to only happen with structural heart diseases (conditions where part of their heart has the wrong shape or placement) that they had when they were born (congenital). You can also inherit conditions that commonly cause ventricular tachycardia, such as Brugada syndrome or arrhythmogenic right ventricular cardiomyopathy.
+How common is this condition?
+Ventricular tachycardia and a related arrhythmia, ventricular fibrillation, are responsible for about 300,000 deaths in the U.S. each year.
+How does this condition affect my body?
+Monomorphic ventricular tachycardia usually happens because of a malfunction in your heart’s electrical system. That malfunction makes the ventricles beat so fast that they don't have enough time to fill up with blood before they have to squeeze again. It can also cause the ventricles to squeeze at the wrong time, throwing them out of sync with the upper chambers of your heart.
+Ventricular tachycardia can also worsen into ventricular fibrillation. This is the same effect where your heart's lower chambers can't fill up with blood, but it's more severe. With ventricular fibrillation (often shortened to v-fib), the ventricles don’t squeeze correctly at all and instead just twitch or quiver.
+Because your heart isn’t pumping effectively, ventricular fibrillation can easily cause cardiogenic shock or sudden cardiac arrest, which is when your heart can’t pump enough blood to support your body. Ventricular tachycardia can also skip v-fib entirely and go straight to cardiac arrest. Sudden cardiac arrest is deadly in minutes without immediate CPR (and it's often called sudden cardiac death when attempts to revive the affected person are unsuccessful).
+Symptoms and Causes
+What are the symptoms of monomorphic ventricular tachycardia?
+Some people with monomorphic VT might not have any symptoms at all. When there aren’t any symptoms, VT is usually short-lived and not severe.
+The symptoms of monomorphic VT include:
+- Fast pulse (or no pulse). Your heart rate with monomorphic VT is usually between 140 to 180 beats per minute (higher rates are usually worse and are more likely to cause symptoms). In some cases, you won’t have a pulse at all, which usually means you’re in cardiac arrest.
+- Heart palpitations. This is the unpleasant sensation of your own heartbeat without feeling for your pulse. These can feel like your heart is racing, pounding, skipping, fluttering or flip-flopping.
+- Chest pain (angina). This happens when there’s not enough blood flow to your heart.
+- Dizziness or lightheadedness. This happens when your heart isn't pumping enough blood to meet your brain's need for oxygen fully.
+- Syncope (fainting or passing out). This usually follows dizziness or lightheadedness when VT is severe. This can be a full faint or repeated instances of near-fainting.
+- Shortness of breath (dyspnea). Lack of blood flow starves your body of oxygen, making it feel like you're struggling to breathe.
+What causes monomorphic ventricular tachycardia?
+Monomorphic VT can happen for a number of reasons. These include:
+- Ischemic heart disease. Ischemia, a lack of blood flow, can disrupt your heart’s electrical system and cause monomorphic VT.
+- Cardiomyopathy. People with weak and scarred hearts (due to various causes like ischemia) can have abnormal electrical circuits that bring about VT.
+- Existing arrhythmias. Conditions that disrupt your heart's electrical system can happen on their own, or you have them at birth. An example of this is Brugada syndrome.
+- Structural heart problems. Your heart’s electrical system depends on your heart being a certain shape. When that shape changes, it increases or decreases the distance that electrical current travels. Those changes can throw the timing of different steps in your heartbeat out of sync, causing monomorphic VT. You can be born with structural heart conditions, and some of them happen because you inherit them from your parents.
+- Electrolyte imbalances. These happen when your body has too much (or not enough) of certain minerals that your heart needs for its cells to work properly.
+- Drugs. Prescription medications (such as digitalis) and recreational drugs (such as methamphetamine or cocaine) can cause monomorphic VT.
+- Myocarditis. This is inflammation of your heart muscle. It can happen for many reasons, including infections.
+- Other conditions. Conditions like cardiac amyloidosis, lupus or rheumatoid arthritis can all cause monomorphic VT.
+Is it contagious?
+Monomorphic VT isn’t contagious, so you can’t pass it from person to person. However, some conditions that cause it are genetic, meaning children can inherit them from one or both parents. It can also happen because of inflammation from infections, and those infections are sometimes contagious.
+Diagnosis and Tests
+How is monomorphic ventricular tachycardia diagnosed?
+Diagnosing monomorphic VT requires an in-hospital electrocardiogram. A doctor can diagnose this condition using this test based on the wave pattern they see on your EKG. An EKG is the only way to diagnose monomorphic VT because EKG is the only way to see the consistent wave pattern in your heart's electrical activity.
+When you have non-sustained monomorphic VT, it may take tests that use the same principle as an EKG but don't require you to be in a hospital. These include ambulatory monitors, which are devices that record EKG readings over a longer period. You can wear these home and, depending on the type of monitor, you can wear them for days or even weeks.
+Management and Treatment
+How is monomorphic ventricular tachycardia treated, and is there a cure?
+If you don’t have sustained ventricular tachycardia and don’t have any symptoms, you probably won’t need treatment for ventricular tachycardia. However, your healthcare provider will probably caution you to watch for any symptoms that mean this condition is becoming a problem for you.
+Because sustained ventricular tachycardia can lead to cardiac arrest (either directly or after turning into v-fib), it’s important to return your heart to a normal rhythm. That often requires one or more different approaches, ranging from medication to surgery.
+Depending on why it happens, monomorphic VT is usually treatable but isn't always curable. The underlying cause is what's most likely to determine if your case is curable.
+What medications and treatments are used for monomorphic ventricular tachycardia?
+Treatment for monomorphic VT usually involves one or more of the following:
+- Medication. Anti-arrhythmia medications can greatly reduce the risk of complications and death from ventricular tachycardia. Other medications can also help return your heart to a normal rhythm. Some of these medications are ones you’ll only get in the hospital because they’re delivered straight into your body through an intravenous (IV) line or injection. Other medications you can take in pill form daily.
+- Electric defibrillation. This involves using an electric current to “shock” your heart back into a normal rhythm. This is usually limited to when your overall condition is unstable, such as when your blood pressure is very low because of ventricular tachycardia.
+- Chest compressions. These are the same technique used in CPR. They’re usually the immediate response if you go into cardiac arrest because of ventricular tachycardia. If you have a pulse, these are unnecessary.
+- Oxygen, intubation and ventilation. Supplemental oxygen (such as through tubing under your nose) can help ease the strain on your heart. If your condition becomes unstable enough that you’re having trouble breathing, you may need intubation. That involves inserting a tube down your throat and into your windpipe. That tube connects to a device called a ventilator, which will do the work of breathing for you.
+- Implantable cardioverter-defibrillators. If you have monomorphic VT, implantable devices can protect you from cardiac arrest. Implantable cardioverter defibrillators (ICDs) are devices a surgeon can implant into your chest and connect to your heart using wires (these are known as leads). An ICD can detect an arrhythmia and deliver a small electrical shock to jolt your heart back to a normal rhythm.
+- Ablation. In some cases, healthcare providers can create scar tissue on your heart that break the circuits that make monomorphic VT possible. This procedure is known as ablation, and it can happen with either a surgery or a catheter-based procedure. The catheter-based procedure involves a tube-like device that a healthcare provider inserts into a major blood vessel (usually one at the top of your thigh), which they can then thread up to your heart. Once it reaches your heart, very precise heat or cold energy can create scarring that breaks the faulty electrical circuit.
+Complications/side effects of treatment
+The potential complications and side effects that you might have from any of the above treatments can vary greatly. Your healthcare provider is the best person to tell you what’s most likely to happen in your case. That’s because they can take into account the specific treatments you need (or already received), as well as your health history and specific circumstances.
+How can I take care of myself/manage my symptoms?
+Because monomorphic VT requires an EKG to diagnose, you can’t know you have it without getting medical attention. That also means you can’t care for it yourself without first seeing a healthcare provider.
+How soon after treatment will I feel better?
+Most people will start to feel better when receiving treatment, especially if that treatment slows down their heart rate and restores their heart to a normal rhythm. In other cases, you might need additional care or even surgery before you start to feel better. If you need surgery, you might not feel fully recovered until you also recover from the procedure. Your healthcare provider is the best person to tell you what your likely recovery time is and what — if anything — you can do to help you have a faster or smoother recovery.
+Prevention
+How can I reduce my risk of developing this or prevent it from happening entirely?
+In most cases, monomorphic VT is an unpredictable problem. That means it’s not possible to prevent it. The only way to prevent it is to avoid circumstances or activities that might make it possible for you to develop it. An example of this is avoiding recreational drugs like methamphetamine or cocaine.
+If monomorphic VT happens because of another condition you develop, you might be able to reduce your risk of VT by avoiding or delaying that condition. However, this isn’t always possible. Monomorphic VT is also not preventable when it happens because of an inherited condition or a condition you have at birth.
+Outlook / Prognosis
+What can I expect if I have this condition?
+If you don’t have symptoms from monomorphic VT, you probably won’t need medical treatment.
+If you do have symptoms of monomorphic VT, you need immediate emergency medical care. That’s because ventricular tachycardia can easily lead to cardiac arrest (either directly or by turning into v-fib first).
+How long does monomorphic VT last?
+This condition may be very short, lasting only for a few moments at a time, or it can last for several minutes. However, this condition is dangerous, which means you shouldn't let it continue for too long. That's why emergency medical care is so vital to avoid complications or death.
+What’s the outlook for this condition?
+Non-sustained ventricular tachycardia, especially without symptoms, is usually not a harmful problem.
+When you have sustained monomorphic VT, especially with symptoms, you need emergency medical attention. Without that care, your heart could develop an even worse arrhythmia or stop altogether.
+Living With
+How do I take care of myself?
+Your healthcare provider is the best person to guide you on what you can do to take care of yourself once you have a diagnosis of monomorphic VT. In general, you should do the following:
+- Take your medication as instructed. This is vital because the medication can help keep your heart rhythm from turning into monomorphic VT. You shouldn't stop taking your medication without first talking to your healthcare provider. If you have any questions about taking or storing your medication, be sure to talk to your healthcare provider or pharmacist for more info.
+- See your healthcare provider as recommended. Follow-up care and visits are essential to avoiding complications or other problems from this condition.
+When should I see my healthcare provider?
+You should see your healthcare provider regularly as recommended. You should also see them if you start to develop symptoms or if your symptoms change and start to interfere with your life. You should also ask your provider about the symptoms or warning signs that mean you need to call their office or seek medical care.
+When should I go to ER?
+You should go to the hospital ER if you have any of the symptoms of monomorphic VT. That’s because the symptoms of this condition are very similar to symptoms seen with other dangerous conditions like heart attack or pulmonary embolism.
+The symptoms to watch for include:
+- Chest pain (angina).
+- Heart palpitations.
+- Shortness of breath.
+- Dizziness or feeling lightheaded.
+- Passing out or fainting.
+- Shortness of breath.
+A note from Cleveland Clinic
+Monomorphic ventricular tachycardia is a condition that can be dangerous. If you have the symptoms of this condition, it’s important to get medical attention quickly. The sooner you get care, the more likely healthcare providers can diagnose and treat your problem before it turns into something worse. While this condition isn’t always curable, it’s usually possible to treat it in ways that allow you to return to your life and the activities you most enjoy.

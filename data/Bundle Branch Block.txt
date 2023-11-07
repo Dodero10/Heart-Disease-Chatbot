@@ -1,0 +1,108 @@
+Bundle Branch Block
+Overview
+What is a bundle branch block?
+A bundle branch block (BBB) is when something blocks or disrupts the electrical signal that causes your heart to beat. This block leads to an abnormal heart rhythm.
+Your heart’s tissue sends electrical impulses that travel through pathways called bundle branches. These impulses normally travel through the bottom chambers of your heart (ventricles). Your heart’s two ventricles usually contract at the same time. But a bundle branch block delays the electrical signal, therefore, the ventricle that receives the delayed signal will contract at a later time.
+Healthcare providers don’t always treat bundle branch blocks. But they may treat the underlying health problems that cause the block.
+What are the types of bundle branch blocks?
+There are two types of bundle branch blocks:
+- Right bundle branch block (RBBB): RBBB occurs when a disruption happens along the pathway that sends electrical signals to your right ventricle.
+- Left bundle branch block (LBBB): LBBB occurs when a disruption happens along the pathway that sends electrical signals to your left ventricle.
+You can have a disruption in one bundle or in both your left bundle and your right bundle at the same time.
+Who might have a bundle branch block?
+Anyone can have a bundle branch block. The risk of both right bundle branch block and left bundle branch block increases with age and other health conditions, such as heart disease.
+How common is a bundle branch block?
+- Right bundle branch block: RBBB is more common than LBBB. RBBB affects about 0.8% of people at age 50 and up to 11.3% of people by age 80.
+- Left bundle branch block: LBBB affects about 0.06% to 0.1% of the U.S. population. Around 33% of people with heart failure have LBBB.
+How does a bundle branch block affect my body?
+Bundle branches form part of your heart conduction system, which controls your heartbeat. A block affects your body based on where it’s located:
+- Right bundle branch block: If you have RBBB, the blockage is in the bundle branch that carries the electrical impulse to your right ventricle. This problem causes your left ventricle to contract before your right ventricle.
+- Left bundle branch block: If you have LBBB, the blockage is in the bundle branch that carries the electrical impulse to your left ventricle. This problem causes your right ventricle to contract before your left ventricle, making it harder for your heart to pump blood efficiently. A diagnosis of left bundle branch block often means that you have an underlying heart condition.
+- Left and right bundle branch blocks: If you have blockages in both bundle branches, the electrical impulse from the upper to lower chambers of your heart will be completely blocked. This can result in a slower heart rate and other serious health problems.
+Symptoms and Causes
+What causes a bundle branch block?
+Conditions that can cause a bundle branch block include:
+- Congenital heart disease.
+- Dilated cardiomyopathy.
+- Heart attack (myocardial infarction).
+- Heart disease (coronary artery disease).
+- Heart failure.
+- Heart infection (myocarditis).
+- Heart valve disease.
+- High blood pressure (hypertension).
+- Hypertrophic cardiomyopathy.
+- Weakened or stiffened heart muscle (cardiomyopathy).
+Right bundle branch block may also result from lung diseases including:
+- Chronic obstructive pulmonary disease (COPD).
+- Pulmonary embolism.
+- Pulmonary hypertension (PH).
+Sometimes, a bundle branch block has no known cause. It can happen in people whose hearts otherwise function normally and who have no underlying conditions.
+What are the symptoms of bundle branch block?
+A bundle branch block may not cause any symptoms. When this condition does cause symptoms, they may include:
+- Dizziness.
+- Fainting (syncope).
+- Feeling like you’ll faint (presyncope).
+Bundle branch blockages on both sides may cause symptoms including:
+- Abnormal heartbeat (arrhythmia).
+- Shortness of breath (dyspnea).
+- Slow heart rate (bradycardia).
+You’re more likely to feel symptoms if you have:
+- An underlying heart condition.
+- Both right and left bundle branch block.
+- Severe bundle branch block.
+Diagnosis and Tests
+How is bundle branch block diagnosed?
+Healthcare providers diagnose BBB with two main tests:
+- Electrocardiogram (EKG): During an EKG, your provider attaches electrodes to the skin of your chest. You lie still while a computer records a tracing of electrical impulses that travel through your heart. An EKG can also show which side of your heart has the bundle branch block.
+- Echocardiogram: During an echocardiogram (echo), your provider places a hand-held wand on your chest. High-frequency sound waves create pictures of your heart’s chambers and valves. Your provider can see the motion and rhythm of your heart as it beats. They can also check for heart disease and other underlying conditions.
+If your provider diagnoses you with BBB, they will check you for related health conditions. They may recommend the following tests:
+- Blood pressure reading, to look for high blood pressure (hypertension) or low blood pressure (hypotension).
+- Blood test, to check cholesterol levels.
+- Cardiac catheterization, to look at the blood vessels in your heart.
+- Nuclear cardiac stress test, to look for coronary artery (heart) disease.
+- Pulmonary function testing, to see how well your lungs are working.
+Management and Treatment
+How is bundle branch block treated?
+If you don’t have symptoms or underlying conditions, you may not need treatment for bundle branch block. You may need medication to control other issues such as high blood pressure or heart failure symptoms.
+If you have symptoms such as fainting, your provider may suggest a pacemaker. A cardiac electrophysiologist (a subspecialized cardiologist, specifically trained to manage abnormal heart rhythms) places this device under the skin of your chest. Wires connected to your heart help it beat at a steady rate.
+If you have heart failure or dilated cardiomyopathy, your provider may recommend cardiac resynchronization therapy (CRT) using a biventricular pacemaker. This type of pacemaker helps both of your ventricles contract at the same time. CRT can help lessen symptoms such as shortness of breath.
+Prevention
+How can I reduce my risk of bundle branch block?
+You can lower your risk of BBB and other heart problems by staying healthy and making smart choices. These include:
+- Eat a heart-healthy diet.
+- Get regular aerobic exercise.
+- Maintain a healthy weight.
+- Manage your cholesterol levels.
+- Quit smoking and using tobacco products.
+- Reduce your blood pressure, if it’s high.
+- See your provider for regular checkups.
+Are there other conditions that put me at higher risk?
+You’re at higher risk of death if you have a bundle branch block along with:
+- Heart attack.
+- Heart disease.
+- Heart failure.
+Chest pain along with a new left bundle branch block may indicate a serious underlying health condition, such as a heart attack.
+Outlook / Prognosis
+What can I expect if I have a bundle branch block?
+You will have a bundle branch block for the rest of your life. The block may either stay the same or worsen over time.
+How might a bundle branch block affect my work?
+A left bundle branch block may be the first sign of a complete heart block. So, the U.S. and U.K. restrict pilots with LBBB from flying an airplane. Otherwise, having a bundle branch block usually won’t affect your work, unless you have severe symptoms.
+What is the outlook if I have a bundle branch block?
+If you have no underlying conditions, bundle branch block may not affect your overall health or life span. If you have other conditions that affect your heart, BBB may make your heart deteriorate faster and worsen your symptoms.
+Living With
+How do I take care of myself if I have a bundle branch block?
+If you see a new healthcare provider, always tell them that you have a bundle branch block. This information will help them better monitor your heart health and overall wellness.
+Make sure your provider knows about your BBB diagnosis if you have:
+- An exercise stress test, as an LBBB can make diagnosis of certain conditions more difficult.
+- A medical emergency, such as a heart attack.
+- Surgery for another heart condition.
+You may want to carry a copy of your EKG, so you have it handy if an emergency happens.
+When should I see my healthcare provider?
+See your provider if you have any new symptoms or your symptoms get worse. Seek medical treatment immediately if you have:
+- Chest pain, discomfort or tightness in your chest.
+- Extreme fatigue.
+- Presyncope (feeling as if you are going to pass out).
+- Loss of consciousness.
+- Shortness of breath or difficulty breathing.
+A note from Cleveland Clinic
+A bundle branch block (BBB) is a blockage or disruption to the electrical signal that causes your heart to beat. BBB can affect your right ventricle (right bundle branch block), left ventricle (left bundle branch block) or both ventricles. Many times, bundle branch blocks don’t cause any symptoms, though they sometimes lead to dizziness or fainting. Providers usually diagnose BBB with an EKG or echocardiogram. You may not need treatment for BBB, though you’ll need to treat any underlying conditions. Most people with a bundle branch block can lead full lives, though their risk of death may increase if they have other heart problems.

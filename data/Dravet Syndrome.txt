@@ -1,0 +1,98 @@
+Dravet Syndrome
+Overview
+What is Dravet syndrome?
+Dravet syndrome is a rare type of epilepsy that starts in the first year of your baby’s life. Its first occurrence is usually a long-lasting seizure (more than five minutes) that’s triggered by a high fever.
+Children with Dravet syndrome have a wide range of seizure types and severity. They also have many other symptoms, including developmental setbacks, speech and language problems, and balance and walking issues.
+Dravet syndrome was previously known as severe myoclonic epilepsy of infancy, epilepsy with polymorphic seizures and polymorphic epilepsy in infancy.
+Is Dravet syndrome an inherited disease?
+Dravet syndrome can be inherited. It’s an autosomal dominant disorder, which means you only need to get the changed (mutated) gene — the SCN1A gene — from one parent. (Autosomal means the affected gene is on one of the 22 nonsex chromosomes from either parent.) If you’re a parent with the mutated (changed) gene, your child has a 50% chance of inheriting the defective gene.
+But only between 4% and 10% of SCN1A mutations in children with Dravet syndrome are inherited from a parent. About 90% of SCN1A mutations aren’t found in the child’s parent and are new gene mutations only present in the child.
+Genetics is tricky. There are over 6,000 places for mutations to occur on the SCN1A gene. This means that many children’s gene mutations haven’t been seen in other children. SCN1A mutations result in a range of associated conditions, from migraine to mild-to-moderate forms of epilepsy to the most severe form of epilepsy in Dravet syndrome.
+How common is Dravet syndrome?
+Researchers estimate that between 1 in 15,700 and 1 in 40,000 infants born in the U.S. have Dravet syndrome. About 3% to 8% of children who have their first seizure by 12 months of age are likely to have Dravet syndrome.
+What does Dravet syndrome look like in my child?
+Seizures usually start in the first year of your child’s life. The first seizure often happens with a fever. After the first seizure, additional seizures happen without a fever. The seizure may involve jerking muscle movements on one side of their body.
+Other features of Dravet syndrome include:
+- Seizures last longer than five minutes.
+- Seizures happen every few weeks during infancy and early childhood.
+- Many different types of seizures happen.
+Besides fever, are there other seizure triggers?
+Other seizure triggers include:
+- Infections and illness.
+- Increase in body temperature not related to fever, such as from warm or hot bath water or high air temperature or physical exertion.
+- Photosensitivity, such as from flashing lights or patterns.
+- Emotional stress or excitement.
+Symptoms and Causes
+What are the symptoms of Dravet syndrome?
+Symptoms of Dravet syndrome vary from child to child. Symptoms can range from mild to severe.
+Some of the most common seizure-related symptoms include:
+- Seizures of many different types. These can include atypical absence seizure, complex febrile seizure, epilepsia partialis continua, focal aware seizure, focal hemiclonic seizure, focal impaired awareness seizure, generalized clonic seizure, photosensitive myoclonic seizure and photosensitive tonic-clonic seizure.
+- Sudden muscle jerking (myoclonus).
+- Long-lasting seizures (more than five minutes).
+- Frequent seizures.
+- Behavioral, intellectual and developmental setbacks. Your child develops normally for the first couple of years, then as seizures increase, your child begins to lag in their pace of skill development compared with other children.
+Other common symptoms include:
+- Problems with balance and coordination; unsteady walk (gait), crouched walk.
+- Anxiety.
+- Autistic behavior.
+- Attention deficit hyperactivity disorder (ADHD).
+- Delayed language development and trouble speaking (slurred, slowed speech).
+- Difficulties with learning at school, and behavior and emotional dysregulations.
+- Growth and nutrition issues.
+- Sleeping difficulties.
+- Trouble regulating body temperature, heart rate and blood pressure (dysautonomia).
+What causes Dravet syndrome?
+Dravet syndrome happens when there’s a change (mutation) in the SCN1A gene. Nearly 80% of children diagnosed with Dravet syndrome have the SCN1A gene mutation. However, having the mutation isn’t enough to make the diagnosis, and the absence of the mutation doesn’t exclude the diagnosis. There’s a range or family of related SCN1A gene mutation disorders. Not all children with this gene mutation will develop Dravet syndrome. The mildest condition along the range of SCN1A gene mutations is familial hemiplegic migraine. The most severe condition is Dravet syndrome.
+What are the most serious complications of Dravet syndrome?
+The most serious complications include:
+- Continuous seizures (status epilepticus). This is an emergency condition that requires immediate treatment.
+- Sudden unexplained death in epilepsy (SUDEP).
+Diagnosis and Tests
+How is Dravet syndrome diagnosed?
+Your child’s healthcare provider will ask you about their medical and medication history. Diagnosis is sometimes delayed, as magnetic resonance imaging (MRI) and electroencephalogram (EEG) results are usually normal at first.
+Your child’s healthcare provider will conduct a clinical exam to look for the symptoms of Dravet syndrome. Specific information you’ll be asked about your child may include:
+- Did your child have normal or near-normal mental and physical/muscle development before the seizures started?
+- Did your child have two or more seizures, with or without fever, before one year of age?
+- Did two or more seizures last longer than five minutes?
+They’ll also ask you to describe the types of seizures your child has had, what medications were prescribed (if any) and how well they controlled your child’s seizures (if medication was prescribed).
+They may also suggest a blood test to check for the SCN1A gene mutation, but they can usually make the diagnosis based on your child’s symptoms.
+Management and Treatment
+How is Dravet syndrome treated?
+The goal of treatment is to reduce the number and the severity of your child’s seizures. Because seizures range in type and length, no two children respond to treatment in the same way.
+Medications
+Medications approved specifically to treat seizures associated with Dravet syndrome are:
+- Stiripentol (Diacomit®).
+- Cannabidiol (Epidiolex®).
+- Fenfluramine HCl (Fintepla®).
+All three medications are approved for use in children two years of age or older.
+In 2017, epilepsy experts called the North American Consensus Panel developed treatment recommendations, listing medications that should be tried first, second and third. These medications are shown in the table.
+
+Seizures seen in persons with Dravet syndrome are difficult to control. The goal of seizure treatment is to find the best combination of medications to treat your child’s long-term condition. Usually two or more medications are needed to treat the multiple seizure types seen with Dravet syndrome.
+Some antiseizure medications can make seizures worse and shouldn’t be prescribed. These medications include phenytoin (Dilantin®), carbamazepine (Tegretol®), fosphenytoin (Cerebyx®), lamotrigine (Lamictal®), oxcarbazepine (Trileptal®), rufinamide (Banzel®) and vigabatrin (Sabril®, Sabrilan®, Sabrilex®). Talk with your child’s healthcare provider if their seizures worsen while taking any of these medications.
+Other treatments
+Your child’s healthcare provider may discuss the use of other treatments that have shown positive results in people with Dravet syndrome. These treatments include:
+- Ketogenic diet. This diet is high in fat, adequate in protein and very low in carbohydrates. It’s a diet designed to help manage children with epilepsy. This treatment is typically considered a second-line treatment when medications haven’t helped manage your child’s seizures.
+- Vagus nerve stimulation. This treatment uses an implantable device to stimulate your child’s vagus nerve with an electrical impulse. The impulse counters the abnormal electrical activity in their brain that’s causing seizures. This treatment is usually considered after first- and second-line therapies aren’t successful.
+- IVIG (intravenous immunoglobulin). This is a solution of antibodies from healthy donors meant to bolster your child’s immune system. An impaired immune system may play a role in triggering epilepsy.
+Rescue treatment
+Work with your child’s healthcare provider to develop a seizure action plan for home or school. This plan may include rescue medications that are used as an emergency treatment for continuous seizures (status epilepticus). This medication is given to stop your child’s seizure. Rescue medications are usually benzodiazepines, which include:
+- Clonazepam (Klonopin®).
+- Diazepam (Diastat®, Valtoco®).
+- Lorazepam (Ativan®).
+- Midazolam (Versed®, Nayzilam®).
+Other assessments and therapies
+Before starting school, your child should have cognitive and developmental assessments. Based on the results, your child’s school can recommend an Individualized Education Plan (IEP) or your child may qualify for a 504 program (plans and programs that some schools develop to give children with disabilities support and proper accommodations).
+Ask your child’s healthcare provider about physical, occupational, speech and social/play therapies for your child, too. Your child may benefit from orthotics for foot and ankle alignment issues or may require orthopedic surgery for bones of the leg or foot due to the physical changes that can occur with Dravet syndrome.
+Prevention
+Can Dravet syndrome be prevented?
+No. In most children (80%), Dravet syndrome is caused by a genetic mutation in the SCN1A gene. Defects in this gene cause improper functioning of brain cells, which plays a role in the development of epilepsy. The defective gene can be inherited, but most of the time, the gene mutation is new in your child and not inherited.
+Outlook / Prognosis
+What’s the prognosis if my child has Dravet syndrome?
+Your child may have long-lasting and frequent seizures. The goal of treatment is to achieve the best seizure control possible. Medications help reduce the number and severity of seizures, but becoming completely seizure-free isn’t usually possible.
+Your child will have other health problems and developmental setbacks that need to be caught early so they can be managed early. A crouched gait (unsteady walk/balance) is seen with increasing age (teen years and beyond). Mental decline slows and stabilizes as your child gets older. Seizures also tend to decrease in number and length as your child ages. Despite this, most children, teens and adults need ongoing care from parents or caregivers.
+Is there a cure for Dravet syndrome?
+There isn’t a cure for Dravet syndrome right now. But research is ongoing.
+What’s the life expectancy for a child with Dravet syndrome?
+About 15% to 20% of people with Dravet syndrome die before adulthood. Up to 20% of individuals with Dravet syndrome usually die from sudden unexpected death in epilepsy (SUDEP), long-lasting seizures and seizure-related accidents and injuries such as drowning and infections.
+A note from Cleveland Clinic
+Receiving a Dravet syndrome diagnosis isn’t easy news. Fortunately, unlike many other diseases, researchers know that the cause of this syndrome in most cases is a defective SCN1A gene. Researchers are working toward improved treatments and, one day, a cure. For now, three new medications have been specifically approved to treat Dravet syndrome. Seizures in Dravet syndrome are difficult to control. Fortunately, new medications, older, established medications and other therapies can help reduce the number and severity of your child’s seizures. Your child will need lifelong care. In addition to the care and support offered by your healthcare team, it may be helpful to have the support of other families who also have a child with this syndrome. Ask your child’s healthcare provider for names of local support groups, as well as check out the organizations listed in the reference section of this article.

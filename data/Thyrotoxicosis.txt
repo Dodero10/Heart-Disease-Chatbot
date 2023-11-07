@@ -1,0 +1,115 @@
+Thyrotoxicosis
+Overview
+What is thyrotoxicosis?
+Thyrotoxicosis is a condition in which you have too much thyroid hormone in your body.
+Your thyroid — the butterfly-shaped gland in the front of your neck — makes and releases two hormones: triiodothyronine (also called T3) and thyroxine (also called T4). Together, they are referred to as thyroid hormones. Your thyroid and thyroid hormones play a large role in many important bodily functions, such as your body temperature, heart rate and metabolism.
+Metabolism is the pace at which your body processes things — how fast it burns the food you consume to make energy and heat. When you have thyrotoxicosis, the excess amount of thyroid hormones in your body launches your metabolism into high speed, which can cause symptoms such as a rapid heartbeat (tachycardia) and weight loss and certain complications.
+Is thyrotoxicosis the same as hyperthyroidism?
+Hyperthyroidism is a type of thyrotoxicosis. Hyperthyroidism happens specifically when your thyroid gland both produces and releases excess thyroid hormone. Hyperthyroidism is often called overactive thyroid. Thyrotoxicosis happens when you have too much thyroid hormone in your body in general. You could have too much thyroid hormone from taking too much thyroid medication, for example. This would be thyrotoxicosis, not hyperthyroidism.
+Who does thyrotoxicosis affect?
+Anyone can get thyrotoxicosis, but females are more commonly affected by thyrotoxicosis than males, and the likelihood of thyrotoxicosis increases with age.
+How common is thyrotoxicosis?
+Thyrotoxicosis is relatively rare. It happens to approximately 2% of females and 0.2% of males.
+Symptoms and Causes
+What are the signs and symptoms of thyrotoxicosis?
+Symptoms of thyrotoxicosis are generally the same in mild and moderate cases, but they're usually more intense the more severe the thyrotoxicosis is.
+Signs and symptoms of mild and moderate thyrotoxicosis include:
+- Experiencing unexplained weight loss.
+- Having an irregular heartbeat (arrhythmia).
+- Having a rapid heartbeat (tachycardia) — usually a heart rate higher than 100 beats per minute.
+- Experiencing muscle weakness.
+- Feeling shaky.
+- Feeling nervous, anxious and/or irritable.
+- Experiencing increased sensitivity to heat.
+- Experiencing changes in your menstruation (period).
+A severe case of thyrotoxicosis is called thyroid storm, or thyroid crisis. This condition is rare and requires immediate medical attention, as it can be life-threatening.
+Symptoms of thyroid storm (severe thyrotoxicosis) include:
+- Having a very rapid heartbeat.
+- Having a high fever.
+- Feeling very agitated and confused.
+- Having diarrhea and feeling sick.
+- Experiencing a loss of consciousness.
+What causes thyrotoxicosis?
+Many conditions and situations can cause thyrotoxicosis, including:
+- Hyperthyroidism: Hyperthyroidism, which happens when your thyroid makes and releases too much thyroid hormone, is the most common cause of thyrotoxicosis. Graves’ disease, an autoimmune disease, is the most common cause of hyperthyroidism. It represents 80% of hyperthyroidism cases. Having one or more nodules on your thyroid can also cause hyperthyroidism and thyrotoxicosis.
+- Thyroid inflammation (thyroiditis): Thyroid inflammation (swelling) can be caused by certain bacterial and fungal infections, immune system issues and certain drugs such as lithium and interferon. The inflammation causes your thyroid to leak stored, or preformed, thyroid hormone, resulting in higher levels of hormones than your body needs. Thyroiditis can also happen after having a baby (postpartum thyroiditis).
+- Excess thyroid medication: Consuming excess thyroid medication can cause thyrotoxicosis. This can happen if you have hypothyroidism (underactive thyroid) and take too much of your thyroid medication, whether accidentally or intentionally. If you have thyroid cancer, your healthcare providers may intentionally give you excess thyroid medication to try to suppress the amount of thyroid-stimulating hormone (TSH) in your body to try to prevent or decrease the growth of your thyroid tumor.
+- Consuming too much thyroid hormone: You can also have too much thyroid hormone in your body by consuming beef that’s contaminated with thyroid tissue from the cow’s neck. This is often called “hamburger thyroiditis,” and it’s a very rare cause of thyrotoxicosis.
+Diagnosis and Tests
+How is thyrotoxicosis diagnosed?
+Healthcare providers diagnose someone with thyrotoxicosis if blood tests show that they have elevated thyroid hormone levels (raised thyroxine and/or triiodothyronine) and low or undetectable levels of thyroid-stimulating hormone (TSH).
+If you’ve been diagnosed with thyrotoxicosis, your provider will also need to determine what’s causing it, which could lead to another diagnosis.
+What tests will be done to diagnose this condition?
+Your healthcare provider can use many different tests and exams to help diagnose your thyrotoxicosis and its cause, including:
+- A physical exam.
+- Blood tests.
+- Imaging tests.
+Physical exam
+If you’re experiencing symptoms of thyrotoxicosis, during a physical exam in your healthcare provider’s office they may physically check the following:
+- Your thyroid: Your provider may gently feel your thyroid through the outside of your neck to check if it’s enlarged, bumpy or tender.
+- Your eyes: Your provider may check your eyes for swelling, redness, bulging and other signs of thyrotoxicosis.
+- Your heart: Your provider may use a stethoscope to listen to your heart for a rapid heartbeat and irregular heartbeats.
+- Your hands: Your provider may have you outstretch your hands to see if you have a tremor.
+- Your skin: Your provider may feel your skin to see if it’s warm and moist.
+Blood tests
+Your healthcare provider may take a blood sample to look for high levels of thyroid hormones. This is called thyroid function testing. When you have thyrotoxicosis, your levels of the thyroid hormones triiodothyronine (T3) and thyroxine (T4) are higher than usual and thyroid-stimulating hormone (TSH), a hormone your pituitary gland makes, is lower than it should be. The level of TSH in your blood is important because it signals your thyroid gland to produce thyroxine.
+Imaging tests
+Taking a closer look at your thyroid can help your provider diagnose thyrotoxicosis and the possible cause of it. Imaging tests your provider could use to examine your thyroid include:
+- Radioactive iodine uptake test: For this test, you’ll take a small, safe dose of radioactive iodine (also called a radiotracer) by mouth to see how much of it your thyroid absorbs. After a certain amount of time — usually at six and 24 hours later — your healthcare provider will scan your neck with a device called a gamma probe to see how much of the radioactive iodine your thyroid has absorbed. If your thyroid has absorbed a lot of the radioactive iodine, it means that your thyroid gland is producing too much thyroxine (T4). If this is the case, you most likely have Graves' disease or thyroid nodules. If you have thyrotoxicosis and your thyroid absorbed a small amount of the radioactive iodine, it means that the thyroxine (T4) stored in your thyroid is leaking into your bloodstream. This may mean that you have thyroiditis.
+- Thyroid scan: During this test, your healthcare provider will inject a small and safe amount of radioactive liquid (also called a radiotracer) into one of your veins. You’ll then lie on a table with your head tilted back while a special camera (gamma camera) takes several images of your thyroid. The radioactive liquid makes certain parts of your thyroid appear “bright” on the screen. Your provider may use a thyroid scan to look for lumps or nodules on your thyroid, goiter, inflammation or swelling and thyroid cancer.
+- Thyroid ultrasound: An ultrasound uses high-frequency sound waves to create images of your thyroid. It’s a non-invasive procedure that allows your provider to look at your thyroid on a screen. Your provider may use this test to look for nodules on your thyroid.
+Management and Treatment
+How is thyrotoxicosis treated?
+Treatment for thyrotoxicosis depends on what’s causing it. Your healthcare provider will need to determine the cause of your thyrotoxicosis in order to recommend the best treatment for you.
+Treatment options for thyrotoxicosis include:
+- Anti-thyroid drugs: Anti-thyroid drugs such as methimazole (Tapazole) and propylthiouracil (PTU) block your thyroid from making hormones. People who have hyperthyroidism may take this medication.
+- Radioactive iodine: If you have hyperthyroidism you may take radioactive iodine by mouth. Your overactive thyroid cells absorb the radioactive iodine, which damages the cells. This causes your thyroid to shrink and your thyroid hormone levels to go down. This usually leads to permanent destruction of your thyroid, which then causes hypothyroidism. Because of this, most people who receive this treatment have to take thyroid hormone drugs for the rest of their lives to maintain appropriate hormone levels.
+- Surgery: Your healthcare provider may recommend removing your thyroid gland through surgery (thyroidectomy). This will correct your hyperthyroidism, but it will usually cause hypothyroidism. People who have a thyroidectomy have to take thyroid hormone drugs for the rest of their lives to maintain appropriate hormone levels.
+- Beta blockers: These drugs block the action of thyroid hormones on your body. They don’t change the level of hormones in your blood, but they can help control symptoms, such as rapid heartbeat and shakiness, that are caused by thyrotoxicosis. If you have thyroiditis, your healthcare provider may recommend beta blockers until your thyroiditis goes away. If you have a chronic condition that causes hyperthyroidism, your provider may prescribe beta blockers in addition to another treatment to treat your hyperthyroidism over the long term.
+- Glucocorticoids: Glucocorticoids are a type of corticosteroid. If you have thyroiditis that’s causing you pain, your provider may prescribe you glucocorticoids.
+Prevention
+What are the risk factors for thyrotoxicosis?
+Risk factors for thyrotoxicosis include:
+- Having a family history of thyroid disease, especially Graves’ disease.
+- Being female.
+- Being over the age of 60.
+- Having certain autoimmune diseases, including Type 1 diabetes, pernicious anemia and Addison’s disease.
+- Having just had a baby.
+How can I prevent thyrotoxicosis?
+Most cases of thyrotoxicosis aren’t preventable. If you’re taking thyroid medication, you can prevent thyrotoxicosis by never taking more medication than your healthcare provider has prescribed you. Taking too much thyroid medication can lead to thyrotoxicosis.
+Outlook / Prognosis
+What is the prognosis (outlook) for thyrotoxicosis?
+The outlook for people with thyrotoxicosis is generally good. There are several effective forms of treatment and therapy for thyrotoxicosis, and just like all treatments, they all have advantages and disadvantages. Together you and your healthcare provider will determine the best treatment plan for you.
+How long does thyrotoxicosis last?
+How long your thyrotoxicosis lasts depends on what’s causing it and what kind of treatment you’re taking for it. For example, if you have Graves’ disease, an autoimmune condition that causes hyperthyroidism, and it’s not treated, you’ll have thyrotoxicosis until your Graves’ disease is treated. If you have thyroiditis from a viral or bacterial infection, you may have thyrotoxicosis until your thyroiditis goes away or is treated.
+Different treatments for thyrotoxicosis also take different amounts of time. Your healthcare provider will let you know when you can expect to feel better.
+Are there complications of thyrotoxicosis?
+If thyrotoxicosis is untreated or undertreated, it can cause complications. Complications from thyrotoxicosis most commonly occur in people who have untreated hyperthyroidism, especially Graves’ disease.
+Complications of thyrotoxicosis include:
+- Heart issues: Untreated thyrotoxicosis can cause a heart rhythm disorder called atrial fibrillation, which increases your risk of stroke and congestive heart failure.
+- Osteoporosis: Untreated thyrotoxicosis can cause brittle bones (osteoporosis). This is because having too much thyroid hormone makes it difficult for your body to store calcium in your bones. Your bones need calcium in order to be strong and stable.
+- Graves' eye disease (Graves’ ophthalmopathy or thyroid eye disease): This is a potentially sight-threatening condition that can cause swelling, bulging, redness and other issues in your eyes.
+- Thyroid storm (thyrotoxic crisis): Thyroid storm is a rare and life-threatening condition that happens when your thyroid suddenly produces and releases large amounts of thyroid hormone. It’s usually caused by a sudden event or illness such as surgery or an infection. It can also happen if you are on anti-thyroid medication and suddenly stop taking it.
+Living With
+When should I see my healthcare provider?
+If you’re experiencing symptoms of thyrotoxicosis, it’s important to see your healthcare provider so that they can figure out the cause and recommend proper treatment.
+If you’ve been diagnosed with chronic thyrotoxicosis (usually a form of hyperthyroidism), it’s important to see your healthcare provider regularly to make sure your treatment is working well.
+What questions should I ask my doctor?
+If you’ve been diagnosed with thyrotoxicosis, it may be helpful to ask your healthcare provider the following questions:
+- What’s causing my thyrotoxicosis?
+- What treatment plan do you recommend for my thyrotoxicosis?
+- What are the pros and cons of my treatment plan for thyrotoxicosis?
+- Can I get thyrotoxicosis again?
+- Am I at risk for thyroid storm?
+- Is my kind of thyrotoxicosis hereditary?
+Additional Common Questions
+What is the difference between hyperthyroidism, thyrotoxicosis and thyroid storm?
+While these three conditions are all related and have to do with excess thyroid hormone, they are different.
+Hyperthyroidism happens when your thyroid both makes and releases too much thyroid hormone. Hyperthyroidism is most commonly caused by an autoimmune condition called Graves’ disease or thyroid nodules.
+Thyroid storm is a life-threatening complication of hyperthyroidism in which your thyroid suddenly makes and releases a large amount of thyroid hormone in a short amount of time. Thyroid storm is rare and requires immediate medical attention.
+Thyrotoxicosis happens when you have too much thyroid hormone in your body in general. It can be caused by hyperthyroidism or other conditions like thyroiditis, which is when something causes your thyroid to leak thyroid hormone. Taking too much thyroid medication can also cause thyrotoxicosis.
+Is thyrotoxicosis an emergency?
+Even though it has “toxic” in its name, most cases of thyrotoxicosis are not medical emergencies, but it’s still very important to see your healthcare provider and get treatment if you have symptoms of thyrotoxicosis.
+Although it’s rare, you can have an extreme case of thyrotoxicosis called thyroid storm or thyroid crisis. It happens when your thyroid suddenly starts making and releasing large amounts of thyroid hormone. This can be life-threatening and is a medical emergency. If you’re experiencing symptoms of thyroid storm, such as feeling very agitated and confused and having a high fever, get to the nearest hospital as soon as possible.
+A note from Cleveland Clinic
+Although it may sound scary, thyrotoxicosis is a manageable and treatable condition. If you’re experiencing symptoms of thyrotoxicosis or have certain risk factors for getting it, be sure to contact your healthcare provider. They can have you undergo some simple tests to see if you have too much thyroid hormone in your body.

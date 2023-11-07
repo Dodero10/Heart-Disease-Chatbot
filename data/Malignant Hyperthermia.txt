@@ -1,0 +1,93 @@
+Malignant Hyperthermia
+Overview
+What is malignant hyperthermia?
+Malignant hyperthermia is a genetic disease that causes a life-threatening reaction to certain anesthesia medications. The disorder usually runs in families and is treatable.
+General anesthesia allows a person to undergo surgery without awareness. There are several medications that can produce general anesthesia. Only a few of these medications trigger malignant hyperthermia. Most medications do not.
+Even though malignant hyperthermia runs in families, it’s possible to carry the mutation for the disease and not know it.
+Who is most likely to get malignant hyperthermia?
+People with family members that have had a malignant hyperthermia reaction are at risk. Someone with a first-degree relative (father, mother, son or daughter) that has had a malignant hyperthermia reaction is considered susceptible to the condition. It’s important to inform your anesthesiologist of your family history before you have a surgical procedure.
+Even if your family members have never had a malignant hyperthermia type of reaction, certain muscle diseases also increase your risk. These include:
+- Central core disease.
+- Multiminicore disease.
+- King-Denborough syndrome.
+- STAC3 disorder.
+How common is malignant hyperthermia?
+Although the numbers vary, it is estimated that malignant hyperthermia occurs in about one in 100,000 surgeries for adults. The estimate in children is one in 30,000 surgeries. Half of the diagnosed cases are in people younger than 19.
+Scientists think that susceptibility to malignant hyperthermia is probably more common because many people with an increased risk of this condition are never exposed to drugs that would trigger the syndrome.
+Symptoms and Causes
+What are the signs and symptoms of malignant hyperthermia?
+Symptoms of malignant hyperthermia may vary and can happen during your procedure or shortly after surgery while you’re recovering. If your symptoms start while you’re under the effects of anesthesia — asleep or sedated — you won’t know you’re experiencing these symptoms. But your anesthesiologist or nurse anesthetist will. They always carefully monitor people when they’re under anesthesia and will do the same for you. Once they see these signs, they’ll respond quickly with treatment for malignant hyperthermia.
+Early signs of malignant hyperthermia
+- Unexplained increase in heart rate (tachycardia).
+- Unexplained increase in carbon dioxide produced by your body.
+- Rapid breathing (tachypnea).
+- Muscle rigidity.
+- Rapid elevation in temperature.
+Later signs of malignant hyperthermia
+- Increase in body temperature beyond what is normally seen with fever.
+- Dark pee.
+- Muscle breakdown showing up on blood tests.
+- Heart rhythm problems.
+- Bleeding.
+- Seizures.
+What causes malignant hyperthermia?
+People who are susceptible to malignant hyperthermia have a genetic mutation that causes them to have abnormal proteins in their body’s muscle cells.
+A genetic mutation is a change in a sequence of your DNA. Your DNA sequence gives your cells the information they need to perform their functions. If part of your DNA sequence isn’t complete or is damaged, you might experience symptoms of a genetic condition.
+While this mutation causes no symptoms in everyday life, if you have this mutation and are exposed to certain anesthetics — or, in rare cases, high heat or strenuous activity — it causes an abnormal release of calcium from your muscle cells.
+This results in sustained muscle contraction (tense or rigid muscles) and an abnormal increase in metabolism and body heat (temperature). Your muscle cells eventually die and release large amounts of potassium into your bloodstream, which causes additional symptoms and complications.
+Malignant hyperthermia can occur when someone who is genetically susceptible to the disease is exposed to certain inhaled or intravenous anesthesia medications.
+Inhaled medications include:
+- Halothane.
+- Desflurane.
+- Sevoflurane.
+- Isoflurane.
+Intravenous medications include:
+- Succinylcholine (fast-acting muscle relaxant).
+Diagnosis and Tests
+How is malignant hyperthermia diagnosed?
+If you’re unaware that you have malignant hyperthermia susceptibility and undergo anesthesia with a triggering anesthetic, you and your anesthesiologist won’t know you have it until you have a reaction.
+Whenever you or anyone undergoes anesthesia, the anesthesiologist or nurse anesthetist carefully monitors your vital signs and health during your procedure and after. If you have malignant hyperthermia, they’ll recognize it through certain abnormal vital signs and reactions, including:
+- Unexplained increase in heart rate.
+- Rapid increase in temperature.
+- Unexplained increase in carbon dioxide.
+- Muscle rigidity.
+Early detection of these changes is what anesthesia providers are trained to look for so they can respond to this emergency quickly. The more rapid the diagnosis, the faster the reaction can be treated and corrected.
+Diagnosis of malignant hyperthermia susceptibility
+If you or your healthcare provider think you may be susceptible to malignant hyperthermia due to family history, your provider may recommend special tests and procedures to diagnose it, including:
+- Caffeine halothane contracture test (CHCT). For this test, a provider takes a muscle biopsy and exposes the live muscle sample to halothane and caffeine to analyze it for a reaction to an anesthesia gas.
+- Genetic testing. Genetic testing can reveal mutations in RYR1, STAC3 and CACNA1S locations on DNA. There are over 45 mutations that are recognized as diagnostic for malignant hyperthermia.
+Testing for malignant hyperthermia susceptibility can be expensive and is only available in certain laboratories — CHCT testing is only available at four locations in the United States. Because of this, if you need emergency surgery and have a close relative who has had an episode of malignant hyperthermia, your anesthesiologists will provide a non-triggering anesthetic.
+Management and Treatment
+How is malignant hyperthermia treated?
+The main treatment for malignant hyperthermia is a drug called dantrolene (Dantrium®).
+Anesthesiologists administer this drug immediately if they suspect malignant hyperthermia. They also stop giving the triggering anesthetic, and the surgeon ends the surgery as soon as possible.
+The anesthesiologist and surgery team also treat any of the symptoms or complications that malignant hyperthermia has caused. Some of these treatments include:
+- Body cooling measures, such as cold IV fluids and ice packs, for hyperthermia (high fever).
+- Oxygen through a face mask or a tube placed in your trachea.
+- Medications to treat arrhythmia (abnormal or irregular heartbeat).
+Once you’re stable, you’ll need to stay in an intensive care unit (ICU) for at least a day so that your healthcare team can monitor you. They’ll perform additional tests, such as blood tests, and may give you more treatments.
+Prevention
+Can malignant hyperthermia be prevented?
+Malignant hyperthermia is difficult to prevent unless you know you have the genetic mutation that causes it or you have a family history of the condition and have told your anesthesiologist. If this is the case, your anesthesiologist won’t use the known triggers for your anesthesia plan.
+Unfortunately, people often don’t know they’re at risk for malignant hyperthermia until it happens to them.
+Outlook / Prognosis
+What is the prognosis (outlook) of malignant hyperthermia?
+Complete recovery from malignant hyperthermia is possible if your anesthesiologist and surgery team recognize the signs and symptoms of malignant hyperthermia early and properly treat it. But multiple organ failure and death can still occur — even with prompt treatment.
+What are the possible complications of malignant hyperthermia?
+Malignant hyperthermia can result in:
+- Muscle damage.
+- Kidney failure.
+- Liver failure.
+- Bleeding.
+- Cardiac arrest.
+- Seizures.
+- Coma.
+- Death.
+Is malignant hyperthermia fatal?
+If untreated, malignant hyperthermia is almost always fatal. The death rate is 3% to 5%, even when the condition is properly treated.
+Living With
+When should I see my healthcare provider about malignant hyperthermia susceptibility?
+If you’re going to have surgery, it’s very important to tell your healthcare providers about any known family medical history related to issues with anesthesia.
+If you’ve recently found out that one of your biological relatives has been diagnosed with the gene mutation that causes malignant hyperthermia — or has had an episode of malignant hyperthermia — it’s important to tell your healthcare provider so they can include a note in your medical files.
+A note from Cleveland Clinic
+Malignant hyperthermia is a serious and life-threatening reaction to certain anesthesia medications. The good news is that it’s treatable and even preventable if you know you’re at risk for the condition. If you can, make sure you’re up to date on all of your biological family’s medical history, and share this information with your healthcare provider. Since malignant hyperthermia is caused by an inherited gene mutation, you’re at a higher risk for it if you have a family member who’s experienced it. If you have any questions or concerns about your surgery and the anesthesia for it, feel free to ask your provider. They’re available to help you.

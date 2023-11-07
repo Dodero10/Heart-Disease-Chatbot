@@ -1,0 +1,95 @@
+Long COVID
+Overview
+What is long COVID?
+Long COVID is a collection of symptoms you might experience after your initial (acute) COVID symptoms get better. You thought you’d only have to deal with COVID for a week or two, but you’re still exhausted all the time. Or you can’t think straight. Food you once loved tastes metallic — or you can’t taste it at all. You might not be able to remember the last time you got a good night’s sleep.
+Long COVID isn’t one symptom or set of symptoms. It’s any medical condition linked to a COVID-19 infection that goes on for three months or longer after your first COVID symptoms. It can happen whether you had a mild case of COVID or a severe one. The symptoms could be similar to autoimmune, lung, heart, neurological or psychological disorders. Some symptoms are mild and others are completely debilitating. They may come and go, change or get worse over time. You may feel like you never really got better from your initial bout with COVID at all.
+Long COVID is also called long-haul COVID, post-COVID syndrome (or conditions) and post-acute sequelae of COVID-19. In many people, it’s compared to myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS). Because of the different symptoms and possible causes, there’s no single treatment that works for everyone.
+How common is long COVID?
+Post-COVID conditions may affect about 5% to 10% of people who’ve had a COVID infection. But the variety of symptoms and differences in how long they last can make it hard to know exactly how many people experience it.
+Symptoms and Causes
+What are the symptoms of long COVID?
+Long COVID has a variety of symptoms. Some people with long COVID have more than one symptom, but most people don’t experience all of them. The two most common symptoms are fatigue (lack of energy) and shortness of breath. Other possible symptoms include:
+- Loss of or altered sense of smell or taste (anosmia or dysgeusia).
+- Trouble thinking or focusing — “brain fog.”
+- Chronic cough.
+- Headaches.
+- Difficulty sleeping or insomnia.
+- Depression.
+- Anxiety.
+- Chest pain.
+- Heart palpitations.
+- Diarrhea.
+What causes long COVID?
+Experts can’t pinpoint one single cause for long COVID. But other coronaviruses, including Middle East respiratory syndrome (MERS) and severe acute respiratory syndrome (SARS), have been known to cause long-term effects. So perhaps it’s no surprise that COVID symptoms can last a long time, too. Multiple factors might contribute to the causes of long COVID, including:
+- Tiny blood clots. Very small blood clots might not cause a major event (like a stroke), but they can prevent your lungs, brain and other organs from working properly.
+- Inflammation. Your immune system may overreact and continue to cause inflammation in your organs and tissues long after it’s fought off the infection.
+- Autoimmune disorders. For reasons we don’t understand, COVID might cause your immune system to start attacking parts of your own body, like an autoimmune disorder.
+- Viral persistence. SARS‑CoV‑2, the virus that causes COVID-19, might hang around in your body long after you feel better from your initial illness. You can test negative for COVID and you aren’t contagious anymore, but it could continue to cause issues in your body.
+- Reactivation of other viruses. Some viruses remain inactive, or dormant, in your body without you knowing it. These can sometimes get reactivated and cause symptoms again. Some evidence suggests that COVID might reactivate Epstein-Barr virus (the virus that causes mono), causing long-lasting symptoms.
+- Long-term psychological effects of having a serious illness. If you had a severe case of COVID, especially if you were hospitalized, you might have anxiety, depression or other mental health conditions as a result.
+What are the risk factors for long COVID?
+You’re at higher risk for long COVID if you:
+- Aren’t vaccinated against COVID-19.
+- Had severe COVID, especially if you were hospitalized. But it’s important to note that people with mild cases can also get long COVID.
+- Had multisystem inflammatory disorder (MIS-C) during or after having COVID.
+- Had health conditions that existed before getting COVID. These include lung disease, obesity, diabetes and high blood pressure.
+- Are a woman or a person assigned female at birth (AFAB).
+Diagnosis and Tests
+How is long COVID diagnosed?
+Healthcare providers diagnose long COVID by listening to your symptoms and your health history. They may also perform tests to understand more about your symptoms and how to treat them. Depending on your symptoms, they might perform:
+- Blood tests.
+- Chest X-rays or other imaging. Getting pictures of the inside of your lungs, brain or other organs can allow providers to look for changes that might be causing your symptoms.
+- CT scans. Certain types of lung inflammation may affect how providers treat you with specific medications. Your provider may need to get a CT (computed tomography) scan to see this inflammation.
+- Lung (pulmonary) function tests. These tests tell your provider how well your lungs are working.
+- Electrocardiogram (EKG/ECG) or echocardiogram(Echo). These tests help providers identify issues with your heart.
+Management and Treatment
+How do I get rid of long COVID?
+There isn’t one treatment for long COVID. You and your provider may need to try a few different options to find what works for you. Depending on your symptoms, treatment options might include:
+- Medication. Providers can treat certain symptoms and conditions, like cough, headaches, anxiety and depression with medication. If they can find an underlying cause for long COVID (like blood clots), they might be able to treat the cause with medications.
+- Stellate ganglion block or olfactory retraining. Providers can use these treatments to try to bring back your sense of smell and taste. A stellate ganglion block numbs certain nerves in your neck that can affect your sense of smell. Olfactory retraining uses common smells to help your brain remember what things should smell like.
+- Physical therapy. Physical therapy incorporates exercise, massage and other treatments that can help you with pain or movement issues.
+- Pulmonary rehabilitation. Pulmonary rehabilitation is a special kind of exercise and education program that can help you breathe better and learn how to manage breathing issues at home.
+- Counseling. Counseling gives you someone to talk to who can help you manage the psychological effects of severe or long-term illness.
+Prevention
+Can you prevent long COVID?
+There’s no single way to prevent long COVID, but there are some ways to reduce your risk. They include:
+- Antiviral medications. One study suggests that taking the antiviral nirmatrelvir (Paxlovid®) within five days of a positive COVID test reduces your risk of long COVID. Only people who were at risk for severe COVID were studied. Note that providers usually only prescribe antivirals within five days of when your symptoms started.
+- Vaccination. People who aren’t vaccinated against COVID are at a higher risk for long COVID if they get infected.
+- Avoiding infection. You can’t get long COVID without getting COVID first. You can reduce your risk of getting COVID with good hand-washing habits and wearing a multilayer, snug-fitting mask (like an N95 or KN95) when you’re around other people. Avoid other people when you or they are sick, or if one of you has been exposed to COVID.
+Outlook / Prognosis
+What can I expect if I have long COVID?
+Symptoms of long COVID may come and go or get better or worse over time. Many long-haulers do eventually get better, though how long that takes is different for each person. You may need to:
+- See a primary care provider (PCP) and one or more specialists to manage your symptoms. If there’s one in your area, a long COVID clinic can get you to the right specialist for your specific symptoms.
+- Be persistent and patient while trying treatments to see what works for you.
+- Allow yourself more time than you usually would for your normal tasks and take more breaks throughout your day. Some people need to take extended time off work or school to recover.
+How long do symptoms like fatigue last after COVID?
+After COVID, many people feel tired or run down for several weeks. But for some people, fatigue and other symptoms last for months or longer. Most people with long COVID recover within 12 to 18 months.
+Living With
+When should I seek care?
+See a healthcare provider if you have:
+- Severe COVID symptoms.
+- Symptoms that last a long time, even if your initial symptoms have gotten better.
+- Any symptoms that disrupt your daily life.
+Tell them about your symptoms and how they’re impacting your life. Let them know when you had COVID and when your current symptoms started.
+When should I go to the ER?
+Go to the emergency room (ER) if your symptoms suddenly get worse or you have symptoms of severe illness, including:
+- High fever (over 103 degrees Fahrenheit or 40 degrees Celsius).
+- Difficulty breathing.
+- Pain in your chest or stomach (abdomen) that’s severe or doesn’t go away.
+- Persistent dizziness.
+- Confusion.
+- Severe muscle pain or weakness.
+- Inability to wake up or stay awake.
+- Seizures.
+- Bluish skin, lips or nails (cyanosis, which can be a sign of low oxygen levels in your blood or tissues).
+What questions should I ask my doctor?
+It might be helpful to ask a healthcare provider:
+- What are my treatment options?
+- Do you know what’s causing my symptoms?
+- Do people with my symptoms usually improve?
+- How do I take my medication?
+- When should I follow up with you?
+- What symptoms should I go to the ER for?
+A note from Cleveland Clinic
+Sometimes, medical knowledge lags behind what patients have already been experiencing for a long time. Fortunately, we’ve come a long way in understanding some of the long-lasting symptoms of COVID. Many healthcare providers now work together on diverse teams dedicated to understanding and treating your symptoms.
+It’s still a learning process — it may take some trial and error to find the treatment that works best for you. Enlist the help of someone who can advocate for you if you aren’t able to do so yourself. They can help you find healthcare providers, support groups and counseling. Let your family, friends and employer or school know that you may need extra time on certain tasks or more breaks. Giving yourself permission to be gentle with yourself while you recover can be the first step to feeling better.

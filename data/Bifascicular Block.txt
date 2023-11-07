@@ -1,0 +1,100 @@
+Bifascicular Block
+Overview
+What is a bifascicular block?
+A bifascicular block is a type of heart block. It slows the transmission of electrical signals between two of your heart’s three bundle branches.
+Specialized heart muscle cells called fascicles make up these bundle branches. Bundle branches in your heart’s lower chambers (ventricles) conduct electrical impulses. These signals help your heart contract and pump blood in a coordinated way.
+Congenital heart disease and heart (cardiovascular) disease can cause a bifascicular block. A heart block affects your heart’s pumping action. A severe bifascicular blockage that causes symptoms requires treatment.
+What is the definition of a bifascicular block?
+The prefix “bi” indicates two. With a bifascicular block, there are two types of heart blockages below your atrioventricular node (AV). Healthcare providers consider this to be an incomplete heart block.
+Where are the fascicles in the heart ventricles?
+Your heart has four pumping chambers: the atria (upper two chambers) and ventricles (lower two chambers). These pumping chambers send blood throughout your body’s circulatory system.
+Bifascicular blocks affect your ventricles. A typical heart has two ventricles:
+- Right ventricle: This lower-right heart chamber sends blood to the pulmonary arteries in your lungs to get oxygen. Your right ventricle has one fascicle: the right bundle branch.
+- Left ventricle: Your left ventricle (lower-left chamber) is your heart’s largest and strongest pumping chamber. It sends oxygenated blood through your aorta. From there, blood flows to your body. Your left ventricle has two fascicles: your left anterior (front) fascicle and left posterior (rear) fascicle. These fascicles make up your left bundle branch. They eventually turn into Purkinje fibers, which are millions of tiny muscle fascicles.
+What are a heart block and bundle branch block?
+Heart block occurs when there’s a problem with your heart’s conduction system. A heart block delays the sending of electrical signals between your heart’s pumping chambers.
+As a result, your heart chambers contract out of rhythm. Heart block affects blood flow through your heart. It also affects your heartbeat and heart rate.
+Heart block and atrioventricular (AV) block refer to the same condition. A bundle branch block is a type of heart block that affects one of the bundle branches.
+How does the heart’s electrical system work?
+Electrical impulses travel a distinct pathway through your heart. The signal:
+What are the classifications of heart blocks?
+Healthcare providers classify heart blocks (AV blocks) by degrees of severity:
+First degree block
+Your atrium’s electrical signals to your ventricles are delayed. It’s rare for a first-degree blockage to cause symptoms or need treatment.
+Second degree block
+This block occurs when some (but not all) electrical impulses reach your ventricles. You may have a slow heart rate (bradycardia) or irregular heartbeat (arrhythmia). You may need treatment if a second-degree block worsens or you have concerning symptoms.
+Third-degree block
+In contrast, a third-degree AV block or complete heart block is when there’s complete dissociation of atrial and ventricular rhythms with no correlation between the two. This nearly always requires pacemaker placement.
+What are the types of bifascicular blocks?
+There are different types of bifascicular blocks. The most common is a right bundle branch block and left anterior fascicular block. But you can also have a:
+- Right bundle branch block and left posterior fascicular block.
+- Complete left bundle branch block (blockages occur in your left anterior and posterior fascicles, but not in your right bundle branch).
+How common is a bifascicular block?
+Approximately 1.5% of people who get electrocardiograms (ECGs) learn they have bifascicular heart blocks.
+Symptoms and Causes
+What causes a bifascicular block?
+Congenital heart disease typically causes a bifascicular heart block. Congenital means a person is born with structural changes to their heart’s anatomy.
+Symptoms of congenital heart disease may not develop until later in life. Your risk of developing a heart block increases with age.
+Less commonly, people inherit a gene change (mutation) that causes a progressive familial heart block. This gene change causes scar tissue (fibrosis) to form on your heart. Sometimes, it also causes calcium deposits (calcification). These changes can cause a heart block.
+Heart damage may also cause a bifascicular block. This damage may be due to:
+- Heart attack (myocardial infarction).
+- Heart (cardiovascular) disease.
+- Heart valve disease.
+- High potassium (hyperkalemia).
+What are the signs and symptoms of a heart block?
+Incomplete (first- or second-degree) heart blockages may not cause symptoms. When symptoms occur, most people experience unexplained fainting (syncope). A slow heart rate (bradycardia) or irregular heartbeat (arrhythmia) slows blood flow through your body, causing you to faint.
+Sometimes, a bifascicular block turns into a complete blockage that affects all bundle branches. It’s more likely to cause symptoms. Seek medical care right away if you experience a combination of:
+- Angina (chest pain or pressure).
+- Dizziness.
+- Fatigue.
+- Heart palpitations.
+- Nausea.
+- Shortness of breath.
+What are the complications of a bifascicular block?
+Heart blocks affect your heart’s ability to pump blood to your body. A bifascicular (incomplete) heart block may develop into a third-degree (complete). These potentially life-threatening complications may occur:
+- Arrhythmia
+- Heart attack.
+- Heart failure.
+- Sudden cardiac death (sudden cardiac arrest).
+Diagnosis and Tests
+How are bifascicular blocks diagnosed?
+An electrocardiogram (ECG) measures your heart’s electrical activity and detects changes. This test (also known as an EKG) times electrical signals as they travel through your heart. Timing affects when your four pumping chambers contract.
+An ECG is a noninvasive, painless test that takes about 15 minutes. Your healthcare provider places electrodes (small sticky patches) onto your chest, arms and legs. Electrode wires connect to an ECG machine that captures information about your heart’s electrical activity in a graph format.
+The electrodes don’t send electrical charges through your body. Instead, they measure your body’s own electrical activity.
+Management and Treatment
+How are bifascicular blocks treated?
+You may not need treatment if a bifascicular block isn’t causing symptoms. Your healthcare provider will monitor your heart health. You may get regular ECGs to check for signs of progression to a more severe third-degree (complete) heart block that requires treatment.
+If you have an arrhythmia or symptoms like fainting, your healthcare provider may recommend surgery. Your healthcare provider (an electrophysiologist) can implant a device that regulates heart rhythm. These devices include:
+- Pacemakers, which send electrical signals to keep your heart’s pumping chambers in rhythm.
+- Implantable cardioverter defibrillators (ICDs), which act as pacemakers. An ICD also shocks (defibrillates) your heart to correct arrhythmia. It can restart your heart if it detects sudden cardiac arrest.
+Prevention
+Can you prevent a bifascicular block?
+Many factors that cause heart blocks are out of your control. However, you can always take steps to improve and protect your heart health, such as:
+- Ask for help to quit smoking, and avoid secondhand smoke.
+- Commit to eating a heart-healthy diet and being physically active.
+- Limit the amount of alcohol you consume.
+- Manage conditions that can damage your heart like high blood pressure, diabetes and high cholesterol.
+- Seek healthy ways to manage stress.
+- Take steps to achieve and maintain a healthy weight.
+Outlook / Prognosis
+What is the outlook for people with bifascicular heart blocks?
+Many people with bifascicular heart blocks don’t need treatment. If they do, their symptoms usually resolve with a pacemaker.
+With treatment, it’s unlikely to develop a complete heart block. You’re more likely to experience severe problems (even death) from an untreated arrhythmia than a heart block.
+Living With
+When should I call the doctor?
+You should call your healthcare provider if you experience:
+- Extreme fatigue.
+- Irregular heartbeat.
+- Severe chest pain.
+- Shortness of breath.
+- Signs of a heart attack.
+- Unexplained nausea.
+What should I ask my provider?
+You may want to ask your healthcare provider:
+- What caused the bifascicular block?
+- How can I reduce my risk of a heart attack or heart problems?
+- Do I need a pacemaker or ICD?
+- What are the risks of a pacemaker or ICD?
+- Should I look out for signs of complications?
+A note from Cleveland Clinic
+A bifascicular heart block affects two of the three bundle branches in your heart that transmit electrical signals. This blockage interferes with the signals that cause your heart to contract and pump blood. Your heart may beat out of rhythm or too slowly. If a bifascicular block causes an arrhythmia or fainting, you may need a pacemaker or ICD to help keep your heart’s pumping chambers in rhythm.

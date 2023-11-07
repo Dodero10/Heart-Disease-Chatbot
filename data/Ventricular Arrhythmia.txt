@@ -1,0 +1,118 @@
+Ventricular Arrhythmia
+Overview
+What is a ventricular arrhythmia?
+A ventricular arrhythmia is an abnormal heart rhythm that affects just the lower chambers of your heart. Those lower chambers are what drive the heart’s ability to pump blood throughout the body. While some of them are harmless and don’t usually cause symptoms, some of these rhythm problems can have serious — or even deadly — effects on your body.
+How do these types of arrhythmias affect my heart’s function?
+Your heart is a pump that has four chambers. The upper chambers are the left atrium and right atrium (you can say “atria” to refer to both of them). The lower chambers are the left ventricle and right ventricle.
+The right ventricle pumps blood out of your heart and into your lungs, which add oxygen and remove carbon dioxide before the blood reenters your heart. The left ventricle is the last chamber blood flows through before being pumped out to your entire body.
+Because the ventricles are so key to the heart’s ability to pump blood, any disruption in their normal rhythm can have major consequences. These include:
+- Cardiogenic shock. This is where the heart can't pump enough blood to supply oxygen to your body.
+- Sudden cardiac arrest. This is when your heart stops beating suddenly and unexpectedly.
+Without CPR or the use of an automated external defibrillator, both of these conditions are deadly within minutes.
+What are the different types of ventricular arrhythmia?
+There are three main types of ventricular arrhythmias: Preventricular contractions, ventricular tachycardia and ventricular fibrillation.
+Preventricular contractions
+Also known as PVCs, these feel like extra heartbeats and are usually harmless. A key exception is when you have a condition that has changed the shape of your heart or when PVCs happen frequently or for longer periods.
+Ventricular tachycardia
+Ventricular tachycardia (VT) happens when the lower chambers of the heart beat unusually fast. This can happen because of a malfunction in the heart's electrical system. In some cases, VT can turn into ventricular fibrillation, which is a more dangerous condition.
+The following features can distinguish different types of VT:
+- Sustained vs. non-sustained: Sustained VT happens when VT lasts for more than 30 seconds, or when it lasts for less than 30 seconds but also causes cardiogenic shock.
+- Structure: One way to tell different types of VT apart is how the electricity travels through the heart. This can be seen using a diagnostic tool called electrocardiography (read more about this in the Diagnosis & Tests section below). Using sensors attached to the skin of your chest, your heart’s electrical activity is displayed as a wave-like pattern.
+Under normal circumstances, the waves that show your heart activity are organized and follow a pattern called “sinus rhythm.” When your heart doesn’t follow that pattern, healthcare providers will look at the shape of the pattern for clues to help them figure out the problem.
+Changes that clinicians look for include:
+- Key differences: Irregular heart rhythms happen because electricity isn’t flowing through your heart as it should. By looking at how the pattern is different from a normal pattern, clinicians can better understand what is causing the problem.
+- Pattern shifts: A pattern that changes from beat to beat is a sign of serious heart disease or other problems.
+- Multiple patterns: Normally, the electrodes will all see the same overall wave pattern. However, when some electrodes show different patterns, that indicates a serious malfunction in the heart’s electrical system.
+Ventricular fibrillation
+Ventricular fibrillation — often shortened to “v-fib” — happens when the lower chambers of the heart quiver or twitch rather than expand and contract. Because the ventricles don’t fully expand and contract, blood doesn’t get pumped through them. This causes your heart to stop, sending you into sudden cardiac arrest, and lack of blood flow to your brain causes you to pass out within seconds. If blood flow isn’t restarted within a few minutes, this condition is deadly.
+Symptoms and Causes
+What are the symptoms?
+The symptoms of ventricular arrhythmia depend on the type of arrhythmia. Some have no symptoms (especially non-sustained and benign arrhythmias).
+Ventricular tachycardia usually has the following symptoms:
+- Chest pain (angina).
+- Dizziness, feeling lightheaded or fainting.
+- Shortness of breath or trouble breathing.
+- Heart palpitations.
+Ventricular fibrillation typically causes a person to collapse or pass out. Sometimes, there are no warning signs before this takes place. If symptoms happen, they tend to appear just minutes before a person passes out. Symptoms often include:
+- Chest pain (angina).
+- Dizziness, feeling lightheaded and fainting.
+- Nausea.
+- Heart palpitations or an irregular or racing pulse.
+- Shortness of breath or trouble breathing.
+What can cause a ventricular arrhythmia?
+Ventricular tachycardia causes include:
+- Cardiomyopathy.
+- Cardiovascular disease (especially when it changes the shape of your heart).
+- Congenital heart conditions (heart problems you’re born with).
+- Electrolyte imbalances.
+- Heart attack.
+- Heart failure.
+- Heart inflammation.
+- Heart surgery.
+- Heart valve diseases.
+- Lack of oxygen.
+- Medications.
+Ventricular fibrillation causes include:
+- Blunt impacts to the chest (especially from small, fast-moving objects like a baseball).
+- Cardiomyopathy.
+- Congenital heart conditions.
+- Electrocution.
+- Heart attack.
+- Heart surgery.
+- Medications.
+- Ventricular tachycardia.
+Who is most likely to have this condition?
+Ventricular arrhythmias are most common in people who have heart-related conditions and diseases. As a result, the likelihood of developing these arrhythmias naturally increases as you get older. In addition, diseases that change the heart's structure have a much higher risk of causing ventricular arrhythmias.
+How common is this condition?
+Ventricular arrhythmias happen to millions of people each year. Some of these happen to people of all ages and are harmless.
+Sustained ventricular arrhythmias — which are more likely to be harmful — are very common. They’re most likely to happen in people with underlying heart problems. However, they can also happen in people with no symptoms or who have no idea they have a heart condition. An estimated 180,000 to 450,000 sudden cardiac deaths happen each year in the United States. Of those, a significant portion may occur because of sustained ventricular arrhythmias.
+Diagnosis and Tests
+How are these kinds of arrhythmias diagnosed?
+A healthcare provider will often begin diagnosing an arrhythmia based on your symptoms and by asking you questions. These help the provider build what's called a "patient history." Think of a history like a file a detective builds while solving a mystery. The more clues collected, the easier it is to crack the case.
+What tests could my provider use to diagnose this?
+Your primary care provider or a specialist will likely start with a physical exam. This includes listening to your heartbeat, measuring your blood pressure and asking about symptoms or changes you’ve noticed.
+The main diagnostic test for ventricular arrhythmias is electrocardiography (often abbreviated as ECG or EKG). This test uses multiple sensors, called electrodes, which are placed on your chest. The electrodes detect your heart’s electrical activity — either while you’re resting or exercising — and display it as a wave pattern. Clinicians then review and analyze the wave patterns. An EKG usually takes just a few minutes and is done at a hospital or in a clinic or doctor's office.
+In cases where an arrhythmia isn’t sustained and can’t be seen by an EKG, there are also devices that you can wear home to record arrhythmias that happen unpredictably. A clinician can review the data recorded after you return these devices.
+Types of these devices include:
+- Holter monitors: These are about the size of a cell phone and connect to electrodes stuck to the skin of your chest. These record for one to two days.
+- Ambulatory monitors: These are similar to Holter monitors, but you can wear them for longer periods (sometimes up to 30 days). These devices come in several different types. Some only record when you press a button because you feel possible symptoms of an arrhythmia. Others “listen” to your heart rhythm and record automatically when they detect an arrhythmia.
+Management and Treatment
+Can ventricular arrhythmias be cured?
+Depending on what causes a ventricular arrhythmia, it may be possible to cure it. However, if the cause is an underlying chronic condition or disease — especially a condition you’re born with — it’s usually not possible to cure it. When an arrhythmia isn’t curable, the goal becomes treating and managing it so it affects your life as little as possible.
+The treatment for a ventricular arrhythmia depends on the type. Benign arrhythmias like PVCs don’t need treatment (unless they happen frequently and for longer periods). Other arrhythmias are treated long-term. Some are more dangerous and need emergency care.
+What emergency treatments are used for ventricular arrhythmias?
+Emergency treatments for ventricular arrhythmias include:
+- CPR: Short for cardiopulmonary resuscitation, this technique uses chest compressions to force blood throughout your body. CPR should be started immediately for anyone who doesn’t have a pulse and shouldn’t be stopped until they start breathing normally on their own, an automated external defibrillator can be used or emergency medical personnel arrive.
+- Automated External Defibrillator (AED): An automated external defibrillator is a device that can analyze a person’s heart rhythm. If needed, it can then deliver an electric shock to restore their heart rhythm to normal. Both ventricular tachycardia and ventricular fibrillation are “shockable” rhythms.
+- Medication: For both ventricular tachycardia and fibrillation, certain medications can help maintain a normal heart rhythm.
+What non-emergency treatments are used?
+The following methods can treat ventricular arrhythmia in non-emergency situations:
+- Ablation: This technique uses intense heat or cold to intentionally damage small areas of your heart, preventing an arrhythmia from happening. This is most often done using catheter-based devices inserted into a major blood vessel (usually near your groin) and then passed up and into your heart.
+- Implantable cardioverter defibrillator (ICD): These can detect abnormal heart rhythms and deliver an electric shock that can return your heart to a normal rhythm.
+- Medication: Some types of anti-arrhythmia medication may help, depending on the type of arrhythmia. However, medications may not be as effective or may cause unwanted side effects. Your healthcare provider can explain the risks and benefits that various medications can offer.
+Can I take care of myself and manage my symptoms?
+What you can do to manage your ventricular arrhythmia strongly depends on your specific type of arrhythmia. In many cases, the most you can do is take your medication as instructed and see your doctor regularly as they recommend. You should also pay attention to your symptoms and report any changes to your doctor, especially if symptoms suddenly change or get worse.
+How soon after treatment will I feel better?
+Recovery time from ventricular arrhythmia depends on the type of arrhythmia and how it's treated. For arrhythmias treated with ablation or an ICD, you should recover from the procedure within days and feel better quickly. In the case of arrhythmias treated with medication, you should begin to notice changes within days or weeks.
+Prevention
+Can I prevent ventricular arrhythmias?
+These kinds of arrhythmias usually aren’t preventable because they’re unpredictable. This is especially true when it comes to conditions that are inherited or present when you’re born.
+However, it may be possible to delay or avoid developing conditions that can cause these arrhythmias. This generally includes doing the following:
+- Avoid or quit using tobacco (including vaping products and smokeless tobacco).
+- Eat a balanced diet as recommended by your primary healthcare provider.
+- Stay physically active.
+- Maintain a healthy weight.
+- Use alcohol in moderation. This means limiting your alcohol intake to one drink per day (seven per week) for women and no more than two drinks per day (no more than 14 per week) for men.
+Outlook / Prognosis
+What is the outlook for ventricular arrhythmias?
+The outlook for these arrhythmias greatly depends on which type you have and the underlying cause. Your healthcare provider is the best one to explain the outlook for your specific situation.
+Living With
+When should I see my healthcare provider?
+Your healthcare provider can give you more information on things to watch for, especially indicators of future problems. In general, you should see your provider if you notice that your symptoms are changing or if they begin to affect your day-to-day life. You should also see a healthcare provider at least once a year for an annual physical, which can be a key way to catch health problems early.
+When should I go to the ER?
+You should go to the emergency room if you experience more serious symptoms related to ventricular arrhythmia. These include:
+- Chest pain (angina).
+- Shortness of breath.
+- Fainting or repeated near-fainting (feeling lightheaded or dizzy) for an unknown reason.
+A note from Cleveland Clinic
+Ventricular arrhythmias can be very different from one person to the next. The best way to understand and manage your health is to see a healthcare provider if you think you might have a ventricular arrhythmia. You should also be sure to get an annual checkup or wellness exam. These yearly visits can be key to catching health problems early, which can make a big difference in preventing problems in the years to come.

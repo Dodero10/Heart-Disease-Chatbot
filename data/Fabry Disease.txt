@@ -1,0 +1,78 @@
+Fabry Disease
+Overview
+What is Fabry disease?
+Fabry disease is a rare genetic condition in which you don’t produce enough healthy versions of an enzyme called alpha-galactosidase A (alpha-GAL). This enzyme breaks down sphingolipids, a fat-like substance, and prevents them from collecting in your blood vessels and tissues. Fabry disease is a type of lysosomal storage disorder.
+Without functioning alpha-GAL enzymes, harmful levels of sphingolipids build up in your blood vessels and tissues. Fabry disease affects your heart, kidneys, brain, central nervous system and skin.
+Other names for the condition are Anderson-Fabry disease, Fabry’s disease and alpha-galactosidase-A deficiency.
+Types of Fabry disease
+The types of Fabry disease reflect the age when symptoms first appear. Types include:
+- Classic type: Symptoms of classic Fabry disease appear during childhood or the teenage years. One common disease symptom — a painful burning sensation in your hands and feet — may be noticeable as early as age 2. Symptoms get progressively worse over time.
+- Late-onset/atypical type: People with late-onset Fabry disease don’t have symptoms until they’re in their 30s or older. The first indication of a problem may be kidney failure or heart disease.
+How common is Fabry disease?
+Approximately 1 out of every 40,000 men and people assigned male at birth (AMAB) has classic Fabry disease. Late-onset or atypical Fabry disease is more common. It affects about 1 in every 1,500 to 4,000 men and people AMAB.
+Experts aren’t sure how many women and people assigned female at birth (AFAB) have Fabry disease. Some women and people AFAB don’t have symptoms or have mild, easy-to-dismiss symptoms, so the condition frequently goes undiagnosed.
+Who might get Fabry disease?
+People with Fabry disease inherit a mutated gene on their X chromosome from a biological parent. Men and people AMAB inherit one X chromosome from their female parent. Women and people AFAB have two X chromosomes, one from each parent.
+A parent can pass on the faulty gene that causes Fabry disease to a child in different ways:
+- Male parents with Fabry disease pass their X chromosome with the faulty gene to all of their daughters. All these daughters will have the gene mutation that causes Fabry disease. Sons aren’t at risk because males get the Y chromosome from their male parent (not the X chromosome).
+- Female parents with Fabry disease have a 50% chance of passing their affected X chromosome to their daughters or sons. Some family members can have the gene mutation while others don’t.
+Symptoms and Causes
+What are the symptoms of Fabry disease?
+Fabry disease symptoms vary depending on the type. Some symptoms are mild and might not appear until later in life. Men and people AMAB tend to have more severe Fabry disease symptoms than women and people AFAB. Fabry disease symptoms include:
+- Numbness, tingling, burning or pain in your hands or feet.
+- Extreme pain during physical activity.
+- Heat or cold intolerance.
+- Abnormal pattern of the eye (cornea verticillata), which doesn’t affect vision and can only be seen during an eye exam with a slit lamp.
+- Dizziness.
+- Flu-like symptoms, including fatigue, fever and body aches.
+- Gastrointestinal problems, such as diarrhea, constipation and abdominal pain.
+- Hearing loss or ringing in ears (tinnitus).
+- High levels of protein in urine (proteinuria).
+- Raised darker skin lesions (angiokeratoma) on your chest, back and genital area.
+- Sweating less (hypohidrosis) or not at all (anhidrosis).
+- Swelling (edema) in your legs, ankles or feet.
+What causes Fabry disease?
+A genetic mutation of the galactosidase alpha (GLA) gene causes Fabry disease. The GLA gene produces the alpha-GAL enzyme that helps break down fatty substances (sphingolipids). People who inherit a defective GLA gene don’t produce enough alpha-GAL enzyme. As a result, fatty substances build up in their blood vessels.
+What are the complications of Fabry disease?
+Years of buildup of the fatty substance can damage blood vessels and lead to life-threatening issues, including:
+- Heart problems, including arrhythmia, heart attacks, enlarged heart and heart failure.
+- Kidney failure.
+- Nerve damage (peripheral neuropathy).
+- Strokes, including transient ischemic attacks (TIA or ministrokes).
+Diagnosis and Tests
+How is it diagnosed?
+Your healthcare provider may order tests to diagnose Fabry disease, including:
+- Enzyme assay: This test measures alpha-GAL enzyme activity in your blood. Measurements of 1% or lower indicate disease. This test is only reliable for men and people AMAB and not suited for women and people AFAB.
+- Genetic: Because men and people AFAB with Fabry disease can have normal levels of alpha-GAL enzyme activity, providers use genetic testing (DNA sequencing) to identify the GLA gene mutation.
+- Newborn screenings: Some states test newborns for Fabry disease and other lysosomal storage disorders.
+Management and Treatment
+How is Fabry disease treated?
+There isn’t a cure for Fabry disease. Medications for pain and stomach problems can ease symptoms. There are two Fabry disease treatments that may slow down the buildup of the fatty substances with the goal to prevent heart problems, kidney disease and other life-threatening complications:
+- Enzyme replacement therapy: Every two weeks, you’ll receive an intravenous (IV) infusion of a lab-made enzyme that’s very similar to the alpha-GAL enzyme your body is lacking. The enzyme replacement treatments that are currently available are agalsidase beta (Fabrazyme®) and pegunigalsidase alfa (Elfabrio®). These replacement enzymes do the work of the missing alpha-GAL enzyme so fatty substances don’t build up. You may receive an antihistamine and other medications before therapy to prevent an allergic reaction. You may receive infusions at an infusion center, or (if you’re tolerating the infusions well) they can be given in your home.
+- Oral chaperone therapy: Chaperones are small molecules that repair faulty alpha-GAL enzymes. The mended enzymes can then break down the fatty substance. With this therapy, you take a pill (migalastat [Galafold®]) every other day to stabilize the faulty alpha-GAL enzyme. This medication doesn’t work for everyone. It depends on your specific genetic mutation in the GLA gene if you’re eligible for this treatment.
+Researchers are actively developing several new therapies using genetic engineering and stem cell technologies.
+Prevention
+Can Fabry disease be prevented?
+Fabry disease is inherited. If you carry the mutated gene that causes Fabry disease, talk to a genetic counselor. This specialist can explain the chances of passing the gene to your children and discuss options. For instance, a process called preimplantation genetic diagnosis (PGD) identifies embryos that don’t carry the mutated gene. Your healthcare provider implants healthy embryos during in vitro fertilization (IVF). PGD ensures your child won’t have the mutated gene or get Fabry disease.
+Outlook / Prognosis
+What is the outlook (prognosis) for Fabry disease?
+Fabry disease is a progressive disease. Symptoms and the risk of serious complications worsen with age. People with Fabry disease have a higher risk of life-threatening problems that can shorten life expectancy. On average, men and people AMAB with classic Fabry disease tend to live to their late 50s. Women and people AFAB with the disease often live into their 70s. You may add years to your life by getting appropriate care for heart and kidney disease and taking steps to reduce strokes.
+Living With
+When should I see my healthcare provider?
+You should call your healthcare provider if you have Fabry disease and experience:
+- Chest pain, irregular heartbeat, shortness of breath or signs of a heart attack.
+- Excessive swelling or fluid retention.
+- Extreme dizziness, vision problems or signs of a stroke.
+- Hearing loss.
+- Severe abdominal pain or diarrhea.
+What questions should I ask my healthcare provider?
+You may want to ask your healthcare provider:
+- How did I get Fabry disease?
+- What type of Fabry disease do I have?
+- What’s the best treatment for me?
+- What are the treatment risks and side effects?
+- Are my family members at risk for developing Fabry disease? If so, should we get genetic testing?
+- What type of ongoing care do I need?
+- Should I look out for signs of complications?
+A note from Cleveland Clinic
+A diagnosis of Fabry disease can be devastating. You may worry about your future or what this means for your child’s well-being, but effective treatments — and promising research — offer hope. By keeping up with your treatment plan and working closely with your healthcare provider, you can find symptom relief and prevent long-term damage. Talk to your provider about how to monitor the disease and manage your health.

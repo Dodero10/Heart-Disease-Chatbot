@@ -1,0 +1,75 @@
+NUT Carcinoma
+Overview
+What is NUT carcinoma?
+NUT carcinoma is a rare, fast-growing cancer. It’s the most aggressive type of squamous cell carcinoma. Squamous cells not only make up your skin, but also line organs inside your body.
+NUT carcinoma forms when there’s a genetic mutation involving a gene called NUTm1. A mutation is an error in the instructions (genetic material) that tell your cells how to work. The mutation causes otherwise healthy cells to turn malignant (cancerous). Cancer cells cluster together to form tumors.
+In NUT carcinoma, these tumors usually appear in your body’s center, or midline. This is why NUT carcinoma was once called NUT-midline carcinoma. But these tumors can form in other places, too.
+Where does this condition develop?
+People diagnosed with NUT carcinoma have had tumors form in their:
+- Head, especially the sinuses (most common).
+- Neck (common).
+- Lungs (common).
+- Mediastinum, or the space in your chest that holds your heart and lungs (common).
+- Pancreas.
+- Kidneys.
+- Adrenal glands.
+- Stomach.
+- Bladder.
+- Bones.
+NUT carcinoma grows and spreads fast, even with treatment.
+How rare is NUT carcinoma?
+NUT carcinoma is considered extremely rare, but there are probably more cases than we know about. Only about 20 new cases of NUT carcinoma get reported to the International NUT Midline Carcinoma Registry each year.
+The number might be low because it’s difficult to diagnose. It wasn’t until 2004 that scientists identified the defining feature of this cancer — a mutation involving the NUTm1 gene. Not all healthcare facilities have the testing materials that can detect this gene.
+Also, it can be easy to mistake NUT carcinoma for more common cancers. The only way to know that a cancer is NUT carcinoma is to identify the NUTm1 gene mutation. Some people diagnosed with head and neck cancers, lung cancers and other types may have this gene mutation.
+Increased awareness about this cancer type and improved technology to detect this gene mutation have enabled cancer specialists to better identify NUT carcinoma.
+Who gets NUT carcinoma?
+Most people diagnosed with NUT carcinoma are teens or young adults. The median age of diagnosis is 24 years of age. This means that about half of the people diagnosed are younger than 24, and half are older.
+But anyone can get this cancer. Infants have been diagnosed with NUT carcinoma, and so have people in their 80s.
+Symptoms and Causes
+What are the symptoms of NUT carcinoma?
+NUT carcinoma often doesn’t cause symptoms in the early stages. Usually, symptoms start once the cancer is more advanced, when the tumor grows into nearby tissue. At this point, you may feel generally tired or unwell. As most tumors occur in the sinuses and lungs, most documented symptoms involve these areas.
+General symptoms include:
+- Fatigue (extreme tiredness).
+- Unexplained weight loss.
+- A painful mass.
+Symptoms of a tumor affecting your sinuses include:
+- Sinus pressure (a feeling of tightness or achiness in your face).
+- Nosebleeds.
+- Nasal congestion or stuffiness.
+- Losing your sense of smell.
+Symptoms of a tumor in your lungs include:
+- Shortness of breath or trouble breathing.
+- Chronic cough (a cough that doesn’t get better).
+What causes NUT carcinoma?
+NUT carcinoma develops when parts of two different genes combine to form one hybrid gene, called a “fusion gene.” With all cases of NUT carcinoma, the NUTm1 gene fuses with a gene it’s not supposed to fuse with. NUTm1 doesn’t cause cancer, but the new fusion gene does. In approximately 75% of people with NUT carcinoma, NUTm1 fuses with a gene called BRD4. In about 15% of diagnosed cases, NUTm1 fuses with BRD3. Less often, it fuses with other genes.
+Scientists don’t know what causes the genetic mutations, but they know the mutation isn’t inherited. NUT carcinoma isn’t associated with other common cancer causes and risk factors, like smoking or exposure to cancer-causing toxins (carcinogens).
+More research is needed to understand what drives the genetic changes associated with this cancer.
+Diagnosis and Tests
+How is NUT carcinoma diagnosed?
+Healthcare providers diagnose NUT carcinoma with a biopsy. During this procedure, your provider uses a hollow needle to remove a tissue sample from the tumor. A lab tests it for signs of cancer. Your provider will also perform imaging procedures that help them see the tumor inside your body and stage it. Cancer staging allows providers to determine how advanced cancer is based on the tumor’s size, location and whether it’s spread from the primary tumor (metastasis). With metastasized cancer, cancer cells break off from the original tumor. They travel through lymph fluid or your bloodstream and form tumors in distant organs or tissue. A CT scan and MRI can show where the tumor is in your body. A PET scan can show if the cancer has spread.
+What tests will be done to diagnose this condition?
+The lab will perform a test called immunohistochemistry to detect the NUTm1 gene in the biopsy sample. The cancer is NUT carcinoma if the sample tests positive for the NUTm1 gene. Other potential tests to identify this gene include fluorescence in situ hybridization (FISH) or genetic tests.
+Management and Treatment
+How is NUT carcinoma treated?
+You may need treatments like surgery and radiation therapy to get rid of the tumor. You may need chemotherapy to treat cancer that’s spread beyond the tumor. Often, people receive a combination of treatments.
+NUT carcinoma is challenging to treat. Often, even if treatment stops the cancer from worsening, it eventually continues growing and spreading.
+If you’re diagnosed with NUT carcinoma, the best treatment option may be a clinical trial. Clinical trials are studies that test new therapies or treatment approaches. Currently, scientists are researching targeted therapy treatments for NUT carcinoma. Targeted therapy treats cancer by targeting the genetic mutation that causes a healthy cell to become a cancer cell.
+Potential targeted therapy treatments for NUT carcinoma include BET inhibitors. These drugs target BRD4 and BRD3 — the most common genes that fuse with NUTm1. The inhibitors block the genes from working with NUTm1 to promote cancer cell growth.
+Outlook / Prognosis
+Is NUT carcinoma curable?
+There isn’t a cure for NUT carcinoma. It’s a fast-growing cancer that often spreads to other parts of your body quickly. On average, people receiving treatment live about 10 months following diagnosis. For every 10 people diagnosed with NUT carcinoma two to three live for two years.
+As with any cancer, many factors shape your prognosis, or the likely outcome of your cancer with treatment. Your prognosis depends on where the tumor is located and whether your healthcare provider can remove it entirely with surgery or radiation. Some studies show that the type of gene that fuses with NUTm1 also plays a role in prognosis.
+Your healthcare provider will explain treatment goals based on your diagnosis.
+Living With
+How do I take care of myself?
+Surround yourself with people you trust to support you. Take advantage of all available resources that can help you navigate this diagnosis.
+Ask your healthcare provider if they can connect you with palliative care resources. Palliative care professionals can help you manage the new demands this diagnosis will place on your life. This includes managing chemotherapy and radiation side effects. It also includes managing responsibilities of everyday life that don’t always stop with a cancer diagnosis.
+What questions should I ask my healthcare provider?
+- Has the cancer spread?
+- Will I need to see a specialist or go to a specialist facility for treatment?
+- What treatments would you recommend?
+- What are the benefits and risks associated with treatment?
+- What are the goals of treatment?
+- Can you connect me with resources, including palliative care?
+A note from Cleveland Clinic
+Treatment for NUT carcinoma is often intensive. Frequent appointments with cancer specialists — on top of the stress of everyday life — can make processing a cancer diagnosis difficult. Medical resources, like palliative care professions, can help. Reaching out to your support network can help, too. It’s essential that from the moment you receive your diagnosis and onward, you communicate openly with your cancer care team so you understand your best care options moving forward. Everyone’s cancer diagnosis is different. Your care team is there to guide you through this challenging time.

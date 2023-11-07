@@ -1,0 +1,86 @@
+Ogilvie Syndrome
+Overview
+What is Ogilvie syndrome?
+Ogilvie syndrome, also known as acute colonic pseudo-obstruction (ACPO), is a sudden and unexplained paralysis of your colon. Your colon acts like it’s blocked or obstructed by something (pseudo-obstruction) but nothing is physically obstructing it. The problem is in your colon’s motor system. It stops moving food along, allowing it to build up inside and causing the walls to dilate (widen).
+How does Ogilvie syndrome differ from other types of intestinal pseudo-obstruction?
+Ogilvie syndrome is an acute condition — which means it’s sudden and temporary — and it only affects your colon, otherwise known as your large intestine. “Intestinal pseudo-obstruction” is more of an umbrella term that refers to any paralysis of your intestines that’s not caused by a mechanical obstruction. Some people have chronic intestinal pseudo-obstruction due to a chronic disease or congenital (present from birth) condition.
+What’s the difference between Ogilvie syndrome and paralytic ileus?
+Paralytic ileus is an acute type of intestinal pseudo-obstruction that typically affects both intestines. It’s very common after abdominal surgery, when your bowels are just a little slow to start working again. It usually resolves on its own in a few days. Ogilvie syndrome affects your colon, specifically — usually right at the start of it (your cecum). It’s uncommon and tends to be more complex than paralytic ileus.
+Who does Ogilvie syndrome affect?
+Although it can happen to anyone, Ogilvie syndrome most often affects older adults with multiple underlying health conditions. Surgery, trauma, cardiovascular disease or severe infection can trigger it. Electrolyte imbalances, neurological diseases and taking multiple medications are all risk factors. These factors all affect your nervous system, which is what tells your colon muscles to move food along.
+How common is Ogilvie syndrome?
+About 1 in 1,000 hospital admissions report Ogilvie syndrome. The average age of people affected is 60.
+Symptoms and Causes
+What are the symptoms of Ogilvie syndrome?
+When partially digested food and gas begin to build up in your colon, you might experience:
+- Abdominal distension.
+- Abdominal pain.
+- Loss of appetite.
+- Nausea and vomiting.
+- Bloating and gas.
+- Constipation and/or diarrhea.
+What causes Ogilvie syndrome?
+The exact cause isn’t fully understood, but scientists believe it results from a dysfunction of your autonomic nervous system. This is the part of your nervous system that controls the involuntary muscle movements that regulate your bowels (peristalsis). Since it’s an acute condition, some unusual stress on your autonomic nervous system probably triggers it. But other health factors also probably contribute.
+Acute medical conditions that have been known to trigger Ogilvie syndrome include:
+- Heart attack.
+- Congestive heart failure.
+- Traumatic injury.
+- Severe infection (such as pneumonia or sepsis).
+- Open abdominal surgery.
+- Open heart surgery.
+- Orthopedic surgery (such as hip replacement).
+- Caesarian delivery (C-section).
+Preexisting health factors that may contribute to Ogilvie syndrome include:
+- Kidney failure.
+- Respiratory failure.
+- Neurological disease.
+- Cardiovascular disease.
+- Cancer.
+- Metabolic disorders.
+- Electrolyte imbalances.
+- Advanced age.
+- Having physical debilitations.
+- Taking multiple medications.
+Medications that have been associated with Ogilvie syndrome include:
+- Antipsychotic medications.
+- Amphetamines.
+- Corticosteroids.
+- Opioids.
+- Immunosuppressants.
+- Spinal anesthesia.
+What are the possible complications of Ogilvie syndrome?
+Ogilvie syndrome often resolves on its own or with supportive care. But sometimes it does need intervention. If it goes unrecognized for too long and continues to worsen, it can cause some serious complications. Studies suggest that complications are more likely to occur when your colon is dilated wider than 12 cm. The normal diameter is 8 cm.
+The risk increases as dilation increases. Risks include:
+- Ischemia. Too much pressure against your colon walls may cut off the blood supply. This can lead to severe inflammation (ischemic colitis) and, without treatment, tissue death (necrosis).
+- Perforation. Necrotic tissue is especially at risk of tearing. A hole in your colon (gastrointestinal perforation) can cause toxins and bacteria to escape into your abdominal cavity (peritonitis).
+- Sepsis. Peritonitis can easily spread to your bloodstream (septicemia). This is an emergency. Systemic infection can lead to sepsis and septic shock, which can cause multiple organ failures.
+Diagnosis and Tests
+How is Ogilvie syndrome diagnosed?
+Diagnosis depends on:
+- Radiology showing a dilated colon with no physical bowel obstruction.
+- Specific tests to rule out other possible causes for your condition.
+What type of radiology can diagnose Ogilvie syndrome?
+To see the inside of your colon in detail, healthcare providers use a type of imaging that combines radiology with an internal contrast agent. The contrast material coats the inside of your colon to make features stand out better in black and white. You may swallow the contrast, or you may receive it through an enema or IV. Contrast CT scan and contrast fluoroscopy are two methods providers use.
+One test, called a gastrografin enema, may even double as a treatment. It involves injecting a water-soluble contrast solution called gastrografin into your colon through your rectum and then taking fluoroscopic X-rays. (Fluoroscopy is a type of video X-ray that tracks the solution as it travels through.) As a side effect, gastrografin may act as a laxative in your colon and may help get it moving again.
+Management and Treatment
+What is the treatment for Ogilvie syndrome?
+Treatment depends on how dilated your colon is and whether you appear to be at risk of complications. When possible, healthcare providers treat Ogilvie syndrome conservatively with supportive care and close observation. But when necessary, they’ll intervene with medications or procedures to decompress your colon and reduce the risk of complications. If complications arise, they’ll require urgent care.
+Conservative treatment may include:
+- Treating underlying diseases that may be contributing.
+- Discontinuing medications that may be contributing.
+- Bowel rest, with no food by mouth to reduce compression.
+- IV fluids (fluids that are intravenous, or given through your vein) to maintain hydration and correct electrolyte imbalances.
+- Taking walks or moving into different positions to encourage bowel movement.
+- Nasogastric tube to suction out excess air and fluids from your stomach.
+- Rectal tube, a catheter inserted through your rectum to drain air and fluids by gravity.
+- Monitoring with regular imaging and blood tests to check for progress or complications.
+If you’re already dilated more than 12 cm, or if conservative treatment hasn’t worked after 72 hours, your healthcare provider may want to intervene to help relieve your colon.
+Interventions include:
+- Colonoscopic decompression. A colonoscopy is a diagnostic and therapeutic procedure that involves inserting a colonoscope, a tiny camera on the end of a long catheter, into your colon through your anus. The purpose of a decompressive colonoscopy is to suction excess air from the colon through the catheter and then to administer an enema through the catheter. This can help relieve the pseudo-obstruction if medical therapy fails or isn’t safe for you. But healthcare providers use it cautiously because it’s difficult to perform and carries a small risk of complications. In certain circumstances, the colonoscope could cause bowel perforation.
+- Neostigmine injection. This medication, given through your IV, is a muscle activator. It's often used to wake up your muscles after a dose of anesthesia relaxed them. It’s shown good results for waking up the muscles in your colon and reactivating peristalsis in people with Ogilvie syndrome. However, it’s a powerful medicine that’s only given under close observation in the ICU. Healthcare providers will monitor your heart to make sure it doesn’t slow down too much while you're receiving neostigmine.
+- Colectomy/Colostomy. In the event that your colon continues to dilate despite interventions, or you develop complications such as a perforation or necrosis, you may need surgery to remove the affected part of your colon. This is a last resort. With a colectomy, you may also need a temporary or permanent colostomy — an alternative opening for your poop to come out. Sometimes, the colostomy can be reversed after you heal from surgery.
+Prevention
+Is Ogilvie syndrome fatal?
+Complications can be fatal. The mortality rate with complications, such as perforation or ischemia, is up to 40%. But less than 15% of people develop these complications. Without complications, the mortality rate for Ogilvie syndrome is closer to 15%. This rate probably doesn’t represent Ogilvie syndrome alone. Most people who develop Ogilvie syndrome have other health conditions affecting their mortality.
+A note from Cleveland Clinic
+An acute colonic pseudo-obstruction is an unexpected factor that can bring new complications for people already managing other health conditions. Nobody anticipates Ogilvie syndrome, but everybody should take the symptoms seriously. Early recognition is key to preventing the serious complications of Ogilvie syndrome. Without complications, it’s likely to resolve shortly with conservative treatment.

@@ -1,0 +1,108 @@
+SMV Thrombosis
+Overview
+What is SMV thrombosis?
+SMV thrombosis is the formation of a blood clot in your superior mesenteric vein (SMV). This is a blood vessel in your abdomen (belly) that carries blood away from your small intestine towards your liver. The blood clot disrupts normal blood flow among the different organs in your belly.
+In some cases, your organs can’t receive enough oxygen-rich blood to function and their tissues begin to die. This organ damage can quickly affect your whole body. SMV thrombosis can be fatal without prompt diagnosis and treatment.
+Another term for SMV thrombosis is “mesenteric venous thrombosis.” This is a more general term that refers to a blood clot in your superior mesenteric vein, inferior mesenteric vein or any of their branches. But about 95% of the time, the clot forms in the superior mesenteric vein. So, people often use the terms interchangeably.
+Types of mesenteric venous thrombosis
+Healthcare providers classify this condition according to how the symptoms appear:
+- Acute: Symptoms begin suddenly, within 24 to 72 hours of blood clot formation. About 60% to 80% of all cases of mesenteric venous thrombosis are acute. Acute thrombosis can quickly damage your intestines since your blood has no way to reach them. The blood clot blocks its path.
+- Subacute: Symptoms appear over a period of many days and may not be as severe as with acute thrombosis. In this case, some blood can still reach your intestines, but not enough. People often experience symptoms for up to two weeks before seeking medical care.
+- Chronic: There may be no symptoms. That’s because enough blood can still reach your intestines through collateral vessels. These are small veins that gradually form to help transport your blood. Providers usually find chronic thrombosis when running imaging tests for other purposes. About 20% to 40% of all cases of mesenteric venous thrombosis are chronic.
+How common is mesenteric venous thrombosis?
+Healthcare providers consider this condition rare. It accounts for anywhere between 1 in 5,000 and 1 in 15,000 inpatient hospital admissions.
+Mesenteric venous thrombosis can happen at any age, but it usually affects people in their 40s or 50s.
+Symptoms and Causes
+What are the symptoms?
+Mesenteric venous thrombosis symptoms vary widely. Some people have no symptoms. This is often the case with chronic thrombosis. However, acute thrombosis can cause sudden and severe cramping in your belly. With the subacute form, vague belly pain may come and go over several days or weeks.
+Some people with mesenteric venous thrombosis develop portal hypertension. In that case, you may experience:
+- Blood in your poop.
+- Nausea and vomiting, with blood in your vomit.
+- Bloated stomach.
+- Swelling (edema) in your legs and feet.
+- Mental confusion.
+If you develop new or worsening pain in your belly, it’s important to see a healthcare provider right away so they can determine the reason.
+What causes superior mesenteric vein thrombosis?
+Researchers divide the causes of mesenteric venous thrombosis into three main categories:
+- Direct injury to your vein from inflammation or surgery.
+- Slow or congested blood flow in your mesenteric vein and surrounding veins, due to conditions like cirrhosis, heart failure or compression from a mass or tumor.
+- Blood clotting disorders that make you more likely to develop a blood clot anywhere in your body.
+Sometimes, providers can’t identify a cause (idiopathic).
+What are the risk factors for this condition?
+You face a higher risk of SMV thrombosis if you have any of the following medical conditions:
+- Inherited or acquired blood clotting disorders, including those caused by some medications.
+- Inflammatory bowel disease (IBD).
+- Cirrhosis (liver disease).
+- Pancreatitis.
+- Pancreatic cancer.
+- Heart failure.
+- Enlarged spleen.
+- Large abdominal tumor or mass.
+- Some viral infections, including COVID-19.
+Certain surgeries on your belly, like a splenectomy, can damage the inner lining of your blood vessels (endothelium). This damage leads to inflammation that can raise your risk of a blood clot.
+What are the complications of SMV thrombosis?
+A blood clot in your mesenteric veins causes tissue swelling in your intestine and can lead to mesenteric ischemia. This is reduced blood flow to parts of your digestive system.
+When your digestive organs don’t receive enough oxygen-rich blood, they can’t work properly. Also, their tissues can start to die. In some cases, this can result in holes developing in your intestine and the contents of your intestine leaking into the surrounding space. Other times, the helpful bacteria that normally live in your digestive system can spread elsewhere in your body, to areas where they don’t belong. This can lead to sepsis and life-threatening organ failure.
+As a result, SMV thrombosis can be fatal without prompt treatment.
+Diagnosis and Tests
+How is mesenteric venous thrombosis diagnosed?
+Healthcare providers may suspect you have mesenteric venous thrombosis due to your symptoms. However, diagnosis can be challenging because many symptoms are non-specific. That means they could point to many different potential problems. A blood clot in your mesenteric vein isn’t always the first or most obvious explanation for pain in your belly or other symptoms.
+If your provider suspects you may have a blood clot, they’ll run imaging tests.
+Tests to diagnose mesenteric venous thrombosis
+The gold standard for diagnosing this condition is CT angiography. This imaging test uses intravenous contrast dye to view blood flow through your blood vessels. This can show how well blood is flowing through the arteries and veins in your belly and reveal if you have a blood clot. The test results guide your treatment plan.
+Sometimes, providers use MRI angiography as an alternative, or to confirm unclear findings from CT angiography. Providers may also use these studies to monitor how well you respond to treatment.
+Management and Treatment
+What is the treatment for SMV thrombosis?
+Healthcare providers tailor treatment to your needs with the larger goals of:
+- Restoring blood flow to your intestines so they can function normally.
+- Preventing or limiting damage to your intestines.
+- Preventing new blood clots from forming and determining the underlying cause.
+Prompt treatment is key to survival. The sooner you receive treatment, the better your chances of a good outcome. Your provider will use one or more of the following treatment methods depending on the chronicity (acute vs. chronic) and severity of your condition.
+- Anticoagulation: This is often the first treatment method providers use. Anticoagulation involves giving you medication to get rid of the blood clot and prevent new ones from forming. Many providers start with a heparin infusion and follow that up with warfarin. Some people need anticoagulant medication for six months or so, while others need it for longer. If you have a blood clotting disorder, or if the clot formed without a clear cause, you may need lifelong anticoagulation.
+- Thrombolysis: With thrombolysis, your provider uses a catheter to send medication into your veins and destroy the blood clot. They usually deliver the medication over a period of 24 to 72 hours.
+- Thrombectomy: This is the surgical removal of the blood clot. Providers limit this treatment to specific cases, such as people who aren’t candidates for thrombolysis. Providers can use open surgery as well as minimally invasive methods for thrombectomy.
+- Bowel resection: This is the medical term for surgery to remove part of your intestines. You may need a small bowel resection or colectomy if the blood clot stops blood flow to your intestines, causing permanent damage. If you start anticoagulation in the hospital, your provider will monitor your symptoms to determine if you need surgery and to identify complications.
+Complications of treatment
+Bleeding (major or minor) is the most common complication of treatment. It’s important to keep in mind that this condition is fatal without treatment. So, the benefit of treatment outweighs the risk of possible complications.
+Prevention
+Can SMV thrombosis be prevented?
+It’s not always possible to prevent blood clots. However, you can take an active role in your health by preventing and managing many of the underlying conditions that raise your risk. Here are some general tips:
+- Visit a healthcare provider for a yearly checkup.
+- Take your medications exactly as your provider prescribes them.
+- Tell your provider if you have any new or changing symptoms.
+- Ask your provider what lifestyle changes you should make to support your health.
+Outlook / Prognosis
+What can I expect if I have SMV thrombosis?
+Your provider will treat you and tell you what to expect as you recover. They’ll explain your risk of new blood clots forming and recommend treatment to lower that risk. It’s important to stick with your provider’s treatment plan, including possible lifelong medication, to help prevent blood clots from coming back.
+Monitoring response to treatment
+If you’re on anticoagulant medication, you’ll likely need regular blood tests to ensure proper levels of anticoagulation. Your provider will also monitor you to make sure you don’t develop bleeding.
+What is the outlook for this condition?
+Your healthcare provider is the best person to ask about your outlook. They’ll look at your medical history and the details of your condition to give you an idea of what to expect. In general, your outlook with mesenteric venous thrombosis depends on many factors, including:
+- Your age.
+- The severity of your condition.
+- The exact location of the blood clot.
+- Other medical conditions you have.
+- The extent of damage to your intestines.
+- Whether you need part of your intestines removed.
+- How quickly you receive treatment.
+Mesenteric venous thrombosis can be fatal. With acute thrombosis, the risk of dying increases with each hour that passes after your symptoms begin. After 24 hours without treatment, the condition is usually fatal.
+Living With
+When should I see my healthcare provider?
+As you recover from treatment, it’s essential to stay aware of how you’re feeling and share any changes with your provider. Your provider will tell you how often you need to come in for follow-up appointments. Be sure to go to all of your appointments so your provider can keep an eye on how you’re doing and identify any new problems (such as new blood clots) should they arise. But don’t hesitate to call in between appointments if you have new symptoms or any questions.
+When should I go to the ER?
+Call 911 or your local emergency number immediately if you have severe pain in your belly or other symptoms of SMV thrombosis. Don’t delay. This is especially important if you have risk factors for SMV thrombosis. Quick treatment is essential for survival.
+What questions should I ask my doctor?
+Your questions may vary based on your specific situation and stage of treatment. Here are some general questions that can help you get the information you need. You may ask these questions if you’ve been diagnosed (or on behalf of a loved one):
+- How serious is my condition?
+- What treatment will you try first?
+- What other treatments might I need?
+- What are the goals of treatment?
+- What are the chances that treatment will be successful?
+- Are there risks to treatment?
+- What’s my outlook?
+- What follow-up appointments will I need?
+- Do I need to make changes to my medications or medication schedule?
+- What lifestyle changes do you recommend after I recover?
+A note from Cleveland Clinic
+Learning you have a blood clot is scary no matter where it is in your body. In the case of SMV thrombosis, the clot can pose a risk to the health of your intestines, and it can cause life-threatening complications.
+If you or a loved one has risk factors for SMV thrombosis, talk to a healthcare provider about your individual level of risk and how to manage it. It’s not always possible to prevent blood clots. But visiting your provider for checkups and staying aware of symptoms can help you receive an early diagnosis and treatment. Such swift action can be life-saving.

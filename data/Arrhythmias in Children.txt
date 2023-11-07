@@ -1,0 +1,96 @@
+Arrhythmias in Children
+Overview
+What are arrhythmias in children?
+An arrhythmia is any change in your heart’s regular, even rhythm. Children can have an arrhythmia — an irregular heartbeat — just like adults.
+This might mean that your child’s heart beats too quickly, beats too slowly, skips a beat or has extra beats. It often doesn’t require treatment, but some cases can be serious.
+How does your heart beat?
+Your heart has a special electrical system that regulates its rate and rhythm:
+Your heart has a predictable rate and rhythm when this process works properly. But arrhythmia occurs if something interrupts the electrical conduction system of your heart.
+How common is childhood arrhythmia?
+Arrhythmias are common in children and usually harmless. In rare cases, the condition can be serious or even life-threatening.
+What types of arrhythmias are there in infants and children?
+There are many types of irregular heart rhythms in children, as there are in adults.
+Many start in their atria (upper chambers of their heart). We refer to these as supraventricular tachycardia (SVT). There are different types of SVT as listed below:
+- AV nodal reentrant tachycardia and orthodromic re-entrant tachycardia cause sudden episodes of an abnormally fast heartbeat originating from the top chamber. These episodes begin and end suddenly, like a “light switch” and constitute the most common cause of SVT in children. (Wolff-Parkinson-White syndrome can cause episodes of SVT, as people with this condition typically have an extra electrical connection between the top and bottom chambers of the heart that they were born with.)
+- Atrial flutter is a rapid but consistent heartbeat.
+- Atrial fibrillation results in a child’s heart beating fast and chaotically. This is extremely rare in children.
+- Premature atrial contractionsoccur when beatsbegin earlier than they should and give you the sensation of an extra or skipped heartbeat.
+Some types of arrhythmias are related to the ventricles (two lower chambers of the heart):
+- Premature ventricular contractions (PVCs) cause early extra beats that begin in the ventricles before they receive signals from the atria.
+- Ventricular tachycardia (V-tach)is a serious condition involving electrical signals starting from the ventricles that are too fast.
+- Ventricular fibrillation is a dangerous condition where the ventricles quiver or twitch instead of completely expanding and squeezing.
+Other types of arrhythmia include:
+- Bradycardia means your child’s heart is beating slowly. Most of the time, this isn’t a dangerous arrhythmia, especially if the heartbeat is originating from the normal location (SA node) and they have no symptoms.
+- Heart block is either a delay or blockage of the electrical impulse from the top chamber to the bottom chamber.
+- Sick sinus syndrome happens when the SA node malfunctions. It’s extremely rare in children except in those with congenital (present at birth) heart disease.
+Is sinus arrhythmia normal in children?
+Sinus arrhythmia is a misleading phrase. Although it’s a variation in the heartbeat, it’s normal and occurs in all children to some degree. It’s a sign of good heart health.
+Sinus arrhythmia in children means they have a faster heartbeat when inhaling and a slower one when exhaling. It doesn’t cause symptoms or require treatment.
+Symptoms and Causes
+What are the symptoms of pediatric arrhythmia?
+The symptoms of irregular heartbeat in kids vary widely and depend on what type of arrhythmia they have. Your child may experience:
+- Chest pain.
+- Difficulty eating, which may be the only observable symptom in newborn arrhythmia.
+- Dizziness, lightheadedness or fainting (syncope).
+- Fatigue or weakness.
+- Heart palpitations, which may feel like fluttering, skipping a beat or having a heightened awareness of your heartbeat.
+- Irritability, especially in children who can’t communicate about other symptoms.
+- Shortness of breath (dyspnea).
+In rare cases, the first symptom may be a seizure, syncope or sudden cardiac death.
+What causes irregular heartbeat in children?
+Most children with SVT have no underlying structural heart issues. For other types of arrhythmias, many factors can cause arrhythmia in children, including:
+- Cardiomyopathy, a condition that makes their heart muscle stiff, enlarged or thick.
+- Inherited conditions like long QT syndrome (when your heart’s electrical system takes too long to recharge) or catecholaminergic polymorphic ventricular tachycardia (when your ventricles beat too quickly).
+- Certain medications, particularly drugs given to children who are critically ill.
+- Congenital heart disease, a heart abnormality present at birth.
+- Electrolyte imbalance or another chemical imbalance in their blood.
+- Fever, dehydration, stress, lack of sleep or inflammation.
+- Viral infection or bacterial infection.
+Diagnosis and Tests
+How is arrhythmia diagnosed in children?
+Providers often detect arrhythmia during a routine checkup or during diagnosis or treatment for another health condition. You can also ask your healthcare provider about the symptoms if you suspect your child has an arrhythmia.
+Your pediatrician or a pediatric cardiologist will ask about your child’s health history and your family’s medical history. They’ll listen to your child’s heart and determine whether they need any tests. These may include:
+- Blood test: A blood testcan detect whether a medication, infection or chemical imbalance is present.
+- Echocardiogram (echo): This test uses sound waves to take pictures of your child’s heart. An echocardiogram provides detailed information about their heart’s structure and function.
+- Electrocardiogram (ECG): An ECGis a simple, painless test. Electrodes attached to your child’s chest measure the electrical activity of their heart. Your provider may ask them to lie down, walk on a treadmill or ride a stationary bike during the ECG.
+- Electrophysiologic study (EPS): During this test, a doctor threads a small, thin tube through a blood vessel in your child’s arm or leg. The tube travels to your child’s heart and looks for the source of a faulty electrical signal.
+- Holter monitor: A Holter monitormeasures the electrical activity of your child’s heartover 24 hours to a few days. Your child goes about their regular activities while wearing a small portable monitor.
+Rarely, your doctor may recommend a monitor called a loop recorder. Your provider makes a small cut in the skin on your child’s chest and implants the monitor under their skin. This monitor may be helpful when other tests don’t provide clear answers.
+Management and Treatment
+How is arrhythmia treated in children?
+Some cases of arrhythmia don’t need treatment. Your provider may recommend monitoring your child’s heart over time.
+In other situations, your child’s healthcare provider may treat the underlying cause of their arrhythmia. If your child has an infection, for example, your provider may prescribe antibacterial or antiviral medications. Similarly, if your child has a chemical imbalance, certain medications can help restore balance and resolve arrhythmia.
+Your provider may recommend antiarrhythmic medications like beta-blockers or calcium channel blockers. These regulate heartbeats by slowing electrical impulses.
+A child with a more serious case of arrhythmia may need a procedure to correct it, like:
+- Ablation: An ablation procedure applies energy/heat to their heart tissue where arrhythmia begins.
+- Cardioversion: There are two types of cardioversion. Traditional cardioversion delivers an electrical shock to their heart to correct an irregular heart rhythm. Chemical cardioversion uses medication to normalize their heart rate and rhythm.
+- Implanted device: A device implanted under their skin can deliver electrical pulses or shocks to control or correct abnormal rhythms. Examples include a pacemaker and implantable cardioverter defibrillator.
+- Maze surgery: A surgeon makes small cuts or burns in your child’s heart tissue to stop faulty electrical signals during Maze surgery.
+Prevention
+Can arrhythmia be prevented in children?
+Generally, there’s no way to prevent arrhythmia. But if you or your child notice that certain activities trigger arrhythmia, you can avoid doing those things. For example, if certain intense exercises prompt arrhythmia episodes, perhaps you can find other, less intense ways for your child to be active.
+Outlook / Prognosis
+What is the outlook for a child with an arrhythmia?
+The outlook for a child with arrhythmia varies widely. Most arrhythmias in kids are harmless and don’t have long-term health effects. Some children outgrow an irregular heartbeat. Others continue to have arrhythmia but can live normal lives without treatment.
+Even serious arrhythmias can be treated successfully.
+Rarely, untreated cases of serious arrhythmia can cause severe consequences, including:
+- Blood clots, which may lead to a stroke if they travel to your child’s brain.
+- Heart failure.
+- Organ damage (for example, brain, kidneys, lungs and liver).
+- Sudden cardiac death.
+Living With
+Can anything help with the symptoms of arrhythmia?
+If your child experiences arrhythmia symptoms, the following strategies may help:
+- Forcing a cough or gag.
+- Holding an ice pack against their face.
+- Trying the Valsalva maneuver, closing their nose and mouth and having them strain to breathe out.
+What questions should I ask my child’s doctor?
+Consider asking your provider the following questions if your child is diagnosed with arrhythmia:
+- What type of arrhythmia does my child have? Is it life-threatening?
+- Can my child still be active?
+- Should we avoid any activities, like sports?
+- Should we see a pediatric cardiologist?
+- How often should I have my child’s heart checked? Can I check anything at home?
+- When should we seek immediate medical attention?
+A note from Cleveland Clinic
+Arrhythmia can make your child’s heart race, beat too slowly or feel like it skips a beat. It’s natural to worry if your child has any unusual heart symptoms. But most arrhythmias are harmless in children, and many kids grow out of them. Talk to your pediatrician to learn more about your child’s heart health.

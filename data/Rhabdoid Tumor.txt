@@ -1,0 +1,90 @@
+Rhabdoid Tumor
+Overview
+What is a rhabdoid tumor?
+A rhabdoid (pronounced “rab-doid”) tumor is a rare, fast-growing childhood cancer. The disease can form in your child’s kidneys, soft tissues or central nervous system (brain and spinal cord). Rhabdoid tumors usually occur in infants and young children. They’re called rhabdoid tumors because their cells look like rhabdomyoblasts under a microscope. Rhabdomyoblasts are cells that develop into muscles. Rhabdoid tumors spread quickly and are hard to treat.
+What are the different types of rhabdoid tumors?
+A rhabdoid tumor of the kidney (RTK) is a rhabdoid tumor that forms in your child’s kidney. Extracranial or extrarenal malignant rhabdoid tumors are rhabdoid tumors that grow in your child’s soft tissues and other organs. These tumors develop in your child’s liver, lungs, skin and other soft tissues. You may hear these types of tumors called malignant rhabdoid tumors (MRT). Malignant means cancerous.
+Atypical teratoid rhabdoid tumors (ATRT) are rhabdoid tumors involving your child’s central nervous system. These types of tumors start when malignant cells form in your child’s brain or spinal cord. Approximately 50% of these tumors form in parts of their brain called the cerebellum or the brainstem. The cerebellum controls movement, balance and posture. The brainstem controls breathing, heart rate and certain nerves and muscles.
+Who do rhabdoid tumors affect?
+Rhabdoid tumors mainly affect babies and young children. They’re most common in infants between 11 months and 18 months old. The condition rarely occurs in adults.
+How common are rhabdoid tumors?
+Malignant rhabdoid tumors are very rare. Some studies suggest less than 1 in 1 million people will develop this type of cancer.
+Symptoms and Causes
+What causes rhabdoid tumors?
+A genetic mutation in the SMARCB1 gene causes most rhabdoid tumors. The SMARCB1 gene is a tumor suppressor gene that makes a protein that helps control cell growth. A mutation in this gene can cause the rapid growth of tumor cells. Rarely, a mutation in the SMARCA4 gene, another tumor suppressor gene, causes rhabdoid tumors.
+While some children are born with a mutated gene inherited from a parent, the majority of rhabdoid tumors occur in people with no biological family history of the condition. These cases result due to a new genetic mutation that happens spontaneously. As part of your child’s care, they may have a genetic evaluation to determine the likelihood of passing on the mutated gene.
+What are the symptoms of rhabdoid tumors?
+Rhabdoid tumor symptoms depend on your child’s age and the location of the tumor. Symptoms usually begin near where a tumor is growing in your child’s body. These symptoms may include nerve paralysis, difficulty breathing or a lump on your child’s belly (abdomen). Signs and symptoms may develop quickly because the tumor spreads rapidly. Other symptoms of rhabdoid tumors may include:
+- Fever.
+- Headache.
+- Blood in their urine (hematuria).
+- Nausea and vomiting.
+- Swollen lymph nodes.
+- Irritability.
+- Decreased appetite.
+- Unusual sleepiness.
+- Increased head size (infants).
+- Loss of balance or trouble walking.
+Diagnosis and Tests
+How are rhabdoid tumors diagnosed?
+Your child’s healthcare provider will perform a physical exam and ask about your child’s symptoms. They’ll request several tests to determine a diagnosis. These tests may include:
+- Ultrasound: An ultrasound uses high-energy sound waves to create echoes that bounce off your child’s internal organs and tissues. The echoes make a picture called a sonogram.
+- Computed tomography (CT) scan: A CT or CAT scan uses a series of X-rays and a computer to create a 3D image of your child’s soft tissues and bones.
+- Magnetic resonance imaging (MRI): An MRI uses a magnet, radio waves and a computer to create a series of detailed pictures of areas inside your child’s brain and spinal cord.
+- Neurological exam: A neurological exam or neuro exam is a physical examination that checks your child’s brain, spinal cord and nerve function.
+- Lumbar puncture: A lumbar puncture, or spinal tap, collects a sample of your child’s cerebrospinal fluid (CSF) from their spinal column. A pathologist checks for signs of cancer in the sample under a microscope.
+Rhabdoid tumors can look like other tumors on these scans, so your child’s healthcare provider will likely request further testing through tissue samples. These tests may include:
+- Genetic testing: Genetic testing collects a sample of your child’s blood or tissue to test it for mutations in the SMARCB1 and SMARCA4 genes.
+- Biopsy: With a biopsy, your child’s healthcare provider will use a needle to take a small sample of the tumor. Then, a pathologist will look for cancer cells in the sample under a microscope. If they find cancer cells, your child’s healthcare provider may remove as much of the tumor as they can during the same surgery or in a future surgery.
+- Immunohistochemistry: Immunohistochemistry uses antibodies to check for certain markers (antigens) in your child’s tissue sample. The pathologist will test the biopsy for specific markers to identify whether it’s a rhabdoid tumor or another type of tumor.
+Management and Treatment
+How is a rhabdoid tumor treated?
+A pediatric oncologist will lead your child’s treatment. A pediatric oncologist is a physician who specializes in children’s cancers. They’ll work with a team of specialists to put together a specific treatment plan for your child.
+Treatment for a rhabdoid tumor may include several different methods. Rhabdoid tumors spread quickly. Because of this, studies show that treating the tumor in various ways can have a better effect on killing the tumor cells.
+If your child’s tumor wasn’t removed during a biopsy, the first step of treatment will often be surgery, if possible. Your child’s healthcare provider will remove as much of the tumor as they can. Often, they’re able to remove the entire tumor.
+After surgery, treatment for a rhabdoid tumor will depend on your child’s age and how much cancer remains. Treatment may include:
+- Chemotherapy: Chemotherapy, often called chemo, uses drugs to stop the growth of cancer cells. Chemotherapy drugs kill some tumor cells and stop others from dividing. Chemotherapy can cause side effects because the drugs can’t tell the difference between healthy and cancerous cells.
+- High-dose chemotherapy with stem cell transplant: High-dose chemotherapy has the potential to kill more cancer cells, but it also kills healthy cells, including the blood-forming cells in the bone marrow. To account for this, some of your child’s bone marrow is collected and stored before the high-dose chemotherapy. Afterward, the bone marrow is given back to your child to replace the killed blood-forming cells.
+- Radiation therapy: Radiation therapy uses high-energy X-rays to shrink or kill cancer cells and keep them from growing. Radiation can affect your child’s growth and brain development, so the dose is usually tailored to your child’s age and size.
+- Clinical trials: Your child’s healthcare provider may suggest clinical trials for your child’s cancer treatment. These options may include new types of chemotherapy, targeted therapy or immunotherapy drugs.
+What are the possible side effects of treatment for rhabdoid tumors?
+Treatment for cancers, including rhabdoid tumors, may cause side effects. This is because the chemotherapy drugs used to kill your child’s cancer cells also kill healthy cells. Most side effects will go away after your child stops chemotherapy. You can work with your child’s healthcare provider to prevent and manage your child’s side effects. Side effects of the treatment for rhabdoid tumors may include:
+- Hair loss (alopecia).
+- Appetite loss.
+- Constipation.
+- Diarrhea.
+- Nausea and vomiting.
+- Throat and mouth sores.
+- Swelling (edema).
+- Trouble sleeping.
+- Extreme tiredness (fatigue).
+- Memory problems.
+Prevention
+How can I prevent rhabdoid tumors?
+You can’t prevent rhabdoid tumors, as genetic mutations cause the disease. If there’s a family history of rhabdoid tumors or other cancers and you plan on becoming pregnant, talk to your healthcare provider about genetic counseling. Genetic counseling can help you understand your risk of having a child with a genetic condition.
+Outlook / Prognosis
+Is rhabdoid tumor curable?
+Your child’s healthcare provider will be able to give you the most accurate answer about your child’s prognosis. However, many children with a malignant rhabdoid tumor don’t live longer than a few years. If your child received their diagnosis after the age of 2, their prognosis may be better.
+What is the rhabdoid tumor survival rate?
+The life expectancy for people with a rhabdoid tumor depends on several factors. These factors include:
+- Your child’s age.
+- Where your child’s tumor is located in their body.
+- If the cancer has spread to other areas of their body.
+- How much of the tumor your child’s healthcare provider was able to remove during surgery.
+- How well your child responds to their cancer treatment.
+Malignant rhabdoid tumors are very rare. Survival rates are based on these few cases, so the actual life expectancy of a child with a rhabdoid tumor varies. Studies show the five-year survival rate for a rhabdoid tumor of the kidney (RTK) ranges from 20% to 25%. This means that 20% to 25% of people diagnosed with RTK are still alive five years after diagnosis. The five-year survival rate for atypical teratoid rhabdoid tumor (ATRT) ranges from 32% to 50%.
+Living With
+What questions should I ask my child’s healthcare provider?
+If your child has received a cancer diagnosis, you probably have many questions. Some questions you may want to remember to ask include:
+- What kind of cancer does my child have?
+- What stage is my child’s cancer at?
+- What types of tests does my child need?
+- What are the treatment options for my child’s cancer?
+- What’s the likelihood this treatment will work?
+- What types of clinical trials can my child enroll in?
+- How will we find out if the treatment is working?
+What kind of follow-up will be done during and after treatment?
+Throughout your child’s cancer treatment, your child may repeat some of the same tests they had to diagnose their condition. These tests will measure if the treatment is working. Based on the results of the tests, your child’s healthcare provider will work with you to decide on next steps. This may include continuing, changing or stopping treatment.
+After your child finishes cancer treatment, they’ll return for periodic follow-up exams and tests. At these follow-up visits, your child’s healthcare provider will check to see if your child’s condition has stayed the same or returned. Your child will have follow-up exams for several years after treatment.
+A note from Cleveland Clinic
+Receiving the news that your child has cancer can be devastating. But it’s important to remember that you’re not alone. Your child’s healthcare providers are there to help you and your family through this difficult time. There are many treatments available for rhabdoid tumors, and there’s hope for your child. Talk to your child’s provider about joining a cancer support group for parents or families. Sharing your story and hearing the experiences of others can help you feel supported and encouraged.

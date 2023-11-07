@@ -1,0 +1,94 @@
+Respiratory Failure
+Overview
+What is respiratory failure?
+Respiratory failure is a condition where you don’t have enough oxygen in the tissues in your body (hypoxia) or when you have too much carbon dioxide in your blood (hypercapnia). You might also hear people use the term “acute hypoxemic respiratory failure (AHRF)” to describe it.
+Respiratory failure is often a medical emergency. Call 911 or seek medical attention right away if you think you’re experiencing respiratory failure.
+How respiration works
+You can think of respiration as passengers traveling from the air to your tissues. When you breathe in, oxygen molecules travel to your lungs — the passengers arriving at the airport. The oxygen passengers arrive at the “airport gates” — small air sacs around your lungs called alveoli — and are picked up by your blood. They travel through your blood to their final destination in your tissues, like your organs and muscles. You need oxygen to reach its destination to stay alive.
+After your blood cells drop off oxygen in your tissues, they have room to pick up carbon dioxide. Your body doesn’t need carbon dioxide (it’s a waste product). If too much of it builds up, there isn’t room in your blood’s transportation system to deliver oxygen. Your blood circulates through your body, back to your lungs, where it drops off carbon dioxide. When you breathe out, you get rid of the unnecessary waste to make room for more oxygen.
+If any parts of this system fail, you won’t have enough oxygen to keep your tissues healthy.
+What are the types of respiratory failure?
+Respiratory failure can come on suddenly (acute) or over time (chronic). There are two common types: hypoxemic respiratory failure (type 1) and hypercapnic respiratory failure (type 2). Other types include perioperative (related to surgery) respiratory failure (type 3) and respiratory failure due to shock (type 4).
+Hypoxemic respiratory failure
+Hypoxemic respiratory failure happens when you don’t have enough oxygen in your blood (hypoxemia). Heart and lung conditions are the most common causes. Hypoxemic respiratory failure is also called hypoxic respiratory failure.
+Hypercapnic respiratory failure
+Hypercapnic respiratory failure happens when you have too much carbon dioxide (CO2) in your blood. If your body can’t get rid of carbon dioxide, a waste product, there isn’t room for your blood cells to carry oxygen.
+The most common causes of hypercapnic respiratory failure include heart, lung, muscle and neurological (brain and spinal cord) conditions. Certain medications can also cause it. Hypercapnic respiratory failure is also called hypercarbic respiratory failure.
+Perioperative respiratory failure
+Perioperative respiratory failure can happen when you have surgery. Anesthesia (medication that keeps you asleep) can keep you from breathing properly. Sometimes, air sacs in your lungs can collapse (atelectasis) and keep oxygen from getting into your blood.
+Shock is a condition that causes low blood pressure, fluid in your lungs (pulmonary edema) and other issues that can lead to respiratory failure. Sepsis, cardiac events (like a heart attack) and blood loss can cause shock.
+Symptoms and Causes
+What are the symptoms of respiratory failure?
+Symptoms of respiratory failure depend on the cause. Symptoms may include:
+- Shortness of breath or feeling like you can’t get enough air (dyspnea).
+- Rapid breathing (tachypnea).
+- Extreme tiredness (fatigue).
+- Fast heart rate (feeling like your heart’s racing) or heart palpitations.
+- Spitting or coughing blood or bloody mucus (hemoptysis).
+- Excessive sweating.
+- Restlessness.
+- Pale skin.
+- Bluish skin, lips or nails (cyanosis).
+- Headaches.
+- Blurred vision.
+- Agitation, confusion or being unable to think straight.
+- Behavioral changes, not acting like yourself.
+What causes respiratory failure?
+Respiratory failure happens when something keeps your body from getting oxygen into your blood or getting carbon dioxide out of your blood. This can be due to:
+- Too little airflow or blood flow to your lungs.
+- Blockages, scarring or fluid in your lungs.
+- Inability to breathe properly or deeply enough. Conditions that affect your lungs, issues with the nerves or muscles you use to breathe, or injuries to your chest can cause this.
+- Abnormalities in the way blood flows through your heart.
+Risk factors for respiratory failure
+Risk factors for respiratory failure include:
+- Lung conditions and diseases. This includes acute respiratory distress syndrome (ARDS), chronic obstructive pulmonary disease (COPD), pneumonia, asthma, cystic fibrosis, pulmonary edema, pulmonary embolism and pulmonary fibrosis.
+- Heart or circulatory (blood flow) conditions and diseases. This includes heart attack, congenital heart disease, heart failure and shock.
+- Conditions that affect the nerves and muscles that help you breathe. This includes muscular dystrophy, amyotrophic lateral sclerosis (ALS), severe scoliosis and Guillain-Barré syndrome.
+- Chest, spinal cord or brain injuries (including stroke).
+- Smoking or exposure to other lung irritants. This includes chemical fumes, dust, air pollution and asbestos.
+- Surgery that requires sedation or anesthesia.
+- Drug use or excessive alcohol consumption.
+- Age. Newborn babies (especially premature infants) and adults over 65 are at higher risk for respiratory failure.
+Diagnosis and Tests
+How is respiratory failure diagnosed?
+A provider diagnoses respiratory failure by testing the amount of oxygen and carbon dioxide in your blood. They’ll check your blood pressure and use a small device (pulse oximeter, or pulse ox) on your finger to check your oxygen levels. They’ll listen to your heart and lungs and examine you. You may need further tests if your provider thinks you have respiratory failure.
+What tests will be done to diagnose respiratory failure?
+Your provider may perform some or all of the following tests to help diagnose respiratory failure:
+- Pulse oximetry: A sensor slips over your finger to measure the amount of oxygen in your blood. Providers often check this each time you visit.
+- Arterial blood gas (ABG) test: A needle is used to take a blood sample from your wrist, arm or groin to measure the levels of oxygen and carbon dioxide in your blood.
+- Lung function tests. Also called pulmonary function tests (PFT), your provider may have you breathe into a mouthpiece attached to a machine to test how well your lungs work.
+- Imaging. Your provider may use X-rays and CT scans to get images of the inside of your body. These don’t diagnose respiratory failure, but they can help your provider know what’s causing it.
+- Electrocardiogram (EKG). An EKG tests how well your heart is working. If your provider thinks a heart condition is causing respiratory failure, they may have you get an EKG.
+Management and Treatment
+How is respiratory failure treated?
+How providers treat respiratory failure depends on how severe it is and what’s causing it. Treatments focus on managing the underlying cause, giving you more oxygen, or using mechanical ventilation to breathe for you until you’re able to on your own again.
+Acute respiratory failure is an emergency and needs to be treated right away. Mild chronic respiratory failure can often be treated at home by managing the condition that’s causing it.
+Specific treatments for respiratory failure
+Providers may use medications or procedures to treat respiratory failure, including:
+- Mechanical ventilation. Providers use a breathing machine and a tube that goes into your airways to move air in and out of your lungs.
+- Extracorporeal membrane oxygenation (ECMO). Providers use a bypass machine to add oxygen to your blood and remove carbon dioxide.
+- Oxygen therapy. A machine delivers extra oxygen through a breathing mask or small tube (cannula). You may get oxygen at home or in the hospital.
+- Fluids. Your provider can give you fluids through an IV (directly to a vein). This can improve the blood flow through your body, bringing more oxygen to your tissues.
+- Managing underlying conditions. You provider may treat you with other medications or procedures, depending on what’s causing respiratory failure.
+Prevention
+Can respiratory failure be prevented?
+You can’t always prevent respiratory failure. You can lower your risk of chronic respiratory failure by managing ongoing heart, lung and neurological conditions. Talk to your healthcare provider about ways to reduce your risk if you have a condition that can cause respiratory failure.
+Outlook / Prognosis
+Can you survive respiratory failure?
+Respiratory failure is a very serious condition. Many people survive it, depending on what’s causing it, the severity and how quickly they’re treated.
+While many causes of acute respiratory failure are treatable, it can be fatal if not treated quickly. Up to 1 in 3 people who are hospitalized for acute respiratory failure don’t survive. Chronic respiratory failure is usually caused by an ongoing condition that gets worse over time.
+Additional Common Questions
+When should I see a healthcare provider?
+Talk to a healthcare provider if you have a chronic condition that puts you at risk for respiratory failure. They can tell you what signs and symptoms of respiratory failure to look out for and how to manage your condition.
+When should I go to the ER?
+Go to the nearest emergency room or call 911 if you have symptoms of respiratory failure. It can be fatal if not treated quickly.
+What questions should I ask my doctor?
+It might be helpful to ask your provider:
+- What are my treatment options?
+- What caused this?
+- How do I take my medications?
+- How do I use this device? Can you demonstrate?
+- When can I expect to feel better?
+- When should I follow up with you?
+A note from Cleveland Clinic
+Respiratory failure is a serious condition that can be fatal. If you think you’re experiencing acute respiratory failure, call 911 or seek emergency medical attention. If you have chronic respiratory failure or conditions that could increase your risk of developing it, talk to your provider about managing any underlying causes. They can help you understand your treatment options and what to expect in your specific situation.

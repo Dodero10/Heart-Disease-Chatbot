@@ -1,0 +1,48 @@
+Hepatopulmonary Syndrome
+Overview
+What is hepatopulmonary syndrome?
+Hepatopulmonary syndrome is a rare complication of liver disease that causes low oxygen levels in your blood (hypoxemia). “Hepato” means “of the liver,” and “pulmonary” means “of the lungs.” Your liver and lungs are connected by blood vessels, which become dilated (widened) in advanced liver disease. The dilated blood vessels form “shunts,” irregular blood flow patterns that bypass the oxygenation process in your lungs. Dilated blood vessels (vasodilation) in your lungs and shunting lead to hypoxemia.
+How does this condition affect me?
+Hepatopulmonary syndrome causes shortness of breath, which worsens over time. It may improve when lying flat and worsen in an upright position. It can become so severe that it’s present even at rest. This gradual worsening process is also known as chronic respiratory failure. Everything doesn’t fail at once, but eventually, your organs and tissues become seriously oxygen deprived (hypoxia). This is a dangerous condition that can do permanent damage to your brain and heart. If it goes untreated, it can be fatal.
+Who does hepatopulmonary syndrome affect?
+Hepatopulmonary syndrome occurs in an estimated 25% of people with chronic liver disease. It can also occur with acute liver failure, but this is less common. Typically, cirrhosis of the liver leads to portal hypertension, which in some cases leads to hepatopulmonary syndrome. Less commonly, portal hypertension by other causes, such as blood clots, can also lead to hepatopulmonary syndrome.
+Symptoms and Causes
+What causes the condition?
+Scientists aren’t sure exactly how portal hypertension causes dilation of the blood vessels in your lungs, though they have some ideas. They also don’t know why it only happens to some people and not others. It doesn’t seem to correlate with how advanced your liver disease is. They do know that vasodilation in your lungs causes hypoxemia. It causes an imbalance of blood flow relative to air ventilation.
+What are the symptoms of hepatopulmonary syndrome?
+Mild cases may not have any noticeable symptoms. The first symptom people do notice is typically shortness of breath (dyspnea). This can have a lot of causes, and liver disease can cause it in several different ways. So people with liver disease and their doctors don’t always recognize it as a sign of hepatopulmonary syndrome. As the condition worsens, you may notice other symptoms, such as:
+- Platypnoea: Shortness of breath that gets worse when you sit up and better when you lie down.
+- Orthopnea: Shortness of breath that gets worse when you lie down and better when you sit up.
+- Cyanosis: A blueish tint to your lips, nail beds or skin from the lack of oxygen.
+- Clubbed fingers: Your fingers or toes bulge at the tips, a sign of hypoxemia.
+You may also have common signs of liver disease and/or portal hypertension, such as:
+- Spider angiomas: broken blood vessels under the skin that resemble red spiders.
+- Enlarged veins (varices) running through your abdomen and/or esophagus.
+- A history of gastrointestinal bleeding.
+- Swollen abdomen from accumulated fluid (ascites).
+Diagnosis and Tests
+How is hepatopulmonary syndrome diagnosed?
+Healthcare providers recognize hepatopulmonary syndrome by a triad of features that appear together:
+- Portal hypertension, usually in the setting of liver disease.
+- Dilation of the veins entering your lungs (intrapulmonary vascular dilatations).
+- Low blood oxygen (hypoxemia).
+Most of the time, you’ll already be diagnosed with liver disease and/or portal hypertension when you develop hepatopulmonary syndrome. If not, your healthcare team will take images and blood tests to look for evidence of liver damage. After that, they’ll look at your pulmonary veins and measure the oxygen content of your blood. These tests can demonstrate that vasodilation in your lungs is causing hypoxemia.
+What tests are used to diagnose hepatopulmonary syndrome?
+Pulse oximetry: Your healthcare team may begin by screening you with a pulse oximetry test, which is simple and noninvasive. You’ve probably had one before. The oximeter is a small electronic device that clips onto the end of your finger. It measures the oxygen saturation in your blood by passing a beam of light through your finger and measuring the amount of light that comes through the other side.
+Arterial blood gas: If your pulse oximetry test shows low oxygen saturation, they’ll follow up with a more specific test called an arterial blood gas (ABG). This involves drawing a small blood sample from an artery in your wrist. They’ll measure the blood sample to determine the pressure of oxygen dissolved in your blood (PaO2). This shows how well oxygen transfers from your lungs to your bloodstream.
+Contrast echocardiography: An echocardiogram with contrast is the radiology method of choice for diagnosing dilated pulmonary veins. Echocardiography is a type of ultrasound, a technique that uses high-frequency sound waves to produce images of your heart and pulmonary veins. A contrast-enhanced ultrasound introduces a contrast agent into your veins to make them show up better.
+When you have a contrast echocardiogram, your technician will inject an agitated saline solution into one of your veins. It’s salt water that’s been infused with a small amount of air to create tiny microbubbles. They’ll watch to see if these bubbles travel from the right side to the left side of your heart (right to left cardiac shunt) in a certain window of time. This can tell them if you have hepatopulmonary syndrome.
+Management and Treatment
+How do you treat hepatopulmonary syndrome?
+Supplemental oxygen is the only available treatment for hepatopulmonary syndrome. Oxygen therapy means breathing in 100% oxygen to supplement the oxygen your body makes. You may have hyperbaric oxygen therapy in sessions inside a special pressurized chamber at the hospital. Or you may have equipment you can take home, such as an oxygen mask. Oxygen helps alleviate symptoms and keep your tissues functioning.
+Is hepatopulmonary syndrome reversible, or can it be cured?
+Liver transplantation is the only known cure for hepatopulmonary syndrome. After a successful liver transplant, vasodilation in your lungs and hypoxemia begin to reverse. It takes between six and 12 months for your pulmonary function to return to normal. However, not everyone qualifies for a liver transplant, and those who do often have to wait for one. This cure can be a race against time.
+Outlook / Prognosis
+Is hepatopulmonary syndrome fatal?
+If you have hepatopulmonary syndrome, you probably already have chronic liver disease. End-stage liver disease itself is eventually fatal without a liver transplant. Hepatopulmonary syndrome is just one of many side effects and complications that can come with it. Most people with hepatopulmonary syndrome don’t die from hypoxemia alone, but it does contribute to their overall decline.
+How long can you live with hepatopulmonary syndrome?
+This depends on many variables, including how advanced your liver disease is, your overall health and other conditions. People with end-stage liver disease (cirrhosis) who don’t have hepatopulmonary syndrome have an average life expectancy of seven years without a liver transplant. For those with cirrhosis and hepatopulmonary syndrome, the average is two years without a liver transplant.
+Some people have less advanced liver disease and milder hepatopulmonary syndrome and may live longer with supportive therapy. And some people with more severe diseases may not survive even with a liver transplant. The average five-year survival rate for those with hepatopulmonary syndrome who have a successful liver transplant is 70%. This is just a little lower than the overall rate after liver transplant, which is 75%.
+A note from Cleveland Clinic
+Liver disease manifests differently in different people. Hepatopulmonary syndrome is one of the more uncommon and unfortunate effects that it can have. You’re likely to have never heard of it before it happens to you or someone close to you. Many people have mild symptoms if any. But for others, especially those who are already in decline, it can feel like the straw that breaks the camel’s back.
+Like liver disease, hepatopulmonary syndrome is progressive over time. If you’re already on the liver transplant waiting list, a diagnosis of hepatopulmonary syndrome will move you higher on the list. Healthcare providers understand that hepatopulmonary syndrome diminishes your overall prognosis and quality of life — but also that a liver transplant can cure it. In the meantime, regular oxygen therapy can help sustain you.

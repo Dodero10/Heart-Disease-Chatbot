@@ -1,0 +1,131 @@
+Diabetes
+Overview
+What is diabetes?
+Diabetes is a condition that happens when your blood sugar (glucose) is too high. It develops when your pancreas doesn’t make enough insulin or any at all, or when your body isn’t responding to the effects of insulin properly. Diabetes affects people of all ages. Most forms of diabetes are chronic (lifelong), and all forms are manageable with medications and/or lifestyle changes.
+Glucose (sugar) mainly comes from carbohydrates in your food and drinks. It’s your body’s go-to source of energy. Your blood carries glucose to all your body’s cells to use for energy.
+When glucose is in your bloodstream, it needs help — a “key” — to reach its final destination. This key is insulin (a hormone). If your pancreas isn’t making enough insulin or your body isn’t using it properly, glucose builds up in your bloodstream, causing high blood sugar (hyperglycemia).
+Over time, having consistently high blood glucose can cause health problems, such as heart disease, nerve damage and eye issues.
+The technical name for diabetes is diabetes mellitus. Another condition shares the term “diabetes” — diabetes insipidus — but they’re distinct. They share the name “diabetes” because they both cause increased thirst and frequent urination. Diabetes insipidus is much rarer than diabetes mellitus.
+What are the types of diabetes?
+There are several types of diabetes. The most common forms include:
+- Type 2 diabetes: With this type, your body doesn’t make enough insulin and/or your body’s cells don’t respond normally to the insulin (insulin resistance). This is the most common type of diabetes. It mainly affects adults, but children can have it as well.
+- Prediabetes: This type is the stage before Type 2 diabetes. Your blood glucose levels are higher than normal but not high enough to be officially diagnosed with Type 2 diabetes.
+- Type 1 diabetes: This type is an autoimmune disease in which your immune system attacks and destroys insulin-producing cells in your pancreas for unknown reasons. Up to 10% of people who have diabetes have Type 1. It’s usually diagnosed in children and young adults, but it can develop at any age.
+- Gestational diabetes: This type develops in some people during pregnancy. Gestational diabetes usually goes away after pregnancy. However, if you have gestational diabetes, you’re at a higher risk of developing Type 2 diabetes later in life.
+Other types of diabetes include:
+- Type 3c diabetes: This form of diabetes happens when your pancreas experiences damage (other than autoimmune damage), which affects its ability to produce insulin. Pancreatitis, pancreatic cancer, cystic fibrosis and hemochromatosis can all lead to pancreas damage that causes diabetes. Having your pancreas removed (pancreatectomy) also results in Type 3c.
+- Latent autoimmune diabetes in adults (LADA): Like Type 1 diabetes, LADA also results from an autoimmune reaction, but it develops much more slowly than Type 1. People diagnosed with LADA are usually over the age of 30.
+- Maturity-onset diabetes of the young (MODY): MODY, also called monogenic diabetes, happens due to an inherited genetic mutation that affects how your body makes and uses insulin. There are currently over 10 different types of MODY. It affects up to 5% of people with diabetes and commonly runs in families.
+- Neonatal diabetes: This is a rare form of diabetes that occurs within the first six months of life. It’s also a form of monogenic diabetes. About 50% of babies with neonatal diabetes have the lifelong form called permanent neonatal diabetes mellitus. For the other half, the condition disappears within a few months from onset, but it can come back later in life. This is called transient neonatal diabetes mellitus.
+- Brittle diabetes: Brittle diabetes is a form of Type 1 diabetes that’s marked by frequent and severe episodes of high and low blood sugar levels. This instability often leads to hospitalization. In rare cases, a pancreas transplant may be necessary to permanently treat brittle diabetes.
+How common is diabetes?
+Diabetes is common. Approximately 37.3 million people in the United States have diabetes, which is about 11% of the population. Type 2 diabetes is the most common form, representing 90% to 95% of all diabetes cases.
+About 537 million adults across the world have diabetes. Experts predict this number will rise to 643 million by 2030 and 783 million by 2045.
+Symptoms and Causes
+What are the symptoms of diabetes?
+Symptoms of diabetes include:
+- Increased thirst (polydipsia) and dry mouth.
+- Frequent urination.
+- Fatigue.
+- Blurred vision.
+- Unexplained weight loss.
+- Numbness or tingling in your hands or feet.
+- Slow-healing sores or cuts.
+- Frequent skin and/or vaginal yeast infections.
+It’s important to talk to your healthcare provider if you or your child has these symptoms.
+Additional details about symptoms per type of diabetes include:
+- Type 1 diabetes: Symptoms of T1D can develop quickly — over a few weeks or months. You may develop additional symptoms that are signs of a severe complication called diabetes-related ketoacidosis (DKA). DKA is life-threatening and requires immediate medical treatment. DKA symptoms include vomiting, stomach pains, fruity-smelling breath and labored breathing.
+- Type 2 diabetes and prediabetes: You may not have any symptoms at all, or you may not notice them since they develop slowly. Routine bloodwork may show a high blood sugar level before you recognize symptoms. Another possible sign of prediabetes is darkened skin on certain parts of your body (acanthosis nigricans).
+- Gestational diabetes: You typically won’t notice symptoms of gestational diabetes. Your healthcare provider will test you for gestational diabetes between 24 and 28 weeks of pregnancy.
+What causes diabetes?
+Too much glucose circulating in your bloodstream causes diabetes, regardless of the type. However, the reason why your blood glucose levels are high differs depending on the type of diabetes.
+Causes of diabetes include:
+- Insulin resistance: Type 2 diabetes mainly results from insulin resistance. Insulin resistance happens when cells in your muscles, fat and liver don’t respond as they should to insulin. Several factors and conditions contribute to varying degrees of insulin resistance, including obesity, lack of physical activity, diet, hormonal imbalances, genetics and certain medications.
+- Autoimmune disease: Type 1 diabetes and LADA happen when your immune system attacks the insulin-producing cells in your pancreas.
+- Hormonal imbalances: During pregnancy, the placenta releases hormones that cause insulin resistance. You may develop gestational diabetes if your pancreas can’t produce enough insulin to overcome the insulin resistance. Other hormone-related conditions like acromegaly and Cushing syndrome can also cause Type 2 diabetes.
+- Pancreatic damage: Physical damage to your pancreas — from a condition, surgery or injury — can impact its ability to make insulin, resulting in Type 3c diabetes.
+- Genetic mutations: Certain genetic mutations can cause MODY and neonatal diabetes.
+Long-term use of certain medications can also lead to Type 2 diabetes, including HIV/AIDS medications and corticosteroids.
+What are the complications of diabetes?
+Diabetes can lead to acute (sudden and severe) and long-term complications — mainly due to extreme or prolonged high blood sugar levels.
+Acute diabetes complications
+Acute diabetes complications that can be life-threatening include:
+- Hyperosmolar hyperglycemic state (HHS): This complication mainly affects people with Type 2 diabetes. It happens when your blood sugar levels are very high (over 600 milligrams per deciliter or mg/dL) for a long period, leading to severe dehydration and confusion. It requires immediate medical treatment.
+- Diabetes-related ketoacidosis (DKA): This complication mainly affects people with Type 1 diabetes or undiagnosed T1D. It happens when your body doesn’t have enough insulin. If your body doesn’t have insulin, it can’t use glucose for energy, so it breaks down fat instead. This process eventually releases substances called ketones, which turn your blood acidic. This causes labored breathing, vomiting and loss of consciousness. DKA requires immediate medical treatment.
+- Severe low blood sugar (hypoglycemia): Hypoglycemia happens when your blood sugar level drops below the range that’s healthy for you. Severe hypoglycemia is very low blood sugar. It mainly affects people with diabetes who use insulin. Signs include blurred or double vision, clumsiness, disorientation and seizures. It requires treatment with emergency glucagon and/or medical intervention.
+Long-term diabetes complications
+Blood glucose levels that remain high for too long can damage your body’s tissues and organs. This is mainly due to damage to your blood vessels and nerves, which support your body’s tissues.
+Cardiovascular (heart and blood vessel) issues are the most common type of long-term diabetes complication. They include:
+- Coronary artery disease.
+- Heart attack.
+- Stroke.
+- Atherosclerosis.
+Other diabetes complications include:
+- Nerve damage (neuropathy), which can cause numbness, tingling and/or pain.
+- Nephropathy, which can lead to kidney failure or the need for dialysis or transplant.
+- Retinopathy, which can lead to blindness.
+- Diabetes-related foot conditions.
+- Skin infections.
+- Amputations.
+- Sexual dysfunction due to nerve and blood vessel damage, such as erectile dysfunction or vaginal dryness.
+- Gastroparesis.
+- Hearing loss.
+- Oral health issues, such as gum (periodontal) disease.
+Living with diabetes can also affect your mental health. People with diabetes are two to three times more likely to have depression than people without diabetes.
+Diagnosis and Tests
+How is diabetes diagnosed?
+Healthcare providers diagnose diabetes by checking your glucose level in a blood test. Three tests can measure your blood glucose level:
+- Fasting blood glucose test: For this test, you don’t eat or drink anything except water (fast) for at least eight hours before the test. As food can greatly affect blood sugar, this test allows your provider to see your baseline blood sugar.
+- Random blood glucose test: “Random” means that you can get this test at any time, regardless of if you’ve fasted.
+- A1c: This test, also called HbA1C or glycated hemoglobin test, provides your average blood glucose level over the past two to three months.
+To screen for and diagnose gestational diabetes, providers order an oral glucose tolerance test.
+The following test results typically indicate if you don’t have diabetes, have prediabetes or have diabetes. These values may vary slightly. In addition, healthcare providers rely on more than one test to diagnose diabetes.
+
+Management and Treatment
+How is diabetes managed?
+Diabetes is a complex condition, so its management involves several strategies. In addition, diabetes affects everyone differently, so management plans are highly individualized.
+The four main aspects of managing diabetes include:
+- Blood sugar monitoring: Monitoring your blood sugar (glucose) is key to determining how well your current treatment plan is working. It gives you information on how to manage your diabetes on a daily — and sometimes even hourly — basis. You can monitor your levels with frequent checks with a glucose meter and finger stick and/or with a continuous glucose monitor (CGM). You and your healthcare provider will determine the best blood sugar range for you.
+- Oral diabetes medications: Oral diabetes medications (taken by mouth) help manage blood sugar levels in people who have diabetes but still produce some insulin — mainly people with Type 2 diabetes and prediabetes. People with gestational diabetes may also need oral medication. There are several different types. Metformin is the most common.
+- Insulin: People with Type 1 diabetes need to inject synthetic insulin to live and manage diabetes. Some people with Type 2 diabetes also require insulin. There are several different types of synthetic insulin. They each start to work at different speeds and last in your body for different lengths of time. The four main ways you can take insulin include injectable insulin with a syringe (shot), insulin pens, insulin pumps and rapid-acting inhaled insulin.
+- Diet: Meal planning and choosing a healthy diet for you are key aspects of diabetes management, as food greatly impacts blood sugar. If you take insulin, counting carbs in the food and drinks you consume is a large part of management. The amount of carbs you eat determines how much insulin you need at meals. Healthy eating habits can also help you manage your weight and reduce your heart disease risk.
+- Exercise: Physical activity increases insulin sensitivity (and helps reduce insulin resistance), so regular exercise is an important part of management for all people with diabetes.
+Due to the increased risk for heart disease, it’s also important to maintain a healthy:
+- Weight.
+- Blood pressure.
+- Cholesterol.
+Prevention
+How can I prevent diabetes?
+You can’t prevent autoimmune and genetic forms of diabetes. But there are some steps you can take to lower your risk for developing prediabetes, Type 2 diabetes and gestational diabetes, including:
+- Eat a healthy diet, such as the Mediterranean diet.
+- Get physically active. Aim for 30 minutes a day at least five days a week.
+- Work to achieve a weight that’s healthy for you.
+- Manage your stress.
+- Limit alcohol intake.
+- Get adequate sleep (typically 7 to 9 hours) and seek treatment for sleep disorders.
+- Quit smoking.
+- Take medications as directed by your healthcare provider to manage existing risk factors for heart disease.
+It’s important to note that there are some diabetes risk factors you can’t change, such as your genetics/family history, age and race. Know that Type 2 diabetes is a complex condition that involves many contributing factors.
+Outlook / Prognosis
+What is the prognosis for diabetes?
+The prognosis (outlook) for diabetes varies greatly depending on several factors, including:
+- The type of diabetes.
+- How well you manage the condition over time and your access to diabetes care.
+- Your age at diagnosis/how long you’ve had diabetes.
+- If you have other health conditions.
+- If you develop diabetes complications.
+Chronic high blood sugar can cause severe complications, which are usually irreversible. Several studies have shown that untreated chronic high blood sugar shortens your lifespan and worsens your quality of life.
+In the United States, diabetes is the eighth leading cause of death. A large number of people with diabetes will die from a heart attack or stroke.
+However, it’s important to know that you can live a healthy life with diabetes. The following are key to a better prognosis:
+- Lifestyle changes.
+- Regular exercise.
+- Dietary changes.
+- Regular blood sugar monitoring.
+Studies show that people with diabetes may be able to reduce their risk of complications by consistently keeping their A1c levels below 7%.
+Living With
+When should I see my healthcare provider?
+If you haven’t been diagnosed with diabetes, you should see a healthcare provider if you have any symptoms of diabetes, such as increased thirst and frequent urination.
+If you have diabetes, you should see your provider who helps you manage diabetes (such as an endocrinologist) regularly.
+A note from Cleveland Clinic
+Being diagnosed with diabetes is a life-changing event, but it doesn’t mean you can’t live a happy and healthy life. Managing diabetes involves consistent care and diligence. While it’ll likely be very overwhelming at first, over time you’ll get a better grasp on managing the condition and being in tune with your body.
+Be sure to see your healthcare provider(s) regularly. Managing diabetes involves a team effort — you’ll want medical professionals, friends and family on your side. Don’t be afraid to reach out to them if you need help.

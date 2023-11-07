@@ -1,0 +1,81 @@
+Pouchitis
+Overview
+What is pouchitis?
+Pouchitis is inflammation inside an ileal pouch. It’s a common condition that can happen to people who’ve had ileal pouch surgery. You might have an ileal pouch if you had to have your whole colon and rectum removed (total proctocolectomy) due to disease. After a proctocolectomy, you need a new way to hold and pass poop from your body. An ileal pouch is one surgical solution to this.
+Colorectal surgeons construct an ileal pouch from the end of your small intestine (ileum). The pouch acts as a reservoir that collects your poop before it comes out, replacing your colon and rectum. The pouch connects to an outlet where the poop can leave your body. (A J-pouch or S-pouch connects to your anus, while a K-pouch connects to a stoma in your abdomen.) Essentially, your ileum becomes your large intestine.
+Pouchitis is like colitis or proctitis — inflammation in your colon or rectum — for people with an ileal pouch. It causes similar symptoms, like pain and needing to go to the bathroom urgently and often. Most people experience episodes of acute pouchitis, which is temporary inflammation in their pouch. Less commonly, some people experience chronic pouchitis that won’t go away or keeps coming back.
+How common is pouchitis?
+Between 25% and 45% of people with an ileal pouch will experience pouchitis at some point. Up to 40% of people develop it each year. Between 10% and 20% of people have recurring episodes of pouchitis.
+Symptoms and Causes
+What are the symptoms of pouchitis?
+Pouchitis may cause:
+What causes pouchitis?
+Healthcare providers believe that pouchitis is related to changes in the different types of gut bacteria in your pouch. When part of your small intestine becomes your large intestine, it’s exposed to new varieties of gut bacteria that compete with the types that previously lived there. This alone may trigger your immune system to think you have an infection and then, produce an inflammatory response.
+In some people, it may lead to an infection. Certain types of bacteria in your gut will try to take over if they have the opportunity. These are called pathogenic bacteria. It’s common to have some pathogenic bacteria in your gut without having an infection. Other bacteria in your gut normally keep them in check. But ileal pouch surgery changes the mix, giving them a new opportunity to dominate their environment.
+An episode of pouchitis is a common occurrence shortly after ileal pouch surgery. This is called early-onset pouchitis, and it’s considered a normal side effect of the surgery. It usually goes away with antibiotics. But it may come back again — and in some people, it comes back repeatedly. This happens when certain bacteria continue to dominate other types, which never return to their full strength.
+You may have repeat episodes of acute pouchitis and treat it successfully with antibiotics each time. Things become more complicated when acute pouchitis occurs more than a few times a year. Some people become dependent on antibiotics — known as chronic antibiotic-dependent pouchitis (CADP). And in some people, the antibiotics start to work less and less. This is called antibiotic-resistant pouchitis (CARP).
+What contributes to chronic antibiotic-resistant pouchitis (CARP)?
+Antibiotic-resistant pouchitis is a chronic condition that may have a variety of contributing causes. Possible contributing factors include:
+What are the possible complications of pouchitis?
+Acute pouchitis rarely leads to complications, but pouchitis that lasts a long time or that doesn’t respond to treatment may. Possible complications include:
+- Altered bowel habits: Inflammation in your pouch may make it hard to hold your poop, while swelling may make it hard to release it. This can affect your long-term bowel habits.
+- Reduced quality of life: Persistent difficulties going to the bathroom are hard to live with. They can cause physical and emotional stress and prevent you from enjoying a healthy social life.
+- Pouch stricture: Chronic inflammation can lead to scarring in your pouch. Scarring can cause the opening to narrow. It can also reduce blood flow to your pouch, which interferes with healing.
+- Erosion: Prolonged inflammation can cause erosion of the lining in your pouch, leading to ulcers, which may bleed. Some pathogenic bacteria may also actively erode your gut barrier.
+- Malabsorption and malnutrition: Damage to the lining in your pouch can interfere with its ability to absorb nutrients from the food inside (malabsorption), leading to malnutrition.
+- Pouch failure: Persistent difficulties with your pouch ultimately may make it unusable. You may have to have another operation to remove the pouch and redirect your bowel to an ileostomy.
+Diagnosis and Tests
+How is pouchitis diagnosed?
+Pouchitis diagnosis begins with reviewing your symptoms and health history. Your healthcare provider will then examine the inside of your pouch. They do this by inserting an endoscope into the pouch — a tiny camera attached to a narrow tube. They’ll look for inflammation and other abnormalities. They can also take a tissue sample (biopsy) through the endoscope and check it for possible contributing causes.
+Your provider may use other types of imaging studies to look at the outer structure of your pouch and the structures connected to it. They do this to check for other possible conditions that may be involved.
+Additional tests may include:
+- Contrast pouchography (pouchogram). This is a type of X-ray that involves injecting a contrast solution into your pouch to make it stand out. It’s the ileal pouch version of a barium enema.
+- CT scan.
+- MRI.
+Management and Treatment
+How do you get rid of pouchitis?
+First-line treatment for acute pouchitis is a two-week course of antibiotics. This works for most people. If it doesn’t work for you, your provider will try a longer course with a different antibiotic, or a combination. If you still have symptoms after four weeks, you have antibiotic-resistant pouchitis. They’ll need to do some more testing for possible causes before your provider can determine the best treatment.
+What is the treatment for relapsing pouchitis?
+If acute pouchitis goes away with treatment but then comes back, your provider will treat it again in the same way. The treatment is the same as long as it continues to work and you don’t have relapses too often. If you have more than three relapses in a year, healthcare providers consider this chronic antibiotic-dependent pouchitis. They treat this with long-term maintenance therapy to prevent relapse.
+Maintenance therapy may include:
+What is the treatment for chronic antibiotic-resistant pouchitis (CARP)?
+If your pouchitis never improved with antibiotics, or if it once did, but it no longer does, healthcare providers call this chronic antibiotic-resistant pouchitis (CARP). Your provider will begin by looking for possible overlooked causes, like a secondary infection, an autoimmune disease or a structural defect in your pouch. When there’s no apparent cause, they treat chronic pouchitis like inflammatory bowel disease.
+Possible treatments include:
+- Mesalamine enemas: Mesalamine, also known as 5-aminosalicylic acid (5-ASA), is a first-line medication for ulcerative colitis. It comes as an enema that you can insert into your pouch.
+- Bismuth enemas: Bismuth subsalicylate, the active ingredient in Pepto Bismol®, also comes as a foam enema (bismuth carbomer) that may help relieve your symptoms.
+- Corticosteroids: Corticosteroids are anti-inflammatory drugs to treat chronic inflammation.
+- Immunosuppressants: These drugs turn down the volume on your immune system response. Healthcare providers prescribe them when your immune system causes chronic inflammation.
+- Monoclonal antibodies (biologics): Monoclonal antibodies are human-made proteins that act like human antibodies, boosting your natural immune response to infections.
+- Small molecules: These are newer medications that work similarly to monoclonal antibodies but are synthetic.
+- Fecal microbiota transplant: Fecal transplant is U.S. Food and Drug (FDA)-approved to help treat antibiotic-resistant C. diff infection. But even when C. diff isn’t involved, fecal transplant may be helpful in treating antibiotic-resistant pouchitis as an off-label use. It helps to restore a healthy gut microbiome.
+How long does it take pouchitis to go away?
+Symptoms of acute pouchitis usually improve within a few days of beginning antibiotic treatment. It’s important to complete the whole two-week course of antibiotics, though, even if you’re feeling better.
+You should have a follow-up appointment with your healthcare provider after finishing treatment. They’ll want to examine inside your pouch again to make sure the inflammation is gone.
+Prevention
+Is pouchitis preventable?
+Some evidence suggests that probiotics may help prevent pouchitis from occurring after surgery or from recurring after successful treatment. They don’t seem to work all the time, but they might work for you. Healthcare providers often prescribe a highly concentrated cocktail of specific probiotics (the DeSimone formulation). The types of probiotics you take matter, so it’s important to consult your provider.
+Outlook / Prognosis
+What can I expect if I get pouchitis?
+If you get pouchitis after ileal pouch surgery — even if you get it more than once — there’s a good chance that antibiotics will treat it effectively. Some people sometimes need a longer course of antibiotics than others. If you have frequent relapses, you may need long-term therapy with either antibiotics or probiotics. In a small subset of people with pouchitis, none of these approaches seem to work.
+If you continue to have pouchitis and don’t respond to antibiotic therapy, your provider will check for overlooked causes of inflammation, like ischemia, NSAID use or autoimmune disease. If they can’t find any secondary cause, they’ll diagnose chronic antibiotic-resistant pouchitis (CARP). Healthcare providers offer a variety of treatment approaches for CARP. They’ll work with you to find what works best for you.
+Living With
+Can diet affect pouchitis?
+Some evidence suggests that a lack of antioxidants in your diet may raise your risk of pouchitis. Antioxidants occur naturally in many fruits and vegetables. These compounds help neutralize chemicals in your body called free radicals. When free radicals build up in your body, they can damage your cells and contribute to inflammation. Food sources of antioxidants work better than supplements.
+On the other hand, if you’re struggling with the symptoms of pouchitis, it can be helpful to reduce fiber in your diet. Healthcare providers recommend a low FODMAP diet, which reduces certain types of foods that your gut bacteria like to eat, including fiber. Reducing these foods temporarily can reduce your gastrointestinal symptoms. But in the long term, you should aim to broaden your diet again. 
+What to eat to help prevent pouchitis:
+Make sure you’re getting enough antioxidants, which you can get by eating a good variety of fruits and vegetables. Some of the best food sources of antioxidants include:
+- Apples.
+- Berries.
+- Grapes.
+- Prunes.
+- Beans.
+- Artichokes.
+- Russet potatoes.
+- Dark leafy greens.
+Emphasizing whole foods in your diet, including plenty of plants, is one of the general principles of an anti-inflammatory diet. Antioxidants are just one reason for this.
+What not to eat with pouchitis:
+To reduce symptoms of pouchitis, healthcare providers recommend a low-FODMAP diet, at least until you figure out which FODMAPs contribute to your symptoms. Common FODMAPs include:
+The low-FODMAP diet is a short-term elimination diet. You eliminate certain foods to find out which ones you react to, then you add foods back in in an organized way, guided by a healthcare provider.
+A note from Cleveland Clinic
+If you have an ileal pouch, you might encounter pouchitis at some point. While not everyone gets it, those who do may get it more than once. It can be distressing to encounter ongoing bowel problems after having had most of your large bowel removed. Fortunately, for most people, pouchitis is only an occasional issue, and it's much easier to treat than the chronic bowel diseases they once lived with.
+Chronic antibiotic-resistant pouchitis is more difficult. In some cases, it may be related to the chronic bowel disease you once had. And it can be similarly tricky to treat. But with some trial and error, many people do find a combination of therapies that helps. If you reach the point where pouchitis causes more trouble than your pouch is worth, you may choose to remove it in order to live disease-free.

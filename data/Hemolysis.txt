@@ -1,0 +1,107 @@
+Hemolysis
+Overview
+What is hemolysis?
+Hemolysis is the destruction of red blood cells (erythrocytes). Your red blood cells are an essential part of your blood. They carry oxygen from your lungs to tissues throughout your body. Your body uses this oxygen to make the energy needed to perform essential functions. Red blood cells also carry carbon dioxide from your tissues back to your lungs so you can exhale it.
+Your body continually destroys old or damaged red blood cells and creates new ones as replacements. This constant cycle of destruction and creation ensures you have enough red blood cells. Sometimes, red blood cells get destroyed too quickly, before your body has time to replace them.
+The process of red blood cell destruction — including premature red blood cell destruction — is called hemolysis. Having too few red blood cells because of hemolysis causes a condition called hemolytic anemia.
+Why does hemolysis occur?
+The destruction of red blood cells typically frees up space for new, healthy red blood cells. The average red blood cell lives for 120 days. As the old cells age, they expose certain signals that lead to an organized destruction of the aging cell in your spleen. Your spleen is an organ on the left side of your abdomen that helps clean up old and damaged cells.
+Your body makes new blood cells in the spongy tissue inside of your bones called bone marrow. The new red blood cells get released into your bloodstream.
+Sometimes, problems related to a cell’s structure or components shorten its lifespan. External factors can also damage red blood cells, causing them to die before your body has time to replace them.
+What are the different types of hemolysis?
+There are two types of hemolysis. Their names indicate where hemolysis takes place.
+- Extravascular hemolysis involves red blood cell destruction that takes place outside of your blood vessels. Blood vessels include veins, arteries and capillaries. Your spleen is the most common site of extravascular hemolysis. As blood filters through your spleen, white blood cells called macrophages locate old or damaged red blood cells and destroy them.
+- Intravascular hemolysis involves cell destruction that happens within your blood vessels. With intravascular hemolysis, the parts of the destroyed cells circulate within your blood.
+Symptoms and Causes
+What causes hemolysis?
+Hemolysis has multiple causes.
+Defective red blood cells
+Structural irregularities in a red blood cell can cause it to get destroyed too soon. Many of the structural problems that cause hemolysis arise from inherited conditions.
+Conditions involving red blood cell structural defects involve:
+- Unstable hemoglobins: Sickle cell anemia and thalassemia.
+- Enzyme deficiencies: G6PD deficiency and pyruvate kinase deficiency.
+- Membrane defects: Hereditary spherocytosis and hereditary elliptocytosis.
+Immune system-related conditions
+Autoimmune hemolytic anemia (AIHA) is a rare disorder where your immune system attacks your red blood cells. As a result, you have too few of them. Types of autoimmune hemolytic anemia include:
+- Cold agglutinin disease (cold autoimmune hemolytic anemia).
+- Warm agglutinin disease (warm autoimmune hemolytic anemia).
+Underlying conditions can cause autoimmune hemolytic anemia. Mycoplasma pneumonia, lymphoma, leukemia, lupus and rheumatoid arthritis are just a few conditions that can cause your immune system to attack your red blood cells.
+Other non-autoimmune conditions:
+- Paroxysmal cold hemoglobinuria.
+- Paroxysmal nocturnal hemoglobinuria.
+Infections
+Parasites, viruses and bacteria that invade your body can damage your red blood cells and cause them to break down before your body can make replacements. The most well-known infectious cause of hemolysis is malaria, which involves a parasite that attacks red blood cells.
+Infectious causes of hemolysis include:
+- Malaria.
+- Babesiosis.
+- Carrion’s disease.
+- Rocky Mountain spotted fever.
+- Haemophilus influenza.
+- Human immunodeficiency virus (HIV).
+Medications
+Some medications may cause your immune system to attack your red blood cells, destroying them prematurely. This is called drug-induced immune hemolytic anemia (DIHA). DIHA is extremely rare.
+Drugs that may cause hemolysis include:
+- Acetaminophen.
+- Cephalosporins.
+- Clopidogrel.
+- Dapsone.
+- Heparin.
+- Levodopa.
+- Levofloxacin.
+- Methyldopa.
+- Nitrofurantoin.
+- Penicillin.
+- Phenazopyridine.
+- Quinidine.
+- Quinine.
+- Rifampin.
+- Sulfonamides.
+Pregnancy complications
+Issues during pregnancy can cause your red blood cells to break down too soon. Pregnancy complications associated with hemolysis include:
+- HELLP syndrome.
+- Preeclampsia.
+- Eclampsia.
+Medical devices and treatments
+Although it’s rare, you can experience hemolysis as your body adjusts to a new medical device or treatment, including:
+- Hemodialysis.
+- Heart-lung bypass machine.
+- Heart valve replacements.
+- Other cardiac devices used to treat cardiac shock, including intra-aortic balloon pumps and Impella devices.
+- Blood transfusions.
+Poisons and toxins
+Poisons or toxins can damage your red blood cells, causing hemolysis. Harmful substances that can cause hemolysis include:
+- Arsenic.
+- Copper.
+- Lead.
+- Arsine.
+- Stibine.
+- Snake venom.
+Any condition that causes your spleen to work overtime (hypersplenism) can cause hemolysis.
+Extremely elevated blood pressure can cause red blood cells to break apart as they travel through your blood vessels and organs.
+What are the signs and symptoms of hemolysis?
+Symptoms depend on how low your red blood cell supply is. If your count isn’t too low, you may not notice symptoms. Symptoms often relate to having low oxygen because you have too few red blood cells to carry oxygen to your body’s cells and tissues.
+Symptoms include:
+- Fatigue.
+- Dizziness.
+- Pale skin.
+- Heart palpitations (tachycardia).
+- Shortness of breath (dyspnea).
+- Yellowing of your skin and the whites of your eyes (jaundice).
+- Enlarged spleen (splenomegaly).
+Some symptoms are unique to the specific condition causing the hemolysis. For example, cold agglutinin disease, a type of autoimmune hemolytic anemia, may lead to reduced blood flow to your fingers or toes (Raynaud’s phenomenon).
+Diagnosis and Tests
+What tests will be done to check for problems related to hemolysis?
+A healthcare provider will perform a blood draw to check for problems related to hemolysis. They may perform any of the following tests to determine if your blood cell count is low because of hemolysis.
+- Complete blood count (CBC): A CBC offers valuable information about all of your blood cells, including your red blood cells. It provides information on your hemoglobin levels (an essential protein in your blood) and your hematocrit (the amount of space red blood cells take up in your blood).
+- Reticulocyte count: A reticulocyte count is part of a CBC. It provides information on your number of reticulocytes (immature red blood cells). You may have increased reticulocytes with hemolysis, as your body ramps up the production of new red blood cells to replace destroyed ones.
+- Peripheral blood smear: A peripheral blood smear shows abnormalities in your blood cells, like an odd size or shape. Abnormalities may cause macrophages to destroy red blood cells.
+- Lactate dehydrogenase (LDH): LDH is an enzyme in your red blood cells. Increased LDH in your blood may signal that red blood cells are being destroyed at faster-than-normal rates.
+- Haptoglobin test: Haptoglobin is a protein that binds to hemoglobin. Haptoglobin levels drop when large amounts of hemoglobin get released in your blood (as with hemolysis).
+- Unconjugated bilirubin: Bilirubin gets made when the hemoglobin in your red blood cells breaks down. Increased bilirubin in your blood may indicate that large amounts of red blood cells are being destroyed.
+- Direct Coombs test: A direct Coombs test can detect antibodies that attach to your red blood cells, destroying them prematurely.
+A healthcare provider may also perform a urinalysis to check for signs of blood or bilirubin in your urine (pee) that may indicate hemolytic anemia.
+Management and Treatment
+How is hemolysis treated?
+Your treatment will depend on what’s causing your hemolysis and how severe your symptoms are. Treatments may include supplements, medications, surgery, blood transfusions, etc. Discuss your treatment options with your healthcare provider based on your diagnosis.
+A note from Cleveland Clinic
+Your body constantly works to ensure you have the right amount of red blood cells. Infections, inherited conditions, external factors, etc., can get in the way of this work by destroying red blood cells too early. As a result, you may have too few red blood cells and develop hemolytic anemia. Fortunately, many causes of hemolysis are treatable. Once your healthcare provider determines what’s causing your hemolysis, they can recommend treatments to help get your red blood cell count back in the normal range.

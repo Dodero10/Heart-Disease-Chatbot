@@ -1,0 +1,155 @@
+Autonomic Dysreflexia (AD)
+Overview
+What is autonomic dysreflexia (AD)?
+Autonomic dysreflexia (AD) is a potentially life-threatening syndrome involving an abnormal, overreaction of your autonomic nervous system to painful sensory input. It most often happens after a spinal cord injury at or above the sixth thoracic vertebrae (T6).
+The thoracic spine is the middle section of your spine. It starts at the base of your neck below the cervical spine and ends at the bottom of your ribs. It’s the longest section of your spine. Your thoracic spine consists of 12 vertebrae, labeled T1 through T12.
+The main sign of AD is sudden and severe high blood pressure (hypertension), and the main symptom is headache.
+The majority of AD cases first occur two to three months after the spinal cord injury after spinal shock and neurogenic shock resolves. People usually have more than one episode in their lifetime. It can occur in people who are susceptible (for instance, people who’ve had a spinal cord injury at or above the T6 level) up to 40 times per day.
+Other names for autonomic dysreflexia include:
+- Autonomic hyperreflexia.
+- Hypertensive autonomic crisis.
+- Sympathetic hyperreflexia.
+- Autonomic spasticity.
+- Paroxysmal hypertension.
+- Mass reflex.
+- Viscero-autonomic stress syndrome.
+Your autonomic nervous system and autonomic dysreflexia
+Your autonomic nervous system is a part of your overall nervous system that controls the automatic functions of your body that you need to survive, including your:
+- Heart rate.
+- Blood pressure.
+- Breathing.
+- Digestion.
+Your autonomic nervous system breaks down into three divisions, each with its own job:
+- Sympathetic nervous system (SNS): This system activates body processes that help you in times of need, especially times of stress or danger. This system is responsible for your body’s “fight-or-flight” response.
+- Parasympathetic nervous system (PNS): This part of your autonomic nervous system does the opposite of your sympathetic nervous system. This system is responsible for the “rest and digest” body processes.
+- Enteric nervous system (ENS): This part of your autonomic nervous system manages how your body digests food.
+During autonomic dysreflexia, your body senses an unpleasant or noxious stimulus somewhere below your damaged spinal cord that provokes a sympathetic nervous system reflex. In other words, your SNS thinks you’re in danger and responds accordingly. This results in widespread vasoconstriction (constricting blood vessels) in the lower part of your body (legs and abdomen), which results in increased blood pressure.
+Normally, the increase in blood pressure would stimulate your parasympathetic nervous system to correct it with vasodilation (when blood vessels dilate, or expand) throughout your body due to the baroreflex. However, if your spinal cord is injured, the parasympathetic response can’t travel below the spinal cord lesion. Thus, only the upper part of your body (above the spinal cord injury) experiences vasodilation.
+The continued vasoconstriction in your lower body, due to the sympathetic response, then leads to dangerously high blood pressure.
+This is also why people experiencing autonomic dysreflexia typically have symptoms affecting different parts of their body. For example, they may have redder-than-usual, sweaty skin on their body parts above the level of the spinal cord injury (such as their face, neck and arms) and pale, cold and dry skin on their body parts below the level of their injury (such as their lower torso and legs).
+Who does autonomic dysreflexia affect?
+Autonomic dysreflexia (AD) most often affects people who’ve had a spinal cord injury at or above the T6 level, though not all people with this injury develop AD.
+Your spinal cord relays messages between your brain and the rest of your body. Layers of tissue called meninges and a column of vertebrae (spinal bones) surround and protect your spinal cord. Most spinal cord injuries come from a sudden, traumatic blow to your vertebrae. The fractured (broken) bones then compress spinal artery blood flow and damage the spinal cord and local nerves. In rare cases, an injury can completely sever, or split, your spinal cord.
+The higher the level of the spinal cord injury and the more complete (torn) the injury, the greater the risk of developing autonomic dysreflexia. Up to 90% of people with cervical (neck) or high-thoracic spinal cord injury are susceptible to AD.
+People who are pregnant with a T6 or higher spinal cord injury are especially at risk for developing an AD episode during labor and delivery.
+How common is autonomic dysreflexia?
+About 17,000 people in the United States experience a spinal cord injury each year. Spinal cord injuries are most common in the cervical and thoracic regions — the spinal cord injury regions that make you most susceptible to autonomic dysreflexia (AD).
+AD develops in 48% to 70% of people with a spinal cord injury above the T6 level.
+Symptoms and Causes
+What are the signs and symptoms of autonomic dysreflexia?
+Symptoms of autonomic dysreflexia can vary and usually happen suddenly.
+The first symptom of autonomic dysreflexia (AD) is typically a severe headache that many describe as throbbing. This is due to a sudden and severe increase in blood pressure.
+AD can also cause the following symptoms:
+- Excessive sweating above the level of spinal injury.
+- Bradycardia (slower-than-normal heart rate).
+- Skin flushing above the level of spinal injury and dry, pale skin below the level of injury.
+- Goosebumps above the level of the spinal cord injury.
+- Cold skin.
+- Stuffy nose.
+- Nausea and vomiting.
+- Blurred vision.
+- Feelings of anxiety and doom.
+If you’re experiencing these symptoms, get medical help as soon as possible.
+What causes autonomic dysreflexia?
+The most common cause of autonomic dysreflexia (AD) is a spinal cord injury. The sympathetic and autonomic nervous systems of people with AD over-respond to certain types of stimulation.
+Typically, a noxious visceral stimulation below the level of the spinal cord injury triggers a massive sympathetic reflex causing widespread narrowing of blood vessels (vasoconstriction). A noxious stimulus is anything that’s actually, or potentially, damaging tissue and is likely to cause pain, but may not actually cause pain. This could be anything ranging from an itch that can’t be scratched to an overly full bladder.
+Other conditions can make you susceptible to AD, but AD is much less likely to occur. They include:
+- Intramedullary astrocytoma (central nervous system tumor).
+- Multiple sclerosis (MS).
+- Guillain-Barré syndrome.
+- Side effects of some medications.
+- Severe head trauma and other brain injuries.
+- Subarachnoid hemorrhage (SAH).
+- Use of illegal stimulant drugs, such as cocaine and amphetamines.
+What triggers autonomic dysreflexia?
+The most common noxious stimuli that trigger AD include issues affecting your:
+- Bladder.
+- Bowel.
+- Skin.
+If you’re at risk for developing autonomic dysreflexia, it’s important to be aware of all the possible triggers so you can try to prevent them and/or quickly fix them if you experience symptoms of AD.
+Bladder triggers of autonomic dysreflexia
+Bladder issues are the most common trigger of AD — they’re responsible for up to 85% of AD cases.
+Most often, the cause is something that’s not allowing your pee (urine) to pass out of your body, leading to an overly full bladder (bladder distension).
+This is often due to an issue with a Foley catheter, such as a kink or a clog, but could also be due to:
+- Bladder spasms.
+- Bladder stones.
+- Urinary tract infections (UTIs).
+Bladder testing, such as cystoscopy or urodynamic testing, can trigger AD, too.
+Bowel triggers of autonomic dysreflexia
+Bowel issues are the second most common trigger of AD. An over-stretched bowel due to the following can trigger AD:
+- Quick movement.
+- Fecal impaction.
+- Constipation.
+- Gas and gas pain.
+- Enemas.
+- Manual removal of poop.
+Other irritants in your bowels can also trigger AD, including:
+- Diarrhea.
+- Diverticulitis.
+- Crohn’s disease.
+- Anal fissures.
+- Hemorrhoids.
+Skin triggers of autonomic dysreflexia
+Skin issues are the third most common trigger of AD. There are several possible triggers in this category, including:
+- Pressure injury (bedsore).
+- Cuts or bruises.
+- Rashes.
+- Clothing that’s too tight, lumpy or baggy.
+- An itch that can’t be sensed or scratched.
+- Ingrown toenails.
+Diagnosis and Tests
+How is autonomic dysreflexia diagnosed?
+There’s no single test that can diagnose autonomic dysreflexia (AD), so healthcare providers and caregivers largely base the diagnosis on your:
+- Medical history, especially history of a spinal cord injury.
+- Current blood pressure compared to your baseline or “usual” blood pressure. Systolic blood pressure greater than 150 mmHg or more than 40 mmHg above baseline levels is usually considered indicative of autonomic dysreflexia.
+- Symptoms, especially severe headache.
+If you have symptoms of AD and haven’t had a spinal cord injury, your provider will perform a complete nervous system and medical examination and may order tests to determine the cause of your symptoms. These tests may include:
+- Blood and urine (pee) tests.
+- CT (computed tomography) or MRI (magnetic resonance imaging) scan.
+- Electrocardiogram (EKG).
+- Spinal tap (lumbar puncture).
+- Tilt-table test.
+- Drug testing.
+- X-rays.
+Management and Treatment
+How is autonomic dysreflexia treated?
+The first step of treatment for AD is to sit the person upright with their legs dangling and remove any tight clothing or constrictive devices. This will help lower their blood pressure.
+Most episodes of AD go away once you remove the trigger (stimulus). Thus, the next step of treatment is to identify and eliminate the trigger, if possible, before using medication or medical procedures.
+Examples of how healthcare providers and caregivers check for and/or fix the triggering stimulus include:
+- Checking and restoring bladder drainage.
+- Evaluating the person’s Foley catheter (if they have one) for blockage or malfunction and fixing it if necessary.
+- Testing a urine sample for a urinary tract infection (UTI) and treating it with antibiotics, if applicable.
+- Performing a rectal exam to evaluate for fecal impaction and removing the poop, if necessary.
+Most people with a history of autonomic dysreflexia are quite knowledgeable about it and are prepared to implement a treatment plan.
+If you or a provider can’t find the triggering stimuli, and initial maneuvers don’t improve blood pressure levels, emergency treatment is necessary to reduce blood pressure. Call 911 or get immediate medical help.
+You’ll need rapid-acting drugs such as nitrates, hydralazine, labetalol or nifedipine to lower your blood pressure.
+During treatment, your healthcare team will monitor your vital signs and check your blood pressure levels frequently.
+Prevention
+Can autonomic dysreflexia be prevented?
+It’s not always possible to prevent autonomic dysreflexia (AD).
+However, if you have a spinal cord injury, especially if it’s at or above the T6 level, the following may help prevent autonomic dysreflexia:
+- Emptying your bladder regularly and not letting it get too full.
+- Managing pain.
+- Practicing proper bowel care to avoid fecal impaction and constipation.
+- Practicing proper skin care to avoid pressure sores (bedsores) and skin infections.
+- Preventing urinary tract infections (UTIs).
+Outlook / Prognosis
+What is the prognosis for autonomic dysreflexia?
+The prognosis (outlook) for autonomic dysreflexia (AD) is usually good as long as:
+- You, your caregiver and/or your medical team quickly recognize it.
+- Emergency corrective treatment is quickly started.
+- You and/or your caregiver(s) are properly educated on the signs and triggers of AD.
+- You, your caregiver and/or your medical team take proper precautions to try to prevent AD.
+Severe cases of AD that don’t receive rapid and appropriate treatment can have serious consequences, including:
+- Hypertensive encephalopathy.
+- Stroke.
+- Cardiac arrest.
+- Seizure.
+- Death.
+Fortunately, death from AD is rare.
+How can I take care of myself if I’m at risk for autonomic dysreflexia?
+You and your loved ones will need to be involved with identifying autonomic dysreflexia episodes. The moment you start to feel symptoms of AD, begin treatment by sitting up. Call for assistance to be sure you don’t fall, hurt yourself or lose consciousness. Someone should call 911 if you or they can’t figure out the trigger or if treatment resolutions aren’t working.
+It’s also important to carry an emergency treatment pack with treatment therapies (if your provider has prescribed them) and information explaining autonomic dysreflexia in case someone unfamiliar with AD needs to help you.
+If you’ve had episodes of AD, you need to let all your healthcare providers, caregivers and loved ones know about your condition in case it happens again and you don’t have time to call for help.
+A note from Cleveland Clinic
+Autonomic dysreflexia (AD) is a potentially life-threatening syndrome. The good news is that it’s treatable — usually by removing or fixing the trigger causing it. If you’re susceptible to experiencing AD, it’s important that you and your loved ones learn everything about it so you know how to identify symptoms and treat AD promptly. Talk to your healthcare team about ways you can try to prevent triggers. They’re available to help you.

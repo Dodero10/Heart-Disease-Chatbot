@@ -1,0 +1,129 @@
+COVID Pneumonia
+Overview
+What is COVID pneumonia?
+COVID pneumonia is an infection in your lungs caused by SARS-CoV-2, the virus that causes COVID-19. You can get pneumonia as a complication of being sick with COVID-19. As your immune system attacks the infection in your lungs, they get inflamed and fill with fluid, making it hard to breathe.
+What is bilateral interstitial pneumonia seen in coronavirus disease (COVID-19)?
+The type of pneumonia associated with COVID-19 is almost always in both lungs at the same time (bilateral). Interstitial tissue is what surrounds your lung’s air sacs, blood vessels and airways. Interstitial lung disease causes scarring or other lung damage. Bilateral interstitial pneumonia in COVID-19 is lung damage on both sides as a result of COVID-19-related pneumonia. This usually happens after the initial (infectious) phase, often in people who have long COVID (post-acute sequelae of SARS CoV-2, or PASC).
+How does COVID-19 affect your lungs?
+COVID-19 is a respiratory illness caused by the virus SARS-CoV-2. The virus infects your airways and damages your lungs. To fight off the infection, your immune system causes inflammation, which can also cause damage and allow fluid to leak into the small air sacs of your lungs. This is called pneumonia.
+Can you get pneumonia when infected with COVID-19?
+Yes, you can get pneumonia when infected with COVID-19. The virus that causes COVID-19 can infect your lungs, causing pneumonia. Sometimes you can also get infected with a bacteria that causes pneumonia while your immune system is weakened (this is called a superinfection). If you’re on a ventilator to help you breathe while you’re sick with COVID-19, you’re at higher risk for ventilator-associated pneumonia.
+Are COVID pneumonia and COVID-19 different illnesses?
+COVID-19 and COVID pneumonia are best described as different stages of the same illness. COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus, and COVID pneumonia is a complication of COVID-19 that causes inflammation and fluid in your lungs.
+What’s the difference between COVID pneumonia and other pneumonias?
+All pneumonias cause inflammation and fluid in your lungs. But research suggests that the SARS-CoV-2 virus that causes COVID pneumonia moves differently through your lungs than other viruses and bacteria that cause pneumonia.
+COVID pneumonia spreads across your lungs slowly, using your own immune system to spread, which means it tends to last longer and cause damage in more places. Other pneumonias cause acute disease — symptoms come on all at once — but don’t last as long.
+Who is most at risk for getting COVID pneumonia?
+You’re at an increased risk of getting very sick with COVID-19, including COVID pneumonia, if you:
+- Are over 65.
+- Are pregnant.
+- Smoke or used to smoke.
+- Have received an organ or blood stem cell transplant.
+You're also at an increased risk if you’re living with:
+- A blood disorder such as sickle cell disease or thalassemia.
+- Cancer.
+- Cerebrovascular disease, such as stroke.
+- Chronic kidney or liver disease, including hepatitis, cirrhosis and nonalcoholic fatty liver disease (NAFLD).
+- Chronic lung disease, including asthma, chronic obstructive pulmonary disease (COPD), pulmonary fibrosis, pulmonary hypertension, pulmonary embolism and others.
+- Cystic fibrosis.
+- Dementia, Alzheimer’s disease or other neurological conditions.
+- Diabetes (Type 1 or Type 2).
+- Cerebral palsy, Down syndrome or other congenital conditions.
+- A heart condition such as heart failure, coronary artery disease or high blood pressure (hypertension).
+- HIV/AIDS or a compromised (weakened) immune system.
+- A mental health condition such as depression or schizophrenia spectrum disorders.
+- Obesity.
+- Substance use disorders (such as alcohol, opioid or cocaine use disorder).
+- Tuberculosis.
+How many people with COVID-19 will get pneumonia?
+About 15% of people with COVID-19 develop serious complications, including COVID pneumonia. Worldwide, that means more than 77 million people to date have had severe cases of COVID-19.
+Symptoms and Causes
+What are the symptoms of COVID pneumonia?
+The symptoms of COVID pneumonia can be similar to those of an initial COVID-19 infection. If any of these symptoms are new or get worse, seek medical attention or go to the nearest ER, as they may be signs of COVID-19 progression to pneumonia:
+- Shortness of breath (dyspnea) or trouble breathing.
+- Confusion.
+- Extreme fatigue/tiredness.
+- Cough.
+- Fever.
+- Chest pain or tightness.
+- Bluish lips, skin or nails (cyanosis).
+How do I know that my COVID-19 infection starts to cause pneumonia?
+While pneumonia and COVID-19 can cause many similar symptoms, the biggest indicator that a COVID-19 infection has worsened is trouble breathing. If you have shortness of breath and it’s getting worse, or if you feel like you can’t get air, go the nearest ER.
+What causes COVID pneumonia?
+COVID pneumonia is caused when your immune system attacks an infection of the SARS-CoV-2 virus in your lungs. This makes the small sacs in your lungs (alveoli) swell and leak fluids.
+In most pneumonias, bacteria or a virus reproduces itself and spreads throughout your lung or lungs quickly. It’s like a fire that rapidly spreads from tree to tree, causing a raging wildfire in no time.
+On the other hand, in COVID pneumonia, research suggests that the virus infects small areas of your lungs at the same time and settle in. The virus then uses your immune system to start spreading out into other parts of your lung over time. You can think of it like bonfires burning at different campsites. After the bonfires burn for a while, their embers drift into other areas, causing new fires and spreading the damage in a slow burn.
+Is COVID pneumonia contagious?
+The virus that causes COVID-19 is contagious — it can spread from person to person when you’re infected and you cough, sneeze, talk or even breathe near someone else. Pneumonia is a condition in your lungs you can get when you have COVID-19. Someone else could get COVID-19 from you if you have COVID pneumonia, but they won’t necessarily end up getting pneumonia themselves.
+It’s also possible that you could have COVID-19 and get a bacterial infection that causes pneumonia at the same time (superinfection). The bacterial infection is contagious and could be spread to other people, who could get pneumonia from it.
+Diagnosis and Tests
+How is COVID pneumonia diagnosed?
+To diagnose COVID pneumonia, your healthcare provider will ask about your symptoms and conduct a physical exam. They’ll listen to your lungs with a stethoscope and take your blood pressure, temperature and oxygen level. They will probably use a swab to take a sample from your nose to confirm that you have COVID-19 or to rule out an infection with other viruses.
+They may perform or order additional tests, including imaging, blood tests or sputum (spit) tests.
+What tests will be done to diagnose COVID pneumonia?
+Your provider may perform tests that look at your lungs for signs of infection, measure how well your lungs are working and examine blood or other body fluids to confirm a COVID-19 infection and to look for other possible causes for pneumonia.
+Tests a provider may perform include:
+- Nasal swab: Your provider may use a thin stick with a soft tip to swab the inside of your nose or throat. A lab will test the sample for COVID-19 and other viruses.
+- Pulse oximetry: A sensor slips over your finger and measures the amount of oxygen in your blood to give your provider an idea of how well your lungs are working.
+- Imaging: Your provider can use chest X-ray or CT scan to take pictures of your lungs to look for signs of pneumonia.
+- Blood tests: Your provider can use a blood test to help determine if COVID-19 or bacteria is causing your pneumonia.
+- Sputum test: You’re asked to cough and then spit into a container to collect a sample for a lab to look at. The lab will look for signs of an infection and try to determine if COVID-19 or bacteria is causing your infection.
+- Pleural fluid culture: Your provider uses a thin needle to take a small amount of fluid from around your lungs. The sample is sent to a lab to help determine if COVID-19 or bacteria is causing your pneumonia.
+- Arterial blood gas test: Your provider takes a blood sample from your wrist, arm or groin to measure levels of oxygen in your blood. This helps them determine how well your lungs are working.
+- Bronchoscopy: Your provider may use a thin, lighted tube called a bronchoscope to get a good look at the inside of your lungs. They can also use the bronchoscope to take tissue or fluid samples to be tested in a lab.
+Management and Treatment
+How is COVID pneumonia treated?
+If you’re diagnosed with COVID pneumonia, it’s likely that you’ll be admitted to the hospital. Treatments you might receive include:
+- Antiviral medications: Certain antiviral medications, like remdesivir or Paxlovid™, specifically target the virus the causes COVID-19 and help you fight off the infection.
+- Antibiotics: Antibiotics are used to treat bacterial pneumonia. If you have COVID pneumonia, you’ll be prescribed an antibiotic if you’ve tested positive for a bacterial infection in addition to your COVID-19 infection. Your healthcare team might also prescribe antibiotics as a precaution if they think it’s possible that a bacterial infection is causing your pneumonia.
+- Supplemental oxygen: If your lungs are working but you’re not getting quite enough oxygen, you may be given extra oxygen through a tube in your nose or mask on your face.
+- IV fluids: Extra fluid through an IV can keep you from getting dehydrated.
+- Draining of fluids: To reduce the fluid in your lungs, they may be drained with a catheter or surgery.
+- Corticosteroids: A corticosteroid, like dexamethasone, may be used to reduce inflammation.
+- Monoclonal antibodies: Monoclonal antibody treatments, such as tocilizumab, can help reduce or prevent inflammation.
+- Mechanical ventilation: If you’re unable to breathe properly on your own, your provider will put you on a ventilator. A ventilator uses a tube that goes down your throat and into your airways, attached to a machine that breathes for you. You’ll be sedated (asleep) while on a ventilator.
+- Extracorporeal membrane oxygenation (ECMO): If your lungs or heart aren’t working properly, you might be put on an ECMO machine. This is a type of life support that takes over the work of your heart and lungs.
+Prevention
+How can I prevent COVID pneumonia?
+The best way to prevent COVID pneumonia is to take steps to reduce your risk of getting COVID-19. Getting vaccinated against COVID-19 and other causes of pneumonia plus a few simple habits are the best ways to reduce your risk.
+Vaccines for pneumonia and COVID-19
+There are vaccines for both COVID-19 and other causes of pneumonia that you could get infected with at the same time as COVID-19. Getting vaccinated against them reduces your risk of getting sick to begin with and reduces your risk of serious illness, like COVID pneumonia, if you do get sick.
+- COVID-19 vaccines: There are several versions of vaccines that help protect you from COVID-19 infection. They are up to 90% effective at preventing severe illness and hospitalization from COVID-19.
+- Pneumococcal vaccines: If you’re in certain age groups or are at an increased risk of pneumonia, pneumococcal vaccines like Pneumovax23® and Prevnar13® can help protect you from bacterial pneumonia. COVID-19 can damage your lungs and weaken your immune system, making it easier to get pneumonia from bacteria. Ask your healthcare provider if a pneumococcal vaccine would be appropriate for you.
+Other ways to reduce your risk of COVID pneumonia
+In addition to getting vaccinated, you can help reduce your risk of getting severe COVID-19 with some healthy habits:
+- Quit smoking and avoid secondhand smoke. Smoking damages your lungs, which means you may be more likely to get an infection that leads to pneumonia.
+- Wash your hands with soap and water before eating, before handling food and after going to the bathroom. If you don’t have access to soap, use an alcohol-based hand sanitizer. This reduces your risk of getting COVID-19.
+- Avoid close contact and sharing items with other people if either of you have COVID-19.
+- Get treated for other health conditions you have, as they can put you at higher risk for severe COVID-19.
+Outlook / Prognosis
+How long does it take to recover from COVID pneumonia?
+There’s no standard timeline for how long COVID pneumonia lasts. How you feel with COVID pneumonia may change day by day. Some days you may think you’re getting better, but you may feel worse again before it’s over. For moderate illness, you may feel better in three to six weeks. For more severe illness, it can take months to recover. How soon you will feel better depends on:
+- Your age.
+- The severity of your pneumonia.
+- If you have other health conditions or complications.
+Follow-up with your healthcare provider if you have ongoing health concerns after being treated for COVID pneumonia.
+What are possible complications of COVID pneumonia?
+COVID pneumonia is a complication of a COVID-19 infection, on a spectrum of how sick you can get from the SARS-CoV-2 virus. You can think of a COVID-19 infection in stages of severity:
+- Viral respiratory illness: The mildest stage of a COVID-19 infection, which can still make you feel pretty sick with symptoms like fever, sore throat and shortness of breath. Many people can manage their symptoms at home, but if symptoms worsen, you may need to be hospitalized.
+- COVID pneumonia: An infection in your lungs that causes inflammation and fluid to build up, making it hard to breathe. If you have COVID pneumonia, expect to stay in the hospital where they can keep a close eye on your condition and treat your symptoms. This is usually considered moderate to severe COVID-19.
+- Acute respiratory distress syndrome (ARDS): ARDS is a form of respiratory failure where your lungs don’t work properly and you can’t get enough oxygen. You’ll need to be on a ventilator to breathe for you if you are in this critically ill stage of COVID-19.
+What’s the survival rate for COVID pneumonia?
+As long as hospitals aren’t overwhelmed, the survival rate for COVID pneumonia is about 80%. When there’s a surge and hospitals are overwhelmed, deaths from COVID pneumonia (mortality) can double. Seeking treatment as soon as possible increases your chance of survival and a quicker recovery.
+Living With
+What can I do to feel better if I have COVID pneumonia?
+Once you’ve been released from the hospital, there are a few things you can do at home to continue your recovery:
+- Manage your symptoms with medications and other treatments as recommended by your healthcare provider.
+- Finish all medications and therapies as prescribed by your provider.
+- Get lots of rest.
+- Continue to monitor your symptoms. If at any time you start to feel worse or have new symptoms, call your provider right away.
+What are some signs that COVID pneumonia is improving?
+As you begin to recover from COVID pneumonia, you shouldn’t struggle to breathe anymore. Your healthcare provider should be able to reduce the number of machines that help you breathe or give you oxygen if your condition is improving.
+Once you’ve returned home, feeling like you’re up to returning to some of your normal activities is a good sign that you are continuing to recover.
+When should I see a healthcare provider?
+If you have any COVID-19 symptoms such as loss of your sense of taste or smell, sore throat, fever, cough or shortness of breath, get tested for COVID-19. Contact your healthcare provider if you’re at risk for severe COVID-19 or if you have questions about managing your symptoms.
+When should I go to the emergency room?
+Go to the emergency room or call 911 if you have COVID-19 and have any new or worsening symptoms, especially if you’re struggling to breathe, feel confused, can’t seem to stay awake or your skin, lips or nails appear blue.
+A note from Cleveland Clinic
+Some people have very mild symptoms of COVID-19, while others get very sick with conditions like COVID pneumonia. Make sure you keep a close eye on your symptoms — especially if you’re over the age of 65 or have an ongoing medical condition that puts you at risk for severe illness with COVID-19.
+The virus can cause a lot of damage over time, so don’t hesitate to call your healthcare provider or go to the ER if your symptoms worsen. Not being able to breathe or stay awake, feeling confused and having your skin, lips or nails turn blue are not normal symptoms and need to be checked out right away.

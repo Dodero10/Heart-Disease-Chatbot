@@ -1,0 +1,125 @@
+Cytopenia
+Overview
+What is cytopenia?
+Cytopenia is low levels of certain blood cells. You have three blood cell types: red blood cells, white blood cells and platelets.
+- Red blood cells (erythrocytes) carry oxygen to tissues throughout your body. The oxygen supplies energy to your cells.
+- White blood cells (leukocytes) help your body fight infection. They’re key players in your body’s immune system, which protects you from harmful pathogens (bacteria, viruses, parasites and fungi).
+- Platelets (thrombocytes) cause your blood to clot. They prevent excessive bleeding.
+What are the different types of cytopenia?
+Your specific type of cytopenia depends on which blood cell counts are low.
+- Anemia describes low red blood cell levels. Anemia reduces the amount of oxygen your body receives.
+- Leukopenia describes low white blood cell levels. Too few white blood cells can increase your risk of infection. A related condition is called neutropenia, which involves low levels of white blood cells called neutrophils. The majority of your white blood cells are neutrophils.
+- Thrombocytopenia describes low platelet levels. Low platelets can prevent your blood from clotting as it should.
+- Pancytopenia describes low levels of all blood cell types.
+Other classifications describe cytopenia based on what’s causing it:
+- Autoimmune cytopenia occurs when you have an autoimmune disease causing your immune system to attack healthy blood cells. This attack reduces one or more of your blood cell levels.
+- Refractory cytopenia occurs when your bone marrow doesn’t produce normal amounts of blood cells. Your bone marrow is the spongy tissue inside some bones that makes blood cells.
+Symptoms and Causes
+What are the symptoms of cytopenia?
+Symptoms vary depending on which blood cells are low, how low your levels are and the condition causing low blood cell counts. Some people don’t notice symptoms. Instead, they learn about their low levels from blood test results.
+Symptoms of anemia include:
+- Weakness or fatigue.
+- Shortness of breath (dyspnea).
+- Irregular or rapid heartbeat.
+- Pale, clammy skin.
+- Chest pain.
+Signs of leukopenia/neutropenia include:
+- Fatigue.
+- Fever and chills.
+- Sore throat (pharyngitis).
+- Mouth sores.
+- Severe cough.
+- Diarrhea.
+- Swollen lymph nodes.
+Symptoms of thrombocytopenia include:
+- Bruising easily.
+- Heavy or prolonged bleeding.
+- Markings on your skin from bleeding underneath (petechiae).
+What causes cytopenia?
+The various forms of cytopenia have multiple potential causes. In general, they involve problems with blood cell production in your bone marrow. Or you may have a condition that destroys your blood cells after your bone marrow releases them into your bloodstream.
+Causes may be inherited (something you’re born with) or acquired (something you develop over time).
+Anemia causes
+Most cases of anemia involve nutritional deficiencies, especially iron deficiency (iron-deficiency anemia). Your bone marrow needs certain nutrients to make healthy red blood cells, including iron, vitamin B12 and folate. Deficiencies can lead to low counts. Blood loss and conditions that destroy your red blood cells can also cause anemia.
+Conditions associated with anemia include:
+- Autoimmune diseases.
+- Blood disorders and bone marrow disorders.
+- Cancer.
+- Genetic conditions.
+- G6PD deficiency.
+- Medications.
+- Nutritional deficiencies.
+- Pregnancy.
+- Pyruvate kinase deficiency.
+- Sickle cell disease.
+- Thalassemia.
+Leukopenia/neutropenia causes
+Cancer treatment, including chemotherapy and radiation, is one of the most common causes of low white blood cell counts. These treatments kill cancer cells but can kill some healthy cells (like blood cells) as a side effect.
+Conditions associated with low white blood cell counts include:
+- Autoimmune diseases.
+- Blood and bone marrow disorders.
+- Cancer.
+- Cancer treatments.
+- Genetic conditions.
+- Infections.
+- Medications.
+- Nutritional deficiencies.
+Thrombocytopenia causes
+Conditions associated with thrombocytopenia include:
+- Alcohol use disorder.
+- Autoimmune diseases, including immune thrombocytopenia.
+- Blood and bone marrow disorders, including thrombotic thrombocytopenic purpura TPP.
+- Cancer.
+- Cancer treatments.
+- Genetic conditions.
+- Infections.
+- Medications, including heparin-induced thrombocytopenia (HIT).
+- Nutritional deficiencies.
+- Pregnancy.
+- Toxic chemical exposure.
+Unexplained causes of cytopenia
+Sometimes, healthcare providers can’t determine what’s causing low blood cell counts. These cytopenias fall into one of two categories:
+- Clonal cytopenia of undetermined significance (CCUS): With this type of cytopenia, several blood cells contain the same acquired genetic mutation (change) in their DNA. Having CCUS increases your risk of developing certain blood disorders and cardiovascular disease.
+- Idiopathic cytopenia of undetermined significance (ICUS): Blood cells don’t contain a genetic mutation in their DNA.
+Diagnosis and Tests
+How is cytopenia diagnosed?
+The results of a complete blood count (CBC) can show if you have low levels of red blood cells, white blood cells or platelets. A CBC is a standard blood test that provides information about your blood cells. It communicates your blood cell levels and provides information about cell characteristics that may signal certain conditions.
+Your healthcare provider may perform additional tests to determine what’s causing your cytopenia.
+What tests will be done to diagnose what’s causing my cytopenia?
+Tests to determine causes may include:
+- Peripheral blood smear: A healthcare provider smears a sample of your blood onto a slide and views it underneath a microscope. The cells’ appearance can provide clues about potential causes.
+- Bone marrow aspiration and biopsy: A healthcare provider removes a bone marrow sample and tests it for abnormal cells. These tests can help diagnose causes like cancer or blood and bone disorders.
+You may need additional lab tests to pinpoint common causes.
+Management and Treatment
+How is cytopenia treated?
+Mild cases of cytopenia that aren’t related to a serious condition or causing symptoms may not require any treatment.
+When needed, treatment usually involves addressing the underlying condition that’s causing low levels. For example, if a nutritional deficiency is causing your low levels, your provider may recommend changes to your diet or supplements so you can get the nutrients you need. You may need antibiotics if your low levels arise from an infection.
+In more severe cases, you may need treatments that boost your cell levels directly, including:
+- Granulocyte colony-stimulating factor (G-CSF): These drugs increase your neutrophils. People receiving chemotherapy are commonly prescribed G-CSF to prevent neutropenia.
+- Blood transfusion: You may need blood from a donor if your body can’t produce enough blood cells.
+- Bone marrow or stem cell transplant: A transplant replaces abnormal, immature blood cells in your bone marrow with healthy ones. The cells eventually develop into mature blood cells that circulate in your bloodstream.
+- Splenectomy: This surgery removes your spleen. You may need a splenectomy if your spleen is trapping blood cells, taking them out of circulation in your bloodstream.
+Prevention
+Can cytopenias be prevented?
+Some causes, like autoimmune conditions, blood and bone marrow disorders and cancer, aren’t preventable.
+You can reduce your risk of certain types of cytopenias by getting the nutrients your body needs to make healthy red blood cells. For example, ensuring you get enough iron in your diet can prevent iron-deficiency anemia.
+Limiting alcohol consumption allows your body to more effectively absorb nutrients your body needs to make healthy blood cells. Unhealthy use of alcohol can contribute to low blood counts. Many of these blood abnormalities can resolve by avoiding alcohol.
+Outlook / Prognosis
+What is the outlook for cytopenia?
+Your outlook (prognosis) depends on what’s causing your low levels. For example, addressing a nutritional deficiency can reverse diet-related anemias. Treating or managing an infection can help boost your white blood cell levels if a bacteria or virus is the cause.
+Inherited conditions that cause cytopenia, blood and bone marrow conditions and cancers may require more intense treatments. Your healthcare provider may have to monitor your blood cell counts to ensure you have enough blood cells to stay healthy.
+Ask your healthcare provider about your prognosis based on what’s causing your cytopenia.
+Living With
+What questions should I ask my doctor?
+Questions you might want to ask include:
+- What form of cytopenia do I have?
+- What’s causing my low levels?
+- What are my treatment options?
+- What are potential treatment side effects?
+- When should my levels return to normal?
+- How long will I need treatment and follow-ups?
+- Is my condition curable?
+Additional Common Questions
+Is cytopenia anemia?
+Anemia is one type of cytopenia involving low levels of red blood cells (erythrocytes). Anemia may also involve having low hemoglobin, an essential protein in red blood cells that allows them to transport oxygen.
+A note from Cleveland Clinic
+Cytopenia is an umbrella term for several conditions associated with low blood cell counts, including anemia, leukopenia, neutropenia, thrombocytopenia and pancytopenia. Various conditions can cause low counts, and multiple symptoms can result. Ask your healthcare provider if you should be concerned about having low levels of one or more blood cell types. Depending on what’s causing it, you may or may not need treatment. Your provider can advise you.

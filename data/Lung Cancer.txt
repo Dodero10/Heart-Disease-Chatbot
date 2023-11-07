@@ -1,0 +1,197 @@
+Lung Cancer
+Overview
+What is lung cancer?
+Lung cancer is a disease caused by uncontrolled cell division in your lungs. Your cells divide and make more copies of themselves as a part of their normal function. But sometimes, they get changes (mutations) that cause them to keep making more of themselves when they shouldn’t. Damaged cells dividing uncontrollably create masses, or tumors, of tissue that eventually keep your organs from working properly.
+Lung cancer is the name for cancers that start in your lungs — usually in the airways (bronchi or bronchioles) or small air sacs (alveoli). Cancers that start in other places and move to your lungs are usually named for where they start (your healthcare provider may refer to this as cancer that’s metastatic to your lungs).
+What are the types of lung cancer?
+There are many cancers that affect the lungs, but we usually use the term “lung cancer” for two main kinds: non-small cell lung cancer and small cell lung cancer.
+Non-small cell lung cancer (NSCLC)
+Non-small cell lung cancer (NSCLC) is the most common type of lung cancer. It accounts for over 80% of lung cancer cases. Common types include adenocarcinoma and squamous cell carcinoma. Adenosquamous carcinoma and sarcomatoid carcinoma are two less common types of NSCLC.
+Small cell lung cancer (SCLC)
+Small cell lung cancer (SCLC) grows more quickly and is harder to treat than NSCLC. It’s often found as a relatively small lung tumor that’s already spread to other parts of your body. Specific types of SCLC include small cell carcinoma (also called oat cell carcinoma) and combined small cell carcinoma.
+Other types of cancer in the lungs
+Other types of cancer can start in or around your lungs, including lymphomas (cancer in your lymph nodes), sarcomas (cancer in your bones or soft tissue) and pleural mesothelioma (cancer in the lining of your lungs). These are treated differently and usually aren’t referred to as lung cancer.
+What are the stages of lung cancer?
+Cancer is usually staged based on the size of the initial tumor, how far or deep into the surrounding tissue it goes, and whether it’s spread to lymph nodes or other organs. Each type of cancer has its own guidelines for staging.
+Lung cancer staging
+Each stage has several combinations of size and spread that can fall into that category. For instance, the primary tumor in a Stage III cancer could be smaller than in a Stage II cancer, but other factors put it at a more advanced stage. The general staging for lung cancer is:
+- Stage 0 (in-situ): Cancer is in the top lining of the lung or bronchus. It hasn’t spread to other parts of the lung or outside of the lung.
+- Stage I: Cancer hasn’t spread outside the lung.
+- Stage II: Cancer is larger than Stage I, has spread to lymph nodes inside the lung, or there’s more than one tumor in the same lobe of the lung.
+- Stage III: Cancer is larger than Stage II, has spread to nearby lymph nodes or structures or there’s more than one tumor in a different lobe of the same lung.
+- Stage IV: Cancer has spread to the other lung, the fluid around the lung, the fluid around the heart or distant organs.
+Limited vs. extensive stage
+While providers now use stages I through IV for small cell lung cancer, you might also hear it described as limited or extensive stage. This is based on whether the area can be treated with a single radiation field.
+- Limited stage SCLC is confined to one lung and can sometimes be in the lymph nodes in the middle of the chest or above the collar bone on the same side.
+- Extensive stage SCLC is widespread throughout one lung or has spread to the other lung, lymph nodes on the opposite side of the lung, or to other parts of the body.
+What is metastatic lung cancer?
+Metastatic lung cancer is cancer that starts in one lung but spreads to the other lung or to other organs. Metastatic lung cancer is harder to treat than cancer that hasn’t spread outside of its original location.
+How common is lung cancer?
+Lung cancer is the third most common cancer in the U.S. Health systems report over 200,000 new cases of lung cancer each year.
+Symptoms and Causes
+What are the symptoms of lung cancer?
+Most lung cancer symptoms look similar to other, less serious illnesses. Many people don’t have symptoms until the disease is advanced, but some people have symptoms in the early stages. For those who do experience symptoms, it may only be one or a few of these:
+- A cough that doesn’t go away or gets worse over time.
+- Trouble breathing or shortness of breath (dyspnea).
+- Chest pain or discomfort.
+- Wheezing.
+- Coughing up blood (hemoptysis).
+- Hoarseness.
+- Loss of appetite.
+- Unexplained weight loss.
+- Unexplained fatigue (tiredness).
+- Shoulder pain.
+- Swelling in the face, neck, arms or upper chest (superior vena cava syndrome).
+- Small pupil and drooping eyelid in one eye with little or no sweating on that side of your face (Horner’s syndrome).
+What are the first signs of lung cancer?
+A cough or pneumonia that keeps coming back after treatment can sometimes be an early sign of lung cancer (though it can also be a sign of less serious conditions). The most common signs of lung cancer include a persistent or worsening cough, shortness of breath, chest pain, hoarseness or unexplained weight loss.
+Depending on where in your lungs cancer starts, some of these symptoms can happen early (in stages I or II) but often they don’t happen until cancer has progressed to later stages. That’s why it’s important to get screened for lung cancer if you’re at higher risk.
+How long can you have lung cancer without knowing?
+Cancer can grow in your body for a long time — years — before you know it’s there. Lung cancer often doesn’t cause symptoms in early stages.
+What causes lung cancer?
+Lung cancer is caused by cells that keep dividing even though they shouldn’t. While cell division is a normal process, all cells have a built-in off switch that keeps them from dividing into more cells (senescence) or causes them to die off (apoptosis) when necessary. The off switch is triggered when a cell has divided too many times or has too many changes (mutations).
+Cancer cells are normal cells in your body that have gained mutations that remove the off switch. Cells keep multiplying, unchecked, and interfere with your normal cells. Cancer cells can get into your bloodstream or lymph nodes and move to other places in your body, spreading the damage.
+We’re not sure what causes these changes that lead to cancer in some people and not others, but certain factors, including smoking tobacco products, can put you at higher risk for damage to your cells that can cause lung cancer.
+Risk factors for lung cancer
+While there are many factors that can increase your risk of lung cancer, smoking any kind of tobacco products, including cigarettes, cigars or pipes is the biggest single risk factor. Experts estimate that 80% of lung cancer deaths are smoking-related.
+Other risk factors include:
+- Being exposed to secondhand tobacco smoke.
+- Being exposed to harmful substances, like air pollution, radon, asbestos, uranium, diesel exhaust, silica, coal products and others.
+- Having previous radiation treatments to your chest (for instance, for breast cancer or lymphoma).
+- Having a family history of lung cancer.
+Does vaping cause lung cancer?
+You can inhale a number of substances when you vape (use a device to inhale a mist of nicotine and flavoring), including some that are known to cause cancer. Vaping is too new to know all of its long-term effects, but experts believe that it has the potential to cause lung damage.
+Can you get lung cancer if you don’t smoke?
+While smoking is the leading risk factor for lung cancer, up to 20% of people diagnosed have never smoked. That’s why it’s important to talk to your provider about any concerning symptoms.
+Diagnosis and Tests
+How is lung cancer diagnosed?
+Diagnosing lung cancer can be a multi-step process. Your first visit to a healthcare provider will usually involve them listening to your symptoms, asking you about your health history and performing a physical exam (like listening to your heart and lungs). Since lung cancer symptoms are similar to many other, more common illnesses, you provider may start by getting blood tests and a chest X-ray.
+If your provider suspects you could have lung cancer, your next steps in diagnosis would usually involve more imaging tests, like a CT scan, and then a biopsy. Other tests include using a PET/CT scan to see if cancer has spread, and tests of cancerous tissue from a biopsy to help determine the best kind of treatment.
+Does a chest X-ray show lung cancer?
+X-rays aren’t as good as CT scans for showing a tumor in your lungs, especially at earlier stages. Tumors might be too small to see on an X-ray or can be blocked from view by other structures in your body (like your ribs). X-rays can’t diagnose lung cancer — they can only show your provider if there’s something suspicious that they should look into further.
+What tests will be done to diagnose lung cancer?
+Tests your healthcare provider might order or perform include blood tests, imaging, and biopsies of fluid or tissue.
+Blood tests
+Blood tests can’t diagnose cancer on their own, but can help your provider check how your organs and other parts of your body are working.
+Imaging
+Chest X-rays and CT scans give your provider images that can show changes in your lungs. PET/CT scans are usually done to evaluate a concerning finding on a CT scan or after a cancer diagnosis to determine whether cancer has spread.
+Biopsy
+There are a number of procedures your provider can use to look more closely at what’s going on inside your chest. During the same procedures, your provider can take samples of tissue or fluid (biopsy), which can be studied under a microscope to look for cancer cells and determine what kind of cancer it is. Samples can also be tested for genetic changes (mutations) that might affect your treatment.
+Procedures used to initially diagnose lung cancer or learn more about its spread include:
+- Needle biopsy. During this procedure, your provider will use a needle to collect samples of fluid or tissue for testing.
+- Bronchoscopy, thoracoscopy or video-assisted thoracic surgery (VATS). A provider uses these procedures to look at parts of your lungs and take tissue samples.
+- Thoracentesis. A provider uses this procedure to take a sample of the fluid around your lungs for testing.
+- Endobronchial ultrasound or endoscopic esophageal ultrasound. A provider uses these procedures to look at and biopsy lymph nodes.
+- Mediastinoscopy or mediastinotomy. A provider uses these procedures to look at and take samples from the area between your lungs (mediastinum).
+Molecular tests
+As part of a biopsy, your provider might have your tissue sample tested for gene changes (mutations) that special drugs can target as part of your treatment plan. Genes that might have changes that can be targeted in NSCLC include:
+- KRAS.
+- EGFR.
+- ALK.
+- ROS1.
+- BRAF.
+- RET.
+- MET.
+- HER2.
+- NTRK.
+Management and Treatment
+How is lung cancer treated?
+Treatments for lung cancer are designed to get rid of cancer in your body or slow down its growth. Treatments can remove cancerous cells, help to destroy them or keep them from multiplying or teach your immune system to fight them. Some therapies are also used to reduce symptoms and relieve pain. Your treatment will depend on the type of lung cancer you have, where it is, how far it’s spread and many other factors.
+What medications/treatments are used in lung cancer?
+Lung cancer treatments include surgery, radiofrequency ablation, radiation therapy, chemotherapy, targeted drug therapy and immunotherapy.
+Surgery
+NSCLC that hasn’t spread and SCLC that’s limited to a single tumor can be eligible for surgery. Your surgeon might remove the tumor and a small amount of healthy tissue around it to make sure they don’t leave any cancer cells behind. Sometimes they have to remove all or part of your lung (resection) for the best chance that the cancer won’t come back.
+Radiofrequency ablation
+NSCLC tumors near the outer edges of your lungs are sometimes treated with radiofrequency ablation (RFA). RFA uses high-energy radio waves to heat and destroy cancer cells.
+Radiation therapy
+Radiation uses high energy beams to kill cancer cells. It can be used by itself or to help make surgery more effective. Radiation can also be used as palliative care, to shrink tumors and relieve pain. It’s used in both NSCLC and SCLC.
+Chemotherapy
+Chemotherapy is often a combination of multiple medications designed to stop cancer cells from growing. It can be given before or after surgery or in combination with other types of medication, like immunotherapy. Chemotherapy for lung cancer is usually given through an IV.
+Targeted drug therapy
+In some people with NSCLC, lung cancer cells have specific changes (mutations) that help the cancer grow. Special drugs target these mutations to try to slow down or destroy cancer cells. Other drugs, called angiogenesis inhibitors, can keep the tumor from creating new blood vessels, which the cancer cells need to grow.
+Immunotherapy
+Our bodies usually recognize cells that are damaged or harmful and destroy them. Cancer has ways to hide from the immune system to keep from being destroyed. Immunotherapy reveals cancer cells to your immune system so your own body can fight cancer.
+Treatments to ease symptoms (palliative care)
+Some lung cancer treatments are used to relieve symptoms, like pain and difficulty breathing. These include therapies to reduce or remove tumors that are blocking airways, and procedures to remove fluid from around your lungs and keep it from coming back.
+Side effects of the treatment
+Side effects of lung cancer treatment depend on the type of treatment. Your provider can tell you what side effects to expect, and what complications to look out for, for your specific treatment.
+Chemotherapy
+- Nausea, vomiting.
+- Diarrhea.
+- Hair loss.
+- Fatigue.
+- Mouth sores.
+- Loss of feeling, weakness or tingling (neuropathy).
+Immunotherapy
+- Fatigue.
+- Itchy rash.
+- Diarrhea.
+- Nausea, vomiting.
+- Joint pain.
+- Complications (like pneumonitis, colitis, hepatitis and others) can have additional side effects.
+Radiation therapy
+- Shortness of breath.
+- Cough.
+- Pain.
+- Fatigue.
+- Difficulty swallowing.
+- Dry, itchy or red skin.
+- Nausea, vomiting.
+Surgery
+- Shortness of breath.
+- Chest wall pain.
+- Cough.
+- Fatigue.
+How do I manage symptoms and side effects?
+Your provider can prescribe medications to help manage your symptoms or side effects of treatment. A palliative care specialist or a dietician can help you manage pain or other symptoms and improve your quality of life while you’re in treatment.
+Prevention
+How can I prevent lung cancer?
+Since we don’t know what causes most cancers for sure, the only preventative measures are focused on reducing your risk. Some ways to reduce your risk include:
+- Don’t smoke or quit smoking if you do. Your risk of lung cancer starts coming down within five years of quitting.
+- Avoid second hand smoke and other substances that can harm your lungs.
+- Eat a healthy diet and maintain a weight that’s healthy for you. Some studies suggest that eating fruits and vegetables (two to six-and-a-half cups per day) can help reduce your risk of cancer.
+- Get screened for lung cancer if you’re at high risk.
+Lung cancer screening
+You can increase your chances of catching cancer in its earliest stages with screening tests. You’re eligible for lung cancer screening if you meet all of these requirements:
+- You’re between the ages of 50 and 80.
+- You either currently smoke or have quit smoking within the last 15 years.
+- You have a 20 pack-year smoking history (number of packs of cigarettes per day times the number of years you smoked).
+Ask your provider about the benefits and risks of yearly screening.
+Outlook / Prognosis
+What can I expect if I have lung cancer?
+What to expect after a lung cancer diagnosis depends on many factors. For some with early stage cancer, your provider will remove the cancer and you’ll need follow up screenings for several years. For many others, it’s a process that evolves over time. It may mean doing one type of treatment until it stops being effective, then moving on to another type.
+Does lung cancer spread quickly?
+How fast lung cancer spreads depends on the type. Of the main types, small cell lung cancer tends to spread faster than non-small cell lung cancer. By the time lung cancer is found, it may have already started spreading to lymph nodes or other organs.
+Can lung cancer be cured?
+Some types of lung cancer can be considered cured if diagnosed before they spread, though experts don’t often use the word “cured” to describe cancer. More common terms are “remission” or “no evidence of disease” (NED). If you’re in remission or NED for five years or more, you might be considered cured. There’s always a small chance that cancer cells could come back.
+What is the survival rate of lung cancer?
+The survival rate of lung cancer depends greatly on how far cancer has spread when it’s diagnosed, how it responds to treatment, your overall health and other factors. For instance, for small tumors that haven’t spread to the lymph nodes, the survival rates are 90% for tumors that are smaller than 1 cm, 85% for tumors between 1 and 2 cm, and 80% for tumors between 2 and 3 cm.
+The relative five-year survival rate for lung cancer diagnosed at any stage is 22.9%. The five-year relative survival rates by how much cancer has spread is:
+- 61.2% (64% for NSCLC, 29% for SCLC) for cancer that’s confined to one lung (localized).
+- 33.5% (37% for NSCLC, 18% for SCLC) for cancer that’s spread to the lymph nodes (regional).
+- 7% (26% for NSCLC, 3% for SCLC) for cancer that’s spread to other organs (distant).
+Remember that these numbers don’t take into account the specific details of your diagnosis and treatment. Thanks to improvements in detection and treatment, the rates of lung cancer deaths have been rapidly coming down in recent years.
+What do relative survival rates mean?
+Your healthcare provider may share five-year survival rates as a way of explaining how your lung cancer may affect your health five years after diagnosis. These numbers compare the survival rate of someone with lung cancer to someone of the same age in the general population.
+Living With
+How do I take care of myself?
+Self-care is an important part of cancer care. Some ways you can take care of yourself while receiving or recovering from treatment include:
+- Bringing a friend or family member with you to appointments if you can. They can help you keep track of the information and options your provider gives you.
+- Planning in advance for how you’ll feel in the days following treatment. This might include asking for extra help, having meals prepared ahead of time or making sure you have a light schedule.
+- Asking your provider about getting proper nutrition even if you don’t feel well. Drinking plenty of fluids to stay hydrated. Getting exercise if you can and as recommended by your provider.
+- Having important phone numbers handy. You may see several providers and it’s helpful to know who to contact if issues come up.
+- Considering joining a local or online support group. Being around others who’ve been where you are can help you get perspective and know what to expect.
+If you’ve completed treatments, support and self-care can still play an important part in moving forward. Don’t hesitate to reach out for help or guidance. Make sure you follow up with your provider as recommended.
+When should I see my healthcare provider?
+Check in with your provider if you have any symptoms that concern you. If you smoke or used to smoke, ask your provider about screening for lung cancer.
+What questions should I ask my doctor?
+- What are my treatment options?
+- What’s the best way to take care of myself at home?
+- What will treatment be like?
+- What are my next steps?
+- What are the important numbers for questions or emergencies?
+- What side effects should I call you about?
+- When should I go to the ER?
+A note from Cleveland Clinic
+A lung cancer diagnosis can bring with it a flood of different emotions. Sometimes the volume of new information can be overwhelming. An important thing to remember is that statistics can’t tell you how your treatment will go or what decisions are right for your specific situation.
+Enlisting the help of trusted loved ones or a support group can help you consider your options and voice your preferences. Cancer treatment is often a process, and taking care of yourself is one of its most important parts.

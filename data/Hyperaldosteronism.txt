@@ -1,0 +1,89 @@
+Hyperaldosteronism
+Overview
+What is hyperaldosteronism?
+Hyperaldosteronism is a condition in which one or both of your adrenal glands produce too much aldosterone. Aldosterone is a hormone that helps regulate your blood pressure by controlling the levels of potassium and sodium in your blood.
+Your adrenal glands are part of your endocrine system. They make hormones your body needs to carry out daily functions. You have two adrenal glands — one atop each kidney.
+There are two main types of hyperaldosteronism:
+- Primary hyperaldosteronism (Conn’s syndrome): An issue within your adrenal glands causes them to release too much aldosterone.
+- Secondary hyperaldosteronism: An issue somewhere else in your body causes your adrenal glands to make too much aldosterone.
+Hyperaldosteronism causes high blood pressure (hypertension) and low potassium levels in your blood.
+Who does hyperaldosteronism affect?
+Hyperaldosteronism mostly affects people 30 to 50 years old. It more often affects people assigned female at birth than people assigned male at birth.
+How common is hyperaldosteronism?
+It’s difficult for researchers to estimate how common hyperaldosteronism is. Some studies suggest that 5% to 10% of people with high blood pressure have primary hyperaldosteronism. Experts estimate that as many as 25% of people who have medication-resistant high blood pressure may have hyperaldosteronism.
+Symptoms and Causes
+What are the signs and symptoms of hyperaldosteronism?
+The symptoms of hyperaldosteronism can vary based on the severity of the condition. Some people with mild cases of hyperaldosteronism have no symptoms (are asymptomatic).
+The most common symptom of hyperaldosteronism is high blood pressure (hypertension), especially medication-resistant hypertension.
+If you experience other symptoms, they’ll probably be caused by having moderate to severe high blood pressure and/or low potassium levels (hypokalemia).
+Symptoms of high blood pressure include:
+- Headaches.
+- Dizziness.
+- Vision changes.
+- Difficulty breathing.
+Symptoms of low potassium include:
+- Muscle weakness (which can lead to temporary paralysis in severe cases).
+- Muscle spasms.
+- Tingling and numbness.
+- Fatigue.
+- Extreme thirst (polydipsia).
+- Frequent urination (peeing).
+What causes hyperaldosteronism?
+Hyperaldosteronism has different causes depending on the type: primary or secondary.
+Causes of primary hyperaldosteronism
+Primary hyperaldosteronism happens when there’s an issue within your adrenal glands that causes them to produce too much aldosterone.
+Adrenal adenomas (noncancerous tumors) are the most common cause of primary hyperaldosteronism.
+Rarer causes of primary hyperaldosteronism include:
+- Unilateral adrenal hyperplasia (one enlarged adrenal gland).
+- Aldosterone-producing adrenocortical carcinomas (cancerous tumors).
+- Familial hyperaldosteronism type 1 (a condition you inherit from your biological parents).
+Causes of secondary hyperaldosteronism
+Reduced blood flow to your kidneys causes secondary aldosteronism.
+To understand why this happens, it’s important to know that aldosterone is part of a complex chain of hormone reactions that regulates your blood pressure.
+This is known as the renin-angiotensin-aldosterone system, and it involves the following steps:
+- Your kidneys release renin (an enzyme) when your body detects low blood pressure or low sodium in your blood. Renin converts angiotensinogen (a precursor of angiotensin that’s produced by your liver) to angiotensin I (angiotensin is a hormone that narrows your blood vessels).
+- Angiotensin I is converted to angiotensin II.
+- Angiotensin II narrows your blood vessels and stimulates the release of aldosterone.
+Reduced blood flow to your kidneys “mistakenly” triggers the renin-angiotensin-aldosterone system, which results in excess aldosterone in your body.
+Causes of reduced kidney blood flow and secondary hyperaldosteronism include:
+- Obstructive renal artery disease.
+- Renal hypertension.
+- Conditions that cause fluid retention (edema), such as heart failure, cirrhosis of the liver and nephrotic syndrome.
+Diagnosis and Tests
+How is hyperaldosteronism diagnosed?
+A healthcare provider will diagnose hyperaldosteronism with blood tests. However, many people never have hyperaldosteronism diagnosed because several conditions and risk factors can cause high blood pressure.
+General signs of hyperaldosteronism include medication-resistant high blood pressure and the following results of an electrolyte blood panel:
+- Mildly high sodium level (hypernatremia).
+- Mildly low magnesium level (hypomagnesemia).
+If your healthcare provider thinks you might have hyperaldosteronism based on these signs and your symptoms, they’ll likely order one of two blood tests: plasma renin concentration (PRC) or plasma renin activity (PRA).
+If you have primary hyperaldosteronism, your PRC and PRA levels will be lower than normal. In secondary hyperaldosteronism, the levels will be higher than normal.
+You may also need an aldosterone suppression test. This test involves consuming a certain amount of sodium (salt) orally or through an IV over a certain amount of time. You’ll then provide urine (pee) samples over a 24-hour period so that a laboratory can measure the amount of aldosterone in your pee.
+If these tests confirm you have hyperaldosteronism, your provider will order additional tests to determine the cause. For example, they may recommend an imaging test such as a CT (computed tomography) scan to check for a tumor that could be causing hyperaldosteronism.
+Management and Treatment
+How is hyperaldosteronism treated?
+The treatment of hyperaldosteronism depends on what’s causing it. But the main goal is to manage your blood pressure.
+Healthcare providers usually recommend treating primary hyperaldosteronism caused by an adrenal gland tumor by surgically removing the tumor. In some cases, these tumors can be treated with only medication. Even after surgery, you might still have high blood pressure and need to take medicine to manage it.
+Providers treat secondary hyperaldosteronism by managing your blood pressure with medications and treating the underlying cause (such as heart failure).
+Medications that can help treat hyperaldosteronism include:
+- Spironolactone (Aldactone®).
+- Eplerenone (Inspra®).
+- Amiloride (Midamor®).
+People assigned male at birth may experience erectile dysfunction and gynecomastia (enlarged male breast tissue) with long-term use of medicines that block the effects of aldosterone, such as spironolactone.
+Prevention
+Can hyperaldosteronism be prevented?
+In most cases, there’s nothing you can do to prevent hyperaldosteronism.
+Outlook / Prognosis
+What is the prognosis of hyperaldosteronism?
+The prognosis of hyperaldosteronism varies depending on what caused it.
+The outlook for primary hyperaldosteronism is generally good if it’s diagnosed and treated early. The outlook for secondary hyperaldosteronism depends on the cause of the condition.
+The most common complications of hyperaldosteronism are cardiovascular issues caused by high blood pressure, including:
+- Atrial fibrillation.
+- Left ventricular hypertrophy.
+- Heart attack.
+- Stroke.
+Living With
+When should I see my healthcare provider about hyperaldosteronism?
+If you’ve been diagnosed with hyperaldosteronism, you’ll need to see your healthcare provider regularly to make sure your medication dosage is working.
+Visit a healthcare provider if you notice any new symptoms or if your symptoms are changing.
+A note from Cleveland Clinic
+Hyperaldosteronism is one of the many causes of high blood pressure. The good news is that it’s treatable. If you’re experiencing high blood pressure that’s resistant to treatment, talk to a healthcare provider about the possibility of having hyperaldosteronism. They can recommend some tests to check your health.

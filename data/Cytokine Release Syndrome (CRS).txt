@@ -1,0 +1,70 @@
+Cytokine Release Syndrome (CRS)
+Overview
+What is cytokine release syndrome?
+Cytokine release syndrome (CRS) — sometimes called cytokine storm or cytokine-associated toxicity — is a condition that develops when your immune system responds too aggressively to infection. It can also happen after certain types of immunotherapy, such as CAR T-Cell Therapy.
+With CRS, your body releases chemicals called cytokines. This process can result in a number of different symptoms and manifestations. People with CRS typically develop fever and a variety of other symptoms, which can affect multiple organs. Prompt treatment is key to reducing these exaggerated immune responses.
+Who does cytokine release syndrome affect?
+Cytokine storm may affect those who are receiving immunotherapy for cancer. These treatments include checkpoint inhibitors and CAR T-cell therapy.
+CRS can also develop as a result of infection. When your body comes into contact with a virus or other type of infection, it triggers your immune system. Sometimes, your immune system overreacts, releasing more cytokines than it should. This results in CRS.
+Cytokine release syndrome may also occur in people infected with COVID-19. This is part of the reason why some people develop life-threatening complications.
+People with autoimmune diseases and certain genetic syndromes may be more prone to developing CRS.
+What triggers cytokine release?
+Infection and immunotherapies are the two main triggers for cytokine release. While cytokine release is a desired response and normally beneficial, an excess of cytokines can lead to cytokine-associated toxicity.
+What is the effect of cytokine release?
+Cytokines are part of a healthy immune system. These small proteins help control the growth and activity of your blood cells and immune cells. Cytokines tell your immune system to do its job. But when too many cytokines are released, it can cause your immune system to go into overdrive, resulting in cytokine storm.
+Symptoms and Causes
+What are the symptoms of cytokine storm?
+Cytokine release syndrome symptoms can range from mild and flu-like to severe and life-threatening. They may include:
+- Fever.
+- Chills.
+- Tiredness.
+- Nausea and vomiting.
+- Diarrhea.
+- Headaches.
+- Cough.
+- Low blood pressure.
+- Joint pain.
+- Muscle pain.
+- Skin rash.
+- Shortness of breath.
+- Confusion (delirium).
+- Dizziness.
+- Difficulty swallowing.
+- Swelling (edema).
+Specific symptoms can vary depending on what body systems CRS affects. For example, if CRS affects your heart, you could have an increased heart rate, reduced heart function or an irregular heartbeat. If CRS affects your lungs, you could develop cough or shortness of breath. CRS may affect multiple organ systems at once, which can result in possible organ failure and death.
+Diagnosis and Tests
+How is cytokine release syndrome diagnosed?
+Cytokine storm is a complication of an underlying condition. Sometimes, the underlying condition is obvious. Other times, your healthcare provider may need to run more tests to determine a diagnosis.
+Your healthcare provider will perform an examination and ask you about your symptoms. They may also run a variety of tests, which could include blood tests (such as a complete blood count) or imaging tests (such as X-rays, CT scans or MRI).
+How will my healthcare provider determine the severity of my condition?
+Healthcare providers categorize CRS according to the severity of your symptoms. There are four cytokine release syndrome grades (1 – 4). The higher the number, the more serious the condition.
+Your healthcare provider takes the following factors into consideration when grading CRS:
+- Are symptoms life-threatening?
+- How much intervention is necessary to keep vitals stable?
+- Is ventilation required?
+- Is there organ toxicity? If so, how severe is it?
+Management and Treatment
+How is cytokine release syndrome treated?
+Cytokine release syndrome treatments may vary, depending on the needs of each person. First, your healthcare provider will give you medication to reduce inflammation. This may include corticosteroids or drugs that target specific cytokines (like siltuximab, tocilizumab and anakinra).
+Depending on your symptoms, other treatments may be necessary. These might include:
+- IV fluids.
+- Drugs to reduce fever.
+- Oxygen.
+- Mechanical ventilation.
+- Blood transfusions.
+- Dialysis.
+- Electrolyte management.
+- Medications to support your heart.
+How long does it take to recover from this treatment?
+It depends on several factors, including the cause and severity of CRS. People who develop CRS as a result of immunotherapy usually recover in about one to two weeks.
+Prevention
+How can I reduce my risk for cytokine release syndrome?
+It’s not possible to prevent CRS as a result of infection. But people receiving immunotherapy may be able to reduce their risk for CRS by decreasing their medication dosage.
+Outlook / Prognosis
+What can I expect if I have cytokine release syndrome?
+If you have cytokine release syndrome, your medical team will come up with a treatment plan that targets your specific symptoms. They’ll monitor your vital signs closely and use a wide range of treatments to keep you stable and comfortable.
+Living With
+When should I see my healthcare provider?
+If you have lingering flu-like symptoms — such as fever, headache, chills and nausea — call your healthcare provider immediately or head to your nearest emergency room. With CRS, your symptoms can worsen and become dangerous very quickly. So, timely treatment is essential.
+A note from Cleveland Clinic
+Cytokine release syndrome is a cluster of immune response symptoms that can cause potentially life-threatening symptoms. It’s important to call your healthcare provider at the first sign of trouble. Being diagnosed with CRS can be scary. But prompt treatment gives you the best chance of a full recovery.

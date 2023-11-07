@@ -1,0 +1,76 @@
+Hypergastrinemia
+Overview
+What is hypergastrinemia?
+Hypergastrinemia occurs when levels of a hormone that helps with digestion (gastrin) are higher than normal. Cells inside the lower part of your stomach lining near your small intestine (G cells) produce gastrin.
+Gastrin stimulates your stomach to release acid (gastric acid). Gastric acid helps your body digest food and absorb nutrients, such as amino acids and proteins.
+Hypergastrinemia can cause either high levels of stomach acid (hyperchlorhydria) or low levels of stomach acid (hypochlorhydria). How hypergastrinemia may affect you depends on what other conditions you have, what surgeries you’ve had and which medications you take.
+Who does hypergastrinemia affect?
+Anyone at any age and of any gender can have hypergastrinemia.
+Symptoms and Causes
+What causes hypergastrinemia?
+Sometimes hypergastrinemia results in less production of stomach acid. The most common causes of this type of hypergastrinemia include:
+- Antacid medications for heartburn or GERD.
+- Chronic atrophic gastritis, inflammation of your stomach lining over a long time.
+- Colorectal (colon) cancer.
+- pylori infection.
+- Kidney failure.
+- Use of proton pump inhibitors (PPI) for acid reflux, gastritis, indigestion, or peptic ulcer disease.
+- Vagotomy, surgery to remove part of your vagus nerve. This long nerve runs from your brainstem to your abdomen. It carries signals to your heart and digestive system.
+Sometimes hypergastrinemia results in more production of stomach acid. The most common causes of this type of hypergastrinemia include:
+- Antral G-cell hyperplasia (pseudo-Zollinger-Ellison syndrome, or Ps-ZES), a rare disease similar to ZE syndrome but without gastrin-producing tumors in the pancreas or first section of your small intestine (duodenum).
+- Gastric outlet obstruction, which blocks the passageway between your stomach and your small intestine.
+- Multiple endocrine neoplasia type-1 (MEN-1), which causes your adrenal gland, thyroid or parathyroid to form neuroendocrine tumors.
+- Retained antrum syndrome, which can occur after surgery to the lower part of your stomach (antrum) to remove tumors or treat ulcer disease.
+- Zollinger-Ellison syndrome (ZES), in which tumors form and produce too much gastrin. ZE syndrome can lead to peptic ulcers.
+What are the symptoms of hypergastrinemia?
+The main symptoms of hypergastrinemia include:
+- Abdominal pain.
+- Chronic diarrhea.
+- Pancreatic tumors, which can be cancerous or non-cancerous.
+- Stomach ulcers.
+- Severe esophagitis.
+Diagnosis and Tests
+How is hypergastrinemia diagnosed?
+To diagnose hypergastrinemia, healthcare providers need to find out how much gastric acid you’re producing. They will use tests to measure your gastrin levels:
+If your provider suspects hypergastrinemia, they may do tests to rule out other conditions. These tests may include:
+- Secretin stimulation test: Your provider gives you an infusion of secretin, a hormone released by your duodenum. A large increase in your gastrin levels may indicate Zollinger-Ellison syndrome.
+- Stomach pH testing: Your provider measures the level of acid in your stomach. pH levels of less than 2 may indicate Zollinger-Ellison syndrome.
+Management and Treatment
+How is hypergastrinemia treated?
+Treatment for hypergastrinemia depends on the cause:
+- Colorectal cancer, gastric outlet obstruction, kidney disease, MEN-1 and ZE syndrome: Surgery that treats these conditions will also treat hypergastrinemia symptoms.
+- ACG and H. pylori infection: Antibiotics can help to treat these conditions.
+- Proton-pump inhibitors: Stopping PPI usually reverses hypergastrinemia in five to seven days.
+- Retained antrum syndrome: Getting rid of the remaining lower stomach (antral) tissue can lower excess stomach acid.
+Talk to your healthcare provider about the best treatments for your specific situation.
+Prevention
+How can I reduce my risk of hypergastrinemia?
+If you use antacids or PPI long-term, talk to your healthcare provider about how to manage any increased risk of hypergastrinemia.
+Outlook / Prognosis
+What can I expect if I have hypergastrinemia?
+Untreated hypergastrinemia creates increased amounts of gastrin. Researchers suspect this may lead to the growth of cancers such as:
+- Blood cancers, such as leukemia, lymphoma and multiple myeloma.
+- Esophageal cancer.
+- Pancreatic cancer.
+Long-term hypergastrinemia may also lead to tumors in your stomach (gastric carcinoids or gastric adenocarcinoma). The two types of gastric carcinoids it may lead to are:
+Type I gastric carcinoids, which link to chronic atrophic gastritis and are usually:
+- Found in women.
+- Located in many places in your stomach.
+- Not likely to be cancerous.
+Type 2 gastric carcinoids, which link to ZES and MEN-1 and are:
+- Found in men and women.
+- Located in many places in your stomach.
+- Sometimes cancerous (in 7% to 12% of cases).
+What is the outlook if I have hypergastrinemia?
+The outlook for people with hypergastrinemia depends on the cause of the condition as well as a person’s:
+- Genetics
+- Health history.
+- Lifestyle.
+With proper treatment, people with hypergastrinemia can live active lives.
+Living With
+How do I take care of myself with hypergastrinemia?
+If you take antacids or use PPI long-term, get regular checkups from your healthcare provider.
+When should I see my healthcare provider?
+If you experience any new or worsening symptoms, see your healthcare provider for a full evaluation.
+A note from Cleveland Clinic
+Hypergastrinemia occurs when levels of gastrin become higher than usual. Gastrin is a hormone that affects the levels of gastric acid in your stomach. These acid levels can be either higher or lower than normal. Hypergastrinemia has many causes, including long-term use of PPIs and antacids, H. pylori infection, gastritis and Zollinger-Ellison syndrome. Your provider will measure your gastrin levels to diagnose hypergastrinemia. Treatment involves managing the underlying cause. Untreated hypergastrinemia may lead to tumors and cancer.

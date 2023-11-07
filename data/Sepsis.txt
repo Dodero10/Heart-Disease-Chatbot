@@ -1,0 +1,124 @@
+Sepsis
+Overview
+What is sepsis?
+Sepsis is a life-threatening medical emergency caused by your body’s overwhelming response to an infection. Without urgent treatment, it can lead to tissue damage, organ failure and death.
+Sepsis definition
+Sepsis is your body’s extreme reaction to an infection. When you have an infection, your immune system works to try to fight it. But sometimes your immune system stops fighting the infection and starts damaging your normal tissues and organs, leading to widespread inflammation throughout your body.
+At the same time, an abnormal chain reaction in your clotting system can cause blood clots to form in your blood vessels. This reduces blood flow to the different organs of your body and can cause significant damage or even failure.
+What are the three stages of sepsis?
+Healthcare providers used to organize sepsis into three stages: sepsis, severe sepsis and septic shock. Now, they identify the condition on a more fluid scale. This scale ranges from infection and bacteremia (bacteria in your bloodstream) to sepsis and septic shock, which can lead to dysfunction of multiple organs and even death.
+Who does sepsis affect?
+Sepsis can affect anyone, but people with any kind of infection, especially bacteremia, are at a particularly high risk.
+Other people who are at a high risk include:
+- People older than 65 years old, newborns and infants, and pregnant people.
+- People with medical conditions such as diabetes, obesity, cancer and kidney disease.
+- People with weakened immune systems.
+- People who are in the hospital for other medical reasons.
+- People with severe injuries, such as large burns or wounds.
+- People with catheters, IVs or breathing tubes.
+How common is sepsis?
+More than 1.7 million people in the United States receive a diagnosis of sepsis each year. There are differences in sepsis rates among different demographic groups. Sepsis is more common among older adults, with incidence increasing with each year after the age of 65 years old.
+Symptoms and Causes
+What are the symptoms of sepsis?
+Sepsis can affect many different areas of your body, so there are many possible symptoms.
+If an infection such as blood poisoning (septicemia) triggered your condition, you may develop a sepsis rash on your skin. The rash makes your skin appear red and discolored. You may see small, dark-red spots on your skin.
+Other common sepsis symptoms include:
+- Urinary issues, such as reduced urination or an urge to urinate.
+- Low energy/weakness.
+- Fast heart rate.
+- Low blood pressure.
+- Fever or hypothermia (very low body temperature).
+- Shaking or chills.
+- Warm or clammy/sweaty skin.
+- Confusion or agitation.
+- Hyperventilation (rapid breathing) or shortness of breath.
+- Extreme pain or discomfort.
+What causes sepsis?
+Bacterial infections are one of the most common causes of sepsis. Fungal, parasitic and viral infections are also potential sepsis causes. You can get sepsis when an infection triggers a chain reaction throughout your body causing organ dysfunction.
+The infection leading to sepsis can start in many different parts of the body. Common sites and types of infections that can lead to sepsis include:
+Respiratory system
+- Infections involving your lungs, such as pneumonia.
+Urinary tract system
+- Urinary tract infections are especially likely if you have a catheter.
+Gastrointestinal system
+- Infection of your appendix (appendicitis).
+- Bowel problems.
+- Infection in your abdominal cavity (peritonitis).
+- Gallbladder or liver infections.
+Central nervous system
+- Infections of your brain or spinal cord.
+Skin
+- Bacteria can enter your skin through wounds, inflammation or openings made with catheters and IVs.
+- Conditions such as cellulitis (inflammation of your skin’s connective tissue).
+Is sepsis contagious?
+Sepsis itself isn’t contagious — you can’t spread it to other people. But you can spread the infections that can cause sepsis.
+Diagnosis and Tests
+How is sepsis diagnosed?
+It’s very important to quickly identify people with infections that may go on to develop sepsis. There are no strict criteria to diagnose sepsis. That’s why providers use a combination of findings — from a physical exam, lab tests, X-rays and other tests — to identify the infection (blood cultures) and diagnose sepsis.
+Providers may sometimes suspect sepsis at bedside using the set of sepsis criteria — a tool called quick sequential organ failure assessment (qSOFA). You may have sepsis if you have confirmed or probable infection and at least two of the following criteria:
+- Low blood pressure: Systolic blood pressure (the top number) reading of less than 100 mmHg (millimeters of mercury).
+- High respiratory rate: Respiratory rate faster than 22 breaths per minute.
+- Glasgow coma scale: A score of 15 or less on the Glasgow coma scale, which determines your level of consciousness.
+Providers will request a number of additional tests to identify your infection and any organ damage or dysfunction. These tests may include:
+- Blood tests: Complete blood count (CBC), blood cultures, tests to check for abnormal liver and kidney function, clotting problems and electrolyte abnormalities.
+- Blood oxygen level: A test to evaluate the level of oxygen in your blood.
+- Urine tests: Urinalysis and urine culture.
+- Imaging tests: X-rays or CT scans.
+Management and Treatment
+How do you treat sepsis?
+Sepsis treatment needs to begin immediately. The most important concern in sepsis protocol is a quick diagnosis and prompt treatment.
+If your provider diagnoses you with sepsis, they’ll usually place you in the intensive care unit (ICU) of the hospital for special treatment. You may receive the following treatment for sepsis:
+- Antibiotics: You’ll receive antibiotics if you have a bacterial infection.
+- IV (intravenous) fluids: You’ll need fluids to maintain blood flow to your organs and prevent your blood pressure from dropping too low.
+- Vasopressor medications: Vasopressors tighten blood vessels. In some cases, you may need them to reach an adequate blood pressure.
+- Appropriate supportive care: If organ failures occur, you’ll need other sepsis treatments such as dialysis for kidney failure or mechanical ventilation for respiratory failure.
+- Surgery: You may need surgery to remove damaged tissue.
+Prevention
+How can I help prevent sepsis?
+Steps you can take to prevent sepsis include:
+- Practicing good hygiene, including handwashing.
+- Keeping cuts and other wounds clean, and keeping them covered until healed.
+- Keeping up to date on recommended vaccines.
+- Getting routine medical care for chronic conditions.
+- Getting medical attention immediately if you suspect an infection.
+Outlook / Prognosis
+What is the outlook (prognosis) for sepsis?
+With quick diagnosis and treatment, many people with mild sepsis survive. Without treatment, most people with more serious stages of sepsis will die. Even with treatment, 30% to 40% of people with septic shock, the most severe stage of sepsis, will die.
+How long does it take to die from sepsis?
+Septic shock can cause death in as little as 12 hours.
+What is the life expectancy for someone after surviving sepsis?
+Many people die in the months and years after surviving sepsis. But researchers don’t know if the increased risk of death is due to previously having sepsis or having an underlying health condition.
+Because of this and other factors, research studies show varying rates of life expectancy after sepsis. These rates range widely but typically show that more than half of all sepsis survivors will die within five years.
+What are the long-term complications of sepsis?
+With prompt treatment, many people with sepsis recover completely and return to leading normal lives. But others may experience long-term effects. You may develop complications such as:
+- Insomnia.
+- Nightmares or hallucinations.
+- Panic attacks.
+- Joint and muscle pain.
+- Decreased cognitive functioning (learning, remembering, concentrating and making decisions).
+- Organ failure.
+You’re also at a higher risk of developing sepsis again. So, make sure to have any new infections treated immediately.
+Living With
+What will recovery be like if I survive sepsis?
+If you survive sepsis, you’ll more than likely need rehabilitation before returning home. Your body has been through a lot. Healthcare providers will help you restore your health, and you’ll slowly learn how to take care of yourself again. Even just sitting up and standing at first may be difficult, depending on your condition. You’ll work with a provider to get your body up and moving and practice getting yourself to the bathroom and bathing yourself. Once you’ve regained your strength and restored your mobility, you’ll be able to go home.
+What will happen when I get home?
+You’ll need to give your body, mind and soul time to recover. When you get home, you may experience some unpleasant symptoms. Physical effects may include:
+- Fatigue and weakness.
+- Shortness of breath.
+- Body aches and pains.
+- Trouble moving around and sleeping.
+- Lack of appetite and/or weight loss.
+- Dry, itchy skin.
+- Brittle nails.
+- Hair loss.
+Mental and emotional effects may include:
+- Wanting to be alone.
+- Flashbacks.
+- Poor concentration.
+- Anxiety and/or depression.
+- Frustration and anger.
+- Confusion.
+What can I do at home to help in my recovery?
+Your healthcare provider will help you develop a plan to continue in your recovery. At first, you’ll work on small, achievable goals such as bathing and dressing. You’ll work to rebuild your physical strength, but it’ll also be important to take care of your mental health. Talk to your family, friends and healthcare providers about how you’re feeling. It’ll take some time, but eventually, you should start to feel like yourself again.
+A note from Cleveland Clinic
+Sepsis is a life-threatening medical emergency. To avoid sepsis, make sure to get treatment for any infections immediately. If you delay treatment, a simple infection could lead to a deadly condition. If you have an infection that isn’t getting better or seems to be getting worse, seek medical care right away. Without treatment, sepsis can lead to severe complications and even death.

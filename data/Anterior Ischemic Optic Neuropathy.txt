@@ -1,0 +1,62 @@
+Anterior Ischemic Optic Neuropathy
+Overview
+What is anterior ischemic optic neuropathy?
+Anterior ischemic optic neuropathy (AION) is a sudden loss of vision due to an interruption of blood flow to the front (anterior) of the optic nerve, also known as the optic nerve head.
+The optic nerve’s job is to carry visual information from the eye to the brain, which assembles this information into images. About 1.2 million tiny fibers in the optic nerve rely on oxygen and nutrients supplied by surrounding blood vessels. Any interruption in blood supply can damage vision. The more the optic nerve is damaged, the greater the vision loss.
+Symptoms and Causes
+What are the symptoms of anterior ischemic optic neuropathy?
+There are 2 forms of AION, each with their own particular set of symptoms.
+Arteritic AION (A-AION) is a dangerous condition caused by inflammation of arteries supplying blood to the optic nerve. The inflammation is due to a condition known as giant cell arteritis (GCA) or temporal arteritis, which causes inflammation of medium- and large-sized arteries. GCA is potentially fatal and can damage the entire optic nerve head leading to permanent, massive vision loss if not diagnosed and treated quickly. A-AION is found 3 times more often in women than men, and most often affects those over the age of 55.
+GCA usually presents a number of symptoms before any loss of vision occurs. About 80% of those affected will feel unwell for some time with any of the following:
+- Pain in the temples.
+- Pain when chewing.
+- Scalp pain or tingling.
+- Neck pain.
+- Muscle aches and pains, particularly in the upper legs or arms.
+- General fatigue.
+- Loss of appetite.
+- Unexplained loss of weight.
+- Fever.
+In a less common form of GCA known as occult giant cell arteritis, no symptoms are present.
+The key vision-related symptom of A-AION is painless, temporary blurriness or loss of vision lasting several minutes or hours before vision loss becomes permanent. This temporary vision loss should be taken as a warning signal. Whether 1 or both eyes are permanently affected depends on how soon the patient is seen by an eye doctor, how soon a diagnosis is made, and how quickly treatment begins.
+Nonarteritic AION (NA-AION) is the most common form of AION. The majority of those affected are over the age of 50; 10% of cases are in people over age 45. However, the condition can appear at any age. Both men and women have the same rates of occurrence. NA-AION is caused not by inflammation of the arteries but by one of the following: (1) a drop in blood pressure to such a degree that blood supply to the optic nerve is decreased; (2) increased pressure inside the eyeball; (3) narrowed arteries; (4) increased blood viscosity (thickness); or (5) decreased blood flow to the optic nerve where it leaves the back of the eye. A number of diseases or conditions can cause these risk factors, putting a person at greater risk of developing NA-AION.
+Risk factors include:
+- High blood pressure.
+- Diabetes mellitus.
+- High cholesterol.
+- Smoking.
+- Sleep apnea.
+- Heart disease.
+- Blocked arteries.
+- Anemia or sudden blood loss.
+- A sudden drop in blood pressure.
+- Sickle cell trait.
+- Vasculitis (inflammation of a blood vessels).
+The main symptom of NA-AION is a sudden, painless loss or blurring of vision in one eye, usually noticed upon waking from a night’s sleep or even a nap. It is believed that the body’s normal drop in blood pressure during sleep ― along with one or more underlying risk factors ― triggers an interruption of blood flow to the optic nerve.
+Note that there is no correlation between a person having poor eyesight (being nearsighted or farsighted) and the development of NA-AION.
+Diagnosis and Tests
+How is anterior ischemic optic neuropathy diagnosed?
+- Tests for visual acuity (clarity) and visual field (to gauge any central or peripheral vision loss).
+- Measurement of pressure within the eye (intraocular pressure).
+- A dilated eye exam to detect any damage to the optic nerve.
+- Measurement of overall blood pressure.
+- Obtaining both Erythrocyte Sedimentation Rate (ESR) and C-reactive protein (CRP) blood tests and platelet count (CBC).
+- Other blood work to detect conditions such as diabetes, vascular disease, anemia, or high cholesterol.
+- Biopsies of arteries in the temple area of the head to determine if arterial inflammation is present.
+- Injection of dye into arteries of the head for the purpose of fluorescein angiography, in which pictures of the blood vessels are taken to determine where blood flow may be interrupted.
+Management and Treatment
+How is anterior ischemic optic neuropathy treated?
+Treatment of NA-AION
+The focus of treatment is on the underlying cardiovascular disease or other risk factors that help trigger and aggravate NA-AION. This can help manage the condition and prevent additional loss of vision.
+Studies of several surgical and medical therapies have not shown any improvement in outcome for NA-AION compared to observation alone.
+Treatment of A-AION
+Management of A-AION is in effect the same as management of giant cell arteritis. In short, this means quick and accurate diagnosis followed by immediate emergency-level corticosteroid therapy. High doses of steroids are given for two to three weeks then tapered back over time, but a lifelong low-dose regimen is usually needed to prevent blindness. In all cases, the results of ESR and CRP tests — as well as patient symptoms ― should be relied on to guide the levels of steroids given.
+Prevention
+How can anterior ischemic optic neuropathy be prevented?
+Managing the risk factors associated with NA-AION is an important preventive measure.
+In addition, people who have risk factors should avoid the use of blood pressure-lowering medications or erectile dysfunction drugs before bedtime. The combination of such drugs along with the normal drop in blood pressure while sleeping could be enough to interrupt blood supply to the optic nerve.
+For A-AION, continued use of corticosteroids is recommended to avoid further loss of vision. Close follow-up with a rheumatologist is needed.
+Outlook / Prognosis
+What is the outlook for someone with anterior ischemic optic neuropathy?
+A-AION usually causes a greater degree of vision loss than NA-AION. The amount of loss will depend on the location and amount of optic nerve that is damaged. Some patients may have severe loss of vision in one eye only and retain use of the other eye, although there may be some loss of peripheral (side) vision. There may also be difficulty detecting contrasts between light and shade, as well as decreased color vision. A-AION often has minimal to no improvement.
+In NA-AION, about 40% of patients show some amount of improvement in central vision in the months after loss of vision or visual field, although 20-25% of patients with AION in 1 eye will develop AION in the other eye within 3 years. Only about 5% of patients will have multiple occurrences of AION in the same eye, and a small number of patients may find their vision worsening over time. This usually occurs after the first 2 to 3 weeks.

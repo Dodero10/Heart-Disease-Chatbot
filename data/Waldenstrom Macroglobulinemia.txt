@@ -1,0 +1,99 @@
+Waldenstrom Macroglobulinemia
+Overview
+What is Waldenstrom macroglobulinemia (WM)?
+Waldenstrom macroglobulinemia is a rare slow-growing cancer that affects your blood cells. It’s a type of non-Hodgkin’s lymphoma. (Healthcare providers may refer to this condition by the initials WM or the name lymphoplasmacytic lymphoma). WM happens when genetic mutations change certain blood cells, setting up a chain reaction of medical conditions that may be life-threatening. Providers can’t cure this condition, but they do have treatments that ease and sometimes eliminate its symptoms.
+Is Waldenstrom macroglobulinemia a common disease?
+No, it’s not common. It’s a very rare disease that affects about 5 people per 1 million in the United States. Healthcare providers diagnose an estimated 1,000 to 1,500 new cases each year. Waldenstrom macroglobulinemia typically affects people aged 65 and older. Men and people assigned male at birth are more likely to develop WM than women or people assigned female at birth. WM is more common in people who are white than in people in other ethnic groups.
+How does Waldenstrom macroglobulinemia affect my body?
+Waldenstrom macroglobulinemia starts in white blood cells called B-lymphocytes or B-cells that are under development in your bone marrow. Your bone marrow is the spongy center of your bones. It produces stem cells that eventually become red blood cells, white blood cells and platelets.
+In WM, B-cells turn into abnormal cells called lymphoplasmacytoid cells. This happens when two genes in certain proteins that manage B-cell activity mutate or change. When these genes mutate, they turn a single normal B-cell into an abnormal cell that reproduces more cells. The abnormal cells make unusually large amounts of an antibody protein known as immunoglobulin M (IgM or M protein).
+M protein thickens your blood, turning it from free-flowing fluid into a syrup-like liquid. This is hyperviscosity syndrome. This is a very rare condition unique to Waldenstrom macroglobulinemia. The thickened blood doesn’t flow easily through your body’s tiny blood vessels. Sometimes blood vessels tear, causing your nose, gums or the retinas in your eyes to seep (ooze) blood.
+At the same time, your bone marrow continues to fill up with abnormal cells. Normally, your B-cells mature and move into your bloodstream, where they eventually die and are replaced with more healthy B-cells. In WM, abnormal cells stay in your bone marrow, where they keep multiplying and do not die. Just like people piling into a subway car until there’s no room for any new passengers, abnormal blood cells crowd your bone marrow, leaving no space for normal blood cells to develop. Here’s what may happen then:
+- You may develop anemia because your bone marrow can’t produce the normal amount of red blood cells. Anemia is a common symptom of Waldenstrom macroglobulinemia.
+- You may have more infections than usual because you don’t have the normal amount of neutrophils, which are infection-fighting white blood cells. Providers may call this neutropenia.
+- You may bleed and bruise more easily because you don’t have the normal number of platelets that help blood clot. Providers may call this thrombocytopenia.
+Left untreated, WM can be life-threatening. It may also cause complications including:
+- Amyloidosis: This condition happens when abnormal proteins build up in organs including your heart, lungs and kidneys.
+- Cryoglobulinemia: This condition happens when certain blood proteins that react to cold conditions gather in clumps in your hands and feet, causing pain and turning your hands and feet blue or white.
+Symptoms and Causes
+What are Waldenstrom macroglobulinemia symptoms?
+Some people have WM without having any symptoms. They may learn they have this condition while visiting their healthcare provider for other reasons. When WM does cause symptoms, they come on very gradually. The most common symptoms include:
+- Fatigue: This is feeling very tired. Fatigue is a common anemia symptom.
+- Fever.
+- Loss of appetite.
+- Night sweats.
+- Weakness.
+- Weight loss.
+- A tingling sensation in your fingers and toes. These may be symptoms of peripheral neuropathy.
+- Nosebleeds: Hyperviscosity or unusually thick blood may cause nosebleeds and bleeding gums. Thick blood may also cause dizziness and headaches.
+- Blurred vision or loss of vision: Hyperviscosity may change blood flow through blood vessels that serve your retina.
+- Enlarged liver or spleen.
+- Swollen lymph nodes.
+What causes Waldenstrom macroglobulinemia?
+Healthcare providers know genetic mutations or changes trigger Waldenstrom macroglobulinemia, but they don’t know what triggers the mutations. Providers have also identified risk factors that may increase the chance of developing Waldenstrom macroglobulinemia.
+Genetic mutations
+Waldenstrom macroglobulinemia is when your B-cell mutates into an abnormal cell. These abnormal cells multiply uncontrollably. They also don’t mature and die like normal cells. Eventually, abnormal cells outnumber normal cells. These genetic changes don’t pass down from parent to child and appear to happen later in life. Researchers are investigating what triggers the changes.
+Approximately 90 % of people diagnosed with WM have abnormal B-cells that mutated or changed while the cells were developing in their bone marrow. The mutation involves the MYD88 gene. This gene gives instructions to the MYD88 protein. The MYD88 protein serves as communications central for proteins inside and outside immune cells. When the MYD88 protein mutates, it goes into overdrive, creating many abnormal cells that in turn create more proteins that are abnormal. About 40% of people who have Waldenstrom macroglobulinemia also have changes to their CXCR4 gene. This gene provides instructions for making a protein that plays a role in regulating how quickly white blood cells grow, divide and migrate from your bone marrow into your bloodstream. When the CXCR4 gene mutates, it makes proteins that help the abnormal cells in Waldenstrom macroglobulinemia continue to multiply.
+WM risk factors
+Age, family history, gender and a pre-existing condition are all risk factors that may increase the chance someone will develop Waldenstrom macroglobulinemia. Here is information about people who may have personal characteristics or conditions that increase their risk:
+- They’re 65 and older.
+- They’re white.
+- They’re male or were born male.
+- They have hepatitis C.
+- They have Acquired Immunodeficiency Syndrome (AIDS).
+- They have Sjögren's Syndrome.
+- They have monoclonal gammopathy of undetermined significance (MGUS). MGUS is a precursor for WM. Some people with MGUS go on to develop WM. But, just because you have MGUS, it doesn’t mean that you’ll develop WM.
+- They have biological family members who have WM or who have other kinds of lymphoma.
+- They were exposed to certain solvents, dyes and pesticides.
+Diagnosis and Tests
+How do healthcare providers diagnose Waldenstrom macroglobulinemia?
+Providers may use several tests to diagnose this condition:
+- Blood and urine tests: Providers examine blood and urine samples for signs of WM, including low blood cell counts and high levels of immunoglobulin M (IgM).
+- Imaging tests: These tests take pictures of the inside of your body, including X-rays and computed tomography (CT) scans. They can show signs of WM such as enlarged lymph nodes.
+- Electrophoresis: This laboratory technique separates protein molecules based on their size and electrical charge. This test lets providers examine samples for signs of abnormal proteins.
+- Bone marrow biopsy: Providers examine bone marrow samples under a microscope to see if there are lymphoma cells in your bone marrow.
+Management and Treatment
+How do healthcare providers treat Waldenstrom macroglobulinemia?
+If you have WM but don’t have symptoms, your provider may not start treatment right away. This is watchful waiting. Some people may have Waldenstrom macroglobulinemia without symptoms and may not need treatment for years.
+When treatment is necessary, it varies according to the patient. Treatment options for WM include:
+- Plasmapheresis(plasma exchange): Providers use a special machine that filters abnormal M proteins from your plasma, the liquid part of blood. They return the plasma to your bloodstream. Providers may use this treatment to ease symptoms caused by thickening blood.
+- Chemotherapy: Providers may prescribe cancer-killing medication.
+- Immunotherapy: This treatment uses your body’s immune system to destroy or slow the growth of WM cells.
+- Targeted therapy: This treatment uses medications that target specific changes happening inside cancer cells without harming healthy cells.
+- Radiation therapy: This treatment uses strong beams of energy to destroy cancer cells
+- Stem cell transplant (also called bone marrow transplant): Providers replace bone marrow affected by abnormal cells with healthy bone marrow.
+Prevention
+Can Waldenstrom macroglobulinemia be prevented?
+Waldenstrom macroglobulinemia happens when certain genes mutate, and you can’t prevent that mutation from happening. There are risk factors that may increase your chance of developing this condition. If you’re concerned you may be at risk, ask your healthcare provider to evaluate your situation so you know what to expect.
+Outlook / Prognosis
+Can Waldenstrom macroglobulinemia be cured?
+Healthcare providers can’t cure Waldenstrom macroglobulinemia, but they do have treatments that ease symptoms. In some cases, treatments may eliminate WM symptoms for months or years.
+How long do people live with WM?
+Everyone’s situation is different, particularly with a slow-growing condition like Waldenstrom macroglobulinemia. Studies show that 75% of people who have this condition are alive five years after they’re diagnosed. If you have questions about your situation, talk to your healthcare provider. They know you and the circumstances that may affect your prognosis.
+Living With
+I have Waldenstrom macroglobulinemia. What should I expect?
+Living with Waldenstrom macroglobulinemia differs depending on your situation. If you have this condition but don’t have symptoms, your healthcare provider may recommend regular checkups so they can monitor your overall health. If you’ve been diagnosed and are being treated because you have symptoms, your provider may schedule follow-up appointments every few weeks to monitor your progress and help you manage any treatment side effects.
+When should I contact my healthcare provider?
+Contact your provider if you have the following symptoms:
+- You have signs of any type of infection.
+- You are extremely tired.
+- You have unusual bruising.
+- You have confusion or other symptoms that seem to affect your ability to think clearly.
+- You have any symptom that is new or is bothering you.
+What can I do to take care of myself?
+Whether you’re being treated, are in remission or don’t have symptoms, there are many things you can do to support your overall health and help with your condition. Here are some suggestions:
+- Avoid infections: Wash your hands frequently and avoid touching your hands to your face. Avoid close contact with people who may be sick from colds, flu or other infectious diseases. Keep up to date on your flu, pneumonia and any other vaccinations your healthcare provider recommends.
+- Eat a healthy, well-balanced diet: In addition to balancing proteins and carbohydrates, take time to wash raw fruits and vegetables and cook meat and seafood to the proper temperature.
+- Get or stay physically fit: Providers believe exercise may help people have fewer complications with treatment. Getting exercise may help you manage the stress that often happens when you’re sick or worried about being sick. Talk to your provider if you’re thinking about adding exercise to your daily routine so you feel confident your exercise routine will help.
+- Do your best to get enough rest.
+- Find support: Waldenstrom macroglobulinemia is a rare illness. You may feel isolated or all alone with your condition. Connecting with people who have this condition may help.
+Additional Common Questions
+Waldenstrom macroglobulinemia affects people in many different ways, and not everyone who has this condition has the same experience. Talk to your healthcare provider about your situation. Here are a few questions to consider:
+- How serious is WM, and how will it affect my life?
+- What are my short-term and long-term prognoses?
+- Do I need treatment right away?
+- What type of treatment do you recommend?
+- What are treatment side effects?
+A note from Cleveland Clinic
+Waldenstrom macroglobulinemia (WM) is a rare disease that happens when certain genes mutate, creating changes in your blood. Waldenstrom macroglobulinemia usually affects people 65 and older, causing symptoms like fatigue that some people may dismiss as simply signs they’re growing old. Left untreated, this disease may cause life-threatening medical issues.
+Fortunately, healthcare providers have treatments to ease and possibly eliminate Waldenstrom macroglobulinemia symptoms. If you’re concerned about developing this condition, ask your provider about any risk factors that may increase the chance you’ll have Waldenstrom macroglobulinemia. If you have this condition, it may help to know providers can treat and maybe eliminate your symptoms for years to come.

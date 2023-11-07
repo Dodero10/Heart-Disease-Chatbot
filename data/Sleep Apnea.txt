@@ -1,0 +1,167 @@
+Sleep Apnea
+Overview
+What is sleep apnea?
+Sleep apnea is a condition that causes you to stop breathing while you’re sleeping. The word “apnea” comes from the Greek word for “breathless.” Sleep apnea happens because you stop breathing in your sleep. This happens either because of blockage of your airway (obstructive sleep apnea) or because your brain doesn’t correctly control your breathing (central apnea).
+The resulting lack of oxygen activates a survival reflex that wakes you up just enough to resume breathing. While that reflex keeps you alive, it also interrupts your sleep cycle. That prevents restful sleep and can have other effects, including putting stress on your heart that can have potentially deadly consequences.
+Who does sleep apnea affect?
+Sleep apnea can happen to anyone, ranging from infants and children to older adults. Obstructive sleep apnea is more common in certain circumstances and groups of people:
+- Before age 50, it’s more common in men and people assigned male at birth (AMAB). After age 50, it affects women and people assigned female at birth (AFAB) at the same rate.
+- People are more likely to develop it as they get older.
+- Having excess weight or obesity strongly increases the risk of developing it.
+- It’s more common in people who are Black, Hispanic or of Asian descent.
+Central sleep apnea is most common in certain groups of people:
+- People who take opioid pain medications.
+- Adults over 60 years old.
+- People with heart conditions such as atrial fibrillation or congestive heart failure.
+- For some people using CPAP or who have obstructive sleep apnea, this can trigger the development of central events knowns as treatment-emergent central sleep apnea.
+- When people live at high altitudes, this can cause central apneas to occur.
+How common is sleep apnea?
+Sleep apnea is uncommon but widespread. Experts estimate it affects about 5% to 10% of people worldwide.
+How does sleep apnea affect my body?
+To understand how sleep apnea works, it helps to know a little bit about the human sleep cycle. Sleep happens in multiple stages:
+- Stage 1: Light sleep. This is a short stage that begins right after you fall asleep. It accounts for about 5% of your total sleep time.
+- Stage 2: Deeper sleep. This stage is deeper and makes up about 45% to 50% of all the time you spend sleeping (this number goes up as you get older).
+- Stage 3: Slow wave sleep. This is the deepest sleep stage, making up about 25% of the time you spend sleeping (this number goes down with age). It’s very hard to wake someone up in stage 3 sleep, and waking up directly from it usually causes “sleep inertia,” a state of “mental fog” and slowed thinking. Parasomnias like sleepwalking and sleeptalking happen in this stage.
+- REM sleep: REM stands for “rapid eye movement.” This stage is when you dream. When a person is in REM sleep, you can see their eyes moving beneath their eyelids.
+When you fall asleep, you typically enter Stage 1, and then move into and cycle between Stages 2 and 3. After cycling between those stages, you’ll ultimately go into REM sleep and start dreaming. After the first REM cycle, you start a new cycle and go back into Stage 1 or 2. One cycle normally takes about 90 to 110 minutes before another begins. Most people go through four or five cycles per night (assuming they get a full eight hours of sleep).
+How sleep apnea disrupts your sleep cycle
+Your brain constantly monitors your body’s status and adjusts your heart rate, blood pressure, breathing, etc. Your blood oxygen levels can drop when you stop breathing because of either apnea or hypopnea.
+- Apnea: This is when you stop breathing while asleep or have almost no airflow. It combines the Greek roots “a,” which means “not” and “pnea,” which refers to breathing. Combined, it means “breathless.”
+- Hypopnea: This combines Greek word roots “hypo” and “pnea.” The root “hypo” means “low” or “under.” Combining these root words means “under-breathing” or “low breathing,” which means you aren’t breathing enough to maintain oxygen levels in your blood.
+Your brain reacts to blood oxygen drops — from either apnea or hypopnea — by triggering a failsafe-like reflex, waking you up enough for you to breathe again. Once you resume breathing, your brain automatically tries to resume your sleep cycle.
+The more severe your sleep apnea is, the more often you’ll these interruptions happen. The apnea/hypopnea index (AHI) is the average hourly number of apnea or hypopnea events — times when a person stops breathing. The AHI is the main factor determining the severity of sleep apnea. The severity is as follows:
+- Mild sleep apnea: This level means a person has an AHI between 5 and 15. That means they have between 5 and 15 apnea or hypopnea events per hour. However, healthcare providers also consider symptoms at this level. If you don’t have other symptoms, they may not consider it severe enough to treat.
+- Moderate sleep apnea: People with moderate sleep apnea have between 15 and 29 events per hour. That means a person who sleeps eight hours stops breathing and/or wakes up between 120 and 239 times.
+- Severe sleep apnea: People with severe sleep apnea wake up 30 or more times in an hour. That means they stop breathing and/or wake up 240 times or more during a full eight hours of sleep.
+Obstructive events, which are very short-lived, can affect any stage of sleep. They’re most common in Stage 1, Stage 2 and REM sleep. That’s why it’s common for people to not remember apnea events, which means they may not know they have a problem until the symptoms are noticeable. Central events are most common in Stages 1 and 2 of sleep but can occur during any stage.
+Symptoms and Causes
+What are the symptoms of sleep apnea?
+Sleep apnea has many symptoms, some of which are easier to spot than others. The symptoms include:
+- Feeling tired or even exhausted when waking up. Even after a full night’s sleep, people with sleep apnea commonly feel extremely tired.
+- Daytime sleepiness. In more severe cases, this can cause drowsiness during driving, working or other activities.
+- Snoring. This is a common feature with sleep apnea (but it isn’t something that happens in all cases). You can also have sleep apnea without snoring at all.
+- Mood changes. Depression and anxiety are common symptoms of sleep apnea.
+- Disruptions in brain function. These can include memory loss, trouble concentrating or other brain-related issues.
+- Waking up repeatedly in the middle of the night. This symptom might be harder to notice because people usually don’t remember waking up or why they woke up. People who do this often remember waking up for another reason, like heartburn or needing to go to the bathroom.
+- Pauses in breathing while asleep that others witness.A spouse, partner or other loved one may notice these symptoms while you’re asleep.
+- Unusual breathing patterns. Cheyne-Stokes breathing (CSB) is a distinctive breathing pattern that can happen with central sleep apnea. CSB causes fast breathing that gets deeper and then shallower again until breathing stops altogether. After not breathing for several seconds, they’ll start breathing again, then, starting the pattern all over again.
+- Insomnia.
+- Night sweats and feeling restless at night.
+- Sexual dysfunction.
+- Waking up feeling short of breath or like you’re choking.
+- Headaches, especially when waking up.
+Sleep apnea in children
+Sleep apnea in children can happen in slightly different ways. The symptoms of sleep apnea in children include:
+- Hyperactivity or trouble focusing or performing poorly in school. This can look like symptoms of attention-deficit/hyperactivity disorder (ADHD).
+- Loud snoring.
+- Bedwetting.
+- Frequent arm or leg movements while asleep.
+- Sleeping in unusual positions or sleeping with their neck extended.
+- Reflux (heartburn) or night sweats.
+What causes sleep apnea?
+Sleep apnea usually has specific causes, and there’s evidence that it may run in families. Overall, there are three main forms of sleep apnea, with some differences in how and why they happen. The types are:
+- Obstructive sleep apnea (OSA).
+- Central sleep apnea (CSA).
+- Mixed/complex sleep apnea.
+Obstructive sleep apnea (OSA)
+This is the more common form. Obstructive sleep apnea happens when muscles in your head and neck relax while you’re asleep, causing the surrounding tissue to press on your windpipe. That obstructs air’s ability to pass through it.
+Central sleep apnea
+This form of sleep apnea happens because of a problem in your brain. Under ordinary circumstances, your brain manages your breathing all the time, including while you sleep. Central sleep apnea happens when your brain doesn’t send signals to keep breathing-related muscles working.
+Central sleep apnea can happen for many reasons, including:
+- Heart failure.
+- Low blood oxygen levels (hypoxia) because of high altitude.
+- Nervous system damage, especially in your brainstem (which is what manages your breathing) or parts of your spinal cord.
+- Treating obstructive sleep apnea initially with CPAP (this typically goes away with consistent CPAP use).
+- Nervous system conditions like amyotrophic lateral sclerosis (ALS, also known as Lou Gehrig’s disease).
+Mixed/complex sleep apnea
+There’s also a mixed/complex type of sleep apnea. This form has a combination of both obstructive events and central events.
+Diagnosis and Tests
+How is sleep apnea diagnosed?
+Diagnosing sleep apnea usually involves a healthcare provider asking questions about your symptoms and history. If they suspect sleep apnea based on your symptoms and answers, they’ll likely want you to undergo testing for sleep apnea.
+What tests will be done to diagnose sleep apnea?
+The most common tests for sleep apnea include:
+- Overnight sleep study (polysomnogram). This is an overnight test where you sleep in a medical facility (often known as a “sleep lab”) that’s specially equipped to be as comfortable as possible while still monitoring your sleep. This test involves sensors that monitor your heart rate, breathing, blood oxygen levels, brain waves and more. Experts consider this test the gold standard for diagnosing sleep apnea.
+- Home sleep apnea testing. This form of testing allows a person to complete a sleep study from home. It’s similar to an overnight sleep study, but doesn't involve brain wave monitoring. This test can’t diagnose central sleep apnea, and it’s usually not an option when providers suspect more severe sleep apnea, or if you have other sleep disorders or medical conditions. Often, when a home study doesn’t show sleep apnea, experts recommend confirming this with an overnight sleep study.
+Management and Treatment
+How is sleep apnea treated, and is there a cure?
+There are many approaches to treating sleep apnea, depending on the specific type of sleep apnea and how severe it is. While none of these is a cure, they can help prevent apnea events or reduce how often they happen or how severe they are.
+Many treatments should be a part of your daily (or nightly) routine. That can ultimately reduce or even eliminate sleep apnea’s effects on your life for as long as you use these treatments.
+Possible treatments include:
+- Conservative (nonmedical) treatments.
+- Positive airway pressure and adaptive ventilation devices.
+- Oral appliances (mouthpieces).
+- Nerve stimulators.
+- Surgery.
+- Medications (central sleep apnea only).
+Conservative treatments
+These nonmedical treatments or approaches can typically improve obstructive sleep apnea or resolve it. They aren’t cures, but they can reduce apnea to the point where it stops happening or isn’t severe enough to cause symptoms. These include:
+- Weight loss. A 10% decrease in body weight can significantly improve sleep apnea for people who have excess weight or obesity.
+- Position changes while sleeping and sleep aid items. Sleeping on your back makes sleep apnea more likely to happen. Special support pillows and similar items can help change the position in which you sleep, keeping you off your back so soft tissue doesn’t press on your windpipe and block breathing.
+- Nasal sprays, adhesive strips, etc.These over-the-counter products improve breathing by making it easier for air to travel through your nose. While they can’t help moderate or severe sleep apnea, they can sometimes help snoring and mild sleep apnea.
+- Treating the underlying condition.Treating conditions such as heart failure can often improve central sleep apnea.
+- Medication changes.Working with your doctor to decrease or stop opioid pain medications may be able to improve or even resolve central sleep apnea.
+Positive airway pressure (PAP) and adaptive ventilation
+Positive airway pressure is a method that uses a specialized device to increase the air pressure inside of your airway while you inhale. This method can treat obstructive, central and mixed sleep apneas.
+Pushing pressurized air down your windpipe keeps it open so you can breathe. These devices push air through a hose that attaches to a special mask you wear on your face while you sleep. Masks can cover your nose, mouth or both, and there are many different types and styles to choose from.
+The best-known PAP device is the Continuous Positive Airway Pressure (CPAP) machine. However, there are other types of PAP machines, too (see our CPAP Machine article for more about the different types of devices, including adaptive servo-ventilation devices). These devices increase the air pressure inside of your airway and lungs when you inhale, keeping surrounding tissue from pressing your airway shut.
+Oral devices
+Obstructive sleep apnea happens when soft tissue in your head or neck, especially around your mouth and jaw, press downward on your windpipe. Special mouthpiece devices can help hold your jaw and tongue in a position that keeps pressure off your windpipe. Dentists and sleep medicine specialists often work together to make these for people who need them.
+Nerve stimulators
+The hypoglossal nerve (the name comes from Greek and means “under the tongue”) is what controls your tongue’s movements. A nerve stimulator attached to this nerve can stimulate it, pushing your tongue slightly forward when you breathe while you’re sleeping. That keeps your tongue from relaxing and pressing backward on your windpipe while you sleep, which is one of the ways that obstructive sleep apnea happens.
+An electrode attaches to the nerve under your jaw and connects to a device implanted under the skin in your chest. You can turn the stimulator on before you sleep and turn it off after you wake up. The electrical current is strong enough to keep your tongue from relaxing too much, but mild enough that it’s not uncomfortable.
+A similar kind of nerve stimulation is also possible with central sleep apnea. This type of stimulation affects the phrenic nerves. This pair of nerves connect your spinal cord to the diaphragm, a layer of muscle underneath your lungs that controls your ability to inhale and exhale. Stimulating the phrenic nerve causes those muscles to flex, helping you breathe.
+Surgery
+Surgeries on your nose, mouth and throat can help prevent blockages of your nose, throat and windpipe. However, the impact of these in adults is usually limited and varies from person to person. These surgeries include:
+- Somnoplasty. This procedure uses radiofrequency (RF) to reduce soft tissue around the upper parts of your windpipe.
+- Tonsillectomy/adenoidectomy. Removing your tonsils and adenoids can widen the opening where your mouth, throat and nasal passages connect. That makes it easier for air to pass through and reduces soft tissue that can block your breathing. This procedure is most helpful for children with obstructive sleep apnea.
+- Uvulopalatopharyngoplasty (UPPP). This procedure removes your uvula (the teardrop-shaped soft tissue that hangs at the back of your mouth). It also removes soft tissue from your soft palate and pharynx. These widen the area where your mouth and throat meet, making it easier for air to pass through.
+- Jaw surgery. Different surgery procedures can subtly change the position of your jaw so soft tissue can’t easily press back on your airway. These procedures are especially helpful for people who have sleep apnea for structural reasons like micrognathia.
+- Nasal surgery. One common form of nasal surgery is septoplasty, which straightens the soft tissue in your nose, making it easier for air to travel through your nose and nasal passages.
+Medications for central sleep apnea
+In addition to positive airway pressure, adaptive ventilation and phrenic nerve stimulators, there are some medications that may help central sleep apnea. Some examples of these medications include hypnotic (sleep-promoting) medications, respiratory-stimulating drugs and more. However, none of these medications are formally approved or definitively accepted for this use.
+What can or can’t I eat or drink with sleep apnea?
+People who have sleep apnea should avoid heavy drinking, and frequent use of sleeping pills or other drugs (recreational and otherwise) that cause heavy sedation. These can make sleep apnea worse. Your healthcare provider can talk to you about drugs that can cause that and how you can avoid the effects.
+Complications/side effects of the treatment
+The complications and side effects of the treatments depend on many factors, especially the treatments themselves. Your healthcare provider is the best source of information for what you can do to minimize the side effects or prevent them when possible.
+How to take care of myself/manage symptoms?
+Sleep apnea is a condition that can severely disrupt your life and put you at risk for life-threatening complications and events (see more about these under the Outlook/Prognosis section below). Because of this, you shouldn’t try to self-diagnose or self-treat it. If you think you have sleep apnea, you should schedule an appointment with a sleep specialist or ask a primary care provider to refer you to a sleep specialist.
+How you can help with diagnosis
+If you suspect you or a loved one has sleep apnea, you might be able to help a healthcare provider diagnose it. Video and audio recordings of a person sleeping, especially where the provider can hear breathing, can give a provider key evidence they need to speed up the diagnostic process.
+How soon after treatment will I feel better?
+The time it takes to recover or feel better after treatment for sleep apnea depends on the treatments themselves. Some people will feel better almost immediately, while others may need three to six months of consistent nightly treatment to see the full benefits. Your healthcare provider can tell you more about the timeline for your recovery and when you should expect to feel better.
+Devices that treat sleep apnea, especially positive airway pressure devices, often bring very fast results. Older devices may take some tweaking and adjusting (a process known as “titration”) of the settings, but many newer devices can often adjust automatically to meet your needs (especially if your sleep apnea is mild or on the low end of moderate).
+While some people may need to get used to wearing a mask to sleep, most people can overcome that fairly quickly. Many people see improvements immediately when they sleep through the night using a positive airway pressure device.
+Prevention
+How can I reduce my risk or prevent sleep apnea?
+Sleep apnea is sometimes preventable, especially in cases where it happens because a person has excess weight or obesity. Still, some people maintain a healthy body weight or are underweight and still develop sleep apnea. For those individuals, a structural issue is usually the cause of their apnea, so they can’t prevent it.
+The best things you can do to reduce your risk of sleep apnea include:
+- Reach and maintain a healthy weight.
+- Practice good sleep hygiene.
+- Manage any existing health conditions, such as high cholesterol, high blood pressure and Type 2 diabetes.
+- See your healthcare provider at least once a year for a checkup.
+Outlook / Prognosis
+What can I expect if I have sleep apnea?
+Sleep apnea is a condition that can severely disrupt your life, and it increases your risk of several conditions that are life-threatening medical emergencies. Even if it doesn’t cause these dangerous complications, people with sleep apnea can’t get restful sleep, so they constantly feel tired. In the worst cases, this condition can make them so tired that they may fall asleep during the day, leading to accidents or causing problems with work, hobbies, social activities, etc.
+Dangerous complications of sleep apnea
+Sleep apnea is a dangerous condition because it can cause several different complications, many of which are severe or life-threatening. These include:
+- Heart damage and heart failure. Sleep apnea causes an increase in pressure in the blood vessels around your heart and on some of the chambers of your heart itself. That pressure increase puts a strain on your heart, ultimately causing damage to the heart muscle itself.
+- Arrhythmias, especially atrial fibrillation. Atrial fibrillation is a dangerous arrhythmia because it disrupts how blood flows through the upper left chamber of your heart. That disruption causes blood to pool and linger for too long. That can cause blood clots, which can then exit your heart and travel directly to your brain, causing a stroke.
+- Sudden cardiac death. Some arrhythmias that can happen with sleep apnea are especially severe and can stop your heart. That stoppage is a life-threatening condition known as sudden cardiac death.
+- Daytime drowsiness. While feeling sleepy during the daytime may not seem dangerous, it can be hazardous depending on what you’re doing. If you fall asleep while driving or operating dangerous machinery, that can have deadly implications for you or others around you.
+How long does sleep apnea last?
+Sleep apnea is a long-term, chronic condition. For some people, it’s possible to resolve it by reducing their weight or undergoing certain treatments. For others, it may be a lifelong condition.
+The outlook for sleep apnea
+The outlook for sleep apnea depends on many factors. The severity and type of sleep apnea make a difference. However, adhering to treatment is usually the biggest determining factor in how this condition affects your life.
+It’s critical to adhere to treatment closely. Using and sticking with treatments, especially ongoing ones like positive airway pressure devices, can make a huge difference. Many people stick with treatments like positive airway pressure devices for a month or so but then stop using them. That can increase the risk of complications and a negative outcome.
+Living With
+How do I take care of myself?
+There are several key steps you can take to manage this condition:
+- Make lifestyle changes as best you can. Changing how you live your life, especially regarding diet and physical activity, can be a challenge. Don’t feel ashamed to talk to your healthcare provider about these struggles. Not only are these common, but your healthcare provider can also likely help you minimize these or even overcome them.
+- Stick to your treatment plan closely. Ultimately, people who adhere to the treatments and make them a part of their routine — never or rarely missing a night — are more likely to have good outcomes and avoid severe or dangerous complications.
+- Talk to your provider about what you’re experiencing. You should talk to your provider if you struggle to stick to treatment because of issues with a PAP device. It’s common for people to have issues with how a PAP device mask fits, pressure settings, etc. Your provider can help you remedy these issues, stick to your treatments and get a good night’s sleep.
+- See your provider as recommended. Follow-up visits can be crucial, especially early on, to make sure your treatments are working as they should.
+When should I go to the ER?
+You should go to the ER if you notice any of the symptoms of a heart attack or stroke, both of which are more likely to happen with sleep apnea.
+A note from Cleveland Clinic
+Sleep apnea is a widespread condition that disrupts a person’s breathing while they sleep. That causes a person to wake up just enough to breathe, interrupting their sleep and keeping them from feeling rested. Over time, sleep apnea can lead to serious or even deadly complications, so early diagnosis and treatment are vital. This condition is often very treatable and there are many treatment options.
+The most common — and most effective — treatments, especially positive airway pressure devices, are meant for use every night. The best outcomes from these treatments are most likely to happen when you stick to them and make them part of your life every day without exception. If you’re struggling to stick to treatments, it’s absolutely vital that you talk to your healthcare provider. They can help you find ways to overcome these issues so you can finally get a good night’s sleep.

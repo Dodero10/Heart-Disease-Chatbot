@@ -1,0 +1,118 @@
+C. diff (Clostridioides difficile) Infection
+Overview
+What is C. diff (Clostridioides difficile)?
+C. diff is a nickname for a bacterium whose full name is Clostridioides difficile (klos-TRID-e-OY-dees dif-uh-SEEL). This bacterium can infect your colon (large intestine), causing diarrhea and other symptoms.
+Bacterial infections in your colon are common, and most aren’t serious. But C. diff infection can be more aggressive and harmful to your colon. It can cause severe colitis, known as pseudomembranous colitis.
+What happens when you have C. diff?
+Many people have the C. diff bacterium without having an infection. Other bacteria living in their intestines help to keep C. diff in check. But without these other bacteria, C. diff can overgrow.
+People most often get C. diff infection after taking antibiotics that killed off these other, helpful bacteria. This allows C. diff to spread quickly, often while you’re recovering from a different infection.
+How does C. diff infection affect you?
+C. difficile releases poisons (toxins) in your gut that damage the cells in your intestinal lining. This causes inflammation in your intestinal lining (colitis), which is what causes the symptoms of the infection.
+Whether you have symptoms, and how severe they are, will depend on the extent of the damage from these toxins. This damage can be mild to severe. When it's severe, it can be life-threatening.
+How common is Clostridioides difficile infection?
+C. diff infection (CDI) is a leading health concern worldwide, although the exact rates of infection worldwide are unknown. In the U.S., half a million infections cause 15,000 deaths each year.
+Is Clostridioides difficile the same thing as Clostridium difficile?
+Yes, Clostridioides difficile is a newer name for Clostridium difficile. Clostridium is the genus that Clostridioides difficile belongs to. Clostridioides difficile is the species that causes the infection.
+Symptoms and Causes
+What are the symptoms of C. diff infection?
+The most common symptom, and usually the first to appear, is watery diarrhea. A mild infection will cause diarrhea at least three times a day, often with some abdominal cramping or tenderness.
+As C. diff infection becomes more severe, diarrhea increases. It may occur as much as 10 to 15 times a day. You may notice traces of blood in your poop (stool). You may also develop other symptoms, such as:
+- Persistent abdominal pain.
+- Swollen, distended abdomen.
+- Nausea and vomiting.
+- Loss of appetite.
+- Fever.
+- Rapid heart rate.
+C. diff symptoms may resemble food poisoning or stomach flu at first, but they don't go away as easily. If you're taking antibiotics, it's possible to mistake C. diff diarrhea for a normal side effect of the antibiotics.
+It’s also important to note that C. diff infection can occur without diarrhea. Some people with C. diff may have other health conditions or medications affecting their bowels, which may prevent diarrhea.
+What does C. diff poop look like?
+C. diff diarrhea is typically mushy or porridge-like, but not completely liquid. Sometimes it has a green tint, though other bacterial infections can also cause this. Occasionally, it contains blood, mucus or pus.
+What does C. diff poop smell like?
+Many people have noticed a distinctive odor with C. diff diarrhea. They describe it as unusually strong and oddly sweet. This smell may be because C. diff increases the levels of bile acids in your poop.
+How does a person get C. diff?
+You may already have C. diff in your gut at birth, or may acquire it by accidentally ingesting it. It lives in the intestines of humans and other animals and spreads through their poop into the environment.
+Researchers estimate that about 5% of the population has C. difficile in their colon without signs or symptoms of infection. You can have C. diff under control, but still carry and spread it to others.
+How does C. diff spread?
+C. difficile reproduces by releasing spores. These spores live in the environment, especially where infected people and animals live. They can enter your gastrointestinal (GI) tract through your mouth.
+Why is C. diff so contagious?
+C. diff spores are very hard to kill, both inside and outside of your intestines. They’re resistant to heat, acid and many antibiotics and disinfectants. They can also survive for months on surfaces.
+What causes C. diff infection?
+A healthy immune system normally protects your gut from C. diff infection by keeping C. diff levels under control. If they grow out of control, it’s because something has compromised your gut immunity.
+The most common cause is:
+- Antibiotics. A course of antibiotics is the most common cause of C. diff infection. Most antibiotics, including broad-spectrum antibiotics meant to target a wide range of microorganisms, are ineffective against C. difficile. But they’re effective against the other bacteria living in your gut, both the bad and the good kind. Using them upsets the balance in your gut microbiome, allowing C. diff to dominate while diminishing other bacteria.
+Medical conditions that may reduce your defenses against C. diff infection include:
+- Inflammatory bowel disease (IBD). Chronic inflammatory bowel diseases, including Crohn’s disease and ulcerative colitis, wear down the integrity of your intestines over time. They degrade the mucosa in your intestinal lining, which affects your gut immunity.
+- Immunodepression. You may have reduced immunity in general, not just in your gut, if you have an immunodeficiency disorder or another chronic disease that affects your immune system — like cancer, HIV, kidney disease or diabetes. The same is true if you take immunosuppressants.
+Other risk factors associated with C. diff infection include:
+- Age. Being older than 65 increases your risk of C. diff infection tenfold. This may be related to diminished overall immunity, taking multiple medications regularly or living in a hospital or care home. Infants, whose immune systems are still developing, also get C. diff more often.
+- Hospitalization or institutionalization. C. diff spreads easily in hospitals and nursing homes, where it may infect an estimated 20% of people. Spores can live for months on common surfaces and spread from caregivers’ hands to the many people they care for.
+Sometimes it isn’t clear what allowed C. diff to take over. While many factors can affect your gut immunity, it’s important to know that infection can occur even if you don’t have any known risk factors.
+What complications can occur with C. diff infection?
+Complications can occur with more severe infections. How severe your infection becomes will depend on several factors, including the strain of the bacteria you have and how strong your immune system is.
+People who have more risk factors for getting a C. diff infection in the first place may be more at risk of a severe infection. They may also have repeat infections, which cause more damage over time.
+Common complications include:
+- Recurrent infection. This is the most common complication, affecting as many as 20% of people. Recurrent CDI is a relapse that occurs within two to eight weeks of completing treatment. Among those who have a relapse, as many as 40% will have another relapse after that.
+- Dehydration and electrolyte losses. As diarrhea becomes more frequent, you may begin to lose fluids and electrolytes faster than you can replace them. This can have dangerous side effects, including low blood volume, low blood pressure and in severe cases, acute kidney failure.
+- Pseudomembranous colitis. CDI causes a particular type of colitis, known as pseudomembranous colitis. This is due to the toxins that the bacteria produce. These toxins attack the cells in your intestinal lining, eventually destroying them. This damage causes a strong inflammatory response. You may develop ulcers in your colon, which may bleed. Eventually, yellow-white plaques form over your injured intestinal lining, called “pseudomembranes.”
+As toxic damage in your colon progresses, you may have further complications, including:
+- Fluid leakage. Your colon may begin to leak fluids into your abdominal cavity (ascites), causing it to swell. You may also lose proteins from your colon, such as albumin. Low albumin can cause your blood vessels to leak, leading to edema (swelling in your hands, feet and face).
+- Reactive arthritis. Severe infection may trigger reactive arthritis, which can cause inflammation, swelling and pain in your joints and other places in your body. This is a response from your immune system. In a small number of people, it can last beyond the original infection.
+- Toxic megacolon. Toxic megacolon is rare but serious. It happens when swelling from inflammation is so severe that it disables your colon. First, your colon stops moving (paralytic ileus). As it continues to stretch and dilate, it can leak toxins or even tear (gastrointestinal perforation), spreading infection. Infection in your abdominal cavity (peritonitis) can spread to your bloodstream (septicemia). This can lead to sepsis and septic shock, which can be fatal.
+Diagnosis and Tests
+How is C. diff infection diagnosed?
+If your healthcare provider suspects C. diff infection based on your symptoms, they’ll take a sample of your poop and send it to a lab. The lab will test it for evidence of the toxins C. diff produces.
+If you test positive for infection, your healthcare provider may conduct further tests to find out how severe the infection is. These may include blood tests and imaging tests that look inside your colon.
+Management and Treatment
+What is the treatment for C. diff infection?
+Treatment for C. diff infection is progressive, based on how severe it is. If you developed a C. diff infection while taking antibiotics, your provider might begin by simply stopping those medications.
+For some people, this is enough. Their natural gut immunity returns and overcomes the infection. If this doesn’t happen, your provider will prescribe one of the antibiotics known to be effective against C. diff.
+Antibiotics to treat C. diff include:
+- Metronidazole.
+- Vancomycin.
+- Fidaxomicin.
+If you have a mild infection, you’ll take the prescription home with you. Most people will begin to improve in a few days. If your infection is more severe, you might need to check in to the hospital.
+In the hospital, your provider might give you antibiotics through an IV, along with fluids to prevent dehydration. In some cases, they might deliver medications directly into your colon as an enema.
+Complicated C. diff infection
+If you have severe complications, you might need intensive care. In rare cases, providers recommend emergency surgery to remove the source of the infection in your colon. This is called colectomy.
+If you’ve recovered, but you continue to have repeat infections after treatment, your options are:
+- Repeat antibiotic therapy. Your provider may give you a different drug, or a longer prescription for the same drug. After extensive antibiotic therapy, your provider may recommend that you take probiotics to help restore your gut bacteria.
+- Fecal microbiota transplant. When repeat antibiotic therapy fails, fecal transplantation has proved highly effective in preventing recurrent _C. diff _infection. Fecal transplantation involves transferring a medically-processed stool sample from a healthy donor into a diseased colon. The sample is colonized with helpful bacteria that help to restore a healthy gut to fight C. diff.
+Prevention
+What precautions can help to prevent C. diff. from spreading?
+Healthcare providers take special precautions when dealing with C. diff infection to help prevent the spread of this highly contagious disease. You can follow their example to help keep others safe.
+- Isolation. If you have the infection, it’s best to stay isolated in your own room. Anyone entering the room to care for you should wear disposable gloves and remove them after they leave.
+- Handwashing. Frequent handwashing with soap and warm water is especially important with C. diff, since hand sanitizer doesn’t affect it. It’s important for everyone you interact with.
+- Disinfection. Many common disinfectants don’t work against C. diff, but chlorine-based products can. It’s important to disinfect any surfaces you’ve touched, especially the bathroom.
+- Limiting antibiotics. Many infections can go away without antibiotics, and it’s a good idea to give them that chance. Taking and prescribing antibiotics too much makes infections stronger.
+Outlook / Prognosis
+What can I expect if I have C. diff?
+Most C. diff infections are mild and resolve easily. But the circumstances that cause C. diff infection can also, sometimes, allow it to spread very quickly. C. diff infection can be sudden and severe.
+If you have risk factors that make you more vulnerable to C. diff infection, you may be more likely to have a more severe infection or have repeat infections and need more extensive treatment.
+Does C. diff. ever go away on its own?
+It can go away on its own if your intestinal flora returns to defeat it. This is more likely if your intestinal flora is normally strong and you don’t have any long-term health factors that usually weaken it.
+If you got the infection because you were taking antibiotics, it might go away after you stop taking them. But don’t wait too long for this to happen. If you don’t improve in a few days, contact your provider.
+Once you have C. diff, do you always have it?
+It’s likely that some of the bacteria will survive after treatment, but you can have some without having an infection. As long as your other gut bacteria also survive, they should help to control C. difficile.
+If you have repeat infections, it’s because these other bacteria haven’t been restored yet. Repeat infections may be the original one relapsing, but they aren’t always. Sometimes they’re new infections.
+Will I have long-term problems after C. diff. infection?
+The most common long-term problem is ongoing or repeat infection with C. difficile. This happens when your colon is having trouble recovering completely. Your colon may be slower to recover if:
+- You had a more severe infection that did more damage to your intestinal lining.
+- You had to take antibiotics for a long time or had to take them for C. diff after taking others.
+- You have a long-term health condition that affects your intestines or immune system.
+- You’re older than 65.
+More rarely, some people develop autoimmune disorders after a severe infection. This means that their immune systems continue to act as though they have an infection even when they don’t anymore.
+Autoimmune disorders cause chronic inflammation, which can cause long-term symptoms. Autoimmune disorders that have occurred after C. diff infection include post-infectious IBS (irritable bowel syndrome) and reactive arthritis.
+Living With
+What questions should I ask my provider about C. diff infection?
+You might want to ask:
+- How serious is my infection?
+- Am I at risk of complications?
+- How will I know when C. diff is getting better?
+- When should I call you? When should I go to the ER?
+- Do I need a referral to a gastroenterologist?
+- What are my options for treating repeat infections?
+A note from Cleveland Clinic
+Clostridioides difficile is an ordinary bacterium, and it can live in your gut without doing harm. But when it begins to take over, it can be aggressive. It can be hard to get rid of, both inside and outside your gut.
+C. diff’s long lifespan in the environment, and its immunity to most drugs and disinfectants, make it trickier to contain. It’s highly contagious and can be persistent, coming back again and again.
+Most people won’t have complications from C. diff. For most people, it goes away quickly and completely. But it can become severe, especially if certain risk factors make you more vulnerable.
+If you develop diarrhea after taking antibiotics, tell your healthcare provider. Don’t take anti-diarrhea medications, which won’t help and might make it worse. Get tested for C. diff infection.

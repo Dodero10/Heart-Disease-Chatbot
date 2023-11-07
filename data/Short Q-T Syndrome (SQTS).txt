@@ -1,0 +1,54 @@
+Short Q-T Syndrome (SQTS)
+Overview
+What is short QT syndrome?
+Short QT syndrome (SQTS) is an extremely rare genetic disorder that causes an irregular heart rhythm. In SQTS, your heart muscle doesn’t take as long as usual to recover between beats. The part of your heartbeat called the QT interval is irregularly short.
+SQTS can cause arrhythmias in which you may feel dizziness, fainting or heart palpitations. They may even cause cardiac arrest (your heart stops) and sudden cardiac death, in severe cases. If you have signs of SQTS, it’s essential to see a healthcare provider for treatment.
+What is the QT interval?
+Healthcare providers measure heartbeats on an electrocardiogram (ECG). This test evaluates your heart’s electrical signals. On the ECG, specific voltage waves — called P, Q, R, S and T — mark each heartbeat.
+When blood flows through your heart, it moves from your top right heart chamber (atrium) to your bottom right heart chamber (ventricle). Blood flows because electrical signals tell your atria and ventricles to squeeze (contract) and relax.
+The P, Q, R, S and T waves on the ECG represent:
+- P wave: The electrical signal tells your atria to contract.
+- QRS complex: The electrical signal tells your ventricles to contract.
+- T wave: Your ventricles recover between signals.
+The time between the start of the QRS complex and the end of the T wave is the QT interval. Usually, the QT interval is between 0.35 and 0.45 seconds. In SQTS, the QT interval is below 0.34 seconds.
+What is the difference between long and short QT syndrome?
+Short QT syndrome is an irregularly short QT interval, typically under 0.34 seconds. Long QT syndrome is an irregularly long QT interval, typically over 0.45 seconds.
+Who might get short QT syndrome?
+Short QT syndrome is an extremely rare disease. Experts don’t know exactly how many people have short QT syndrome.
+Some researchers have noticed that many people show SQTS symptoms during their first year of life, with symptoms peaking again later in adulthood.
+Symptoms and Causes
+What causes short QT syndrome?
+SQTS is genetic. You may inherit it from one of your parents. Or you may have a gene change (mutation) that happens for no known reason.
+What are the symptoms of short QT syndrome?
+About 4 in 5 people with SQTS have atrial fibrillation (AFib). Atrial fibrillation is an irregular heart rhythm where the electrical signals in your heart’s top chambers (atria) don’t fire properly. Other symptoms include heart palpitations (in almost 1 in 3 people), dizziness and fainting or syncope (in about 1 in 4 people).
+For some people (around 2 in 5), the first sign of SQTS unfortunately is cardiac arrest or sudden cardiac death, an unexpected stoppage of heart function due to ventricular fibrillation or ventricular tachycardia, both dangerous arrhythmias of the bottom chambers (ventricles) of the heart.
+Diagnosis and Tests
+How is short QT syndrome diagnosed?
+Doctors may diagnose short QT syndrome if you have an ECG that shows a QT interval of less than 0.34 seconds. They may also consider whether you have SQTS if you have a QT interval between 0.34 and 0.36 seconds, plus other symptoms of SQTS.
+To diagnose SQTS, your provider may use:
+- Electrocardiogram to measure your QT interval.
+- Genetic testing for the gene mutations that cause SQTS.
+Management and Treatment
+How is short QT syndrome treated?
+A cardiologist (heart doctor) treats short QT syndrome. Your cardiologist may recommend:
+- Implantable cardioverter defibrillator (ICD). An ICD delivers an electric shock to your heart when it senses an irregular heartbeat. ICDs are one of the most reliable treatments for adults with SQTS.
+- Medications. Your provider may recommend anti-arrhythmia drugs, such as quinidine. Alternatively, they may prescribe flecainide (Tambocor™) or ibutilide (Corvert®), propafenone, amiodarone, sotalol or beta-blockers such as metoprolol (Toprol XL®, Lopressor®) or carvedilol (Coreg®).
+Prevention
+How can I reduce my risk of SQTS?
+There’s no way to prevent SQTS. Because it’s genetic, you can’t control whether you get it.
+If you have SQTS, it’s important to see a cardiologist (heart doctor) regularly. A cardiologist monitors your heart health. They can help you reduce your risk of severe SQTS complications, such as sudden cardiac death.
+Outlook / Prognosis
+What is the short QT syndrome life expectancy?
+Short QT syndrome prognosis can vary. In some people, SQTS leads to sudden cardiac death. Estimates suggest that people with short QT syndrome have a 40% chance of experiencing sudden cardiac death by age 40, with the highest amount of risk between ages 0 to 1 and 20 to 40 years old. If SQTS occurs between the ages of newborn to 1 year old, providers might call it sudden infant death syndrome (SIDS).
+However, most people who have short QT intervals (less than 360 milliseconds) on their ECG do NOT necessarily have short QT syndrome and are not at risk of sudden cardiac death. In addition, some people with short QT syndrome never experience symptoms and have a typical life expectancy. Because short QT syndrome is rare, experts are still researching how short QT syndrome affects life expectancy.
+Your healthcare provider can give you treatment options to help you manage the condition and lower your risk of complications.
+Living With
+What else should I ask my doctor?
+You may also want to ask your healthcare provider:
+- What are the signs of short QT syndrome?
+- What tests do I need to diagnose short QT syndrome?
+- What are the treatment options?
+- What lifestyle changes can I make to increase my heart health?
+- What are the chances that I’ll pass short QT syndrome to my children?
+A note from Cleveland Clinic
+Short QT syndrome is a rare genetic disorder characterized by a short QT interval. The QT interval is the time it takes for your heart ventricles to contract, relax and start again. If you have an irregularly low QT interval, you may feel dizzy, faint or have heart palpitations. Short QT syndrome is a serious condition that can lead to cardiac arrest and death. If you have any signs of SQTS, see your healthcare provider for diagnosis and treatment.

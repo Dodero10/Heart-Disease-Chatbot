@@ -1,0 +1,103 @@
+Thyroiditis
+Overview
+What is thyroiditis?
+Thyroiditis is inflammation of your thyroid gland. Your thyroid is a small, butterfly-shaped gland located at the front of your neck under your skin. It’s a part of your endocrine system and controls many of your body’s important functions by producing and releasing certain hormones.
+Thyroiditis includes a group of individual conditions that cause thyroid inflammation but have different causes and symptoms. Thyroiditis can lead to over- or under-production of thyroid hormone.
+In most types of thyroiditis, there are three phases, including:
+What are the types of thyroiditis?
+Types of thyroiditis include:
+- Hashimoto’s thyroiditis: This autoimmune condition, also called chronic lymphocytic thyroiditis, is caused by antithyroid antibodies. It’s the most common form of thyroiditis and the most common cause of hypothyroidism.
+- Silent or painless thyroiditis: This is an autoimmune condition caused by antithyroid antibodies.
+- Postpartum thyroiditis: This is an autoimmune condition caused by antithyroid antibodies that can occur within one year after giving birth. It’s relatively rare.
+- Radiation-induced thyroiditis: This is a condition caused by radiation therapy used as a medical treatment for certain cancers or by radioactive iodine used to treat hyperthyroidism.
+- Subacute thyroiditis or de Quervain’s thyroiditis: This is an often painful condition thought to be caused by a virus. It’s usually preceded by upper respiratory infections.
+- Acute infectious thyroiditis: This is a rare condition caused by an infectious organism or bacterium.
+- Drug-induced thyroiditis: This is a condition caused by the use of medications such as amiodarone, interferons, lithium and cytokines. It only occurs in a small fraction of people using these drugs.
+- Riedel thyroiditis: This is a rare disease caused by chronic inflammation and fibrosis of your thyroid gland. Fibrosis is the thickening or scarring of tissue.
+Who does thyroiditis affect?
+Thyroiditis can affect anyone, but it more commonly affects people assigned female at birth (AFAB) — especially adults.
+Hashimoto’s thyroiditis is four to 10 times more common in people AFAB than in people assigned male at birth (AMAB). It most often develops in people AFAB between the age of 30 to 50.
+Silent or painless thyroiditis is also common in people AFAB and is the next common cause of thyroiditis after Hashimoto’s thyroiditis.
+How common is thyroiditis?
+The most common form of thyroiditis is Hashimoto’s thyroiditis, which affects approximately 1% to 2% of people in the United States. The other types of thyroiditis are rarer.
+Is thyroiditis life-threatening?
+Thyroiditis generally isn’t life-threatening.
+However, a life-threatening condition called thyroid storm can develop if you have long-term untreated or undertreated hyperthyroidism, which can develop from thyroiditis.
+Symptoms of thyroid storm include:
+- High fever — a temperature between 104 degrees to 106 degrees Fahrenheit is common.
+- Rapid heart rate (tachycardia) that can exceed 140 beats per minute.
+- Feeling agitated, irritable and/or anxious.
+- Delirium.
+If you’re experiencing these symptoms, call 911 or get to the nearest hospital as soon as possible.
+If you’re experiencing symptoms of thyroiditis, it’s important to talk to your healthcare provider so they can order tests to diagnose it and treat it.
+Symptoms and Causes
+What are the symptoms of thyroiditis?
+The symptoms of thyroiditis depend on the type of thyroiditis and its phase. Most types of thyroiditis cause thyrotoxicosis symptoms followed by hypothyroid symptoms.
+Subacute thyroiditis and acute infectious thyroiditis usually also cause pain in your thyroid area. Some people with thyroiditis have an enlarged thyroid gland (goiter).
+Symptoms of thyrotoxicosis
+The thyrotoxic phase of thyroiditis is usually short, lasting one to three months. If your thyroid cells are damaged quickly and there’s a leak of excess thyroid hormone, you might experience symptoms of hyperthyroidism (overactive thyroid), which include:
+- Fast heart rate.
+- Increased appetite.
+- Unexplained weight loss.
+- Anxiety and nervousness.
+- Irritability.
+- Trouble sleeping
+- Increased sweating and sensitivity to heat.
+- Tremors.
+Symptoms of hypothyroidism
+The hypothyroid phase of thyroiditis can be long-lasting and may become permanent. If your thyroid cells are damaged and thyroid hormone levels fall, you might experience the symptoms of hypothyroidism, which include:
+- Fatigue.
+- Unexplained weight gain.
+- Constipation.
+- Depression.
+- Dry skin.
+- Increased sensitivity to cold.
+- Muscle weakness.
+- Decreased ability to concentrate and focus.
+What causes thyroiditis?
+Thyroiditis is caused by an attack on your thyroid, causing inflammation (your body’s response to an injury) and damage to the thyroid cells. It has several different causes depending on the type.
+The most common cause, or “attacker,” is an autoimmune disease, which is the result of your immune system accidentally attacking your body instead of protecting it. It's unclear why your immune system does this. Antibodies that attack your thyroid cause most types of thyroiditis.
+This chart lists the causes for each type of thyroiditis.
+
+Diagnosis and Tests
+How is thyroiditis diagnosed?
+Your healthcare provider will perform a physical exam, including assessing your thyroid, and ask you questions about your symptoms and medical history.
+If they suspect you may have thyroiditis after, they’ll likely order any combination of the following tests to help diagnose it:
+- Thyroid function tests: These are blood tests that measure the levels of thyroid-related hormones and thyroid hormones in your body, including thyroid-stimulating hormone (TSH), T3 (triiodothyronine) and T4 (thyroxine). TSH comes from your pituitary gland and stimulates your thyroid gland to produce the hormones T4 and T3, which together are called thyroid hormones.
+- Thyroid ultrasound: Providers often use ultrasound to evaluate the anatomy of your thyroid gland. It can show a nodule (a growth) in your thyroid gland, a change in blood flow to your thyroid and the density of the gland.
+- Thyroid antibody tests: These are blood tests that measure thyroid antibodies that include antithyroid (microsomal) antibodies (TPO) or thyroid receptor stimulating antibodies (TRAb). These antibodies could signal that you have a type of thyroiditis caused by autoimmune disease.
+- Erythrocyte sedimentation rate (ESR or sed rate): This is a blood test that helps detect inflammation in your body. The ESR is high in subacute thyroiditis.
+- C-reactive protein (CRP): This is a test that measures the level of c-reactive protein (CRP) in your blood. CRP increases when there's inflammation in your body, and it’s usually significantly elevated in acute infectious thyroiditis.
+- Radioactive iodine uptake (RAIU) test: This test measures the amount of radioactive iodine (taken by mouth) that your thyroid gland absorbs. The amount is always low in the thyrotoxic phase of thyroiditis.
+Management and Treatment
+How is thyroiditis treated?
+The treatment for thyroiditis depends on the type and the symptoms.
+Thyrotoxicosis treatment for thyroiditis
+If you’re in the thyrotoxic phase of thyroiditis, your provider may prescribe beta-blockers to decrease palpitations (fast heart rate) and tremors.
+As your symptoms improve, your provider will taper off the medication since the thyrotoxic phase is temporary.
+Hypothyroidism treatment for thyroiditis
+If you have Hashimoto’s thyroiditis, your provider will prescribe thyroid hormone replacement medication, such as levothyroxine. You’ll likely have to take this medication for the rest of your life since the hypothyroidism from Hashimoto’s thyroiditis is usually permanent.
+If you have subacute, painless (silent) or postpartum thyroiditis and have hypothyroid symptoms, your provider will prescribe thyroid hormone replacement medication. You’ll likely have to take the medication for approximately six to 12 months and then taper off it to see if you have permanent hypothyroidism or not.
+If the hypothyroidism is mild and you have few, if any, symptoms, then no medication may be necessary.
+Other treatments for thyroiditis
+If you have acute infectious thyroiditis, the infection will need to be treated. This will likely involve antibiotics. If an abscess forms on your thyroid, your provider may need to drain the fluid and pus with fine-needle aspiration (needle biopsy).
+Drug-induced thyroiditis usually lasts as long as you’re taking the medication causing it. Your provider may switch you to a different but similar medication to treat the thyroiditis or they may prescribe levothyroxine (thyroid hormone medication) while you continue to take the medication causing thyroiditis.
+The pain caused by acute infectious thyroiditis and subacute thyroiditis usually can be managed with nonsteroidal anti-inflammatory drugs (NSAIDs) such as aspirin or ibuprofen. In some cases, the pain can be severe and may require steroid therapy.
+Riedel thyroiditis requires surgical treatment.
+Prevention
+Can thyroiditis be prevented?
+Unfortunately, most cases of thyroiditis can’t be prevented.
+If you have a condition that requires treatment using radioactive iodine or radiation therapy, talk to your healthcare provider about your risk of thyroiditis. You may be able to start with other treatments to avoid developing thyroiditis.
+If you take prescription drugs that can cause thyroiditis, talk to your provider about your risk and if you can stop taking them. You still may not be able to avoid thyroiditis.
+Outlook / Prognosis
+What is the prognosis (outlook) for thyroiditis?
+The prognosis (outlook) for thyroiditis is generally good.
+In the case of Hashimoto's thyroiditis, the resulting hypothyroidism is generally permanent, but it’s treatable with life-long thyroid hormone replacement therapy.
+People who develop subacute thyroiditis usually have symptoms for one to three months, but complete recovery of thyroid function can take up to 12 to 18 months. These people have about a 5% chance of developing permanent hypothyroidism.
+Full thyroid function recovery from postpartum and silent (painless) thyroiditis also takes about 12 to 18 months. People with these conditions have about a 20% chance of developing permanent hypothyroidism.
+Living With
+When should I see my healthcare provider about thyroiditis?
+If you’ve been diagnosed with thyroiditis, you’ll need to see your healthcare provider regularly to monitor your symptoms and make sure your treatment is working.
+If you develop worse or more concerning symptoms, call your provider as soon as possible.
+A note from Cleveland Clinic
+While it’s usually stressful to learn you have a medical condition, the good news is that thyroiditis is highly treatable — and it may even be temporary. If you have any questions about thyroiditis or your treatment plan, talk to your healthcare provider. They’re available to help you.

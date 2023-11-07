@@ -1,0 +1,72 @@
+Junctional tachycardia
+Overview
+What is junctional tachycardia?
+Junctional tachycardia (junctional ectopic tachycardia) is a rare heart rhythm that starts from a natural pacemaker, but not the one your heart normally uses.
+Usually, your heartbeat starts in your sinoatrial node and travel down through your heart. This is called normal sinus rhythm. Sometimes, your sinoatrial node is injured and can’t kick off your heartbeat. When that happens, the heartbeat might start in your atrioventricular node (the junction of your heart’s lower and upper chambers). This is similar to an understudy in a play taking over for the lead actor when they’re sick.
+A normal resting heart rate typically ranges from around 60 to 100 beats per minute. With junctional tachycardia, your heart rate is typically faster than 100 beats per minute.
+Types of junctional tachycardia
+There are two types of this abnormal heart rhythm.
+- Primary or congenital (since birth): If this is present at birth, your baby’s ventricles can beat 200 to 250 times a minute.
+- Secondary or postoperative (after surgery): This is more common than the primary type. In 5% to 11% of cases, it can happen to a child who has surgery to fix a congenital (since birth) heart problem. For example, many babies who have surgery to fix tetralogy of Fallot can get this abnormal heart rhythm.
+Is junctional tachycardia an SVT?
+Yes, junctional tachycardia is a type of SVT, or supraventricular tachycardia. An SVT is a fast heart rhythm (tachycardia) that starts in the upper chambers of your heart, above your ventricles (supraventricular).
+Who does junctional tachycardia affect?
+Junctional tachycardia is rare in adults, but more common in babies and children. It can be from a congenital (present at birth) cause, which is very rare or happen after heart surgery.
+Symptoms and Causes
+What are the symptoms?
+You might not have symptoms of junctional tachycardia. If you have symptoms, they may include:
+- Having palpitations (racing heart or a sensation of skipped beats).
+- Feeling dizzy.
+- Fainting.
+- Feeling very tired.
+What causes junctional tachycardia?
+Several medicines, conditions or treatments can get in the way of your sinoatrial node making electrical signals to start your heartbeat.
+For example, toxicity from digoxin (Cardoxin® or Digitek®) may cause junctional tachycardia. Other causes include:
+- Myocarditis (inflammation of your heart muscle).
+- Heart attack.
+- Heart valve replacement or other heart surgeries.
+- Congenital (since birth) heart disease (this is a rare cause).
+- Catheter ablation for a different abnormal rhythm.
+- Lyme disease.
+Diagnosis and Tests
+How is junctional tachycardia diagnosed?
+Junctional tachycardia is diagnosed by an electrocardiogram (ECG), which shows a missing “P wave,” the signal that represents the sinoatrial node starting a normal heartbeat. In addition to the ECG, your healthcare provider will take your medical history and may order additional tests including blood tests and an echocardiogram (ultrasound of the heart).
+Management and Treatment
+How is junctional tachycardia treated?
+Treatment depends on the underlying cause and on your symptoms. If your abnormal rhythm started after heart surgery, your healthcare provider may:
+- Fix an electrolyte problem.
+- Make sure you don’t have a fever.
+- Prescribe medicines to slow your heart rate.
+Other treatments may include:
+- Medicine to slow your heart rate or restore normal rhythm, such as amiodarone (Cordarone® or Pacerone®).
+- Catheter ablation or cryoablation.
+- Overdrive atrial pacing (using an external pacemaker to get your heart back to a normal rhythm).
+Complications of the treatment
+With catheter ablation, there’s a chance the abnormal rhythm will happen again. There’s also a risk of an atrioventricular (the next signal carrier after the sinoatrial node) block for catheter ablation in adults. Your healthcare provider may use cryoablation instead because it has a lower risk of atrioventricular block. If ablation doesn’t work after a couple of attempts, you may need a pacemaker.
+How long does it take to recover from this treatment?
+Usually, after catheter ablation, you can go back to your normal activities the day after going home. You’ll need to wait several days before doing anything strenuous. Your healthcare provider will give you specific instructions after your procedure.
+Prevention
+How can I reduce my risk of junctional tachycardia?
+Your healthcare provider may be able to give you certain medicines before or during surgery to reduce your risk of junctional tachycardia. These medicines may include:
+- Magnesium.
+- Propranolol (Inderal®XL or InnoPran®XL).
+- Dexmedetomidine (sometimes used in children around the time of heart surgery).
+Outlook / Prognosis
+What can I expect if I have junctional tachycardia?
+Symptoms go away gradually when you treat the cause of this abnormal rhythm. You’ll need to be in the hospital until your junctional tachycardia goes away.
+The outlook for junctional tachycardia is different depending on the type.
+Primary or congenital (since birth) junctional tachycardia is harder to treat and can lead to heart failure, complete heart block or ventricular fibrillation. Up to 9% of cases are fatal without treatment. If this rhythm starts after the first six months of life, the outlook is much better.
+Secondary or postoperative (after surgery) junctional tachycardia shows up two or three days after surgery but often goes away a week afterward. It may cause low blood pressure, dizziness or passing out.
+Living With
+When should I see my healthcare provider?
+You’ll need to have a follow-up appointment with your provider two weeks after you go home from the hospital. You’ll also need care for the condition that caused junctional tachycardia.
+When should I go to the ER?
+You should get help right away if you had a catheter ablation and the place where the catheter went into your skin:
+- Swells up quickly.
+- Won’t bleed more slowly when you press on it.
+What questions should I ask my doctor?
+- What type of junctional tachycardia does my child/do I have?
+- What’s the best treatment for my case?
+- What are the chances of my other children having this condition?
+A note from Cleveland Clinic
+If your child has junctional tachycardia, ask your healthcare provider to explain the symptoms so you can recognize it if it happens again. Don’t be afraid to ask questions about your child’s treatment. It’s important that you understand treatment options and risks. Being informed will empower you to make the best decisions for your child’s care.

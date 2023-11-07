@@ -1,0 +1,137 @@
+Sudden Arrhythmic Death Syndrome
+Overview
+What is sudden arrhythmic death syndrome?
+Sudden arrhythmic death syndrome is a heart condition you inherit (in most cases) that affects your heart’s electrical system, giving you an abnormal heart rhythm. Without treatment, this puts you at risk for sudden death.
+Types of SADS conditions
+- Brugada syndrome: polymorphic ventricular tachycardia.
+- Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT): ventricular tachycardia
+- Long QT syndrome (LQTS): makes your heart spend too long repolarizing or recharging for the next heartbeat. The QT interval (the space between the Q and T markings in a wave pattern on an EKG) shows how long it takes for your ventricles to contract and then get recharged and ready for the next beat. You can develop ventricular tachycardia or ventricular fibrillation.
+- Short QT syndrome (SQTS): your ventricles don’t spend enough time getting recharged for the next beat. This can cause atrial fibrillation, ventricular tachycardia or ventricular fibrillation.
+- Timothy syndrome: a type of long QT syndrome (very rare).
+- Wolff-Parkinson-White syndrome (WPW): tachycardia from an electrical conduction happening between your heart’s upper and lower chambers through an abnormal route (in addition to the normal route).
+How common is sudden arrhythmic death syndrome?
+One of the more common types of sudden arrhythmic death syndrome, Long QT syndrome, happens in an estimated one out of 2,000 newborns. Another type, Brugada syndrome, happens in less than 1% of the population. An estimated one in 10,000 people has CPVT.
+Each year, about 200,000 Americans die from sudden cardiac arrest. About 4,000 children and young adults die each year from a SADS condition.
+Symptoms and Causes
+What are the symptoms of sudden arrhythmic death syndrome?
+Although symptoms vary somewhat among the different types of sudden arrhythmic death syndrome, common symptoms include:
+- Fainting or having a seizure while exercising, excited or afraid.
+- Chest pain during exercise.
+- Shortness of breath while exercising.
+Brugada syndrome
+Although many people don’t have symptoms, others may experience:
+- Cardiac arrest, often while sleeping.
+- Fainting.
+- Seizures.
+- Unusual breathing.
+Catecholaminergic polymorphic ventricular tachycardia (CPVT)
+There may not be any symptoms before cardiac arrest, but some people may faint during exercise.
+Long QT syndrome (LQTS)
+About half of people with LQTS don’t have symptoms, but some can have:
+- Cardiac arrest from an arrhythmia called Torsades de Pointes.
+- Fainting.
+- Seizures.
+Short QT syndrome (SQTS)
+Nearly 40% of people with this syndrome don’t have symptoms, but others with it may have:
+- Palpitations.
+- Fainting.
+- Cardiac arrest.
+Timothy syndrome
+Symptoms of Timothy syndrome include:
+- Fainting.
+- Cardiac arrest.
+- Webbed fingers and/or toes in some cases.
+- Developmental issues.
+Wolff-Parkinson-White syndrome (WPW)
+Symptoms of Wolff-Parkinson-White syndrome include:
+- Palpitations.
+- Lightheadedness.
+- Shortness of breath.
+- Fainting.
+- Seizures.
+What causes sudden arrhythmic death syndrome?
+When a young person dies suddenly and their heart has a normal structure, healthcare providers may suspect the child had an undiagnosed arrhythmia. These conditions that cause arrhythmias, listed above, are usually passed down from parent to child. The chance of passing on these conditions is variable, depending on the exact gene and exact part of the heart involved.
+Diagnosis and Tests
+How is sudden arrhythmic death syndrome diagnosed?
+A healthcare provider may suspect this condition in a young person who’s having symptoms and has a relative who died of unexplained, sudden death before age 40. Diagnostic methods vary by the type of sudden arrhythmic death syndrome.
+Diagnostic tools may include:
+- Electrocardiogram (EKG).
+- Genetic testing.
+- Treadmill stress test.
+- Catecholamine provocation test (checking your heart’s reaction to a drug your provider administers).
+- Holter monitor.
+- Echocardiogram.
+- Fetal ultrasound.
+- Cardiac catheterization diagnostic test.
+- Electrophysiologic study.
+Management and Treatment
+How is sudden arrhythmic death syndrome treated?
+Treatments vary depending on the type of sudden arrhythmic death syndrome.
+Brugada syndrome
+Treatment for Brugada syndrome includes:
+- Implantable cardioverter defibrillator (ICD).
+- Quinidine.
+- Not taking medicine that blocks your heart’s sodium channels.
+Catecholaminergic polymorphic ventricular tachycardia (CPVT)
+- People with CPVT take beta-blockers.
+- Implantable cardioverter defibrillator (ICD).
+Long QT syndrome (LQTS)
+Treatments for Long QT syndrome may include medicines or procedures, including:
+- Beta-blockers.
+- Implantable cardioverter defibrillator (ICD).
+- Left cardiac sympathetic denervation (a minimally invasive procedure that cuts the autonomic nerves that go to your heart).
+- Not taking certain medicines that make your QT interval on an EKG longer.
+Short QT syndrome (SQTS)
+Short QT syndrome treatments include medication and a procedure:
+- Implantable cardioverter defibrillator (ICD).
+- Quinidine.
+Timothy syndrome
+Treatments include medication and a device:
+- Beta-blockers.
+- Implantable cardioverter defibrillator (ICD).
+- Not taking medications that lengthen your QT interval on an EKG.
+Wolff-Parkinson-White syndrome (WPW)
+Medication may prevent WPW symptoms. Your healthcare provider can treat — and possibly cure — WPW with ablation therapy that gets rid of the extra conduction pathway. They can also prescribe medications called antiarrhythmics to reduce the chance of abnormal heart rhythm.
+What are the side effects of the treatments?
+Some people can’t tolerate beta blockers their healthcare provider prescribed.
+Left cardiac sympathetic denervation may cause:
+- Abnormal sweating.
+- Dry hands.
+- Inconsistent temperatures or colors in the face.
+However, this procedure can improve your quality of life.
+ICDs deliver an electrical shock to get your heart back to a normal rhythm, but they can cause:
+- Infection.
+- Problems with the device functioning properly.
+Prevention
+How can I reduce my risk?
+Having family members who know how to do CPR and have an automatic external defibrillator (AED) at home can give your loved one with SADS peace of mind. Being prepared can allow you to respond if they need help.
+How can I prevent sudden arrhythmic death syndrome?
+If someone in your family has sudden arrhythmic death syndrome, check with your healthcare provider about having others in your family tested for the genetic mutation. They can help you figure out who should get tested. Once a loved one has a diagnosis, they can take preventive steps to protect themselves with medicine or a procedure.
+Outlook / Prognosis
+What can I expect if I have sudden arrhythmic death syndrome?
+The outlook for sudden arrhythmic death syndrome depends on the type you have and whether you get an early diagnosis and prompt treatment. This is a lifelong condition that can be fatal.
+Wolff-Parkinson-White syndrome (WPW) treatments offer the most hope, as an ablation can fix the problem.
+People who are getting treatment for Long QT syndrome rarely die suddenly. However, many people who could do well with a treatment called left cardiac sympathetic denervation don’t have that option available to them. With conditions like Short QT syndrome, research is scarce because there are so few cases (about 200).
+More research is needed to find the best treatments for everyone with sudden arrhythmic death syndrome.
+Placement of an ICD can prevent sudden cardiac death by treating abnormal heart rhythms. While this does not make the condition go away, this is an effective way to reduce the chance of death from these conditions.
+Living With
+How do I take care of myself?
+If your healthcare provider prescribed medicine for you, be sure to take it without missing doses. The same is true for a child that has SADS. They need their medicine at certain times and shouldn’t miss a dose.
+Always check with a health care provider or pharmacist before starting a new medication. Many medications, including common antibiotics and anti-nausea medications, can interact with cardiac medications your provider prescribes and can impact the QT segment, which impacts the chance of sudden death in long QT syndrome.
+You’ll also want to understand how your (or your child’s) implantable cardioverter-defibrillator (ICD) works and have your provider check it regularly. Some medical procedures and everyday electronics can interfere with how well ICDs work, so make sure you know what to avoid.
+If your child has SADS, check with your provider to see if it’s ok for them to play sports with their condition.
+When should I see my healthcare provider?
+If you have SADS, regular checkups are important to make sure you’re taking the right amount of medicine. If your child has SADS, they’ll need to take larger doses of medicine as they grow and gain weight. This is why frequent checkups are especially important for children. See your provider twice a year if you have an ICD.
+When should I go to the ER?
+Call 911 and do CPR if someone is in cardiac arrest.
+Go to the ER or call 911 if you:
+- Feel as though you’re about to faint, have lightheadedness or experience heart palpitations.
+- Have a sudden onset of chest pain or difficulty breathing.
+What questions should I ask my doctor?
+- What type of sudden arrhythmic death syndrome do I have?
+- What treatment do you recommend for my specific situation?
+- Can you help me figure out who to test in my family?
+- Do I need a defibrillator?
+- Are there medications I should avoid with my condition?
+A note from Cleveland Clinic
+With sudden arrhythmic death syndrome, being informed about your diagnosis helps you to understand your options. Work with your healthcare provider to decide which treatment is best for you or your loved one. Regular follow-ups are important, especially if you have an ICD. You can empower yourself and your family by having an automatic external defibrillator (AED) and making sure everyone knows how to use it and do CPR.

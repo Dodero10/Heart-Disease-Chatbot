@@ -1,0 +1,87 @@
+Pyruvate Kinase Deficiency
+Overview
+What is pyruvate kinase deficiency?
+Pyruvate kinase (pronounced “pie-ROO-vate KYE-nace”) deficiency is a rare genetic disorder that causes your red blood cells to break down too fast. Pyruvate kinase is an enzyme, a substance your red blood cells need to make energy and survive. Without enough of this enzyme (a deficiency), your red blood cells destruct before your body can make new red blood cells to replace them.
+Your red blood cells carry oxygen throughout your body. Having too few healthy red blood cells because of a pyruvate kinase deficiency means your body’s other cells may not receive enough oxygen. As a result, you may experience the symptoms of anemia.
+Who is affected by pyruvate kinase deficiency?
+Pyruvate kinase deficiency is inherited, which means it gets passed from parents to their biological children. As a result, the disorder affects some populations more than others. Pyruvate kinase deficiency is most commonly diagnosed in people of northern European descent. It’s more widespread in certain Amish communities in Pennsylvania and Ohio.
+How common is pyruvate kinase deficiency?
+Pyruvate kinase deficiency is rare, affecting about 1 in 20,000 people of northern European descent. Still, it’s hard to predict how many cases there are. Many people with mild symptoms may never see their healthcare provider to receive a diagnosis.
+How does pyruvate kinase deficiency affect my body?
+Pyruvate kinase deficiency is a chronic (lifelong) condition that may cause symptoms that range from mild to severe. Severe cases may require lifelong blood transfusions to boost your red blood cell count. Mild cases often go undiagnosed well into adulthood. They usually don’t require treatment.
+Often, the effects of a pyruvate kinase deficiency are noticeable in childhood and then improve in adulthood. You may regularly experience common anemia symptoms like fatigue, weakness and shortness of breath as a child. As an adult, you may not notice symptoms unless your body’s under stress (from pregnancy, a viral infection, an injury, etc.).
+Symptoms and Causes
+What are the signs and symptoms of pyruvate kinase deficiency?
+Anemia symptoms are common with this disorder. They include:
+- Weakness and fatigue.
+- Rapid heartbeat (tachycardia).
+- Shortness of breath.
+- Trouble breathing.
+- Dizziness.
+- Headaches.
+- Pale skin (pallor).
+Other signs of a pyruvate kinase deficiency may include:
+- Yellowy skin and yellow whites of your eyes (jaundice).
+- An enlarged spleen (splenomegaly).
+- Dark-colored pee.
+- Gallstones.
+- Iron overload (too much iron in your body).
+What causes pyruvate kinase deficiency?
+Pyruvate kinase deficiency is an inherited genetic disorder related to the PKLR gene. With pyruvate kinase deficiency, a mutation (error) on your PKLR gene prevents your red blood cells from making enough pyruvate kinase. You inherit this genetic mutation from both parents.
+PKLR gene mutation
+Think of your genes as the instructions that tell your cells (including your red blood cells) what to do. Your PKLR gene contains the instructions that tell your red blood cells how to make the enzyme pyruvate kinase. Pyruvate kinase helps your red blood cells break down glucose to create adenosine triphosphate (ATP). ATP is the primary energy source for red blood cells.
+With pyruvate kinase deficiency, there’s a mutation in your PKLR gene. As a result, the instructions that tell your red blood cells how to make pyruvate kinase aren’t quite right. Without enough of this important enzyme, your red blood cells break down instead of making the ATP they need to thrive.
+Autosomal recessive inheritance
+You have to inherit two mutated PKLR genes (one from each parent) to have symptoms of pyruvate kinase deficiency. This is called recessive inheritance. Each parent has one normal PKLR gene and one mutated PKLR gene for this to happen. Unless they’ve received genetic testing, they won’t know that they carry the mutation and can pass it to their children.
+There’s a 25% chance that both parents will pass the mutated PKLR gene to their child, causing a pyruvate kinase deficiency.
+Why does pyruvate kinase deficiency cause hemolytic anemia?
+With hemolytic anemia, you have a low blood cell count because your red blood cells die more quickly than is typical. Healthy red blood cells get made in your bone marrow and survive about 120 days before breaking down. Your bone marrow has made enough new red blood cells to replace the old ones by that time.
+Without enough pyruvate kinase, red blood cells don’t make enough energy to survive that long. Instead, they break down within a few days or weeks before your bone marrow has enough time to make new red blood cells.
+Diagnosis and Tests
+How is pyruvate kinase deficiency diagnosed?
+Signs of pyruvate kinase deficiency may show up during a prenatal ultrasound. If there’s fluid build-up in two or more parts of your fetus’s body (hydrops fetalis), your healthcare provider may order procedures to test for pyruvate kinase deficiency. They include:
+- Amniocentesis.
+- Chorionic villus sampling.
+If you’re experiencing anemia symptoms and you have a family history of anemia or pyruvate kinase deficiency, your provider may order the following tests. These tests will:
+- Check for anemia. Your provider will see if you have hemolytic anemia. Tests may measure your levels of hemoglobin, bilirubin and haptoglobin. You may receive a reticulocyte count test to see how many immature red blood cells (reticulocytes) are in your bone marrow.
+- Check pyruvate kinase activity.Biochemical tests can measure how active your pyruvate kinase is. It’s less active with a pyruvate kinase deficiency.
+- Check for the PKLR gene mutation. Molecular tests can detect errors in the PKLR gene that cause the disorder.
+Management and Treatment
+How is pyruvate kinase deficiency treated?
+Treatment depends on how severe your condition is and when you’re diagnosed.
+Fetuses and newborns
+Fetuses and newborns with pyruvate kinase deficiency may need life-saving transfusions.
+- Intrauterine fetal transfusion:A fetus with a low red blood cell count may need an intrauterine transfusion before birth. A healthcare provider injects red blood cells from a donor into your fetus during this procedure.
+- Phototherapy: Many newborns with pyruvate kinase deficiency develop jaundice, which involves having too much bilirubin in their blood. Bilirubin gets released when red blood cells break down. Phototherapy helps your newborn’s body break down bilirubin faster.
+- Exchange transfusion:Newborns with severe jaundice may need an exchange transfusion, where their blood gets replaced with a donor’s blood.
+Infants, children and adults
+Treatments can help address the symptoms of anemia and related complications of pyruvate kinase deficiency, including iron overload, an enlarged spleen and gallstones.
+- Blood transfusions:Severe cases may require lifelong blood transfusions to make up for a low red blood cell count. You may need regular blood transfusions as an infant or child and find that you no longer need them as an adult.
+- Mitapivat (Pyrukynd):Mitapivat is a tablet used to treat pyruvate kinase deficiency and hemolytic anemia. It received the U.S. Food and Drug Administration’s (FDA) approval in 2022.
+- Folic acid supplements: Folic acid helps your body make red blood cells. You may need to take supplements if you’re not getting enough folic acid in your diet.
+- Iron chelation: Too much iron may build up in your body, either from the condition itself or from regular blood transfusions. Iron chelation uses drugs that bind to iron and help your body get rid of the excess.
+- Splenectomy (spleen removal):Your spleen may enlarge because of a pyruvate kinase deficiency and need to be partially or entirely removed.
+- Cholecystectomy (gallbladder removal):You may develop gallstones because of a pyruvate kinase deficiency. If you’re living with unpleasant symptoms, your provider may recommend removing your gallbladder.
+Researchers are currently testing new treatments for pyruvate kinase deficiency, including:
+- Allogeneic hematopoietic stem cell transplantation (HSCT): During this procedure, you receive stem cells (the cells that eventually mature into healthy red blood cells) from a donor.
+- Gene therapy:During this procedure, your healthcare provider replaces the mutated gene that causes pyruvate kinase deficiency with a healthy gene.
+Prevention
+How can I prevent pyruvate kinase deficiency?
+You can’t control the conditions you inherit. Still, you can assess your risk of having a child with a pyruvate kinase deficiency. If you or your partner have a family history of this disorder, it may be a good idea to speak with a genetics counselor to assess pregnancy-related risks. They can explain genetic tests that may be available and walk you through potential outcomes during pregnancy.
+Outlook / Prognosis
+What can I expect if I have pyruvate kinase deficiency?
+Your experience depends on your symptoms, treatments and potential complications. For example, you may need regular blood transfusions and chelation therapy to prevent iron overload that may result from the transfusions. If you receive a splenectomy, you may require careful monitoring to avoid infection, which is a common complication of this procedure.
+You may not need treatment if your symptoms are mild.
+Ask your healthcare provider how regularly you’ll need regular check-ups and treatments based on your diagnosis.
+Living With
+What questions should I ask my doctor?
+- What specialists will I work with to help monitor and manage my condition?
+- How often will I need testing to check my red blood cells?
+- What symptoms will let me know if my condition is worsening?
+- Will I need treatment?
+- How often will I need treatment?
+- What are common treatment side effects?
+- How will this condition impact my daily life?
+- Should my partner and I see a genetics counselor before becoming pregnant?
+A note from Cleveland Clinic
+Pyruvate kinase deficiency may require careful monitoring and treatment from your healthcare provider. Depending on your symptoms, they may recommend frequent tests to ensure you have enough healthy red blood cells. Treatments like blood transfusions will require careful monitoring to ensure you don’t experience complications like iron overload. Talk to your provider about how your condition and your care plan will shape your life as a person with pyruvate kinase deficiency.

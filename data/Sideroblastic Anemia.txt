@@ -1,0 +1,81 @@
+Sideroblastic Anemia
+Overview
+What is sideroblastic anemia (SA)?
+Sideroblastic anemia (SA) is a rare blood disorder that affects how your body produces red blood cells. If you have sideroblastic anemia, you have anemia from lack of red blood cells and too much iron in your system because your body’s not making use of iron in your red blood cells.
+People can be born with the condition, which healthcare providers call congenital sideroblastic anemia or CSA. But more frequently, people develop or acquire sideroblastic anemia because they have a related blood disorder, take certain medications or had too much exposure to certain minerals.
+Infants and young children born with sideroblastic anemia may have life-threatening medical issues stemming from iron overload. Adults who develop sideroblastic anemia may develop heart disease or cirrhosis. Providers can’t cure congenital SA, but they can manage symptoms and prevent serious medical complications with medications. Providers can cure some forms of acquired SA.
+Who is affected by sideroblastic anemia?
+People either inherit or develop (acquire) sideroblastic anemia. Congenital or inherited sideroblastic anemia (CSA) may affect infants, young children or young adults. (CSA symptoms can be mild or severe, which is why some people born with CSA may not have significant medical issues until they are older.)
+Acquired CSA often affects people who have myelodysplastic syndrome. People may also develop CSA because they were exposed to metals including lead, minerals including zinc, or take certain medications. People may also develop acquired CSA if something affects their bodies’ ability to use copper.
+How does this condition affect my body?
+People who have sideroblastic anemia usually have anemia symptoms like feeling very tired or feeling short of breath for no reason. They may also have macrocytic and microcytic anemias. Macrocytic anemia happens when your red blood cells are larger than normal. Microcytic anemia happens when your red blood cells are smaller than normal. Both anemia types may be signs of other kinds of anemia.
+Symptoms and Causes
+What causes sideroblastic anemia?
+People may be born with sideroblastic anemia (congenital SA), develop the disease because they have a related condition or are exposed to certain metals, minerals or medications.
+To understand what causes congenital sideroblastic anemia, it may be helpful to understand how red blood cells work.
+About red blood cells
+Red blood cells are the most common form of blood cell. Your body relies on healthy, mature red blood cells to carry oxygen to your body’s tissues. Red blood cells do that with help from a protein called hemoglobin. Hemoglobin also gives your red blood cells their distinctive color.
+Red blood cells need iron to make hemoglobin. Normally, your bone marrow produces stem cells that become erythrocytes, or immature red blood cells, that have the right amount of hemoglobin and iron for healthy mature red blood cells.
+But if you have sideroblastic anemia, your body can’t use the iron. That creates two problems. Without iron, your red blood cells don’t have enough hemoglobin to carry oxygen throughout your body.
+Meanwhile, the unused iron builds up in your bone marrow, creating abnormal cells called ringed sideroblasts. A sideroblast is an immature red blood cell with nuclei or centers surrounded by rings of iron.
+Providers see the rings when they look at bone marrow stem cells through a microscope. Sideroblastic anemia gets its name from the iron rings. The iron rings are a sign the cells are storing iron instead of using it. Excess iron creates a condition called iron overload. Iron overload is responsible for many of the serious medical issues sideroblastic anemia may cause.
+What are the congenital forms of sideroblastic anemia?
+There are three types of congenital sideroblastic anemia. Congenital SA happens when certain genes mutate or change, affecting red blood cells’ ability to function. Here is more information:
+- X-linked sideroblastic anemia: This is the most common form of congenital anemia. It happens when the gene that forms a specific enzyme ALAS2 mutates, creating a hemoglobin shortage. People who have X-linked sideroblastic anemia have mature red blood cells that appear pale and are smaller than normal (microcytic.) They also have more iron in their body.
+- Autosomal recessive sideroblastic anemia (ARCSA): This is the second most common form of sideroblastic anemia. ARCSA affects infants and very young children. ARCSA is a serious and sometimes life-threatening condition that happens when there’s too much iron in people’s blood.
+- Maternal: Maternal congenital sideroblastic anemia represents about 20% of all CSA cases. It happens when the MT-ATP6 gene mutates, affecting your mitochondrial function. (Mitochondria are in your cells. They’re responsible for cells’ main source of energy. They do that by converting energy from food into a form that cells can use.)
+What are acquired forms of sideroblastic anemia?
+There are two types of acquired sideroblastic anemia — primary and secondary. Primary SA refers to SA linked to myelodysplastic syndrome. Secondary SA refers to SA that may develop after significant exposure to certain metals, chemicals and medication. Substances that may cause secondary sideroblastic anemia include:
+- Alcohol: Alcohol use disorder is the most common cause of acquired sideroblastic anemia.
+- Heavy metal poisoning: This includes lead poisoning and arsenic poisoning.
+- Vitamin B deficiency: Vitamin B helps develop heme, which becomes hemoglobin and helps carry oxygen.
+- Copper deficiency: Copper helps create an enzyme that protects against iron overload.
+- Zinc overdose: Too much zinc affects how your body uses iron and absorbs copper. People can get too much zinc by taking supplements.
+- Medications: Certain antibiotics, chemotherapy, hormones and medication to remove copper from your system may cause secondary acquired sideroblastic anemia. Healthcare providers treat this form of SA by evaluating medications and eliminating those that appear to cause SA.
+What are sideroblastic anemia symptoms?
+Like many forms of anemia, sideroblastic symptoms include:
+- Fatigue: This is feeling so tired you can’t manage daily activities.
+- Shortness of breath (dyspnea): This is feeling as if you can’t catch your breath.
+- Heart palpitations: This is a feeling your heart is racing or beating unusually fast.
+- Headaches.
+People who have X-linked sideroblastic anemia may have additional symptoms that happen because they don’t have enough hemoglobin and they have too much iron in their systems. Those symptoms include:
+- Enlarged liver: Your liver manages many essential functions in your body.
+- Enlarged spleen: Your spleen is a fist-sized organ in your upper abdomen. You may not notice if your spleen is larger than normal, or you may have dull pain in your upper abdomen.
+- Bronze-colored skin: If your body is storing too much iron, your skin may look bronze or brownish.
+- Uncontrolled diabetes mellitus.
+Diagnosis and Tests
+How do healthcare providers diagnose sideroblastic anemia?
+Because people can inherit or develop sideroblastic anemia, providers first evaluate your situation to confirm or rule out acquired sideroblastic anemia. If they rule out acquired SA, providers will do more tests to determine which kind of congenital sideroblastic anemia you may have. Here are some tests they may do:
+- Complete blood count (CBC): CBC results indicate the size and shape of blood cells, how many new blood cells your body creates and, in SA, how many mature and immature red blood cells you have.
+- Peripheral blood smear: This test is a technique that providers use to examine blood cells. Unlike some blood tests that use a machine for analysis, providers do the analysis by looking at blood cells under a microscope.
+- Iron studies: This test shows your iron levels.
+- Bone marrow aspiration: This is a procedure to take samples of the liquid part of your bone marrow.
+- Bone marrow biopsy: In this test, providers take a small sample of your bone marrow to examine bone marrow cells.
+- Genetic testing: Genetic tests may help confirm or rule out specific genetic conditions. Genetic testing may also help people understand the chance they might pass SA onto their biological children.
+Management and Treatment
+How do healthcare providers treat sideroblastic anemia?
+Providers use different treatments for congenital and acquired forms of sideroblastic anemia. Here are some examples:
+
+Prevention
+How can I prevent this?
+Many times sideroblastic anemia happens when certain genes mutate, causing congenital forms of sideroblastic anemia that can’t be prevented but can be treated. If you have X-linked CSA and mild symptoms or someone in your biological family (parents, siblings or children) has CSA, you may want to ask your healthcare provider about genetic testing.
+But there are things you can do to prevent some forms of acquired CSA. Those steps include:
+- Avoiding accidental lead or arsenic poisoning.
+- If you take zinc supplements to cope with common colds, ask your healthcare provider about appropriate dosages.
+- Limit alcohol intake. Alcohol abuse may cause sideroblastic anemia. Try to cut back on your daily alcohol intake. If you need help, ask your provider to recommend programs.
+Outlook / Prognosis
+What can I expect if I have this condition?
+Your prognosis or expected outcome depends on the kind of sideroblastic anemia you have. For example, if you have X-linked congenital sideroblastic anemia, your healthcare provider may treat your condition with vitamin B6 and medication to reduce iron levels. If you have acquired sideroblastic anemia because you have lead poisoning, your provider will treat the lead poisoning.
+Living With
+How do I take care of myself?
+Most people who have sideroblastic anemia will need ongoing monitoring to check on their iron levels so they prevent additional iron overload. If you had acquired sideroblastic anemia, ask your healthcare provider what things you can do to avoid a new case of SA.
+Additional Common Questions
+Sideroblastic anemia is a rare blood disorder. Some people may know why they developed SA, but others may not. If you have sideroblastic anemia, here are some questions you may want to ask your healthcare provider:
+- What kind of SA do I have?
+- Why did I develop SA?
+- What are my treatment options?
+- What are treatment side effects?
+- What can I expect after treatment?
+- Can I pass SA onto my children?
+A note from Cleveland Clinic
+Sideroblastic anemia is a rare blood disorder that can have serious medical consequences. SA happens when something disrupts the way your body develops healthy red blood cells. People with SA often have too much iron in their blood. Many times iron overload is easily treated. But for infants and young children born with SA, iron overload poses life-threatening medical conditions. If your child is born with sideroblastic anemia, their healthcare providers will race to treat the condition. It may be frightening and overwhelming to have a very sick baby or young child. Your providers understand that and will do everything they can to help you and your child through treatment and beyond.

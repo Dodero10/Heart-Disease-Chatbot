@@ -1,0 +1,122 @@
+SIRS (Systemic Inflammatory Response Syndrome)
+Overview
+What is SIRS?
+SIRS (systemic inflammatory response syndrome) is an exaggerated defense response from your body to a harmful stressor. It causes severe inflammation throughout your body. This can lead to reversible or irreversible organ failure and even death.
+Examples of stressors include:
+- Infection.
+- Surgery.
+- Acute (sudden and severe) inflammation.
+- Ischemia (lack of blood flow to an area of your body).
+- Cancer.
+What’s the difference between SIRS and sepsis?
+When the source of SIRS is an infection, it’s called sepsis. Sepsis is a life-threatening medical emergency caused by your body’s overwhelming response to an infection.
+In other words, almost all people with sepsis have SIRS, but not all people with SIRS have sepsis.
+How common is SIRS?
+It’s difficult for researchers to estimate how common SIRS is because not all people with SIRS get to a healthcare facility in time. But SIRS is relatively common in emergency room departments and intensive care units (ICUs).
+In one study that monitored almost 27,000 hospitalized people, 15% of them met at least two diagnostic criteria for SIRS when they first got to the hospital. About 47% of them met the criteria at least once during their hospital stay.
+Symptoms and Causes
+What are the symptoms of SIRS?
+Several conditions can cause SIRS, and it can affect many different areas of your body. Because of this, SIRS has a wide variety of symptoms. They may include:
+- Redness and swelling (edema) in the affected parts of your body.
+- Intense pain.
+- Loss of function of parts of your body.
+- Intense fatigue.
+- Fast heart rate (tachycardia).
+- Abnormal breathing.
+- Fever or hypothermia (low body temperature).
+- Shaking or chills.
+- Warm or clammy/sweaty skin.
+- Skin rash.
+- Confusion, agitation or other mental changes.
+- Loss of consciousness.
+If you have these symptoms, call 911 or get to the nearest emergency room as soon as possible. SIRS is a medical emergency.
+What causes SIRS?
+SIRS happens when your body’s immune system has an exaggerated response to a stressor. While your body normally uses inflammation to help you, this response is extreme, and the inflammation causes serious harm.
+Several conditions and situations can trigger SIRS, some of which include:
+- Acute (sudden and severe) aspiration (when food, liquid or other material enters your airway and lungs).
+- Acute end-organ ischemia (lack of blood flow to an organ).
+- Acute pancreatitis.
+- An adverse reaction to a medication.
+- Bacterial infection.
+- Blood cancers (hematologic malignancy), like leukemia, lymphoma and multiple myeloma.
+- Burns.
+- Erythema multiforme.
+- Lack of blood flow to your intestines and gastrointestinal perforation.
+- Nonmedical substance use and overdose.
+- Sudden worsening of vasculitis.
+- Toxic shock syndrome.
+- Trauma and surgery-related trauma.
+- Viral flu-like conditions.
+- Wide-spread fungal infections in people who have weak immune systems (immunosuppressed).
+What are the risk factors for SIRS?
+Risk factors for SIRS include:
+- Age: Infants and people over 65 are most at risk.
+- Weakened immune system: People with weakened immune systems, such as from cancer treatment, HIV or an organ transplant, are at increased risk.
+- Chronic conditions: Certain chronic conditions can put you more at risk, like diabetes, cirrhosis and COPD.
+- Existing infection: Having a current infection like pneumonia, meningitis or cellulitis increases your risk of SIRS.
+Diagnosis and Tests
+How is SIRS diagnosed?
+As SIRS is life-threatening, healthcare providers rely on the following to make a quick diagnosis:
+- Physical exam, including checking vital signs.
+- Your symptoms.
+- Your medical history.
+- The possible cause of SIRS (if known).
+These strategies are usually enough for providers to suspect SIRS and start treatment right away. They’ll also order several tests to check your health and try to determine the cause of SIRS if they don’t already know it. These tests may include:
+- Blood tests, like basic metabolic panel, complete blood count (CBC), lactic acid test, liver function tests and kidney function tests.
+- Blood oxygen level.
+- Urinalysis.
+- Bacteria culture test.
+- Imaging tests, such as X-rays or CT scans.
+SIRS criteria
+To be diagnosed with SIRS, you must have two or more of the following:
+- Body temperature over 100.4 degrees Fahrenheit (38 degrees Celsius) or under 96.8 degrees F (36 degrees C).
+- Heart rate greater than 90 beats per minute.
+- Respiratory rate greater than 20 breaths per minute or partial pressure of CO2 less than 32 mmHg.
+- Leukocyte (white blood cell) count greater than 12,000.
+The diagnostic criteria are different for children. They must have an abnormal leukocyte count or temperature to receive the diagnosis. This is because abnormal heart rate and respiratory rates are more common in children.
+Management and Treatment
+How is SIRS treated?
+The management of SIRS involves treating the main cause and treatment that aims to prevent organ failure (multi-organ dysfunction syndrome, or MODS).
+The treatment largely depends on the underlying cause but may include:
+- IV fluids to maintain blood flow to your organs and prevent your blood pressure from dropping too low.
+- Antibiotics (if you have a bacterial infection).
+- Vasopressor medications to reach healthy blood pressure.
+- Corticosteroids to prevent or reverse shock.
+- IV insulin to manage blood sugar levels (if necessary).
+- Surgery, such as for draining a wound infection, removing damaged tissue or exploratory surgery.
+If organ failures occur, you’ll need other treatments such as dialysis for kidney failure or mechanical ventilation for respiratory failure.
+Prevention
+Can I prevent SIRS?
+Steps you can take to try to prevent SIRS, include:
+- Regularly practicing good hygiene, including handwashing, to try to prevent viral infections.
+- Keeping cuts and other wounds clean while they heal.
+- Keeping up to date on recommended vaccines.
+- Getting routine medical care for chronic conditions.
+- Seeing your healthcare provider if symptoms of existing conditions or illnesses get worse.
+- Getting medical attention immediately if you have a serious injury or suspect an infection.
+Outlook / Prognosis
+What is the prognosis for SIRS?
+The prognosis (outlook) for SIRS varies based on:
+- How quickly you receive a diagnosis and treatment.
+- The underlying cause of SIRS.
+- If you have risk factors for SIRS, like a weakened immune system.
+With prompt treatment, many people with SIRS recover completely and return to leading normal lives. Up to 7% of people with SIRS die from the syndrome. The mortality rates for sepsis specifically are:
+- 1.3% for sepsis.
+- 9.2% for severe sepsis.
+- 28% for septic shock.
+Due to the risk of death, it’s important to get medical care as soon as you experience symptoms of SIRS.
+What are the complications of SIRS?
+SIRS can result in severe sepsis or septic shock (if the trigger is an infection) and multi-organ or single-organ failure. Other possible complications include:
+- Acute adrenal insufficiency (when your adrenal glands don't make enough of certain hormones, like cortisol).
+- Acute encephalopathy (any brain disease that alters your brain’s function or structure).
+- Acute respiratory distress syndrome (ARDS).
+- Acute transaminitis (high levels of certain enzymes that affect your liver function).
+- Acute tubular necrosis.
+- Deep vein thrombosis (DVT).
+- Disseminated intravascular coagulation (DIC).
+- Hemolysis.
+- Metabolic acidosis.
+- Thrombocytosis or thrombocytopenia.
+Some of these complications may be treatable or reversible and some are permanent (like brain damage).
+A note from Cleveland Clinic
+SIRS (systemic inflammatory response syndrome) is a life-threatening medical emergency. To avoid SIRS, make sure to get treatment for any infections, condition complications or serious injuries immediately. Without treatment, SIRS can lead to severe complications and even death. If you have risk factors for SIRS, talk to your healthcare provider about how to manage them and the signs of SIRS to look out for.

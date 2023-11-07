@@ -1,0 +1,85 @@
+Hypercapnia
+Overview
+What is hypercapnia (hypercarbia)?
+Hypercapnia, also called hypercarbia, is when you have too much carbon dioxide (CO2) in your blood. Your body creates CO2 when your cells make energy. Your red blood cells carry it from your organs and tissues to your lungs, where you breathe it out. If your body can’t get rid of carbon dioxide, a waste product, it can build up in your blood.
+Hypercapnia can be chronic (long-lasting) and cause symptoms like shortness of breath (dyspnea) and daytime tiredness or fatigue. It can also be acute (sudden or all at once), with much more serious symptoms.
+IMPORTANT: Acute hypercapnia is a medical emergency and can cause neurological (brain) symptoms like confusion, disorientation and paranoia.
+What’s the difference between hypercapnia and hypoxemia?
+Hypercapnia is when you have too much carbon dioxide in your blood. Hypoxemia is when you have too little oxygen in your blood. One can lead to another and you can be hypercapnic and hypoxemic at the same time.
+Symptoms and Causes
+What are the symptoms of hypercapnia (hypercarbia)?
+Symptoms of hypercapnia include:
+- Shortness of breath.
+- Headaches.
+- Persistent tiredness or sluggishness during the day.
+- Disorientation.
+- Confusion or altered mental state.
+- Paranoia.
+- Depression.
+- Seizures.
+Chronic hypercapnia may cause vague symptoms like tiredness, headaches and shortness of breath. These may eventually lead to neurological symptoms like confusion. Acute hypercapnia can cause sudden neurological symptoms, headache and shortness of breath.
+What causes hypercapnia?
+Any condition that increases CO2 levels or prevents CO2 from getting to your lungs and out of your body can cause hypercapnia. These include conditions that create hypoventilation or V/Q mismatch.
+Hypoventilation happens when you breathe too slowly or shallowly to remove carbon dioxide from your body. V/Q mismatch is when your body has enough air coming into your body (ventilation, or “V”) but not enough blood flow to your lungs (perfusion, or “Q”), or vice-versa. This can happen if you have a lung disease that creates “dead space,” or areas that aren’t getting blood flow, in the small air sacs in your lungs (alveoli). Your lungs fill with air but can’t remove all of the CO2 from your blood.
+Chronic obstructive pulmonary disease (COPD) and sleep apnea are two common conditions that sometimes lead to hypercapnia. Others include:
+- Conditions that reduce your ability to properly regulate your breathing.Examples include stroke, sedative overdose, obesity hypoventilation syndrome and hypothyroidism.
+- Conditions that affect your spinal cord, nerves or muscle control. Examples include multiple sclerosis (MS), nerve or spinal cord injuries, amyotrophic lateral sclerosis (ALS) and muscular dystrophy.
+- Differences in chest or spine anatomy. Examples include flail chest and ankylosing spondylitis.
+- Toxins or poisoning. Examples include tetanus and botulism.
+- Pulmonary embolism.
+- Vascular disease.
+Fever and exercise can increase your CO2 levels, but most people’s bodies make adjustments to bring their bodies back into balance. Sometimes, giving oxygen to someone with COPD can cause hypercapnia.
+What are the risk factors for this condition?
+Heart, lung, muscle and neurological (brain and spinal cord) conditions put you at higher risk for hypercapnia. Using medications that sedate you (like opioids or benzodiazepines) can cause you to breathe more shallowly or less frequently, increasing your risk of hypercapnia.
+What are the complications of hypercapnia?
+If your body can’t compensate for high carbon dioxide levels, it can lead to life-threatening conditions. These include:
+- Respiratory acidosis. This is a condition where the pH levels in your blood are lower than normal. This makes your blood more acidic than it should be.
+- Respiratory failure. This is a condition where you can’t get enough oxygen to the tissues in your body.
+- Cardiac arrest.
+- Coma.
+Diagnosis and Tests
+How is hypercapnia (hypercarbia) diagnosed?
+To diagnose hypercapnia, providers use special blood tests to measure the carbon dioxide in your blood. They may use other tests to determine possible causes of hypercapnia.
+What tests might be used?
+Tests to diagnose hypercapnia or its underlying causes include:
+- Pulse oximetry. Providers use a sensor that slips over your finger to measure the amount of oxygen in your blood. This is a painless, routine test that can quickly give your provider information about your condition.
+- Arterial blood gas test. For this test, a needle is used to take a blood sample from your wrist, arm or groin to measure the levels of carbon dioxide in your blood.
+- Blood tests. Many blood tests can help diagnose hypercapnia or its causes. These might include a complete blood count, toxicology screen, CO2 blood test and thyroid function tests.
+- Imaging. A provider may get chest X-rays or CT scans of your chest or head to help diagnose any underlying conditions.
+- Pulmonary function tests. A provider might test how well your lungs are working to help diagnose underlying conditions.
+Management and Treatment
+How is hypercapnia (hypercarbia) treated?
+Treatment for hypercapnia depends on the cause. Providers may treat you with:
+- Non-invasive ventilation.This is a machine that helps you breathe through a mask on your face. Examples include continuous positive airway pressure (CPAP) or bilevel positive airway pressure (often known under the trade name BiPAP®).
+- Oxygen therapy.
+- Medication to reverse overdoses. If an overdose of a sedative (like opioids) caused hypercapnia, a provider might give you certain medications that help reverse the effects.
+- Mechanical ventilation.
+Potential side effects of treatment
+Giving oxygen to someone with COPD can sometimes make hypercapnia worse. This is because it can increase V/Q mismatch or cause your red blood cells to release CO2 into your blood (Haldane effect) that your body can’t effectively get rid of.
+Prevention
+Can you prevent hypercapnia?
+The best way to prevent hypercapnia is to take all medications as prescribed and manage any underlying conditions. If you have COPD, talk to your provider about how to manage exacerbations (flare-ups).
+Outlook / Prognosis
+What’s the outlook for hypercapnia (hypercarbia)?
+The outlook for hypercapnia depends on the cause. Many causes are reversible if caught early. Chronic hypercapnia caused by sleep apnea can be prevented with a device your provider prescribes or certain types of surgery.
+Some studies suggest that people with COPD who have hypercapnia have a worse prognosis than people with COPD who don’t have hypercapnia.
+Living With
+How do I take care of myself?
+Managing any underlying conditions that put you at risk for hypercapnia is the best way to take care of yourself. If you have COPD, sleep apnea or any other condition that puts you at risk for hypercapnia, talk to your provider about symptoms to look out for.
+When should I see my healthcare provider?
+Talk to your healthcare provider if you have symptoms of hypercapnia, especially if you have another condition that puts you at risk.
+When should I go to the ER?
+Go to the nearest emergency room or seek care immediately if you have any signs of serious illness, including:
+- Seizures.
+- Altered mental state or confusion.
+- Disorientation.
+- Paranoia.
+- Blue skin, nails or lips.
+What questions should I ask my doctor?
+It might be helpful to ask your provider:
+- What caused this?
+- How can I prevent it in the future?
+- What are my treatment options?
+A note from Cleveland Clinic
+Our bodies balance themselves all the time, without us even thinking about it. Oxygen and carbon dioxide levels can go up or down and our bodies adjust. But certain conditions can make it harder for our bodies to balance as they need to. This can lead to conditions like hypercapnia.
+The excess carbon dioxide in hypercapnia can cause life-threatening complications. If you have a condition that puts you at risk for hypercapnia, make a plan with your provider about what to do if you have any worrisome symptoms. See a provider right away if you have symptoms of hypercapnia. Go to the ER if you have any mental changes like confusion, seizures or disorientation.

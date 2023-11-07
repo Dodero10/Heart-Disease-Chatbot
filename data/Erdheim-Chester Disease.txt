@@ -1,0 +1,92 @@
+Erdheim-Chester Disease
+Overview
+What is Erdheim-Chester disease (ECD)?
+Erdheim-Chester disease (ECD) is a rare blood disorder that can affect various organs in your body. ECD belongs to a group of rare disorders called histiocytosis. With histiocytosis, there’s an abnormal increase in certain immune cells called histiocytes. Histiocytes are an important part of your immune system.
+They’re normally found in many parts of your body, including your bone marrow, bloodstream, skin, lungs, spleen and liver.
+With ECD, histiocytes grow out of control. The excess histiocytes may travel to different parts of your body where they’re not usually found and cause tumors. The histiocytes invade tissue and cause damage.
+How common is Erdheim-Chester disease?
+ECD is rare, with only about 800 reported cases worldwide since the condition was discovered in 1930. It’s likely underdiagnosed. Currently, there aren’t general reporting guidelines that nations use to keep track of diagnoses.
+Erdheim-Chester disease is most common in middle-aged adults, but children have been diagnosed in rare instances. The average age of diagnosis in the U.S. is 46. ECD is more common in men and people assigned male at birth, who account for 70% to 75% of diagnoses.
+Symptoms and Causes
+What are the symptoms of Erdheim-Chester disease?
+ECD affects people differently. Symptoms vary depending on which parts of your body have excess histiocytes and which body systems are affected. In some instances, Erdheim-Chester disease is asymptomatic, which means it doesn’t cause symptoms. In that case, your healthcare provider may see evidence of ECD during imaging or lab tests.
+Bones
+ECD can cause abnormal hardening in your bones (osteosclerosis), sometimes, resulting in bone pain. Bone hardening, often affecting both legs, usually shows up in imaging to diagnose ECD. Bone pain in both legs is the most common symptom of ECD.
+Kidneys
+ECD can damage your kidneys and tissue in the body cavity that contains your kidneys and other abdominal organs (retroperitoneum). The invading histiocytes may cause:
+- Kidney swelling.
+- Kidney atrophy.
+- Renal failure (kidney failure).
+Endocrine system
+Invading histiocytes can damage glands that release hormones that help regulate important processes in your body. Depending on which gland is damaged, you may experience symptoms of:
+- Hypopituitarism (too little of one or more hormones your pituitary gland makes).
+- Hypothyroidism (too little of one or more hormones your thyroid gland makes).
+- Hypogonadism (too few sex hormones, like testosterone or estrogen).
+- Adrenal insufficiency (too few hormones made by your adrenal gland).
+Damage to your pituitary gland can cause symptoms of diabetes insipidus, like frequent peeing and thirst. Up to half of the people with ECD are also diagnosed with diabetes insipidus.
+Nervous system
+Histiocytes can damage tissue in your brain and nervous system. Symptoms may include:
+- Problems with coordination and balance (ataxia).
+- Slurred speech because of poor control over your speaking muscles (dysarthria).
+- Trouble thinking, concentrating or remembering.
+- Headaches.
+Eyes
+ECD may affect one or both eyes. Symptoms include:
+- Soft, yellowy growths on your eyelids (xanthelasma).
+- Bulging eyeballs (proptosis).
+- Eye pain.
+- Vision loss.
+Respiratory system
+Excess histiocytes affecting your lungs often appear on imaging but don’t cause symptoms. If you do experience symptoms, they may include:
+- Cough.
+- Shortness of breath (dyspnea).
+Left untreated, ECD can cause serious, long-term lung scarring (pulmonary fibrosis).
+Cardiovascular system
+Your healthcare provider may see evidence of excess histiocytes affecting your heart and blood vessels on imaging. The damage may be life-threatening without treatment. ECD may cause:
+- Fluid build-up and swelling in the sac surrounding your heart (pericardial effusion).
+- High blood pressure that results from restricted blood flow to your kidneys (renal hypertension).
+- Heart failure.
+Skin
+The most common sign of ECD on your skin is yellowish growths on your eyelids. Yellowish-brown growths may also appear on your:
+- Face.
+- Neck.
+- Torso.
+- Groin.
+Excess histiocytes can also collect in your spleen, liver and bone marrow, causing tissue damage.
+What causes Erdheim-Chester disease?
+With ECD, histiocytes multiply out of control and spread, damaging healthy tissue and organs. Scientists aren’t sure what causes the out-of-control cell growth in all instances, but they’ve recently discovered gene mutations (changes) that likely play a role.
+More than half of people with Erdheim-Chester disease have a mutation in the BRAF gene that promotes uncontrolled histiocyte growth. Although BRAF is the most common site for gene mutations with ECD, scientists have also discovered other gene mutations associated with ECD.
+These discoveries have allowed scientists to develop treatments that target mutations and prevent abnormal histiocyte growth.
+Diagnosis and Tests
+How is Erdheim-Chester disease diagnosed?
+ECD is so rare and presents so differently across individuals that healthcare providers may not immediately suspect it. Receiving a diagnosis may take time. You may work with several healthcare providers before receiving a diagnosis.
+Your healthcare providers will consider your symptoms alongside the results of several other procedures and tests before diagnosing you with ECD. Diagnosis involves:
+- Imaging procedures: Various imaging studies allow your provider to see where excess histiocytes are invading tissue throughout your body. X-rays and bone scans can show if your bones are affected. A PET scan can show bone damage and soft tissue damage. A CT scan and MRI can show soft tissues that may be affected, including your brain and organs in your chest and abdomen.
+- Lab tests: Lab tests can show issues with organ functioning that may be related to ECD. Your healthcare provider may also check for signs of inflammation, irregular blood cell counts or atypical hormone levels.
+- Biopsy: During a biopsy, a provider removes a tissue sample and views it beneath a microscope to check cells for signs of ECD. They’ll test the cells for mutations (like BRAF) associated with ECD. Learning these cell characteristics can help your provider determine which treatments will work best.
+If your provider can’t collect an adequate tissue sample, they may test your blood for mutations associated with ECD. This test is called a liquid biopsy.
+Management and Treatment
+How is Erdheim-Chester disease treated?
+If you don’t have symptoms and ECD isn’t negatively impacting your body, your healthcare provider may choose to monitor your condition. Still, most people with ECD need treatment. While there isn’t a cure, several treatments can help manage Erdheim-Chester disease. Treatments include:
+- Targeted therapy: Targeted therapy includes drugs targeting the gene mutations that cause histiocytes to multiply out of control. These treatments interfere with the process that causes histiocytes to behave abnormally. Vemurafenib is a U.S. Food and Drug (FDA)-approved drug used to treat ECD involving BRAF gene mutations. Cobimetinib is an FDA-approved drug for treating ECD involving MEK mutations. Your healthcare provider may recommend Vemurafenib or cobimetinib, other targeted therapy drugs or a combination of drugs depending on the types of cell mutations they discover during testing.
+- Immunotherapy: Immunotherapy drugs help your immune system identify and fight cancer cells more effectively. Interferon-alpha is a common immunotherapy drug used to treat ECD.
+- Chemotherapy: Chemotherapy uses drugs to destroy cancer cells and prevent tumor growth throughout your body. The most common chemotherapy drug used to treat ECD is cladribine. Still, your provider may recommend other chemotherapy drugs or drug combinations.
+Your healthcare provider may recommend additional treatments to help with symptom relief. These treatments can’t prevent histiocytes from invading tissue, but they can help you feel better.
+- Surgery: You may need surgery to address tissue damage resulting from ECD. For example, inflammation and damaged tissue can block the tubes that carry urine (pee) from your bladder (ureters). You may need surgery to correct this issue or others.
+- Radiation therapy: Your provider may recommend radiation therapy to destroy cancer cells that are causing unpleasant symptoms in a specific part of your body.
+- Corticosteroids: Corticosteroids can ease inflammation associated with invading histiocytes.
+You may also be eligible for a clinical trial. A clinical trial is a study that tests new treatments and new treatment combinations for safety and effectiveness. Ask your provider if you should participate in a clinical trial for Erdheim-Chester disease.
+Prevention
+How can I prevent Erdheim-Chester disease?
+Erdheim-Chester disease isn’t preventable, but it’s often manageable with treatment.
+Outlook / Prognosis
+How long can you live with Erdheim-Chester disease?
+Your prognosis depends on where the histiocytes have caused damage in your body and your response to treatment. Still, recent advancements in treatments, such as targeted therapy, have improved the outcomes associated with ECD.
+In 1996, the five-year survival rate for ECD was 43%. According to a recent study, the survival rate has increased to 83%.
+Talk to your provider about your prognosis based on your condition and response to treatment.
+Living With
+When should I see my healthcare provider?
+ECD requires ongoing treatment and monitoring. Your provider will advise you on how often you’ll need follow-up visits, including imaging procedures and lab work.
+Many of the treatments used for ECD may cause unpleasant side effects. Working with a palliative care team in addition to your ECD care team can help you manage these treatment side effects as you navigate your ECD diagnosis.
+A note from Cleveland Clinic
+Erdheim-Chester disease (ECD) affects people differently depending on where excess histiocytes cause tissue damage. The signs and symptoms of this disease vary from person to person. They’ll influence your entire experience, including potential treatments. Fortunately, recent advances have allowed scientists to develop treatments that improve the prognosis for ECD. Talk to your provider about how the unique characteristics of your disease will shape your treatment options and outcomes.

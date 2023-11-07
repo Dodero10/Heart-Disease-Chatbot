@@ -1,0 +1,75 @@
+Hamartoma
+Overview
+What is a hamartoma?
+A hamartoma is a benign (noncancerous) growth, or mass, that contains the same types of cells located in the part of your body where the growth forms. Unlike cells in the surrounding tissue, the cells that make up a hamartoma grow in a disorganized way. These cells clump together to form an abnormal — but harmless — tumor-like mass.
+Hamartoma (pronounced “HA-mar-TOH-muh”) comes from two Greek words:
+- “Hamartia,” which means a flaw or defect.
+- “Oma,” which means a tumor.
+Think of a hamartoma as a specific type of benign (noncancerous) tumor. A tumor is a solid mass that forms when a group of abnormal cells clumps together. Tumors can be benign or malignant (cancerous). The defining feature of a hamartoma is that the cells that clump are the same as the cells found in the surrounding normal tissue. The normal cells in a hamartoma grow together atypically.
+Where do hamartomas form in the body?
+Hamartomas can form anywhere in your body. The most common locations include:
+- Lungs: This is the most common site for hamartomas to form. Approximately 10% of all benign lung nodules (growths) are hamartomas.
+- Skin: Skin hamartomas most often appear on your head and neck, especially your face, lips and around your ears.
+- Heart: A cardiac rhabdomyoma is a rare hamartoma most commonly diagnosed during gestation (while a fetus is in the uterus) or in infancy. Although they’re rare overall, they’re the most common pediatric heart tumor.
+- Brain: Hypothalamic hamartomas grow in your hypothalamus, a part of your brain that keeps essential body processes stable and in balance. They’re present at birth and usually diagnosed in childhood and adolescence. Hypothalamic hamartomas can cause symptoms, such as seizures, vision problems and precocious (early) puberty.
+- Breast: About 5% of benign breast lumps are hamartomas. They’re most common in women and people assigned female at birth who are over 35 years old.
+Hamartomas associated with certain conditions, like PTEN hamartoma tumor syndrome (PHTS), may also form in your kidneys, spleen, thyroid gland, bones or other body parts.
+Do hamartomas spread?
+Hamartomas don’t spread. Unlike malignant tumors, which can spread throughout your body and damage important body structures, hamartomas stay in the place where they formed. They can cause damage if they grow so large that they impact a nearby organ or healthy tissue, but this is rare.
+What conditions are associated with hamartomas?
+Several rare genetic conditions are associated with hamartomas. With these conditions, mutations (changes) in a gene can lead to hamartoma growth.
+- Pallister-Hall syndrome (PHS): PHS is associated with mutations on the GLI3 gene. About 5% of people with hypothalamic hamartomas also have PHS.
+- Tuberous sclerosis: Tuberous sclerosis can cause hamartomas to form in various organs and body systems, including your brain, heart, kidneys, skin and eyes.
+- Neurofibromatosis Type 1 (NF1): NF1 is a rare genetic condition that can cause hamartomas to grow on nerves throughout your body.
+- PTEN hamartoma tumor syndrome (PHTS): PHTS is a group of syndromes that involve a mutation on the PTEN gene. Subtypes include Cowden syndrome and Bannayan-Riley-Ruvalcaba syndrome (BRRS). Hamartomas can form in various organs and affect various body systems, including your breasts, uterus, thyroid, GI tract and skin.
+- Peutz-Jeghers syndrome (PJS): PJS is associated with a mutation on the STK11/LKB1 gene. With PJS you’re at increased risk of developing hamartomas in your lungs, stomach, bladder, small intestine, colon and rectum.
+What are the types of hamartomas?
+There are multiple types of hamartomas. Hamartomas include hypothalamic hamartomas, polyps (as in Peutz-Jeghers syndrome), cardiac rhabdomyomas, biliary duct hamartomas and retinal astrocytic hamartomas, among others. Hamartomas can grow anywhere in your body.
+Symptoms and Causes
+What are the symptoms of a hamartoma?
+Most hamartomas are asymptomatic, which means they don’t cause symptoms. When they do cause symptoms, it’s usually because the hamartoma has grown into nearby tissue. If you do have symptoms, they’ll usually relate to the part of your body where the hamartoma has grown.
+What causes hamartomas?
+Scientists don’t know what causes hamartomas in all instances. Genetic conditions associated with hamartomas tend to be inherited. Most involve inheriting a genetic mutation from one of your biological parents.
+Your healthcare provider may recommend genetic testing or counseling if you have a syndrome that’s related to hamartomas, like PHTS.
+What are the complications of hamartomas?
+Most hamartomas aren’t serious. Still, they can cause problems if they grow so large that they damage an organ or body structure. For example, cardiac rhabdomyomas can lead to heart problems and even heart failure if they interfere with how your heart functions. A hypothalamic hamartoma can cause hormone imbalances, cognitive dysfunction and other symptoms if it interferes with your hypothalamus’s ability to coordinate important processes in your body.
+Your healthcare provider can monitor or remove a hamartoma if they’re concerned it may cause complications.
+Diagnosis and Tests
+How are hamartomas diagnosed?
+As most hamartomas are asymptomatic, healthcare providers usually find them during imaging for an unrelated issue. Diagnosing a hamartoma can be challenging depending on where it’s located in your body because it may resemble cancerous masses.
+Your provider will perform a physical exam and ask you about your medical history to help determine whether a mass is a hamartoma. Often, you’ll need additional imaging to be sure.
+What tests will be done to diagnose a hamartoma?
+Diagnostic tests include:
+- X-ray: Uses low doses of radiation to take pictures of bones and soft tissues. Lung hamartomas sometimes have a “popcorn” like appearance on X-rays that distinguish them from cancerous masses.
+- Ultrasound: Uses sound waves to generate images of soft tissue inside your body.
+- Computed tomography (CT) scan: Takes multiple X-rays of soft tissue and bones inside your body. CT scans are especially useful in diagnosing lung hamartomas.
+- Magnetic resonance imaging (MRI): Uses a large magnet and radio waves to create detailed images of soft tissue inside your body.
+- Mammogram: Uses low doses of radiation to show the tissue inside your breast. Most breast hamartomas appear during mammograms to screen for cancer.
+- Biopsy: Involves a provider removing part of the mass. A different provider called a pathologist views the cells underneath a microscope. Biopsies help determine whether a growth is made of benign cells, as in a hamartoma, or cancer cells.
+Management and Treatment
+How are hamartomas treated?
+Treatment will depend on where the mass is located and whether you’re experiencing symptoms. If it’s not causing issues, your healthcare provider may choose to monitor it instead of treating it. If it’s causing symptoms or if your provider is unable to rule out cancer, surgery is the most common treatment.
+What specific procedures are used to treat hamartomas?
+Surgeries used to remove lung hamartomas include:
+- Wedge resection:Removes a wedge-shaped slice of tissue, which includes the hamartoma and a small margin of surrounding normal tissue.
+- Lobectomy:Removes the lobe of your lung that contains the hamartoma. The right side of your lung has three lobes. The left side has two lobes.
+- Pneumonectomy:Removes your entire lung. Hamartomas are rarely serious enough to warrant this procedure.
+Procedures used to remove hypothalamic hamartomas include:
+- Resection surgery: A surgeon excises (removes) the tumor.
+- Ablation: A surgeon uses extreme heat or a laser to destroy the tumor.
+- GammaKnife® radiosurgery: A radiation oncologist directs powerful beams of energy toward your tumor, destroying it. Radiosurgery isn’t traditional surgery that involves cuts. Instead, it’s a form of radiation therapy that eliminates harmful tissue with precision, like surgery.
+Outlook / Prognosis
+What can I expect if I have a hamartoma?
+Most hamartomas aren’t serious. If a hamartoma is impacting an organ or has grown so large that it could cause damage, surgery usually resolves the issue. In some instances, hamartomas may be difficult to remove. For example, some hypothalamic hamartomas grow close to your optic nerve. Surgery may risk damaging it. Ask your healthcare provider if your hamartoma needs to be removed. Ask about potential complications or risks if they recommend surgery or other treatments, like radiation.
+Can a hamartoma turn cancerous?
+Hamartomas can turn cancerous, but this is rare. Also, while hamartomas aren’t usually serious, conditions associated with hamartomas may increase your cancer risk. For example, Cowden syndrome, a type of PHTS, can cause hamartomas throughout your body. It also increases your risk of developing certain cancers. In this case, the hamartoma doesn’t increase your cancer risk. The condition does.
+Living With
+What questions should I ask my doctor?
+Your healthcare provider can advise you on whether you should be concerned about a hamartoma. Questions to ask include:
+- What caused the hamartoma?
+- Should the hamartoma be removed?
+- What symptoms will let me know that the hamartoma may need treatment?
+- Is the hamartoma a sign of a more serious condition?
+- Will I or anyone in my family benefit from genetic counseling or testing?
+A note from Cleveland Clinic
+Your healthcare provider can advise you on whether you should be concerned about a hamartoma. Usually, these growths are harmless. There’s a good chance that you won’t need treatment. On the other hand, if the hamartoma’s causing symptoms or your provider is worried about possible complications, surgery usually resolves the issue. Ask your healthcare provider about the best path forward if they discover a hamartoma.
