@@ -11,3 +11,6 @@ altair
 tiktoken
 huggingface-hub
 rank_bm25
+ctransformers
+deep_translator
+streamlit_option_menu
