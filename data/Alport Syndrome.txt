@@ -1,0 +1,140 @@
+Alport Syndrome
+Overview
+What is Alport syndrome?
+Alport syndrome is a genetic condition in which your kidneys don’t produce normal type IV collagen proteins.
+Type IV collagen consists of three individual collagen chains (alpha chains) that twist together like rope. The chains are alpha 3, alpha 4 and alpha 5. If your body doesn’t produce one of these chains, the other two can’t combine. This results in the most severe Alport syndrome symptoms.
+If your body produces all of the chains but doesn’t make one correctly, sometimes the chains can’t combine and other times the chains combine but don’t function properly. Alport syndrome symptoms may be milder in these instances.
+Type IV collagen is an important protein in the filtration membranes in your kidneys (glomerular basement membranes or GBM).
+The GBM is part of a three-layer structure that filters your blood to remove toxins and other contents that your body doesn’t need to make urine (pee). The GBM also make sure that contents like blood cells and proteins remain in your blood instead of entering your pee.
+When the GBM doesn’t function properly, blood or proteins can leak into your pee. Your kidneys’ ability to filter your pee also gets worse over time, which increases your risk of complete kidney failure.
+Type IV collagen is also present in your ears and eyes. So if you have Alport syndrome, it can cause problems with your vision and hearing as well as kidneys.
+What is the inheritance of Alport syndrome?
+Alport syndrome has three genetic types. They include:
+X-linked Alport syndrome (XLAS)
+XLAS relates to your X chromosome. Your X chromosome is one of your two sex chromosomes (X and Y). It’s where the gene that produces your alpha 5 chain (COL4A5) resides.
+Most men and people assigned male at birth (AMAB) have one X chromosome and one Y chromosome. Most women and people assigned female at birth (AFAB) have two X chromosomes. Males only have the abnormal X chromosome, so they’re more likely to have more severe symptoms. Females have one abnormal X chromosome and one normal X chromosome, so their symptoms are usually milder.
+Males pass their Y chromosome to their male children. Therefore, they can’t pass XLAS to them. However, males pass their X chromosome to all of their female children. As a result, all of their female children will have Alport syndrome.
+Females pass one of their X chromosomes on to their child of either assigned sex. Therefore, they have a 50% chance of passing XLAS to any of their children.
+XLAS is the most common type of Alport syndrome. It accounts for about 60% to 80% of all cases of Alport syndrome.
+Autosomal recessive Alport syndrome (ARAS).
+“Autosomal” refers to the 23 pairs of autosomal genes. Autosomal recessive is a pattern of inheritance. If a parent has an autosomal recessive trait, they won’t show any symptoms. In order to pass it on to their children, both parents must carry the trait. However, because they don’t have any symptoms, they often don’t even know they have it. Both parents need to pass an altered gene to their child for the child to inherit the genetic condition or trait in an autosomal recessive pattern. One-quarter of the children will get an autosomal recessive trait if both parents have it. Only changes that occur in the DNA of the sperm or egg can pass on to children from parents.
+In Alport syndrome, the genes that encode the alpha 3 (COL4A3) and alpha 4 (COL4A4) proteins reside on chromosome 2.
+“Recessive” refers to a disease that needs mutations on both genes in a pair to develop.
+In ARAS, there’s a mutation on both genes on chromosome 2, which encodes the alpha 3 or alpha 4 proteins. ARAS doesn’t depend on the assigned sex of a person, so the inheritance and severity of ARAS is the same in everyone.
+If you have ARAS, there’s a 50% chance of passing one of the abnormal genes to any of your biological children. This usually doesn’t result in Alport syndrome. There’s a 25% chance of passing on both abnormal genes to your biological children. If this occurs, your child will have ARAS.
+ARAS accounts for about 15% of all cases of Alport syndrome.
+Autosomal dominant Alport syndrome (ADAS)
+“Dominant” refers to a disease that requires a mutation on only one of the genes in a pair to develop a disease. In ADAS, there’s a mutation on one of the genes in chromosome 2 that encodes the COL4A3 or COL4A4 proteins.
+ADAS doesn’t depend on a person’s assigned sex, so the inheritance and severity of ARAS is the same in everyone.
+If you have ADAS, there’s a 50% chance of passing the abnormal gene on to your biological children, in which case ADAS will develop.
+ADAS accounts for 25% to 35% of all cases of Alport syndrome.
+Who does Alport syndrome affect?
+Alport syndrome can affect anyone.
+It’s an inherited condition, which means that one or both biological parents pass it down to their child. However, in about 15% of cases, it can develop when neither parent has the mutated gene.
+How common is Alport syndrome?
+Healthcare providers believe Alport syndrome is rare.
+Medical researchers estimate that fewer than 200,000 people in the United States have Alport syndrome. Worldwide, they estimate the prevalence at 1 in every 50,000 live births. However, as researchers continue studying Alport syndrome, they’re identifying more people with milder forms of the condition. As a result, Alport syndrome may be more common than what currently available data suggests.
+Symptoms and Causes
+How does Alport syndrome cause kidney failure?
+If you have Alport syndrome, the glomerular basement membranes don’t filter properly, so blood and protein leak into your pee. However, it also isn’t as supportive for the cells that line both sides of it. As a result, the cells become irritated and inflamed. Podocytes are the cells that produce the GBMs, and they try to put more type IV collagen into the GBMs when the surrounding cells become inflamed. When this happens, the GBMs become thicker and disorganized. This causes protein to leak into your pee (proteinuria).
+Over time, as more protein leaks into your pee and as your GBMs become thicker, scar tissue may develop (fibrosis). As a result, your kidneys’ ability to clean your blood starts to decline (chronic kidney disease). As more scar tissue develops, your kidney function gets worse until your kidneys eventually stop working (kidney failure).
+What are the main clinical symptoms of Alport syndrome?
+Alport syndrome symptoms may vary according to which type you have. The main symptoms include:
+- Blood in your pee that you can’t see (microscopic hematuria).
+- Protein in your pee (proteinuria).
+- Chronic kidney disease or kidney failure.
+- Hearing loss.
+- Problems with your eyes.
+The first sign of Alport syndrome is microscopic hematuria. Microscopic hematuria occurs because your abnormal GBMs leak red blood cells into your pee. You can’t see the blood cells with your naked eye — you can only see it under a microscope. Males who have XLAS and anyone who has ARAS will have microscopic hematuria at birth. Most females who have XLAS will develop microscopic hematuria over time. Not everyone with ADAS will develop microscopic hematuria.
+As your kidney function starts to decline, chronic kidney disease (CKD) develops. Most people don’t have CKD symptoms until they reach kidney failure.
+Kidney failure symptoms include:
+- Swelling (edema), especially around your hands or ankles.
+- Extreme tiredness (fatigue).
+- Nausea and vomiting.
+- Muscle cramps.
+Hearing loss is more common in males who have XLAS and people with ARAS. However, it can occur in anyone with Alport syndrome. Hearing loss is usually gradual. Many people don’t realize they have hearing loss until it becomes more severe. Most people have a harder time hearing higher-pitched sounds, though some people may eventually not be able to hear any sounds. You may eventually need hearing aids. In severe cases, total hearing loss (deafness) occurs.
+You may develop a wide range of problems with your eyes. Some people are more likely to scratch the surface of their eyes (corneal abrasion), which can take a long time to heal. Corneal abrasions may cause your eyes to water and hurt, but it usually doesn’t lead to vision loss. Some people also develop problems with the clear part of their eye that helps focus their vision (the lens), which can eventually lead to cataracts.
+If you have Alport syndrome and develop problems with your hearing or vision, talk to a healthcare provider right away.
+What causes Alport syndrome?
+Mutations in your collagen genes cause Alport syndrome.
+Is Alport syndrome contagious?
+No, Alport syndrome isn’t contagious. You can’t spread it to another person through close contact.
+Alport syndrome is an inherited condition, which means one or both of your biological parents must pass it down to you.
+Diagnosis and Tests
+How is Alport syndrome diagnosed?
+If you have microscopic hematuria or chronic kidney disease, a healthcare provider may raise Alport syndrome as a concern. If you have a biological family history of Alport syndrome, screenings can help diagnose it. If no one in your family has Alport syndrome, a provider can diagnose you based on your history and additional testing.
+A healthcare provider will examine your symptoms and ask about your biological family history. A variety of tests can also help a provider diagnose Alport syndrome. These tests include:
+- Urinalysis. A urinalysis (urine test) examines the visual, chemical and microscopic aspects of your pee. This test can help a healthcare provider identify blood or protein in your pee.
+- Creatinine clearance test or cystatin C blood tests. These tests measure the waste product creatinine and the protein cystatin C levels in your blood. The tests reflect how well your kidneys filter blood.
+- Estimated glomerular filtration rate (eGFR). The eGFR is a value that a provider calculates from creatinine or cystatin C. It estimates how well your kidneys clean your blood.
+- Kidney biopsy. A healthcare provider will remove several tiny pieces of your kidney tissue to examine under a microscope at a lab. The samples can show different patterns that affect your kidney. In Alport syndrome, the abnormal GBMs appear thin, but they may include thickened areas. If Alport syndrome is more severe, the filtering units and supporting structure may show scarring.
+- Genetic testing. A genetic test can identify mutations in your collagen genes. You may have to go to a special genetic medicine clinic to get genetic testing. A provider will either conduct blood tests or saliva (spit) tests with a mouth swab.
+- Hearing test. A healthcare provider may order a hearing test (audiogram) if they suspect Alport syndrome. Providers should order a hearing test for anyone who has Alport syndrome. You should get tests every few years to determine if hearing loss develops or worsens.
+- Eye exam. An eye care specialist who specializes in diagnosing and treating eye conditions should perform an eye exam. They’ll test your vision and look at the surface of your eye (cornea), your lens and the back of your eye (retina) to see if Alport syndrome is affecting these areas. They may also conduct an optical coherence tomography (OCT) imaging test.
+Management and Treatment
+Can Alport syndrome be cured?
+There isn’t a cure for Alport syndrome. Researchers are working on gene therapies that fix the abnormal genes, but are not yet successful. If they can develop a successful gene therapy, it won’t be available for many years. However, treatments are available now that slow down kidney decline and delay kidney failure.
+A provider may prescribe the following:
+- Angiotensin-converting enzyme (ACE) inhibitors. ACE inhibitors lower your blood pressure, decrease protein in your pee and help protect your kidneys. Males who have XLAS or anyone with ARAS should start taking ACE inhibitors after diagnosis. Females who have XLAS or ADAS should start ACE inhibitors after protein starts to appear in your pee or even at the time of diagnosis.
+- Angiotensin II receptor blockers (ARBs). ARBs are similar to ACE inhibitors and have the same benefits.
+- Sodium-glucose transported type 2 (SGLT-2) inhibitors. SGLT-2s help decrease your risk of kidney failure if you have CKD or Alport syndrome. Your healthcare provider may add these to your ACE inhibitor or ARB. The Food and Drug Administration (FDA) hasn’t approved all SGLT-2 inhibitors to help treat CKD. Your provider also won’t prescribe them if your glomerular filtration rate is too low.
+- Sodium-controlled diet. Limiting the amount of salt and sodium in your diet helps lower your blood pressure and can help maintain kidney and heart health.
+Can a kidney transplant cure Alport syndrome?
+Yes and no. A kidney transplant will give you a kidney with normal type IV collagen and filtering membranes. As a result, Alport syndrome won’t come back in the new kidney.
+However, a kidney transplant won’t help with other Alport syndrome symptoms, such as hearing loss or problems with your eyes.
+Prevention
+How can I prevent Alport syndrome?
+You can’t prevent Alport syndrome, but being aware of your family history can help you detect it early. Awareness can also help prevent you from passing it on to your biological child.
+Diagnosing Alport syndrome early and starting therapy with ACE inhibitors/ARBs and SGLT-2 inhibitors is the best way to delay kidney failure.
+If a provider diagnoses blood in your pee, it’s a good idea to get additional testing for Alport syndrome, especially if you have any hearing issues or decreased kidney function.
+If you have a family history of hematuria, a provider should test your pee for blood and order blood tests to check your kidney function.
+Outlook / Prognosis
+What is my life expectancy if I have Alport syndrome?
+Males who have XLAS and anyone with ARAS often develop kidney failure and hearing loss before 30.
+Females who have XLAS usually have an average lifespan. You may have microscopic hematuria only, proteinuria, CKD or kidney failure and hearing loss. Every person has a different response. But 16% of females will develop kidney failure by 60, and 20% will develop it by 80.
+People with ADAS can also have a variable response, and they may have a normal lifespan. Hearing loss and kidney failure are less common in ADAS.
+CKD and kidney failure usually shorten the lifespan of people with Alport syndrome. CKD increases the risk of dying from heart disease and strokes. Without dialysis or a kidney transplant, kidney failure is fatal. Even with treatment, kidney failure increases your risk of dying from heart disease, stroke and infections. Depending on how well a transplanted kidney works, a kidney transplant can help bring your life expectancy closer to average.
+Living With
+How do I take care of myself?
+If you have Alport syndrome, a healthcare provider will work with you to develop the best treatment plan, which may include medications or changes to your lifestyle. Your treatment may include:
+Medical treatment
+- Taking ACE inhibitors, ARBs or SGLT-2 inhibitors as prescribed by your provider.
+- Avoiding non-steroidal anti-inflammatory drugs (NSAIDs), which may increase how fast kidney failure develops if you have abnormal kidney function or Alport syndrome.
+- Getting your hearing checked. If you have advanced hearing loss and your provider recommends hearing aids, it’s a good idea to use them. If you don’t, you may feel isolated or lonely because it can be difficult to have conversations with others. Feelings of isolation may develop into depression. Hearing aids can improve your connection to those around you, improve you mood and help stabilize or avoid depression.
+- Taking care of your mental health. Having a genetic condition can be isolating, and knowing that Alport syndrome may likely cause kidney failure or hearing loss can increase your risk of depression. It’s important to discuss any mental health issues you have with your healthcare provider and get the treatments you need. Ask a provider if there are any support groups for people with Alport syndrome. Meeting other people who have Alport syndrome can help you feel less alone. For example, the Alport Syndrome Foundation in the United States helps connect people, educate them and advocate for them with the scientific community and governments.
+Lifestyle changes
+- Cutting back on the amount of salt in your diet.
+- If you have CKD, you may need to follow a specific diet. It may include eating less animal protein or considering a plant-based diet, avoiding foods high in potassium if you have high blood potassium levels and limiting the amount of protein in your diet altogether if you have high blood phosphorus or parathyroid hormone (PTH) levels.
+- Restricting the amount of protein in your diet altogether if your blood phosphorus or parathyroid hormone (PTH) levels are elevated.
+- Participating in a heart-healthy lifestyle can help lower your risk of heart disease, diabetes and other conditions that may also cause kidney failure. Heart-healthy exercises such as brisk walking, jogging, swimming, bicycling and jumping rope can help. It’s also a good idea to maintain a healthy weight for you.
+- Avoiding smoking and other tobacco products. Reach out to a healthcare provider if you need help quitting smoking.
+When should I see a healthcare provider?
+Contact a healthcare provider if you have blood in your pee, hearing loss or vision loss. These may be signs of Alport syndrome.
+If you have Alport syndrome, make sure your provider refers you to a kidney specialist who diagnoses and treats conditions that affect your kidneys (nephrologist).
+If any of your biological family members have Alport syndrome, contact a provider to see if you also have it.
+What questions should I ask my healthcare provider?
+Ask your healthcare provider the following questions if you are concerned that you might have Alport syndrome or if you have a family member who has Alport syndrome:
+- Do you know how to diagnose Alport syndrome?
+- Can you refer me to a specialist who knows how to diagnose Alport syndrome?
+- Do I have blood in my pee?
+- Do I have decreased kidney function?
+- Should I have a hearing exam or eye exam?
+- Should I have a kidney biopsy?
+- Should I have genetic testing?
+Ask your provider the following questions if you have Alport syndrome:
+- How do you know I have Alport syndrome?
+- When can you refer me to a nephrologist that knows about Alport syndrome?
+- What type of Alport syndrome do I have?
+- Will I pass Alport syndrome to my biological children?
+- What is my GFR?
+- How much protein is in my pee?
+- When will you start an ACE inhibitor or ARB?
+- Would I benefit from an SGLT-2 inhibitor?
+- What other medications do you recommend?
+- How often should I schedule appointments to check my kidney health?
+- How often should I get hearing tests?
+- Should I have an ophthalmologist examine my eyes?
+- Can you recommend any support groups for people with Alport syndrome?
+A note from Cleveland Clinic
+Alport syndrome is a condition that damages the blood vessels in your kidneys. Mutations in your genes affect how well your kidneys work, and they can also affect your hearing and vision.
+You may feel a wide range of emotions as you come to terms with your diagnosis and how Alport syndrome affects your life. It’s important to give yourself time and space to understand your illness and your treatment options. Knowing your choices and what to expect can help you process your emotions. You make the ultimate decisions about your health, and your provider is here for you to provide information and guidance. Talk to them if you have any questions or need support or advice.

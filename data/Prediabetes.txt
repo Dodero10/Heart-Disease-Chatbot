@@ -1,101 +1,118 @@
 Prediabetes
 Overview
 What is prediabetes?
-Prediabetes is a health condition in which you have higher blood sugar levels than normal but not high enough to be considered diabetes.
-People with prediabetes have up to a 50% chance of developing diabetes over the next five to 10 years. But you can take steps to prevent Type 2 diabetes from developing.
-Who’s at risk for prediabetes?
-If you have risk factors for prediabetes, talk to your healthcare provider about getting your blood sugar checked regularly. These prediabetes checks are essential because prediabetes often has no symptoms. You can have it for years and not know it.
-You may also be at higher risk of prediabetes due to:
-- Age (being 45 or older).
-- Parent or sibling with Type 2 diabetes.
-- Ethnicity. Being African-American, Hispanic, Native American, Asian-American race or a Pacific Islander.
-- Previous gestational diabetes.
-- Polycystic ovary syndrome (PCOS).
-- Certain medications, such as steroids, certain antipsychotics and some HIV medications.
-- Hormonal conditions, including Cushing’s syndrome and acromegaly.
-- Sleep disorders, such as sleep apnea.
-Some risk factors for prediabetes can be modified, meaning you can change them. These include:
-- Obesity or carrying extra weight.
-- Exercising less than three times a week.
-- High blood pressure or high cholesterol levels.
-- Metabolic syndrome, a combination of high blood pressure, high cholesterol level and large waist measurement.
-- Smoking.
-What are complications of prediabetes?
-Having prediabetes means you are more likely to develop Type 2 diabetes. But it also puts you at increased risk of:
-- Heart disease.
-- Stroke.
+Prediabetes happens when you have elevated blood sugar levels, but they’re not high enough to be considered Type 2 diabetes.
+Healthy blood sugar (glucose) levels are 70 to 99 milligrams per deciliter (mg/dL). If you have undiagnosed prediabetes, your levels are typically 100 to 125 mg/dL.
+According to the American Diabetes Association, for people 45 years old with prediabetes, the 10-year risk of developing Type 2 diabetes is 9% to 14%. The good news is that it’s possible to reverse prediabetes with healthy lifestyle changes.
 How common is prediabetes?
-About 88 million American adults have prediabetes. It affects more than 1 in 3 adults under age 65 and half of people over 65. More than 84% of those with prediabetes don’t even know they have it since prediabetes often has no symptoms.
+Prediabetes is very common. Researchers estimate that 84 million adults in the U.S. have prediabetes. It affects more than 1 in 3 adults under age 65 and half of people over 65 in the U.S.
+More than 80% of people with prediabetes don’t know they have it, as it often has no symptoms.
 Symptoms and Causes
-What causes prediabetes?
-Your pancreas produces a hormone called insulin. Insulin allows blood sugar (glucose) into your cells so your body can use it as energy. In prediabetes, your cells don’t respond to insulin as they should.
-In the prediabetes cycle:
-What causes insulin resistance?
-Researchers don’t understand exactly what causes cells to become insulin resistant. But it’s possible that carrying excess weight and being physically inactive contribute:
-- Belly fat can increase inflammation in the body, which may lead to insulin resistance.
-- Exercise causes changes in your body that help keep blood sugar levels in balance. Lack of activity makes it difficult to maintain that balance.
 What are the symptoms of prediabetes?
-Many people have no symptoms of prediabetes, often for years. Prediabetes may be invisible until it develops into Type 2 diabetes.
-Some people with prediabetes may experience:
-- Darkened skin in the armpit or back and sides of the neck, called acanthosis nigricans.
-- Skin tags, small skin growths.
+Most people with prediabetes don’t have any symptoms. This is why it’s important to see your primary care provider regularly so they can do screenings, like a basic metabolic panel, to check on your blood sugar levels. This is the only way to know if you have prediabetes.
+For the few people who do experience symptoms of prediabetes, they may include:
+- Darkened skin in your armpit or back and sides of your neck (acanthosis nigricans).
+- Skin tags.
 - Eye changes that can lead to diabetes-related retinopathy.
+What causes prediabetes?
+The cause of prediabetes is the same as the cause of Type 2 diabetes — mainly, insulin resistance.
+Insulin resistance happens when cells in your muscles, fat and liver don’t respond as they should to insulin. Insulin is a hormone your pancreas makes that’s essential for life and regulating blood sugar levels. When you don’t have enough insulin or your body doesn’t respond properly to it, you experience elevated blood sugar levels.
+Several factors can contribute to insulin resistance, including:
+- Genetics.
+- Excess body fat, especially in your belly and around your organs (visceral fat).
+- Physical inactivity.
+- Eating highly processed, high-carbohydrate foods and saturated fats frequently.
+- Certain medications, like long-term steroid use.
+- Hormonal disorders, like hypothyroidism and Cushing syndrome.
+- Chronic stress and a lack of quality sleep.
+What are the risk factors for prediabetes?
+Risk factors for prediabetes include:
+- Family history of Type 2 diabetes (parent or sibling).
+- Having overweight or obesity (a BMI greater than 25).
+- Being physically active fewer than three times a week.
+- Being 45 or older.
+- Smoking.
+- Obstructive sleep apnea.
+- Having had gestational diabetes.
+- Polycystic ovarian syndrome (PCOS).
+Race and ethnicity are also factors. You’re at increased risk if you are:
+- Black.
+- Hispanic/Latino American.
+- Native American.
+- Pacific Islander.
+- Asian American.
+Some of these risk factors you can’t change, like your age and family history (genetics). But others, like physical inactivity and smoking, you can help improve. The more of these risk factors you have, the more likely prediabetes is around the corner — or you already have it.
+It’s important to talk to your primary care provider about screening for prediabetes. While it might be mentally easier to avoid finding out, knowing and taking action are very valuable to your long-term health.
+What are the possible complications of prediabetes?
+The main complication of prediabetes is it developing into Type 2 diabetes. Undiagnosed or undermanaged Type 2 diabetes increases your risk of several complications, like:
+- Heart attack and stroke.
+- Eye issues (diabetes-related retinopathy).
+- Kidney issues (diabetes-related nephropathy).
+- Nerve damage (diabetes-related neuropathy).
+While it’s possible to reverse prediabetes, it’s typically not possible to reverse diabetes complications. This is why prevention and/or proper management are key.
 Diagnosis and Tests
 How is prediabetes diagnosed?
-To test for prediabetes, your healthcare provider will use a blood test. You may have:
-- Fasting plasma glucose test, which tests your blood after you have fasted for eight hours (had nothing to eat or drink except water).
-- A1C test, which provides your average blood glucose level over the past two to three months.
-You would be diagnosed with prediabetes if:
-- Your fasting plasma glucose test is 100 to 125 mg/dL (normal is <100; diabetes is 126 or higher).
-- Your A1c test is 5.7% to 6.4% mg/dL (normal is < 5.7%); diabetes is 6.5% or higher).
-Is there a test for insulin resistance?
-Healthcare providers usually don’t test for insulin resistance. The test that exists is complex and used mainly for research.
+Healthcare providers rely on routine blood test screenings to check for prediabetes. If you have risk factors for prediabetes, your provider may recommend these screenings more often.
+The following tests can check for prediabetes:
+- Fasting plasma glucose test: This tests your blood after you haven’t had anything to eat or drink except water for at least eight hours beforehand (fasted). Basic metabolic panels and comprehensive metabolic panels include a glucose test. Providers routinely order these to get an overall look at your health.
+- A1C test: This test provides your average blood glucose level over the past two to three months.
+Your provider would diagnose you with prediabetes if your:
+- Fasting plasma glucose test result is 100 to 125 mg/dL (normal is less than 100; diabetes is 126 or higher).
+- A1C result is 5.7% to 6.4% (normal is less than 5.7%; diabetes is 6.5% or higher).
 Management and Treatment
-How is prediabetes treated?
-The best way to treat diabetes is through healthy lifestyle changes. Eating a nutritious diet and getting regular exercise can help prevent or delay Type 2 diabetes.
-Even small changes can significantly lower your risk for developing Type 2 diabetes. The Centers for Disease Control and Prevention recommends:
-- Weight loss: Losing 5% to 7% of your body weight can have an impact. For example, a 200-pound person who loses 10 to 14 pounds could see a significant health improvement.
-- Regular activity: Aim for 30 minutes a day, five days a week, for a total of 150 minutes a week. Try walking or another activity you enjoy.
+How can I reverse prediabetes?
+The best way to treat — and potentially reverse — prediabetes is through healthy lifestyle changes. Regularly eating nutritious foods and getting regular exercise can help return your blood sugar to healthy levels and prevent or delay Type 2 diabetes.
+Even small changes can significantly lower your risk for developing Type 2 diabetes, like:
+- Weight loss: Your healthcare provider may recommend trying to lose excess weight to combat insulin resistance and prediabetes. One study revealed that losing 7% of weight can reduce the onset of Type 2 diabetes by 58%.
+- Regular activity: Getting regular amounts of moderate-intensity physical activity helps increase glucose usage and improve muscle insulin sensitivity. A single session of moderate-intensity exercise can increase glucose uptake from your blood and into your muscles by at least 40%. This helps lower blood sugar levels. Aim for 30 minutes a day, five days a week, for a total of 150 minutes a week. Try walking or another activity you enjoy.
+- Eating changes: Cutting out added sugars, swapping simple carbohydrates for complex carbohydrates and eating more veggies can help your blood sugar return to healthy levels. Your provider will help you find which long-term diet for prediabetes is best for you.
 Lowering your risk factors for prediabetes can often get your blood sugar levels back to healthy levels. You might:
-- Work with a nutritionist or dietitian to plan a healthful diet you can stick with long-term.
+- Work with a nutritionist or dietitian to plan healthy eating patterns you can stick with long-term, like the Mediterranean diet.
 - Find ways to reduce or manage stress.
-- Quit smoking and limit alcohol.
-- Diagnose and treat sleep disorders.
-- Manage related disorders, such as high cholesterol and high blood pressure.
+- Quit smoking.
+- Get a diagnosis for and/or treat any sleep disorders.
+- Manage related conditions, like high cholesterol and high blood pressure.
 - Find support groups where you can meet other people going through the same challenges.
-Are there medicines that can treat prediabetes?
-Your healthcare provider may prescribe metformin, a diabetes medication. It may help delay diabetes in people with prediabetes.
+There are many programs available to help people live healthy lives and reverse prediabetes. To find a plan that works for you, talk to your provider or find resources through the National Diabetes Prevention Program.
+Can you take medication for prediabetes?
+In some cases, your healthcare provider may recommend taking certain oral diabetes medications. This is more likely if lifestyle changes haven’t helped improve your blood sugar levels and/or you have multiple risk factors for Type 2 diabetes.
+The most common medications providers prescribe for prediabetes are metformin and acarbose.
 Prevention
 Can I prevent prediabetes?
-If diabetes or other metabolic conditions run in your family, talk to your healthcare provider. They can recommend steps to try to prevent prediabetes from developing.
+The strategies for preventing prediabetes are the same as for reversing it and preventing Type 2 diabetes:
+- Exercising regularly.
+- Maintaining a weight that’s healthy for you.
+- Eating nutritious food.
+- Not smoking.
+Unfortunately, some people have such strong genetic risk factors that even lifestyle changes aren’t enough to prevent developing prediabetes.
 Outlook / Prognosis
-What’s the outlook for people with prediabetes?
-Prediabetes increases your risk of having diabetes, heart disease and stroke. But you can take steps to lower your risk.
-Talk to your healthcare provider about how you can stay healthy, including:
-- Getting regular blood sugar tests and other screening tests you may need.
-- Working toward a healthy weight.
-- Getting regular exercise.
-- Taking medications you may need.
-Is it possible to reverse prediabetes?
-Reversing prediabetes is possible by making lifestyle changes. Many people can prevent or delay Type 2 diabetes by losing weight, increasing physical activity and following a healthy diet. There are many programs available to help people live healthy lives and reverse prediabetes symptoms. To find a plan that works for you, talk to your healthcare provider or find resources through the National Diabetes Prevention Program (see references).
+What can I expect if I have prediabetes?
+If you receive a prediabetes diagnosis, you’ll need to make lifestyle changes to manage or reverse it. This can be overwhelming. But taking it one step at a time can lead you closer to better health.
+Without taking action, many people with prediabetes eventually develop Type 2 diabetes. This is often because people don’t know they have prediabetes.
 Living With
-How can I live with prediabetes?
-To manage prediabetes:
-- Follow a balanced meal plan.
-- Increase your physical activity.
-- Take your medicine if necessary, following your provider’s instructions.
-- Monitor your blood sugar as your provider instructed.
-- Attend your follow-up appointments.
-- Monitor your blood pressure. Ideally, blood pressure should be less than 120/80.
-Can prediabetes put my vision at risk?
-Diabetes — and prediabetes — can increase your risk of vision loss. Prediabetes can cause retinopathy. This change to your eye’s structure can lead to vision loss. See your eye doctor if you notice blurry vision, which can be a sign of retinopathy or another condition.
-Even if you have no prediabetes symptoms, get a dilated eye exam every year. And talk to your healthcare provider about getting tested for prediabetes if you are older than 45 and have excess weight.
-What else should I ask my healthcare provider?
-If you are at risk for diabetes or prediabetes, ask your healthcare provider:
-- What is my blood sugar level?
-- What steps can I take to lower my blood sugar level?
-- How often should I get my blood sugar checked?
-- What else can I do to prevent Type 2 diabetes?
+How do I take care of myself if I have prediabetes?
+Aside from following your healthcare team’s medical guidance for treating prediabetes, there are other things you can do to help make life with prediabetes a little easier, including:
+- Educate yourself: Diabetes is complex, and many things affect blood sugar levels. Do your best to educate yourself on prediabetes and diabetes from reliable sources. And don’t hesitate to ask your healthcare provider questions.
+- Educate family and friends: The more your loved ones know about prediabetes and the changes you’re making to help your health, the more they can support you in this journey.
+- Take care of your mental health: A prediabetes diagnosis can make you feel all sorts of emotions, especially because of the widespread stigma and misunderstanding about diabetes. If prediabetes is causing you distress, consider seeing a mental health professional, like a psychologist.
+It’s also important to remember:
+- Changing habits is difficult. It likely won’t be a straightforward path to healthier habits. This is OK and expected.
+- Focus on one goal or healthy change at a time. Too many changes at once can be overwhelming.
+- Value progress over perfection. Any positive change is helpful change.
+- Be kind to yourself.
+If you still develop prediabetes or Type 2 diabetes despite making healthy changes, try not to be hard on yourself. Type 2 diabetes isn’t a disease of a lack of willpower. It involves many complex mechanisms. And the healthy changes you’ve made are still helping protect your health.
+When should I see my healthcare provider?
+It’s important to see your healthcare provider regularly if you have prediabetes or are at increased risk for it. Even if your management plan is currently working, your needs and body may change. So, it’s important to check in with your provider consistently. They’ll let you know how frequently to have appointments.
+What questions should I ask my healthcare provider about prediabetes?
+It can be helpful to ask these questions:
+- How can I lower my risk for prediabetes and Type 2 diabetes?
+- What are the symptoms of Type 2 diabetes?
+- What’s a healthy and realistic weight for me to aim for?
+- What are some healthy ways to lose weight and keep it off?
+- How much physical activity should I do and what kind is best for me?
+- What changes can I make to my eating patterns to help prevent or delay Type 2 diabetes?
+- Should I see a registered dietitian? If so, who do you recommend?
+- Can you refer me to a diabetes prevention program nearby or online?
+- Are there any local support groups for people with prediabetes or diabetes?
 A note from Cleveland Clinic
-Prediabetes is a common condition. It means your blood sugar levels are high but not high enough to be considered diabetes. You may not have any prediabetes symptoms. It’s important to talk to your healthcare provider about getting regular blood tests, including an A1C test, especially if you’re high risk.
-The good news is that you can reverse prediabetes. Losing weight and exercising, along with other lifestyle changes, can bring your blood sugar levels back to a healthy range. Talk to your healthcare provider about how you can prevent or delay Type 2 diabetes.
+When it comes to prediabetes, knowledge is power. This includes knowing if you have prediabetes and knowing how to make changes to reverse or curb it. While it may be overwhelming to receive this diagnosis, know that your healthcare team will be beside you every step of the way to guide you toward healthy changes.

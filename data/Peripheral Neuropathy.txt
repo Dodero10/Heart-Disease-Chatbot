@@ -1,0 +1,149 @@
+Peripheral Neuropathy
+Overview
+What is peripheral neuropathy?
+Peripheral neuropathy is an umbrella term for nerve diseases that affect a specific subdivision of your nervous system. Many different conditions can cause peripheral neuropathy, which means a wide range of symptoms is also possible. Peripheral neuropathy can also affect different body parts, depending on how and why it happens.
+What this name means
+The term “peripheral” is from the Greek word that means “around.” “Peripheral” in this context means outside of or away from the “central” nervous system. The term neuropathy combines two words that trace their origins back to ancient Greek:
+- Neuro-: From the Greek word “neuron,” meaning “nerve.”
+- -pathy: From the Greek word “pathos,” meaning “affliction” or “condition.”
+Your nervous system has two parts, the central nervous system and the peripheral nervous system. Your brain and spinal cord are the two components that make up your central nervous system. Your peripheral nervous system consists of all the other nerves in your body. It also includes nerves that travel from your spinal cord and brain to supply your face and the rest of your body.
+Peripheral neuropathy can refer to any condition affecting your peripheral nerves. Healthcare providers often use the terms “neuropathy” and “polyneuropathy” (meaning “disease of many nerves”) interchangeably with “peripheral neuropathy.” Peripheral nerves are farthest from the central nervous system, and they often show the earliest and most severe effects of these conditions
+Who does peripheral neuropathy affect?
+Peripheral neuropathy can affect anyone, regardless of age, sex, race or ethnicity, personal circumstances, medical history, etc. However, some people are at greater risk for specific types of peripheral neuropathy (see below under Causes and Symptoms for more about this).
+Peripheral neuropathy is also very common with some age-related diseases. That means the risk of developing peripheral neuropathy increases as you get older.
+How common is this condition?
+Peripheral neuropathy is common, partly because this term refers to so many conditions. About 2.4% of people globally have a form of peripheral neuropathy. Among people 45 and older, that percentage rises to between 5% and 7%.
+How does this condition affect my body?
+To understand how peripheral neuropathy affects your body, it helps to know a little about the structure of neurons, a key type of cell that makes up your nerves. Neurons send and relay signals through your nervous system using electrical and chemical signals. Each neuron consists of the following:
+- Cell body: This is the main part of the cell.
+- Axon: This is a long, arm-like part that extends outward from the cell body. At the end of the axon are several finger-like extensions where the electrical signal in the neuron becomes a chemical signal. These extensions, known as synapses, lead to nearby nerve cells.
+- Dendrites: These are small branch-like extensions (their name comes from a Latin word that means “tree-like”) on the cell body. Dendrites are the receiving point for chemical signals from the synapses of other nearby neurons.
+- Myelin: This is a thin layer composed of fatty chemical compounds. Myelin surrounds the axon of many neurons and acts as a protective covering.
+Disease types
+Peripheral neuropathy happens in two main ways:
+- Demyelinating neuropathy: This happens when the myelin coating on the axon deteriorates or can’t form correctly. That affects the way signals travel through the neuron.
+- Axonal degeneration: This causes the axon to deteriorate and die off. The longer a neuron is, the worse the effect. That’s why axonal degeneration conditions tend to involve your legs and feet, which are farthest from your spinal cord and rely on connections using longer axons. Axonal degeneration is the most common pattern seen with peripheral neuropathy.
+How quickly does peripheral neuropathy develop?
+How peripheral neuropathy develops, particularly the timeline of its progress, depends very much on what causes it. Injuries can cause it to develop instantaneously or within minutes or hours. Some toxic and inflammation-based forms of peripheral neuropathy may develop rapidly over days or weeks, while most other conditions take months, years or even decades to develop.
+Symptoms and Causes
+What are the symptoms of peripheral neuropathy?
+There are many different symptoms of peripheral neuropathy. This condition can affect a single nerve, a connected group of related nerves, or many nerves in multiple places throughout your body. The symptoms also depend on the type of nerve signals affected, and multiple signal types may be involved.
+The symptom types (with more about them below) are:
+- Motor.
+- Sensory and pain.
+- Autonomic.
+Motor symptoms
+Your peripheral nervous system carries motor signals, which are commands sent from your brain to your muscles. These signals are what make it possible for you to move around. Your muscles need nerve connections to the brain to stay healthy and work properly.
+Motor symptoms include:
+- Muscle weakness and paralysis. Nerve deterioration from peripheral neuropathy weakens the connected muscles. That can cause paralysis, which may cause difficulty moving the toes, foot drop and hand weakness. Weakness can also affect muscles in the thighs, arms and elsewhere.
+- Muscle atrophy. Loss of nerve connection can cause muscles to shrink in size, as well as weaken. This especially happens in the feet, lower legs and hands with peripheral neuropathy. Sometimes there are deformities of the feet and hands because of muscle loss.
+- Uncontrolled muscle movements. Sometimes, nerves that lose their connection to the brain because of peripheral neuropathy become hyperactive on their own, causing cramps.
+Sensory symptoms
+Your peripheral nerves convert information about the outside world into nerve signals. Those signals then travel to your brain, which processes those signals into what you can sense of the world around you. Peripheral neuropathy can disrupt what your senses pick up from the outside world or the ability of those senses to communicate with your brain.
+The sensory symptoms of peripheral neuropathy include:
+- Tingling. This happens when there’s a problem with nerves that carry signals to your brain. This is like radio static you hear when you’re too far from the broadcasting station.
+- Numbness. This happens when nerves can’t send or relay sensory signals, causing the loss of specific types of sensations. An example of this would be picking up a cold pop can, but not feeling the smoothness or coldness of the can, or not being able to feel the texture of carpet or the temperature of the floor through your feet.
+- Imbalance and clumsiness. Nerves also carry sensations that your brain uses to keep track of the location of your hands and feet. You’re not consciously aware of these sensations, but they’re critical for balance and coordination. Without these sensations, you can experience a loss of balance, especially in the dark, and clumsiness with your hands.
+- Pain. Nerve damage from peripheral neuropathy can cause malfunctions in how and when nerves send pain signals, making pain signals more intense (hyperalgesia) or happen too easily (allodynia). It can even cause nerves to generate pain signals spontaneously. This is known as “neuropathic” pain, and it’s the most noticeable and disruptive symptom of peripheral neuropathy.
+Autonomic symptoms
+Your body has several autonomic processes. These are the automatic functions of your body that happen without your thinking or even being aware of them. They include things like sweating, digestion, blood pressure control, etc. Autonomic nerve fibers carry autonomic signals. Disruptions in autonomic signals mean your body’s automatic processes can’t work correctly. Some may work off and on, while others may not work at all.
+Autonomic symptoms of peripheral neuropathy can include:
+- Blood pressure changes. Your body automatically manages blood pressure, but damage to your peripheral nerves can disrupt this. That can cause sudden drops in blood pressure or increases in heart rate, especially when you stand up.
+- Sweating too much or not enough. Your body automatically manages its internal temperature, using sweating to shed heat. Peripheral nerve damage can cause you to sweat too much or not enough. That can lead to dryness and scaling on your feet, or excessive sweating after eating.
+- Bowel and bladder problems. Autonomic signals control your bowel and bladder without you having to think about them. Nerve fiber disruption can affect bowel movements (constipation or diarrhea), and can occasionally affect bladder control, too.
+- Sexual dysfunction. Your autonomic nervous system controls sexual arousal. That’s why autonomic problems can cause sexual dysfunction.
+- Other symptoms. Autonomic changes from peripheral neuropathy can also cause skin color changes, swelling, changes in the pupils of the eyes and blurry vision.
+What causes peripheral neuropathy?
+Peripheral neuropathy can happen for many reasons. These include:
+- Type 2 diabetes. The most common cause of peripheral neuropathy is unmanaged type 2 diabetes. When your blood sugar is too high for too long, it damages your peripheral nerves. That’s why people with type 2 diabetes can lose feeling in their feet and lower legs.
+- Alcohol use disorder. Excessive intake of alcohol, especially over long periods of time, can damage nerves. Alcohol use disorder is a common cause of peripheral neuropathy, and it can also contribute to vitamin deficiencies that lead to peripheral neuropathy.
+- Vitamin and nutrient deficiencies. People can develop nerve damage because they have deficiencies in certain vitamins. The deficiencies that are most likely to cause this are copper and vitamins B1, B6, B9, B12, folic acid (B9) and E. Too much vitamin B6 can also cause this.
+- Autoimmune and inflammatory conditions. Guillain-Barré syndrome and chronic inflammatory demyelinating polyneuropathy (CIDP) can cause severe weakness. They’re also very treatable. Neuropathy can happen due to lupus, rheumatoid arthritis, Sjögren syndrome, vasculitis and more.
+- Medications and toxins. Chemotherapy and certain other medications (antibiotics, and medications that treat arrhythmia and gout) can cause peripheral neuropathy. Exposure to some heavy metals and industrial chemicals can also cause it.
+- Tumors. Malignant tumors (cancer) and benign (noncancerous) tumors can both disrupt your peripheral nervous system.
+- Genetic conditions. Genetic conditions are ones you inherit from one or both parents. Examples of these causing peripheral neuropathy include amyloidosis, Fabry disease and Charcot-Marie-Tooth disease. There are treatments for familial amyloidosis and Fabry disease.
+- Infections. Nerve damage from infections can happen because of viruses, such as HIV, or bacteria — such as Borrelia burgdorferi, which causes Lyme disease. Another common example is having shingles, which can lead to lingering nerve pain.
+- Hansen disease (better known as leprosy). While the effects of this disease — which is rare in developed countries — are most visible on the skin, it also damages your peripheral nerves. It’s a very common cause of peripheral neuropathy in developing nations. worldwide
+- Trauma and surgery. Injuries and damage directly to nerves can happen from trauma or from medical procedures. Swelling or stretching can also damage nerves. This kind of damage is usually only in one location. It can be long-term or even permanent.
+- Vascular disorders (circulation-related problems). Lack of blood flow can cause peripheral neuropathy. A harmless, temporary form of this happens when you sit or lay a certain way and an arm or leg falls asleep. This goes away quickly if you shift position enough for circulation to return. More severe circulation problems can cause serious and permanent nerve damage.
+- Idiopathic neuropathy. It’s common for peripheral neuropathy to happen for unknown reasons. This type of neuropathy is known as “idiopathic” or “cryptogenic” (hidden or obscure cause).
+Is peripheral neuropathy contagious?
+Peripheral neuropathy isn’t contagious. While it can happen because of infectious diseases, this condition doesn’t spread from person to person on its own. The only exception is Hansen disease, which can spread from person to person but doesn’t spread easily.
+Diagnosis and Tests
+How is peripheral neuropathy diagnosed?
+Diagnosing peripheral neuropathy usually involves a combination of methods. These include:
+- Symptoms and medical history. Your healthcare provider will likely ask questions about your medical history and any recent symptoms or changes you’ve noticed. They may also ask about other medical conditions and factors, such as type 2 diabetes, and your nutrition, habits and lifestyle.
+- Physical and neurological exams. These involve a healthcare provider looking for physical signs of peripheral neuropathy, including changes in your ability to feel sensations, muscle weakness, changes in your reflexes or trouble with walking and balance.
+- Lab, diagnostic and imaging tests. A wide range of tests can help with diagnosing peripheral neuropathy.
+What tests will be done to diagnose peripheral neuropathy?
+The most common types of tests for peripheral neuropathy (either to confirm the diagnosis or rule out other conditions) include:
+- Blood tests (these can detect many problems, ranging from immune system problems to toxins and poisons, especially metals like mercury or lead).
+- Electromyogram.
+- Nerve ultrasound.
+- Nerve biopsy.
+- Genetic testing.
+- Magnetic resonance imaging (MRI).
+Management and Treatment
+How is peripheral neuropathy treated, and is there a cure?
+The treatment for peripheral neuropathy can vary widely depending on its cause. Other factors can also affect treatment, including your medical history, personal preferences and more. Your healthcare provider is the best person to tell you more about the treatment(s) they recommend and the likely recovery timeline. In general, the following treatment methods are more common for peripheral neuropathy:
+- Medications. Many medications can treat peripheral nervous system problems. These can come in many forms, including injections, pills you take by mouth, patches that stick to your skin, slow-release medication and more.
+- Surgery. Surgery can help reconnect cut nerves and relieve pain due to trapped nerves. It can also sever or remove damaged or malfunctioning nerves to keep their signals from reaching the brain and vice versa.
+- Physical therapy. This can help you recover from injuries or medical procedures, or improve pain symptoms. It can also help you adapt to nervous system changes, including improving balance and preventing falls.
+- Devices and wearable equipment. These include medical devices like braces, canes and walkers, prescribed footwear and more. These may not directly treat peripheral neuropathy, but they can help prevent complications from it. An example is special footwear for people who have peripheral neuropathy because of type 2 diabetes.
+- Podiatry and foot care. Peripheral neuropathy commonly affects your feet. That can cause soft tissue and bone changes, including sores and infections, especially in people with type 2 diabetes. Many people with peripheral neuropathy need to see a podiatrist (foot specialist).
+- Other pain treatments. If your pain from peripheral neuropathy or nerve injury doesn’t improve with standard medications, pain specialists may occasionally offer other treatments such as acupuncture, transcutaneous electrical nerve stimulation, injections or surgery to implant a spinal cord stimulator.
+What are the possible complications or side effects of peripheral neuropathy treatments?
+The possible side effects and complications of treatments for peripheral neuropathy depend on many factors. These include the specific cause of the neuropathy, other conditions you have, the specific treatments you receive and more. Your healthcare provider is the best person to tell you more about the possible side effects and complications you might experience.
+How do I take care of myself or manage symptoms of peripheral neuropathy?
+Peripheral neuropathy is a sign of a problem with the nerve signals traveling between parts of your body and your brain. While this can happen for minor reasons that aren’t serious, it can also happen because of severe or dangerous conditions. It’s also sometimes possible to stop or reverse certain types of neuropathies if treatment begins quickly enough. Because of these factors, you shouldn’t try to self-diagnose and self-treat it. A healthcare provider is the best person to guide you in managing this condition.
+Prevention
+How can I reduce my risk of developing peripheral neuropathy or prevent it entirely?
+Some of the possible causes of peripheral neuropathy are preventable. You can also lower your chances of developing it by preventing or delaying certain conditions. In general, the best preventive or precautionary steps you can take include:
+- Eating a balanced diet. Certain vitamin deficiencies, especially vitamin B12 deficiency, can affect your nervous system and cause major problems. Other vitamins, especially B6, are toxic and cause peripheral neuropathy at high levels.
+- Staying physically active and maintaining a healthy weight. This, along with managing your diet, can help prevent or delay the onset of type 2 diabetes, which damages your peripheral nerves over time.
+- Wearing safety equipment as needed. Injuries are a major source of nerve damage. Using safety equipment during work and play activities can protect you from these injuries or limit how severe the injuries are.
+- Managing chronic conditions as recommended. If you have a chronic condition that can affect your peripheral nerves, especially type 2 diabetes, it’s important to manage it as your healthcare provider recommends. That can limit the effects of the condition or delay how long it takes to get worse.
+- Avoiding alcohol in excess. Excessive consumption of alcohol is a proven cause of peripheral neuropathy. You can reduce your risk of neuropathy (and some other medical complications) by avoiding alcohol, or consuming it in moderation only.
+- Avoiding exposures to toxins, poisons and heavy metals. Heavy metals like lead and mercury can cause severe damage to your nervous system. Mercury exposure is rare thanks to environmental regulations, but older thermometers or thermostats may still contain it. Older homes may also contain lead-based paint. Local, state and national agencies may have resources and services to help you avoid exposure to toxic metals and chemicals. If you work around such metals and chemicals, follow all safety regulations and use recommended or required protective gear.
+Outlook / Prognosis
+What can I expect if I have this condition?
+The effects of peripheral neuropathy depend on the cause, the nerves it affects, your medical history, treatments you receive and more. Your healthcare provider is the best person to tell you more about what you can expect in your case.
+How long does peripheral neuropathy last?
+Peripheral neuropathy can be a temporary concern, or it can be permanent. How long it lasts depends on what caused it, the extent of the damage — if any — that it caused, the treatments and more.
+Peripheral neuropathy is most likely to be permanent with chronic conditions like type 2 diabetes, autoimmune diseases and genetic conditions. However, this can still vary, so it’s best to ask your healthcare provider about what’s most likely in your case.
+What’s the outlook for this condition?
+Peripheral neuropathy is usually not dangerous, but it can have very disruptive effects on your life. These effects are usually not as severe when it only affects one nerve or a limited group of nerves. The more nerves it affects, the greater the potential impact.
+The outlook also depends partly on your symptoms. Pain from peripheral neuropathy is usually the most disruptive symptom, but medications or other treatments may help. Autonomic symptoms are among the most serious because they involve your body’s vital functions. When those don’t work correctly, it can have very severe — and sometimes dangerous — effects.
+Motor and sensory symptoms can also greatly disrupt your ability to work and go about your daily activities. They can cause problems — sometimes severe — with mobility, balance and coordination. Sensory symptoms are also disruptive, especially when they involve pain or affect your ability to control what you do with the affected body part(s).
+Lastly, treatments can make a big difference in outlook. Some treatments can greatly reduce or even stop symptoms, but this varies. Your healthcare provider is the best source of information on the outlook for your case and what you can do to help.
+Living With
+How do I take care of myself?
+If you have peripheral neuropathy, it’s important to follow your healthcare provider’s guidance. That includes seeing them as recommended, taking medications or treatments as prescribed and modifying your life to protect yourself and manage your symptoms. The actions you can take also vary widely depending on many factors, and what helps one person may not be as effective for another.
+When should I see my healthcare provider, or when should I seek care?
+If you have symptoms of peripheral neuropathy, you should see a healthcare provider as soon as possible. In some cases, peripheral neuropathy symptoms start before the condition causes permanent changes or damage, so it may be possible to limit the effects or even reverse them.
+If you receive a diagnosis of peripheral neuropathy, you should see your healthcare provider as recommended or if you notice changes in your symptoms. You should also talk to them if you experience side effects from any treatments. Talking to your healthcare provider can be especially helpful when you have symptom changes or side effects that affect your usual routine and activities. Your provider may be able to modify your treatment or find ways to adapt to these changes and limit their effects.
+When should I go to the ER?
+In general, peripheral neuropathy isn’t likely to cause life-threatening complications or symptoms. However, there are a few conditions that fall under peripheral neuropathy that are severe and need immediate medical attention.
+There are also conditions that share symptoms with peripheral neuropathy. You should go to the ER if you have symptoms of certain conditions that can be especially dangerous, such as:
+- Stroke: Look for weakness, paralysis or numbness, often on one side. An easily recognizable example of this is a droop on one side of the face or weakness in one arm or leg. A stroke can also cause a person to have trouble walking.
+- Guillain-Barré syndrome. This condition is when your immune system attacks your nerves. This condition can quickly cause life-threatening complications. Symptoms of this condition include numbness or tingling in the hands and feet, muscle weakness that starts in the feet and moves up the body, trouble breathing or swallowing and unusual heart rate and blood pressure shifts.
+You should also go to the ER if you have autonomic symptoms of peripheral neuropathy, such as:
+- Irregular heart rate or a heart rate that’s unusually fast (more than 100 beats per minute) or slow (under 60 beats per minute).
+- Dizziness or passing out when standing or sitting up (especially if you fall and have a possible injury to your head, neck or back).
+- Changes in bathroom habits, especially severe pain or trouble peeing (urinating).
+Additional Common Questions
+Can peripheral neuropathy be reversed?
+Peripheral neuropathy may be reversible in some cases, but many factors influence whether or not this is possible. Because there are so many factors involved, your healthcare provider should be the one to answer this question for you. The information they provide will be the most accurate and relevant for your specific case and circumstances.
+Is fatigue a symptom of peripheral neuropathy?
+Fatigue is a symptom that can happen with conditions that can cause peripheral neuropathy. It can also happen due to living with severe or long-term pain due to peripheral neuropathy, or because of autonomic problems from peripheral neuropathy. However, it isn’t a direct symptom of peripheral neuropathy itself.
+Is peripheral neuropathy serious?
+Peripheral neuropathy can be serious, but there are many reasons why it might not be. Whether or not it’s serious depends on many factors, including the symptoms it causes, how severely it affects nerves and more. Your healthcare provider is the best person to tell you about the seriousness of your case and what that means for you.
+How do I know if I have peripheral neuropathy?
+Peripheral neuropathy isn’t something you can self-diagnose. A qualified and trained healthcare provider can diagnose it, but the diagnosis process almost always involves some form of diagnostic, imaging or laboratory testing. You may suspect you have peripheral neuropathy based on the symptoms you experience, but you should see a healthcare provider to be sure.
+What is the most common treatment for peripheral neuropathy?
+There’s no one common treatment for peripheral neuropathy. The treatments depend on what’s causing it and the symptoms you experience. Some causes of peripheral neuropathy are directly treatable. For others, treating and minimizing the symptoms and their effects is the best approach.
+Can peripheral neuropathy ever go away?
+Yes, peripheral neuropathy can sometimes go away, but this isn’t universal. Many factors can influence how long peripheral neuropathy lasts. The condition that causes peripheral neuropathy is a major factor in whether or not it will go away, as are the treatments you receive. It’s also important to remember that what works for one person may not work for another, because peripheral neuropathy can happen very differently from person to person.
+A note from Cleveland Clinic
+Peripheral neuropathy is an umbrella term for any condition, disease or disorder that affects your peripheral nerves, which are all the nerves outside of your spinal cord and brain. There are many different ways that peripheral neuropathy can happen, so this condition is common.
+For some people, peripheral neuropathy is temporary, treatable or both. For others, it’s permanent and incurable. Thanks to advances in medical science and technology, many symptoms or forms of peripheral neuropathy are now treatable. That offers many people a chance to manage this condition, meaning they can live longer and with fewer restrictions or impacts from the related conditions and symptoms.

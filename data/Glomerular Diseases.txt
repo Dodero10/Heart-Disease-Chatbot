@@ -1,0 +1,96 @@
+Glomerular Diseases
+Overview
+What is glomerular disease?
+Glomerular disease is the result of conditions that affect a specific part of your kidney called glomeruli. Glomeruli are the tiny network of blood vessels that are the “cleaning units” of your kidney. They filter waste and remove extra fluids from your blood. When glomeruli are damaged and can’t function as they should, it’s called glomerular disease.
+Many diseases and conditions can damage the glomeruli. Two broad terms used to describe many forms of damage to the glomeruli are:
+- Glomerulonephritis, inflammation (swelling) of the glomeruli.
+- Glomerulosclerosis, scarring/hardening of the glomeruli.
+Glomerular disease can damage your kidneys and, in some cases, lead to kidney failure.
+How do glomeruli work in your kidney?
+Your kidneys – two bean-shaped organs to the left and right of your spine just below the rib cage — are the main filters for your body.
+Blood enters your kidneys through arteries. Once inside your kidneys, the arteries branch and blood passes into the network of tiny looping blood vessels called glomeruli. Each glomerulus is attached to the opening of a small fluid-collecting tube called a tubule. Each glomerulus-tubule unit is called a nephron. There are about one million nephrons in each kidney.
+Properly functioning glomeruli work by keeping blood cells and protein circulating in the bloodstream, where they are needed by your body. Meanwhile, glomeruli filter out waste products and extra water, passing the liquids into the tubule (which becomes pee). Urine (pee) leaves the kidneys through larger tubes called ureters, which transport the urine to your bladder.
+How does glomerular disease interfere with kidney function?
+Glomerular disease damages the glomeruli, affecting their ability to properly function. Instead of keeping protein and red blood cells circulating in the blood, damaged glomeruli leak some of these products into your urine. One of the jobs of proteins in the blood, such as albumin, is to move extra fluid from the body to the bloodstream so it can be filtered by the kidneys and removed from the body as urine. Not having enough protein in your bloodstream keeps extra fluid in your body, causing swelling in areas including your face, hands, feet, abdomen and ankles.
+Damaged glomeruli also can’t filter out waste products and these products begin to build up in your blood.
+Symptoms and Causes
+What causes glomerular disease?
+Causes of glomerular disease include:
+- Infection or a medication or chemical that is harmful to your kidney.
+- Diseases that affect the entire body, including the kidneys.
+- Diseases that cause swelling or scarring of the nephron or glomerulus.
+- An unknown cause.
+What are the signs and symptoms of glomerular disease?
+Signs of glomerular disease include one or more of the following:
+- Foamy urine (a sign of protein in your urine [proteinuria]).
+- Pink or light brown urine (a sign of blood in your urine [hematuria]).
+- Swelling in your face/around eye (especially in the morning), hands, feet or ankles (especially at the end of the day). This swelling is called edema.
+- High blood pressure (hypertension).
+Diagnosis and Tests
+How is glomerular disease diagnosed?
+After a thorough physical and medical history, your healthcare provider will order several tests, including:
+- Urine test (urinalysis), to check for high protein level, presence of red blood cells, and white blood cell level (would indicate infection or inflammation).
+- Blood tests, to check for low protein level, creatinine (kidney function) and urea nitrogen levels (waste product). A calculation is made, called the glomerular filtration rate (GFR), to determine if your kidneys are filtering properly.
+If these lab tests indicate kidney damage, your healthcare provider may order:
+- Additional blood tests for potential causes such as infections or autoimmune diseases.
+- Imaging tests, including ultrasound, to see if the shape or size of the kidneys is abnormal.
+- Kidney biopsy, involves using a needle to remove small pieces of tissue to view under a microscope.
+Management and Treatment
+What diseases and conditions cause glomerular disease and how are they treated?
+Many diseases can result in glomerular disease. The goal of treatment is to treat the underlying cause (if it can be determined) to protect your kidneys from further damage. Here are some general categories of diseases that can cause glomerular disease and examples and treatments for each.
+Autoimmune diseases
+These are diseases in which your body’s immune system attacks itself. These diseases can affect your entire body or may attack only specific organs or areas of your body. Autoimmune diseases that affect the kidney include:
+- Systemic lupus erythematosus (SLE) (also simply known as lupus): This autoimmune disease affects many parts of the body. In the kidney, it causes lupus nephritis, which is inflammation of the glomeruli. The inflammation causes scarring that keeps the kidney from functioning properly. Anti-inflammatory treatment includes immunosuppressant medications such as mycophenolate mofetil or cyclophosphamide combined with the corticosteroid prednisolone.
+- Goodpasture’s syndrome: This autoimmune disease attacks the kidneys and lungs.In the kidney, it causes glomerulonephritis, which is inflammation of the glomeruli and can lead to permanent kidney damage. Treatments include immunosuppressive drugs and plasmapheresis (a process to remove antibodies that are attacking your own body).
+- IgA nephropathy: With this autoimmune disease, a specific part of your immune system called the antibody immunoglobulin A (IgA) forms deposits in the glomeruli. These deposits cause inflammation. Treatments include angiotensin-converting enzyme inhibitors or angiotensin receptor blockers.
+Hereditary nephritis
+- Alport Syndrome: This is an inherited condition that causes chronic glomerular disease along withhearing or vision impairment. It affects both men and women. Men experience more chronic kidney disease, which can be diagnosed in their twenties; with total kidney failure often occurring by age 40. Treatments include medications to regulate blood pressure.
+Infection-related glomerular disease
+Glomerular disease sometimes develops rapidly after an infection in another part of your body.
+- Acute post-infectious glomerulonephritis (PIGN): This glomerular disease happens after an episode of strep throat or the skin infection impetigo (rarely). The immune system overproduces antibodies to fight the infection, which end up settling in the glomeruli and cause damage. Usually no treatment is needed. In rare cases, kidney dialysis or transplantation is needed.
+- Bacterial endocarditis: This is an infection of the tissues inside the heart. Researchers aren’t sure if the lesions that form in the kidney are caused by an immune response to the infection or some other disease mechanism. Treatment is antibiotics.
+- Viruses: Viral infections, such as hepatitis B, hepatitis C and human immunodeficiency virus cancause glomerular disease. Treatment is specific to the disease.
+Sclerotic diseases
+- Glomerulosclerosis: This condition is a scarring (sclerosis) of the glomeruli. Lupus and diabetes are two examples of diseases that can cause glomerulosclerosis.
+- Diabetes-related nephropathy: This condition is the leading cause of glomerular disease and of total kidney failure in the U.S. Diabetes-related nephropathy scars the kidneys and raises glucose levels. Glucose speeds blood flow into the kidney, which strains the filtering function of the glomeruli and raising blood pressure. Common treatments include drugs to regulate blood pressure (especially angiotensin-converting enzyme inhibitors or angiotensin receptor blockers), exercise and healthy diet.
+- Focal segmental glomerulosclerosis (FSGS): This condition involves scarring in one part of the glomerulus (usually). FSGS may be the result of a body-wide disease or an unknown cause. Treatments aim to reduce blood pressure and cholesterol levels.
+Other glomerular diseases
+- Membranous nephropathy: This condition, also called membranous glomerulopathy, is the second most common cause of nephropathy in U.S. adults after diabetes-related nephropathy. It is associated with several target antigen/antibodies. This condition attacks the membrane layer of the glomeruli. Some people recover without treatment. Angiotensin-converting enzyme inhibitors or angiotensin receptor blockers or calcineurin inhibitors are sometimes tried.
+- Minimal change disease (MCD): This is a type of nephropathy in which the kidney biopsy reveals little or no change to the structure of glomeruli or surrounding tissues. Tiny drops of lipids (fatty substances) may be present, but there’s no scarring in the kidney. MCD may occur at any age, but it is most common in childhood. Treatments include, low salt diet, angiotensin-converting enzyme inhibitors or angiotensin receptor blockers, while steroids often lead to remission.
+Does glomerular disease result in kidney failure?
+If your kidneys can’t get rid of waste products in your blood, waste products will build up. This buildup can damage your kidneys and cause loss of function. Loss of function can be acute (sudden) or slow and ongoing (chronic). Depending on the form of glomerular disease, renal function may be lost in a matter of days or weeks or may be lost gradually over decades.
+- Acute renal failure (ARF): This is a rapid loss of kidney function. ARF can be life-threatening and may require emergency care with dialysis to replace renal function. In some people, kidney function returns after the cause of the kidney failure has been treated. There’s no permanent damage. However, some people who recover from ARF go on to develop chronic kidney disease.
+- Chronic kidney disease (CKD): This is a slow, gradual loss of kidney function. You may not have symptoms for many years. Some diseases that cause CKD can be slowed, but CKD can’t be cured. Once scarring in the kidney occurs, it can’t be repaired. CKD can lead to total kidney failure.
+- Total kidney failure: Total kidney failure, also called end-stage renal disease (ESRD), means permanent loss of kidney function. If you’re in total renal failure, you need dialysis (hemodialysis or peritoneal dialysis) or a kidney transplant to stay alive.
+Prevention
+Can glomerular disease be prevented?
+You can make lifestyle changes to keep yourself healthy to reduce your risk of developing diseases that affect your kidneys. These changes include:
+- Maintain a healthy weight.
+- Keep your salt intake low; don’t add extra salt to foods.
+- Keep your blood pressure well managed. Target is 120/80 mmHg.
+- Manage your blood sugar if you have diabetes. Take all your prescribed medications and follow all management goals discussed with your healthcare provider.
+- Stop smoking.
+It may not be possible to prevent all the causes of glomerular disease. However, as soon as you notice signs of glomerular disease, see your healthcare provider. It’s important to discover treatable causes of disease and to start treatment as soon as possible. Treatments may slow the kidney damage and/or prevent it from getting worse.
+Outlook / Prognosis
+What should I expect if I have glomerular disease?
+Early diagnosis and early treatment always result in the best chance for a good outcome. The goal of treatment is to prevent or slow the progression of kidney damage. If damage does worsen and leads to kidney failure, dialysis or a kidney transplant are the only options.
+Living With
+What is nephrosis?
+Nephrosis, also called nephrotic syndrome, is a collection of symptoms. Large amounts of protein from the bloodstream end up into your urine, which causes a buildup of fluids in your body. Symptoms include:
+- Swelling (edema) especially around the eyes, feet, and hands.
+- High blood pressure.
+- High cholesterol levels.
+- Low levels of protein in your blood.
+- High levels of protein in your urine.
+The aim of treatment is to treat the underlying cause (if it’s known). Treatments includes:
+- Taking angiotensin-converting enzyme inhibitors or angiotensin receptor blockers to regulate blood pressure and stop protein loss into the urine.
+- Cutting back on salt in your diet.
+- Taking diuretics to reduce the buildup of fluids in your body.
+- Taking corticosteroids or other immunosuppressant medications.
+- Taking medications to lower cholesterol levels.
+- Plasmapheresis to remove antibodies that are attacking your own body (if you have an autoimmune disease).
+If the underlying cause of nephrosis is a kidney disease, it can’t be cured. The glomeruli in the kidneys can’t function properly, resulting in the buildup of wastes and water in the blood. Kidney failure occurs. Treatment, as failure worsens, is dialysis or kidney transplant.
+When should I see my doctor?
+If you have signs or symptoms of glomerular disease or any changes in your health, see your healthcare provider.
+A note from Cleveland Clinic
+Many different diseases and conditions can damage the glomeruli in your kidneys. It’s important to be aware of your body so you can notice changes and see your healthcare provider as soon as possible.

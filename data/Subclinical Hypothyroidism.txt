@@ -1,0 +1,89 @@
+Subclinical Hypothyroidism
+Overview
+What is subclinical hypothyroidism?
+Subclinical hypothyroidism happens when you have elevated thyroid-stimulating hormone (TSH) levels with normal levels of thyroxine (T4). You don’t technically have hypothyroidism (commonly called overt hypothyroidism, in comparison), but it has the potential to develop into overt hypothyroidism.
+Hypothyroidism happens when your thyroid doesn’t produce enough thyroid hormones (thyroxine and triiodothyronine). “Subclinical” describes a condition that’s not severe enough to cause definite symptoms.
+Thyroid-stimulating hormone, commonly called TSH and also referred to as thyrotropin, is a hormone that your pituitary gland releases to trigger your thyroid to produce and release its own hormones — thyroxine (T4) and triiodothyronine (T3). These two hormones are essential for maintaining your body’s metabolism — how your body transforms the food you eat into energy and uses it.
+Subclinical hypothyroidism is often temporary but can be long-lasting. It may or may not require treatment.
+Who does subclinical hypothyroidism affect?
+Anyone can have subclinical hypothyroidism, but it’s more likely to affect adults assigned female at birth and people over the age of 65.
+Does subclinical hypothyroidism affect pregnancy?
+Subclinical hypothyroidism is more common during pregnancy than overt hypothyroidism. It affects 15% to 28% of pregnant people.
+Evidence linking subclinical hypothyroidism to issues during pregnancy is inconsistent and conflicting. Older studies have shown an association between subclinical hypothyroidism in pregnancy and the following conditions:
+- Hypertensive disorders of pregnancy, including gestational high blood pressure and preeclampsia.
+- Premature (preterm) labor.
+- Impaired cognitive development in infants.
+However, more recent studies have not replicated these associations.
+Healthcare providers typically only screen for subclinical hypothyroidism during pregnancy if you have risk factors for developing it, including:
+- Personal or family history of thyroid disease.
+- Positive thyroid antibodies.
+- Type 1 diabetes and other autoimmune diseases.
+- History of preterm delivery, miscarriage and/or infertility.
+- Two or more previous pregnancies.
+- Prior or current amiodarone or lithium use.
+- Head or neck radiation exposure.
+- Class III obesity.
+- Age older than 30 years.
+Pregnant people who have subclinical hypothyroidism and thyroid peroxidase (TPO) antibodies require thyroid replacement therapy (levothyroxine). Most people with subclinical hypothyroidism in pregnancy won’t require treatment postpartum (after pregnancy).
+How common is subclinical hypothyroidism?
+Subclinical hypothyroidism is common. It affects up to 10% of adults in the United States.
+Symptoms and Causes
+What are the symptoms of subclinical hypothyroidism?
+Most of the time, subclinical hypothyroidism doesn’t cause any symptoms (it’s asymptomatic).
+However, it can sometimes present with mild symptoms of hypothyroidism, which include:
+- Fatigue.
+- Unexplained weight gain.
+- Constipation.
+- Depression and/or decreased attention span.
+- Being unable to tolerate cold temperatures.
+- Dry, coarse skin and hair.
+- Diastolic hypertension (high blood pressure).
+- Frequent and heavy menstrual bleeding.
+What causes subclinical hypothyroidism?
+Normally, multiple hormones and glands in your endocrine system work together to carefully control the level of TSH in your bloodstream through a feedback loop.
+To start, your hypothalamus releases thyroid-releasing hormone (TRH) to trigger the release of thyroid-stimulating hormone (TSH) by your pituitary gland.
+TSH then stimulates cells in your thyroid to release thyroxine or T4 (80%) and triiodothyronine or T3 (20%) into your bloodstream. These two hormones prevent your pituitary gland from producing more TSH if the levels of thyroxine and triiodothyronine are too high, thus completing the cycle. When T4 and T3 levels drop, the cycle starts over again.
+However, in subclinical hypothyroidism, due to thyroid inflammation or other thyroid disease, thyroid hormonal output doesn’t increase like it normally should in response to the elevated TSH levels. This leads to elevated TSH levels and normal thyroxine (T4) levels, resulting in subclinical hypothyroidism.
+Diagnosis and Tests
+How is subclinical hypothyroidism diagnosed?
+The diagnosis of subclinical hypothyroidism is solely based on thyroid function testing (thyroid blood tests).
+The normal test range for thyroid-stimulating hormone (TSH or thyrotropin) for a non-pregnant adult is 0.4 to 4.5 mIU/L (milli-international units per liter of blood). The normal range for TSH levels for pregnant people varies by trimester.
+If you had thyroid blood tests and the results indicate that your TSH levels are elevated (5 to 10 mIU/L) and your thyroxine (T4) levels are in the normal range, it means you have subclinical hypothyroidism.
+Subclinical hypothyroidism may be categorized as grade 1 when TSH levels are 4.5 and 9.9 mIU/L and as grade 2 if TSH levels are 10 mIU/L or higher. Approximately 90% of people with subclinical hypothyroidism have TSH levels lower than 10 mIU/L.
+Management and Treatment
+Does subclinical hypothyroidism need to be treated?
+Healthcare providers disagree on whether subclinical hypothyroidism needs to be treated due to conflicting studies showing its effectiveness.
+In theory, the reasoning for treating subclinical hypothyroidism would be to decrease the risk of cardiovascular issues and potentially prevent it from progressing to overt hypothyroidism.
+However, the reason for not treating subclinical hypothyroidism is that treatment could potentially cause thyrotoxicosis (too much thyroid hormone in your body), especially in people aged 65 years or older. In addition, most people with subclinical hypothyroidism don’t have symptoms.
+For most people with subclinical hypothyroidism, providers recommend that they take a “wait and see” approach and not start treatment to see if the subclinical hypothyroidism resolves on its own. However, providers may recommend treatment in the following cases:
+- People who have thyrotropin (TSH) levels of 10 mIU/L or higher.
+- Young and middle-aged people who have symptoms of mild hypothyroidism.
+- Young and middle-aged people who have other cardiovascular disease risk factors.
+Subclinical hypothyroidism treatment for fertility
+The American Thyroid Association recommends that people assigned female at birth with subclinical hypothyroidism who are having in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI) be treated with levothyroxine to reach a TSH level of 2.5 mIU/L.
+What is the treatment for subclinical hypothyroidism?
+If your healthcare provider recommends treatment for subclinical hypothyroidism, they’ll prescribe a thyroid hormone replacement medication called levothyroxine. It comes in pill form.
+Before starting levothyroxine therapy in subclinical hypothyroidism, your provider may order another blood test to check your TSH levels within three months of the first abnormal test result. This is because the TSH level normalizes in about 60% of cases after three months.
+Your provider will likely want you to get routine blood tests to make sure your thyroid levels are in a healthy range while taking medication. If your dosage of levothyroxine is too high, it can cause hyperthyroidism.
+Can you get rid of subclinical hypothyroidism?
+While there’s nothing you can do yourself to get rid of subclinical hypothyroidism, it often — but not always — goes away on its own with time.
+Otherwise, medication can treat subclinical hypothyroidism, but healthcare providers don’t always recommend treatment.
+Prevention
+Can subclinical hypothyroidism be prevented?
+In most cases, there’s nothing you can do to prevent subclinical hypothyroidism or overt hypothyroidism.
+However, if you’re not getting enough iodine in your diet, you can develop subclinical or overt hypothyroidism. This is because your thyroid needs iodine to make thyroid hormone. While this is uncommon in the United States due to the use of iodized table salt, iodine deficiency is the most common cause of hypothyroidism worldwide.
+Outlook / Prognosis
+What can I expect if I have subclinical hypothyroidism?
+Each case of subclinical hypothyroidism is unique. About 60% of subclinical hypothyroidism cases resolve on their own within three months.
+The risk of subclinical hypothyroidism progressing to overt hypothyroidism is 2% to 6% per year.
+Subclinical hypothyroidism is associated with an increased risk of:
+- Fatal and non-fatal coronary artery disease (CAD) event.
+- Congestive heart failure.
+- Fatal stroke.
+If you’re concerned about these risks and other cardiovascular risk factors, talk to your healthcare provider.
+Living With
+When should I see my healthcare provider about subclinical hypothyroidism?
+In most cases, healthcare providers take a “wait and see” approach if your test results indicate you have subclinical hypothyroidism.
+If you start to experience symptoms of hypothyroidism, such as fatigue and unexplained weight gain, talk to your healthcare provider. They’ll likely order another thyroid blood test to see if you have overt hypothyroidism.
+A note from Cleveland Clinic
+Due to conflicting studies, there’s still a lot of debate about if subclinical hypothyroidism should be treated. Each case and person is unique, so the best strategy is to talk to your healthcare provider about your concerns and options. They’re available to help you.

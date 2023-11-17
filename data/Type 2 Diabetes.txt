@@ -1,99 +1,174 @@
 Type 2 Diabetes
 Overview
 What is Type 2 diabetes?
-Type 2 diabetes is a disease where your body can’t use energy from food properly. Your pancreas produces insulin (a hormone) to help your cells use glucose (sugar). But over time your pancreas makes less insulin and the cells resist the insulin. This causes too much sugar to build up in your blood. High blood sugar levels from Type 2 diabetes can lead to serious health problems including heart disease, stroke or death.
-Type 1 vs. Type 2 diabetes: What’s the difference?
-Type 2 diabetes is not the same as Type 1 diabetes. In Type 1 diabetes, your pancreas doesn’t make any insulin. In Type 2, your pancreas doesn’t make enough insulin, and the insulin it is making doesn’t always work as it should. Both types are forms of diabetes mellitus, meaning they lead to hyperglycemia (high blood sugar).
-Type 2 diabetes usually affects older adults, though it’s becoming more common in children. Type 1 diabetes usually develops in children or young adults, but people of any age can get it.
-Who is at risk of developing Type 2 diabetes?
-You’re more likely to develop Type 2 diabetes if you:
-- Are Black, Hispanic, American Indian, Asian American or Pacific Islander.
-- Are older than 45.
-- Have overweight/obesity.
-- Don’t exercise.
-- Had gestational diabetes while pregnant.
-- Have a family history of diabetes.
-- Have high blood pressure.
-- Have prediabetes (higher than normal blood sugar, though not high enough to be Type 2 diabetes).
+Type 2 diabetes (T2D) is a chronic condition that happens when you have persistently high blood sugar levels (hyperglycemia).
+Healthy blood sugar (glucose) levels are 70 to 99 milligrams per deciliter (mg/dL). If you have undiagnosed Type 2 diabetes, your levels are typically 126 mg/dL or higher.
+T2D happens because your pancreas doesn’t make enough insulin (a hormone), your body doesn’t use insulin properly, or both. This is different from Type 1 diabetes, which happens when an autoimmune attack on your pancreas results in a total lack of insulin production.
 How common is Type 2 diabetes?
-Type 2 diabetes is the most common form of diabetes. About 1 in 10 Americans have the disease. It’s the 7th leading cause of death in the U.S.
+Type 2 diabetes is very common. More than 37 million people in the U.S. have diabetes (about 1 in 10 people), and about 90% to 95% of them have T2D.
+Researchers estimate that T2D affects about 6.3% of the world’s population. T2D most commonly affects adults over 45, but people younger than 45 can have it as well, including children.
 Symptoms and Causes
-What causes Type 2 diabetes?
-Type 2 diabetes develops when the pancreas makes less insulin than the body needs, and the body cells stop responding to insulin. They don’t take in sugar as they should. Sugar builds up in your blood. When cells don’t respond to insulin, this is called insulin resistance. It's usually caused by:
-- Lifestyle factors, including obesity and a lack of exercise.
-- Genetics, or abnormal genes, that prevent cells from working as they should.
 What are the symptoms of Type 2 diabetes?
 Symptoms of Type 2 diabetes tend to develop slowly over time. They can include:
-- Blurred vision.
+- Increased thirst (polydipsia).
+- Peeing more frequently.
+- Feeling hungrier than usual.
 - Fatigue.
-- Feeling very hungry or thirsty.
-- Increased need to urinate (usually at night).
 - Slow healing of cuts or sores.
 - Tingling or numbness in your hands or feet.
+- Blurred vision.
+- Dry skin.
 - Unexplained weight loss.
-What are the complications of high blood sugar levels?
-Potential complications of high blood sugar levels from Type 2 diabetes can include:
-- Digestive problems, including gastroparesis.
-- Eye problems, including diabetes-related retinopathy.
-- Foot problems, including leg and foot ulcers.
-- Gum disease and other mouth problems.
-- Hearing loss.
-- Heart disease.
-- Kidney disease.
-- Liver problems, including nonalcoholic fatty liver disease.
-- Peripheral neuropathy (nerve damage).
-- Sexual dysfunction.
-- Skin conditions.
-- Stroke.
-- Urinary tract infections and bladder infections.
-Rarely, Type 2 diabetes leads to a condition called diabetes-related ketoacidosis (DKA). DKA is a life-threatening condition that causes your blood to become acidic. People with Type 1 diabetes are more likely to have DKA.
+People assigned female at birth (AFAB) may experience frequent vaginal yeast infections and/or urinary tract infections (UTIs).
+If you have these symptoms, it’s important to see your healthcare provider. Simple blood tests can diagnose T2D.
+What causes Type 2 diabetes?
+The main cause of Type 2 diabetes is insulin resistance.
+Insulin resistance happens when cells in your muscles, fat and liver don’t respond as they should to insulin. Insulin is a hormone your pancreas makes that’s essential for life and regulating blood sugar levels.
+If your body isn’t responding to insulin properly, your pancreas has to make more insulin to try to overcome your increasing blood glucose levels (hyperinsulinemia). If your cells become too resistant to insulin and your pancreas can’t make enough insulin to overcome it, it leads to Type 2 diabetes.
+Several factors can contribute to insulin resistance, including:
+- Genetics.
+- Excess body fat, especially in your belly and around your organs (visceral fat).
+- Physical inactivity.
+- Eating highly processed, high-carbohydrate foods and saturated fats frequently.
+- Certain medications, like long-term corticosteroid use.
+- Hormonal disorders, like hypothyroidism and Cushing syndrome.
+- Chronic stress and a lack of quality sleep.
+Is Type 2 diabetes genetic?
+The cause of T2D is complex, but researchers know that genetics play a strong role. Your lifetime risk of developing T2D is 40% if you have one biological parent with T2D and 70% if both of your biological parents have it.
+Researchers have identified at least 150 DNA variations linked to the risk of developing T2D — some increase your risk and others decrease it. Some of these variations may directly play a role in insulin resistance and insulin production. Others may increase your risk of T2D by increasing your tendency to have overweight or obesity.
+These genetic variations likely act together with health and lifestyle factors to influence your overall risk of T2D.
+What are the risk factors for Type 2 diabetes?
+You’re more likely to develop Type 2 diabetes if you:
+- Have a family history of Type 2 diabetes (biological parent or sibling).
+- Are older than 45.
+- Have overweight or obesity (a BMI greater than 25).
+- Are physically active less than three times a week.
+- Are Black, Hispanic, Native American, Asian American or Pacific Islander.
+- Had gestational diabetes while pregnant.
+- Have high blood pressure and/or high cholesterol.
+- Have prediabetes.
+- Have polycystic ovarian syndrome (PCOS).
+As T2D symptoms typically come on slowly, it’s important to see your primary care provider regularly if you’re at risk for the condition. This way, they can do screenings, like a basic metabolic panel (BMP), to check on your blood sugar levels. It’s better to catch T2D earlier rather than later.
 Diagnosis and Tests
 How is Type 2 diabetes diagnosed?
-The following blood tests help your healthcare provider diagnose diabetes:
-- Fasting plasma glucose test: checks your blood glucose level. This test is best done in the office in the morning after an eight hour fast (nothing to eat or drink except sips of water).
-- Random plasma glucose test: This lab test can be done any time without the need to fast.
-- Glycolated hemoglobin testing (A1c) measures your average blood sugar levels over three months.
-- Oral glucose tolerance testing checks your blood sugar levels before and after you drink a sugary beverage. The test evaluates how your body handles glucose.
-
+The following blood tests help your healthcare provider diagnose Type 2 diabetes:
+- Fasting plasma glucose test: This lab test checks your blood sugar level. You typically need to get this test in the morning after an eight-hour fast (nothing to eat or drink except water). A result of 126 mg/dL or higher means you have diabetes.
+- Random plasma glucose test: This lab test also checks your blood sugar, but you can get it at any time without fasting. A result of 200 mg/dL or higher means you have diabetes.
+- A1C test: This lab test measures your average blood sugar levels over the past two to three months. A result of 6.5% or higher means you have diabetes.
+In some cases, your provider may order an autoantibody blood test to see if you have Type 1 Diabetes instead of T2D.
 Management and Treatment
-How is Type 2 diabetes managed?
-There’s no cure for Type 2 diabetes. But you can manage the condition by maintaining a healthy lifestyle and taking medication if needed. Work with your healthcare provider to manage your:
-- Blood sugar: A blood glucose meter or continuous glucose monitoring (CGM) can help you meet your blood sugar target. Your healthcare provider may also recommend regular A1c tests, oral medications (pills), insulin therapy or injectable non-insulin diabetes medications.
-- Blood pressure: Lower your blood pressure by not smoking, exercising regularly and eating a healthy diet. Your healthcare provider may recommend blood pressure medication such as beta blockers or ACE inhibitors.
-- Cholesterol: Follow a meal plan low in saturated fats, trans fat, salt and sugar. Your healthcare provider may recommend statins, which are a type of drug to lower cholesterol.
-What should a Type 2 diabetes meal plan include?
-Ask your healthcare provider or a nutritionist to recommend a meal plan that’s right for you. In general, a Type 2 diabetes meal plans should include:
-- Lean proteins: Proteins low in saturated fats include chicken, eggs and seafood. Plant-based proteins include tofu, nuts and beans.
-- Minimally processed carbohydrates: Refined carbs like white bread, pasta and potatoes can cause your blood sugar to increase quickly. Choose carbs that cause a more gradual blood sugar increase such as whole grains like oatmeal, brown rice and whole-grain pasta.
-- No added salt: Too much sodium, or salt, can increase your blood pressure. Lower your sodium by avoiding processed foods like those that come in cans or packages. Choose salt-free spices and use healthy oils instead of salad dressing.
-- No added sugars: Avoid sugary foods and drinks, such as pies, cakes and soda. Choose water or unsweetened tea to drink.
-- Non-starchy vegetables: These vegetables are lower in carbohydrates, so they don’t cause blood sugar spikes. Examples include broccoli, carrots and cauliflower.
-Will I need medication or insulin for Type 2 diabetes?
-Some people take medication to manage diabetes, along with diet and exercise. Your healthcare provider may recommend oral diabetes medications. These are pills or liquids that you take by mouth. For example, a medicine called metformin helps regulate the amount of glucose your liver produces.
-You can also take insulin to help your body use sugar more efficiently. Insulin comes in the following forms:
-- Injectable insulin is a shot you give yourself. Most people inject insulin into a fleshy part of their body such as their belly. Injectable insulin is available in a vial or an insulin pen.
-- Inhaled insulin is inhaled through your mouth. It is only available in a rapid-acting form.
-- Insulin pumps deliver insulin continuously, similar to how a healthy pancreas would. Pumps release insulin into your body through a tiny cannula (thin, flexible tube). Pumps connect to a computerized device that lets you manage the dose and frequency of insulin.
+What is the treatment for Type 2 diabetes?
+Unlike many health conditions, you mainly manage T2D on your own with medical guidance and support from your healthcare team. This could include your:
+- Primary care physician (PCP) or endocrinologist.
+- Registered dietitian.
+- Certified diabetes care and education specialist (CDCES).
+- Ophthalmologist (eye doctor).
+- Dentist.
+Your team should also include family members and other important people in your life. Managing T2D can be challenging — you have to make several decisions every day for it. But everything you do to improve your health is worth it.
+The core features of Type 2 diabetes management include:
+- Lifestyle changes, like more exercise and eating adjustments.
+- Blood sugar monitoring.
+- Medication.
+Exercise for Type 2 diabetes
+Regular activity is important for everyone. It’s even more important if you have diabetes. Exercise is good for your health because it:
+- Lowers your blood sugar level without medication in the short term and long term.
+- Burns calories and may help with weight loss.
+- Improves blood flow and blood pressure.
+- Increases your energy level and boosts your mood.
+- Helps with stress management.
+Talk to your provider before starting any exercise program. You may need to take special steps before, during and after physical activity, especially if you take insulin. The general goal is to get at least 150 minutes per week of moderate-intensity physical activity.
+Type 2 diabetes diet
+Ask your healthcare provider or registered dietitian to recommend a meal plan that’s right for you. What you eat, how much you eat, and when you eat are all important in keeping your blood sugar levels in the range that your healthcare team recommends.
+The key to eating with Type 2 diabetes is to eat a variety of nutritious foods from all food groups, in the amounts your meal plan outlines. In general, these types of foods can help support healthy blood sugar levels:
+- Lean proteins, like chicken, eggs, fish and turkey.
+- Non-starchy vegetables, like broccoli, green beans, salad greens and cucumbers.
+- Healthy fats, like avocados, nuts, natural peanut butter and olive oil.
+- Complex carbohydrates, like beans, berries, sweet potatoes and whole-wheat bread.
+Blood sugar monitoring
+Monitoring your blood sugar is essential to finding out how well your current treatment plan is working. It gives you information on how to manage diabetes on a daily — and sometimes even hourly — basis. The results of blood sugar monitoring can help you make decisions about food, physical activity and dosing insulin.
+Several things can affect your blood sugar. You can learn to predict some of these impacts with time and practice, while others are very difficult or impossible to predict. That’s why it’s important to check your blood sugar regularly if your healthcare provider recommends doing so.
+There are two main ways you can monitor your blood sugar at home if you have diabetes:
+- With a glucose meter and finger stick.
+- With a continuous glucose monitor (CGM).
+You may choose either or both methods for a variety of reasons, such as:
+- Your access to the technology, which can vary due to cost and medical insurance coverage.
+- How often your healthcare provider recommends checking your blood sugar.
+- The medications you’re taking.
+- Your overall health.
+Type 2 diabetes medications
+Your healthcare provider may recommend taking medication, in addition to lifestyle changes, to manage Type 2 diabetes. These include:
+- Oral diabetes medications: These are medications that you take by mouth to help manage blood sugar levels in people who have T2D but still produce some insulin. There are several types. The most commonly prescribed one is metformin. Your provider may prescribe more than one oral diabetes medication at a time to achieve the best blood glucose management.
+- GLP-1 and dual GLP-1/GIP agonists: These are injectable medications that mainly help manage blood sugar levels in people with T2D. Some GLP-1 agonists can also help treat obesity.
+- Insulin: Synthetic insulin directly lowers blood sugar levels. There are several types of insulin, like long-acting and short-acting types. You may inject it with syringes or pens, use inhaled insulin, or use an insulin pump.
+- Other medications: You may take other medications to manage coexisting conditions, like high blood pressure and high cholesterol.
+Can Type 2 diabetes be reversed?
+Type 2 diabetes is a chronic (long-term) disease, which means you must manage it for the rest of your life. There’s no cure for T2D. But you can manage it — with lifestyle changes, medication and blood sugar monitoring — in a way that keeps your blood sugar levels in a healthy range. If you stop managing it or undermanage it, your blood sugar levels will go back up.
 Prevention
-How can I prevent Type 2 diabetes?
-You can prevent or delay Type 2 diabetes by:
-- Eating a healthy diet.
-- Exercising.
-- Losing weight.
-Regular checkups and screenings with your healthcare provider can also help you keep your blood sugar in check.
+Can I prevent Type 2 diabetes?
+Certain strategies can help lower your risk of developing Type 2 diabetes or delay its onset, including:
+- Exercising regularly (at least 150 minutes a week).
+- Maintaining a weight that’s healthy for you.
+- Eating nutritious food.
+- Not smoking.
+Unfortunately, some people have such strong genetic risk factors that even lifestyle changes aren’t enough to prevent developing T2D.
 Outlook / Prognosis
 What is the outlook for Type 2 diabetes?
-If you have Type 2 diabetes, your outlook depends on how well you manage your blood glucose level. Untreated Type 2 diabetes can lead to a range of life-threatening health conditions. Diabetes requires lifelong management.
+If you have Type 2 diabetes, your outlook depends on several factors, like:
+- Your age at diagnosis.
+- How often and how well you’re able to keep your blood sugar levels in range.
+- If you have other conditions, like high blood pressure or high cholesterol.
+- Your access to healthcare, diabetes management tools and medication, nutritious foods and support from loved ones.
+Untreated or undermanaged T2D can lead to a range of health conditions.
+What are the complications of Type 2 diabetes?
+As your blood touches virtually every part of your body, having undermanaged Type 2 diabetes that results in continuous high blood sugar over a long period of time can damage several areas of your body.
+Potential complications of Type 2 diabetes include:
+Cardiovascular disease, including:
+- Coronary artery disease (CAD).
+- Peripheral artery disease (PAD).
+- Cerebrovascular disease.
+- Heart attack.
+- Stroke.
+Eye conditions, including:
+- Diabetes-related retinopathy.
+- Diabetes-related macular edema.
+- Cataracts.
+- Glaucoma.
+- Blindness.
+Additional complications include:
+- Diabetes-related nephropathy (kidney disease).
+- Diabetes-related neuropathy (nerve damage).
+- Skin conditions, like dry skin and bacterial and fungal infections.
+- Foot problems, including ulcers and infections that can lead to gangrene and possible amputation.
+- Gum disease and other oral health problems.
+- Hearing loss.
+- Digestive problems, including gastroparesis.
+- Sexual dysfunction.
+Short-term complications of T2D
+Hyperosmolar hyperglycemic state (HHS) is a life-threatening complication of Type 2 diabetes. HHS happens when your blood sugar levels are too high for a long period, leading to severe dehydration and confusion.
+Symptoms of HHS usually come on slowly and can take days or weeks to develop. Symptoms include:
+- Very high blood sugar level (over 600 mg/dL).
+- Mental changes, such as confusion, delirium or experiencing hallucinations.
+- Loss of consciousness.
+- Dry mouth and extreme thirst.
+- Frequent urination.
+- Blurred vision or loss of vision.
+- Weakness or paralysis that may be worse on one side of your body.
+HHS is life-threatening and requires immediate medical treatment. If you experience these symptoms, call 911 or your local emergency services number.
 Living With
-When should I call my doctor?
-It’s important to monitor diabetes very closely if you’re sick. Even a common cold can be dangerous if it interferes with your insulin and blood sugar levels. Make a “sick day” plan with your healthcare provider so you know how often to check your blood sugar and what medications to take.
-Contact your provider right away if you experience:
-- Confusion or memory loss.
-- Fever of 100°F or higher.
-- High blood sugar for more than 24 hours.
-- Nausea and vomiting for more than four hours.
-- Problems with balance or coordination.
-- Severe pain anywhere in your body.
-- Trouble moving your arms or legs.
+How do I take care of myself if I have Type 2 diabetes?
+Type 2 diabetes is a complex condition that requires daily management, effort and planning. Some tips that can help you manage T2D include:
+- Try to stick to healthy lifestyle changes: Regular exercise and healthy eating plans are core parts of T2D management. Set small goals and make one change at a time to prevent becoming overwhelmed.
+- Check your blood sugar regularly Checking your blood sugar with a fingerstick and meter and/or using a continuous glucose monitor (CGM) is crucial to managing diabetes and preventing complications. Follow your provider’s guidance for how often you should be checking it.
+- Take your medication regularly: Follow your healthcare provider’s instructions for taking your medications (if applicable).
+- See your diabetes provider regularly: It’s important to see the provider who helps you manage T2D regularly to be sure that your management plan is working. Don’t be afraid to ask them specific questions.
+- See your other providers regularly, especially your eye doctor: Type 2 diabetes can cause complications in various areas of your body, but especially your eyes. It’s important to see your eye doctor (ophthalmologist) at least yearly so that they can check the health of your eyes.
+- Have a sick day plan: Talk with your diabetes provider about how to take care of yourself and manage T2D when you’re sick. Illness can make it more difficult to manage blood sugar levels and can trigger HHS.
+- Stay educated: Don’t be afraid to ask your provider questions about T2D. The more you know about T2D and your management, the more likely you’ll be able to live healthily and prevent complications.
+- Find community: Connecting with other people who have T2D — whether in-person or online — can help you feel less alone.
+- Take care of your mental health: People with diabetes are two to three times more likely to have depression and are 20% more likely to be diagnosed with anxiety than those without diabetes. Living with a chronic condition that requires constant care can be overwhelming. It’s important to talk to a mental health professional if you’re experiencing signs of depression and/or anxiety.
+When should I see my healthcare provider if I have Type 2 diabetes?
+You’ll need to have regular appointments with your healthcare team to be sure you’re on track with your T2D management plan. As your body, life and routines change, your management will need to, as well. Your healthcare team can provide new strategies that are unique to your needs.
+If you develop symptoms of any diabetes complications, be sure to see your provider as soon as possible.
 A note from Cleveland Clinic
-Type 2 diabetes is a disease where your body doesn’t make enough insulin and can’t use sugar the way it should. Sugar, or glucose, builds up in your blood. High blood sugar can lead to serious health complications. But Type 2 diabetes is manageable. Regular exercise and a healthy diet can help you manage your blood sugar. You may also need medication or insulin. If you have Type 2 diabetes, you should monitor your blood sugar at home regularly and stay in close communication with your healthcare provider.
+Type 2 diabetes involves constant day-to-day care and management. While it’ll likely be very overwhelming at first, over time you’ll get a better grasp on how to manage the condition and how to be in tune with your body.
+Be sure to see your healthcare team regularly. Managing Type 2 diabetes involves a team effort — you’ll want both medical professionals and friends and family on your side. Don’t hesitate to reach out to them if you need help.

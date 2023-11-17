@@ -1,0 +1,109 @@
+Alpha-1 Antitrypsin Deficiency
+Overview
+What is Alpha-1 antitrypsin deficiency?
+Alpha-1 antitrypsin deficiency (sometimes just called “Alpha-1”) is an inherited genetic disorder that causes low levels of a protein (AAT) that protects your lungs. Alpha-1 increases your risk of developing certain diseases, including emphysema (damaged air sacs in your lungs), cirrhosis (liver scarring) and panniculitis (an uncommon skin condition). Some of these conditions can be life-threatening.
+Alpha-1 is sometimes referred to as “genetic COPD” or “genetic emphysema.”
+Who does Alpha-1 affect?
+Alpha-1 antitrypsin deficiency affects people who have two copies of the SERPINA1 gene that makes an abnormal type of the Alpha-1 protein. Genes are the instructions for how your body should function.
+These gene changes can cause your body to have low levels of AAT or no AAT in your lungs, and, depending on the changes, a buildup of AAT in your liver. Any of these changes can cause health issues. People with one abnormal copy of the gene and one normal copy (called Alpha-1 carriers) can also have symptoms and are at an increased risk of lung damage, especially if they smoke.
+How common is Alpha-1?
+Alpha-1 is one of the most common genetic disorders among those with European ancestry, but it’s uncommon in people of non-European descent. One in 25 people of European descent have at least one abnormal copy of the gene for Alpha-1. In 1 in about 3,500 people in the U.S., both of their genes for AAT are abnormal, putting them at risk for severe organ damage. About 75% of people with two malfunctioning genes will eventually develop lung function issues.
+How does Alpha-1 deficiency affect my lungs and liver?
+Alpha-1 antitrypsin (AAT) is a protein that forms in your liver and moves through your bloodstream to your lungs. It’s the “off switch” for an enzyme called neutrophil elastase. Neutrophil elastase is important for fighting infections in your lungs, but it can also destroy your healthy lung tissue. After elastase has had time to help fight an infection, AAT shuts it off (inhibits) so it won’t damage your lungs.
+If a gene mutation causes low levels of AAT or creates incorrectly formed AAT, you won’t have enough in your lungs to stop elastase, which will start breaking down the protein elastin in your lungs. Elastin gives strength to the small air sacs of your lungs (alveoli) and allows them to stretch and contract, like a rubber band. Without it, your alveoli lose their shape and become floppy. This makes it so you can’t breathe or get oxygen properly. This is a condition called emphysema.
+Gene mutations that change the shape of AAT keep it from moving out of your liver. It builds up there and can cause scarring. Since it can’t get out of your liver, it’s not able to move to your bloodstream and your lungs.
+Is Alpha-1 a terminal illness?
+Alpha-1 isn’t necessarily a terminal illness. Many people with Alpha-1, especially if they don’t smoke, can live a normal life span.
+Symptoms and Causes
+What are the symptoms of Alpha-1 antitrypsin deficiency?
+Lung diseases caused by Alpha-1 have symptoms similar to chronic obstructive pulmonary disease (COPD). Lung symptoms usually start between the ages of 30 and 50 and include:
+- Shortness of breath (dyspnea), especially with exercise or exertion.
+- A whistling sound when you breathe (wheezing).
+- Chronic cough, often with mucus.
+- Extreme tiredness.
+- Frequent chest colds.
+About 10% of infants and 15% of adults with Alpha-1 develop liver disease. Signs and symptoms of liver disease may include:
+- Yellowing of the skin and eyes (jaundice).
+- Itchy skin.
+- Swelling in your legs or abdomen (ascites).
+- Throwing up blood.
+Rarely, your first symptoms of Alpha-1 are painful, red bumps on your skin (panniculitis). These can move around on your body and may break open, leaking fluid or pus.
+What causes Alpha-1 antitrypsin deficiency?
+Everyone has two sets of genes (the instructions for how your body functions), one from each parent. Just like differences in these instructions can determine what color eyes or hair you have, they can also change how your body functions. Differences (mutations) in a specific gene cause Alpha-1 antitrypsin deficiency.
+The SERPINA1 gene makes a protein called Alpha-1 antitrypsin (AAT) that protects your lungs from damage caused by another protein in your body (neutrophil elastase, which attacks infections in your lungs). There are many SERPINA1 mutations that can change how your body makes AAT. Some tell your body to make less AAT, some tell your body not to make any at all, and some cause AAT to form incorrectly so it can’t get to your lungs. Any of these can cause you to have too little AAT in your lungs to protect them.
+If both copies of your SERPINA1 gene have mutations, you have Alpha-1 antitrypsin deficiency. Depending on the types of abnormal genes, you have a 75% chance of developing lung symptoms. If you have a mutation in just one of your copies of the gene (carrier), your body can usually make enough functioning AAT to protect your lungs. You’re still at an increased risk for lung damage and could eventually develop symptoms, especially if you smoke.
+Alpha-1 inheritance
+Carriers of abnormal Alpha-1 genes can pass the mutation on to their children. If both parents are carriers, their children have a 25% chance of having two abnormal genes and a 50% chance of being carriers (one abnormal copy and one normal copy). Since both genes contribute to how you make AAT rather than one being dominant, Alpha-1 antitrypsin deficiency is said to have a codominant inheritance.
+Diagnosis and Tests
+How is Alpha-1 antitrypsin deficiency diagnosed?
+A provider diagnoses Alpha-1 with blood tests. Because it has symptoms of other illnesses, sometimes it can take a long time to diagnose Alpha-1. You might be tested for Alpha-1 if you have liver symptoms or if you’ve received a COPD diagnosis. Tests and procedures your provider might perform include:
+- Blood tests. A provider takes a sample of your blood to measure your levels of AAT and understand how well your liver is working. If you have low levels of AAT, they’ll do genetic testing to identify gene differences associated with Alpha-1.
+- Imaging. X-rays and CT scans can show signs of Alpha-1 in your lungs and rule out other conditions. These tests can show the location of any damage and how severe it is.
+- Pulmonary function tests. These tests can’t diagnose Alpha-1, but they can tell your provider how well your lungs are working. They often involve breathing into a machine that measures your lung function.
+- Liver ultrasound or elastography. If your provider suspects issues with your liver, they may get a liver ultrasound or elastography ultrasound (FibroScan®) to see if there’s any scarring.
+- Liver biopsy. If you have liver damage, your provider may take a small sample of tissue (biopsy) from your liver to determine how severe the damage is.
+Management and Treatment
+How is Alpha-1 treated?
+For those with lung conditions from Alpha-1, your provider can treat you with COPD medications and therapies, like bronchodilators and pulmonary rehabilitation. If you have emphysema due to very low levels of Alpha-1 in your blood, they may recommend augmentation therapy. Augmentation therapy delivers normal Alpha-1, collected and purified from blood donors, through an IV. Augmentation therapy can slow the progression of emphysema.
+If Alpha-1 affects your liver, your provider may be able to treat some of the symptoms, but only a liver transplant can cure Alpha-1 by restoring normal AAT production.
+Not smoking or drinking reduces your risk of lung and liver damage from Alpha-1. It’s recommended that you get vaccinated to help prevent viral hepatitis and pneumonia.
+What medications/treatments are used?
+Depending on where Alpha-1 affects you, treatment options may include:
+- Augmentation therapy. Your provider can increase your AAT levels by giving you supplemental normal AAT (collected and purified from blood donors) directly into a vein (IV infusion). This can’t reverse lung damage but can prevent future damage. It doesn’t prevent liver damage from Alpha-1.
+- Medication. Inhaled corticosteroids and bronchodilators can make it easier to breathe by reducing inflammation and opening your airways.
+- Oxygen therapy. If your oxygen levels are low, your provider may prescribe supplemental oxygen, which a machine delivers through a mask on your face or through small tubes in your nose.
+- Pulmonary rehabilitation. Breathing exercises and physical therapy can make breathing easier.
+- Smoking cessation therapy. If you smoke, your provider can recommend therapies to help you quit.
+- Lung transplant. If your lungs are severely damaged, getting a healthy lung through a transplant can help improve your quality of life.
+- Liver transplant. If your liver is badly scarred, your provider may recommend a liver transplant. A healthy liver should make normal AAT.
+What can’t I eat/drink with Alpha-1?
+You should avoid alcohol if you have certain types of Alpha-1 or are a carrier. Alcohol can increase your chances of liver damage. You should also avoid medications that can cause liver damage. A provider can help you identify which medications to avoid.
+Prevention
+How can I prevent Alpha-1?
+Because it’s inherited (you get it from your parents and are born with it), you can’t prevent Alpha-1. But that doesn’t mean you’ll develop the diseases it can cause. Even with an Alpha-1 diagnosis, there are several things you can do to reduce your risk of organ damage, including:
+- Don’t smoke or vape. Avoid secondhand exposure to tobacco smoke.
+- Avoid lung irritants. Use safety equipment (like face masks) if you work with chemicals or dust.
+- Avoid alcohol use. You should limit or completely avoid alcohol use if you have certain types of Alpha-1 that can cause liver damage. You shouldn’t drink alcohol if you have liver damage.
+- Ask your provider before taking medications or supplements that can affect your liver, like acetaminophen (Tylenol®). Read labels on prescription and over-the-counter medications, vitamins and supplements for warnings about liver damage.
+- Get vaccinated against infectious diseases. This includes respiratory illnesses like the flu, pneumonia and COVID-19 and liver infections like hepatitis A and B. Wash your hands and take other precautions to avoid getting sick with illnesses that can cause lung inflammation.
+- If a family member has Alpha-1, talk to your provider about getting tested. Having a family member with Alpha-1 increases your risk of having it or being a carrier.
+- If you have Alpha-1 or are a carrier and want to have children, you may want to speak with a genetic counselor. They can help you understand the risk of passing genetic changes to your child.
+Outlook / Prognosis
+What can I expect if I have Alpha-1?
+Your provider can tell you what to expect in your specific situation. Some people with Alpha-1 never have symptoms or related organ damage, especially if they never smoke. Others can have life-threatening complications. Follow your provider’s recommendations to get the best outcome possible.
+What are the complications of Alpha-1?
+Complications of Alpha-1 can affect your lungs, liver or other organs and include:
+- Progressive lung conditions (like COPD).
+- Permanent damage to your airways (emphysema, bronchiectasis).
+- High blood pressure in the arteries leading from your heart to your lungs (pulmonary hypertension).
+- Liver scarring (cirrhosis).
+- Liver cancer (hepatocellular carcinoma).
+- Heart, liver or respiratory failure.
+- Inflammation of the fat under your skin (panniculitis).
+What is the life expectancy of someone with alpha-1 antitrypsin deficiency?
+The life expectancy of someone with Alpha-1 varies widely from person to person. Some people live a normal life span and some have life-threatening complications. Your prognosis will depend on:
+- How quickly you’re diagnosed.
+- The type of Alpha-1 you have and how it affects your body.
+- The amount of organ damage you have at diagnosis.
+- How well your lungs are working.
+- How quickly lung or liver disease is getting worse.
+- If you smoke, whether or not you continue to smoke after diagnosis. Smoking reduces your life expectancy with Alpha-1.
+Living With
+How do I take care of myself with Alpha-1?
+The best way to take care of yourself with an Alpha-1 diagnosis is to avoid things that can damage your lungs or liver. This includes smoking, lung irritants, alcohol and certain medications. Follow your provider’s recommendations for other ways to stay healthy and manage your symptoms.
+When should I see my healthcare provider?
+See your provider if you have symptoms of Alpha-1 or if a family member has Alpha-1. Early diagnosis is important, so if you have COPD or asthma, ask your provider if you should get an Alpha-1 test.
+If you’ve been diagnosed with Alpha-1, see your provider if you have any new symptoms or questions about your care, or if you’re having trouble managing your symptoms.
+What questions should I ask my doctor?
+- Based on my symptoms, should I get tested for Alpha-1?
+- How can I protect my lungs and liver from damage?
+- What foods/medications should I avoid?
+- Should my family members find out if they have Alpha-1?
+- What other tests might I have to get?
+- What’s my prognosis?
+- How do I manage my symptoms at home?
+- What new or worsening symptoms should I look out for?
+- When should I follow up with you or contact you?
+- When should I go to the ER?
+A note from Cleveland Clinic
+Some people with Alpha-1 have few or no symptoms, while others have life-threatening complications. Having honest conversations with your healthcare provider can help you understand what to expect in your specific case. Together, you can make a plan to improve your symptoms, reduce your risk of complications and have the best quality of life.

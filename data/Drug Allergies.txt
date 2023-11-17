@@ -42,7 +42,7 @@ In rare instances, you may have an allergic reaction that slowly develops days o
 - Joint pain or joint swelling.
 - Low red blood cell count (anemia) or platelets (thrombocytopenia).
 - Abnormal white blood cell count (leukocytosis or leukopenia) or eosinophil count (eosinophilia).
-- A drop in how well your kidneys (nephritis) or liver work (hepatitis).
+- A drop in how well your kidneys (nephritis) or liver works (hepatitis).
 - Swollen lymph nodes.
 What causes drug allergies?
 If you have a drug allergy, your immune system responds by making immunoglobulin E (IgE) after your first exposure to the drug (sensitization). IgE is a type of antibody that helps remove harmful substances from your body. Your body makes many different IgE types, which target specific types of allergens. The IgE travels to cells that contain histamine (mast cells) in your mucus membranes, skin, gastrointestinal (GI) tract and airways. The next time you encounter the drug allergen, the IgE attaches to the allergen and tells the mast cells to release histamine and other chemicals. Histamine causes your immediate allergy symptoms — they usually develop within minutes.
@@ -100,7 +100,7 @@ It’s also a good idea to carry information on you that identifies your drug al
 - A tattoo.
 When should I see a healthcare provider?
 Talk to a healthcare provider if you have allergy symptoms after taking medications.
-When should I go to ER?
+When should I go to the ER?
 Go to the emergency room or call 911 or your local emergency number immediately if you have any symptoms of a severe allergic reaction. These symptoms include:
 - Trouble breathing.
 - Difficulty swallowing.

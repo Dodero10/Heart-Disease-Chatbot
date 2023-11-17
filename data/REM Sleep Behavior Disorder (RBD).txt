@@ -1,0 +1,107 @@
+REM Sleep Behavior Disorder (RBD)
+Overview
+What is REM sleep behavior disorder (RBD)?
+REM sleep behavior disorder (RBD) is a condition in which you physically and/or vocally act out your dreams while in the rapid eye movement (REM) stage of sleep. You’re unaware of your actions while you’re asleep. RBD is a parasomnia, which is a sleep disorder that involves unusual and undesirable physical events or experiences that disrupt your sleep.
+REM sleep is when you tend to have vivid dreams. You have several REM cycles per night. The first REM cycle begins about 90 minutes after you fall asleep and lasts about 10 minutes. Each REM cycle that follows gets longer and longer.
+There are two main types of RBD: isolated (idiopathic) and symptomatic (secondary).
+Isolated or idiopathic RBD happens when the condition develops spontaneously without an underlying cause. Most people with idiopathic RBD will eventually develop a neurodegenerative condition — specifically, Parkinson’s disease, Lewy body dementia or multiple system atrophy (MSA). These conditions are called alpha-synucleinopathies.
+Symptomatic or secondary RBD happens due to an underlying cause, such as Type 1 narcolepsy. When a person has both an alpha-synucleinopathy and RBD, it’s considered secondary RBD.
+People who take certain antidepressants can develop RBD. This is called drug-induced RBD.
+RBD can lead to accidental injury to yourself or your bed partner. Because of this, it’s important to seek treatment.
+Who does REM sleep behavior disorder affect?
+REM sleep behavior disorder (RBD) most commonly affects people over the age of 50. The average age of onset is 61 years. It can also affect children and younger adults, but this is rare.
+Among people over age 50, men and people assigned male at birth are nine times more likely than women people assigned female at birth to have RBD.
+RBD is strongly associated with certain neurodegenerative disorders. About 97% of people who have isolated (idiopathic) RBD will have Parkinson’s disease, Lewy body dementia or multiple system atrophy within 14 years of diagnosis.
+Up to 36% of people with Type 1 narcolepsy have secondary (symptomatic) RBD. And about 6% of people who take antidepressants have drug-induced RBD.
+How common is REM sleep behavior disorder?
+REM sleep behavior disorder (RBD) is relatively rare. It affects about 1% of the general U.S. population and affects 2% of people aged 50 or older.
+These rates may be lower in reality, as RBD can be difficult to officially diagnose, and almost half of people with the condition don’t realize they have it.
+Symptoms and Causes
+What are the symptoms of REM sleep behavior disorder (RBD)?
+The symptoms of REM sleep behavior disorder (RBD) can vary in severity. While they’re asleep, a person with RBD looks as if they’re acting out a bad dream and may:
+- Have mild muscle twitches or limb movements.
+- Talk, shout or scream — often using vulgar language.
+- Kick, punch or grab the air or their bed partner.
+- Jump or fall out of bed.
+About 8 in 10 people with RBD experience sleep-related injuries.
+An episode may happen once during a sleeping period or several times. Episodes can also happen every time you sleep or just once in a while. The symptoms tend to be more severe if a person is acting out a violent nightmare.
+People who have RBD aren’t aware of their behaviors during sleep. Many people only find out they have RBD when their bed partner or roommate tells them about their behavior or when they wake up with an injury.
+When a person is having an episode, you can typically wake them up easily. When they wake up, they’re usually alert and can remember details of the dream. This is different from night terrors, in which people are typically difficult to wake up and are confused once they’re awake.
+Obstructive sleep apnea (OSA) can mimic symptoms of RBD. This is called “pseudo RBD.” In this case, treatment of OSA can eliminate the behaviors.
+What causes REM sleep behavior disorder?
+Normally, most of your body’s muscles (mainly skeletal muscles) are temporarily paralyzed during REM sleep while you’re dreaming so you can dream safely. This is called muscle atonia.
+For people with REM sleep behavior disorder, temporary paralysis doesn’t happen. Because of this, they can unknowingly act out their dreams and speak while they sleep. Researchers don’t know why exactly this happens, as many complex neural pathways are involved in REM sleep.
+Causes of isolated (idiopathic) RBD
+One theory for isolated (idiopathic) RBD is that an issue in the part of your brainstem called the pons leads to REM sleep without atonia. Certain cells in the pons control muscle paralysis during REM sleep. Lesions (damaged tissue) in the pons are also associated with Parkinson’s disease, Lewy body dementia or multiple system atrophy (MSA). As isolated RBD and these conditions are closely linked, researchers believe an issue in the pons may be the cause.
+One study showed that 97% of people with isolated RBD had one of these conditions within 14 years of their RBD diagnosis, with Parkinson’s disease being the most likely.
+Causes of secondary (symptomatic) RBD
+People with narcolepsy lack orexin (hypocretin), a brain chemical that regulates sleep, wakefulness and appetite. This lack may fail to stabilize REM sleep, leading to RBD.
+Causes of drug-induced RBD
+Researchers think that certain antidepressants can cause RBD due to imbalances in dopamine and serotonin (neurotransmitters), which are involved in REM sleep.
+Diagnosis and Tests
+How is REM sleep behavior disorder diagnosed?
+If you have symptoms of REM sleep behavior disorder (RBD), it’s important to see a healthcare provider. They’ll ask you questions about your symptoms and medical history. If you have a bed partner or housemates, your provider will likely want to ask them questions about your sleeping behavior.
+Your provider will also perform a physical exam and a neurological exam. They may refer you to a sleep specialist.
+To receive a diagnosis of REM sleep behavior disorder, you’ll undergo an in-lab video sleep study — or polysomnogram (PSG). Sleep studies are tests that record specific body functions during sleep, such as your:
+- Heart rate.
+- Breathing rate and airflow.
+- Brain wave activity.
+- Eye movements.
+- Muscle movements of your chin and upper extremities.
+According to the International Classification of Sleep Disorders, a diagnosis of RBD requires all of the following:
+- You have repeated episodes of sleep-related vocalization and/or complex movement behaviors.
+- The behaviors are documented by a sleep study (polysomnography) and occur during REM sleep or can be assumed to happen during REM sleep based on your clinical history.
+- The sleep study shows that you experience REM sleep without atonia (muscle paralysis).
+- You don’t have seizure-related activity during REM sleep.
+- The sleep disturbances aren’t better explained by another sleep disorder, medical condition or mental health condition. They’re also not caused by medication side effects or substance use disorder.
+Management and Treatment
+How is REM sleep behavior disorder treated?
+The main goal of treatment for REM sleep behavior disorder (RBD) is to create a safe sleeping environment for you and your bed partner. This can involve certain strategies and medications.
+Safety measures for RBD
+Steps to create a safer sleeping environment include:
+- Removing sharp, glass and heavy objects away from your bed.
+- Placing pillows between you and surrounding structures, such as the headboard or a nightstand.
+- Placing a mattress on the floor next to your bed (in case you fall out of bed) or using padded bedside rails.
+- Sleeping in a sleeping bag.
+If the symptoms are severe, it may be safest for your bed partner if you sleep alone in a different room.
+You should also try to avoid drinking alcohol, as this can trigger an RBD episode and make the condition worse.
+Medications for RBD
+If your symptoms are severe and safety measures aren’t enough to prevent injury, your healthcare provider may prescribe medication to manage your symptoms. While there aren’t any U.S. Food and Drug Administration (FDA)-approved medications specifically for RBD, studies have shown that melatonin, clonazepam and pramipexole can reduce symptoms in some cases.
+Melatonin is a hormone your pineal gland naturally makes that’s essential for regulating your sleep cycle. However, there are also synthetic forms of melatonin. It’s considered the first-line medication for treating RBD, as it rarely causes side effects. Your provider will likely recommend starting at a baseline dose and then increasing the dose until your symptoms improve.
+Clonazepam is a sedative. Researchers aren’t sure why it helps treat RBD. Most people with RBD who take a low dose of clonazepam before they sleep have few or no nightmares, vocalizations or dream enactment behaviors. Clonazepam can cause unpleasant side effects. Because of this, your provider may only prescribe it if melatonin doesn’t help.
+Pramipexole is a dopamine agonist. Providers primarily prescribe it to treat Parkinson’s disease and restless leg syndrome, but recent research shows that it can help treat the symptoms of RBD. Researchers think this medication works because RBD may be a dopaminergic deficiency disorder.
+Prevention
+Can I prevent REM sleep behavior disorder?
+In most cases, there’s nothing you can do to prevent RBD. This is because the condition has risk factors that you can’t prevent or change, such as your age or having narcolepsy or a neurodegenerative condition.
+If substances like alcohol cause RBD or make it worse, stopping the use of these substances can make RBD go away.
+Outlook / Prognosis
+What is the prognosis of REM sleep behavior disorder?
+The prognosis (outlook) of REM sleep behavior disorder depends on a few factors, including:
+- If there’s an underlying cause, such as narcolepsy (secondary RBD) or use of an antidepressant (drug-induced RBD), or if it developed spontaneously (isolated RBD).
+- How severe your symptoms are and if your symptoms lead to injury.
+- If it’s treated or untreated.
+- If you have RBD and a neurodegenerative condition.
+The most important implication of RBD is its association with neurological conditions, particularly Parkinson’s disease, multiple system atrophy and Lewy body dementia. More and more research suggests that RBD can be one of the earliest warning signs of these conditions. This is the case when RBD develops spontaneously and isn’t due to narcolepsy or taking medications.
+RBD can cause serious injury to you and/or your bed partner, so it’s important to seek treatment.
+People who have RBD in addition to a neurological condition often have a poor prognosis. For example, quality of life is worse in people who have early Parkinson’s disease and RBD than in people who have early Parkinson’s disease without RBD.
+What are the possible complications of RBD?
+Due to the potentially violent nature of their movements, people with REM sleep behavior disorder can put themselves — and their bed partner — at risk of injury. It can also cause frequent sleep disruptions, which can affect your overall quality of sleep.
+Injuries can include:
+- Bruises.
+- Cuts.
+- Sprains.
+- Broken bones.
+- Head injury and subdural hematomas.
+In some cases, these injuries can be life-threatening.
+Up to 90% of partners of people with RBD have sleep issues. Over 60% have experienced a physical injury.
+Because of this, it’s important to seek treatment for RBD — or at the very least create a safer sleeping environment.
+Living With
+When should I see my healthcare provider about RBD?
+If you’ve received a diagnosis of isolated RBD, you’ll likely need to see your healthcare provider regularly to check for signs of the neurological conditions that are strongly associated with it.
+If you develop any other symptoms, such as issues with movement or cognitive changes, see your provider.
+If you or your bedpartner are injured as a result of RBD, see your provider.
+Additional Common Questions
+Is REM sleep behavior disorder a mental illness?
+REM sleep behavior disorder (RBD) isn’t a mental health condition, such as a mood disorder or an anxiety disorder. RBD is a sleep disorder — specifically, a parasomnia.
+A note from Cleveland Clinic
+Unknowingly causing injury to yourself or your bed partner while you’re asleep can be distressing. If your partner has told you that you act out your dreams, talk to a healthcare provider. They can recommend a sleep study to diagnose REM sleep behavior disorder (RBD) and suggest treatment options. More than anything, it’s essential to create a safe sleeping environment to prevent injuries.

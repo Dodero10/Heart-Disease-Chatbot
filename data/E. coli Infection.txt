@@ -1,0 +1,143 @@
+E. coli Infection
+Overview
+What is E. coli?
+Escherichia coli (E. coli) is a bacteria that normally lives in the intestines of both healthy people and animals. In most cases, this bacteria is harmless. It helps digest the food you eat. However, certain strains of E. coli can cause symptoms including diarrhea, stomach pain and cramps and low-grade fever. Some E. coli infections can be dangerous.
+What does E. coli look like?
+E. coli is a rod-shaped bacterium of the Enterobacteriaceae family. It can live in environments with or without air. These bacteria live in the intestines of healthy people and warm-blooded animals.
+How many strains of E. coli cause diarrhea?
+Six different strains of E. coli are known to cause diarrhea. These strains are:
+- Shiga toxin-producing E. coli (STEC): This is the bacteria most commonly known for E. coli food contamination. This strain is also called enterohemorrhagic E. coli (EHEC) and verocytotoxin-producing E. coli (VTEC).
+- Enterotoxigenic E. coli (ETEC): This strain is commonly known as a cause of travelers’ diarrhea.
+- Enteroaggregative E. coli (EAEC).
+- Enteroinvasive E. coli (EIEC).
+- Enteropathogenic E. coli (EPIC).
+- Diffusely adherent E. coli (DAEC).
+How does E. coli make you sick?
+The most familiar strains of E. coli that make you sick do so by producing a toxin called Shiga. This toxin damages the lining of your small intestine and causes your diarrhea. These strains of E. coli are also called Shiga toxin-producing E. coli (STEC). The STEC that is most well-known in North America and most often referred to is E. coli O157:H7, or just E. coli O157
+There are other types of STEC that are called non-O157 STEC. These strains cause similar illness to the O157 strain but are less likely to lead to serious complications.
+Who can get infected with E. coli?
+Anyone who comes into contact with a disease-causing strain of E. coli can become infected. People who are at greatest risk are:
+- The very young (newborns and children).
+- The elderly.
+- People who have weakened immune systems (for example, those with cancer, diabetes, HIV, and women who are pregnant).
+- People who travel to certain countries.
+How common are E. coli infections?
+According to the Centers for Disease Control, about 265,000 STEC infections occur in the United States each year. The STEC O157 strain causes about 36% of these infections and non-O157 STEC strains cause the rest. The actual number of infections is thought to be even higher because many people do not go to their healthcare provider for their illness, many don’t provide a stool sample for testing and many labs do not test for non-O157 STEC strains.
+Symptoms and Causes
+What are the symptoms of an E. coli infection?
+People who get infections with the STEC strain of E. coli can have the following symptoms:
+- Stomach pains and cramps.
+- Diarrhea that may range from watery to bloody.
+- Fatigue.
+- Loss of appetite or nausea.
+- Vomiting.
+- Low fever < 101 °F/ 38.5 °C (not all people have this symptom).
+How soon do symptoms of E. coli infection develop?
+You usually develop symptoms of a STEC infection within three to five days after drinking or eating foods contaminated with this E. coli bacteria. However, you could have symptoms as early as one day after exposure up to about 10 days later.
+How long do symptoms of E. coli infection last? When will I feel better?
+Your symptoms can last from five to seven days.
+Other than diarrhea, are there serious illnesses caused by STEC strains of E. coli?
+Most cases of E. coli infections are mild and do not cause a serious health risk. Cases resolve on their own with rest and drinking plenty of fluids. However, some strains can cause severe symptoms and even life-threatening complications, such as hemolytic uremic syndrome, which can lead to kidney failure and death.
+What is hemolytic uremic syndrome?
+Some people, especially children age five and under, who become infected with a STEC infection (the O157:H7 strain) develop a condition called hemolytic uremic syndrome (HUS). In this condition, toxins in your intestines from STEC cause diarrhea, travel into your bloodstream, destroy red blood cells and damage your kidneys. This potentially life-threatening illness develops in about 5% to 10% of people who are infected with STEC.
+Early symptoms of HUS include:
+- Diarrhea (usually bloody).
+- Fever.
+- Stomach pain.
+- Vomiting.
+As disease progresses, symptoms include:
+- Decreased urination, blood in urine.
+- Feeling tired.
+- Pale-looking skin.
+- Easy bruising.
+- Fast heart rate.
+- Lightheadedness.
+- Sleepiness, confusion, seizures.
+- Kidney failure.
+If you develop severe diarrhea (lasting longer than three days or you can’t stay hydrated) or if you have bloody diarrhea, go to the hospital for emergency care. HUS, if it develops, occurs an average of 7 days after your first symptoms occur. It is treated with IV fluids, blood transfusions and dialysis (for a short period of time).
+What causes an E. coli infection?
+Technically, you develop an E. coli infection by ingesting (taking in by mouth) certain strains of E. coli bacteria. The bacteria travel down your digestive tract, releases a destructive toxin, called the Shiga toxin, which damages the lining of your small intestine. The growing infection causes your symptoms.
+How did I get infected with E. coli?
+You come into contact and swallow E. coli by eating contaminated food, drinking contaminated water or by touching your mouth with your hands that are contaminated with E. coli bacteria.
+Contaminated foods
+- Meats: Meats become contaminated with E. coli during the slaughtering process, when E. coli in animal intestines gets onto cuts of meat and especially when meat from more than one animal is ground together. If you eat undercooked meat (E. coli is killed when meat is thoroughly cooked), you can become infected with E. coli.
+- Unpasteurized (raw) milk: E. coli on a cow’s udder and/or the milking equipment can get into the milk. Drinking contaminated raw milk can lead to an E. coli infection because it hasn’t been heated to kill the bacteria.
+- Unpasteurized apple cider and other unpasteurized juices.
+- Soft cheeses made from raw milk.
+- Fruits and veggies: Crops growing near animal farms can become contaminated when E. coli-containing animal poop combines with rainwater and the runoff enters produce fields and lands on the produce. If you don’t thoroughly wash off the produce, E. coli enters your body when you eat these foods.
+Contaminated water
+- E. coli in poop from both animals and humans can end up in all types of water sources including ponds, lakes, streams, rivers, wells, swimming pools/kiddie pools and even in local city water supplies that have not been disinfected. If you swallow contaminated water, you could get sick.
+Contaminated hands
+- You can swallow E. coli when it transfers from your hands directly to your mouth or onto the food you are eating. E. coli gets on your hands from touching poop (an invisible amount can be on your hands). You can get poop on your hands after changing your baby’s diapers, after having a bowel movement and not washing your hands completely, petting zoo or farm animals (many animals roll in or otherwise get E. coli from poop on their fur) or from poop on the hands of other people infected with disease-causing E. coli.
+Is E. coli contagious?
+When you hear the word “contagious,” you might immediately think of a cold or the flu – illnesses you can get from breathing in bacteria or viruses lingering in the air of a sick person’s cough or sneeze.
+E. coli isn’t an airborne illness. It’s usually spread by eating contaminated food or drinking contaminated water that contains illness-producing strains of E. coli. (Remember not all strains of E. coli are harmful.)
+E. coli can, however, be contagious and spread from person to person by the “oral-fecal route.” This means that harmful strains of E. coli are spread when people don’t wash their hands thoroughly with soap and water after they use the bathroom or otherwise touch poop (after changing baby diapers or older person’s incontinence undergarments, or petting zoo or farm animals that may have soiled fur) and they touch other people. People then get the invisible E. coli on their hands and swallow it when it is transferred from their hands to the food they eat or from putting their fingers in their mouth. E. coli spreads from person to person this way in settings such as day care centers and nursing homes.
+Diagnosis and Tests
+How is an E. coli infection diagnosed?
+STEC infections are diagnosed by sending a sample of your poop to a laboratory. Many labs can test for both STEC O157 and non-O157 STEC bacterial infections.
+What steps are involved in getting a stool sample to my healthcare provider?
+Call your healthcare provider’s office. They may have you come in for an office visit and give you a sterile stool collection cup and specific directions to follow for how to collect a stool sample. They may also email specific instructions for collecting a sample at home.
+Some general instructions for collecting a stool sample at home include:
+- First, wash your hands with soap and water.
+- If it’s possible to urinate (pee) before setting up for the stool collection, do so. You don’t want to get urine in your stool sample if you can help it.
+- To collect diarrhea, tape a plastic bag to the toilet seat. You only need to collect a small amount – a couple tablespoons.
+- Place the plastic bag into a clean (washed and dried) plastic container and seal with lid.
+- Wash your hands with soap and water.
+- Write your name and date on the container, place within another bag, wash your hands again and deliver to your healthcare provider on the same day you collect your sample. If you can’t deliver your sample immediately, you can store it in your refrigerator for up to 24 hours.
+- Do not collect the sample from the toilet bowl. Do not mix in toilet paper, soap or water.
+When will I get the results back from my stool sample?
+Most laboratories report back the results within two to four days. Your healthcare provider will call you with the results as soon as they become available or you may be notified of your results electronically if you have an online medical record set up with your doctor or healthcare facility.
+Management and Treatment
+How is an E. coli infection treated?
+Fortunately, most E. coli infections go away on their own. You can help yourself manage E. coli infection by drinking plenty of fluids to replace what you’ve lost through diarrhea and/or vomiting. Also, get as much rest as possible.
+Antibiotics are usually not given for STEC O157 infection because they can make your illness worse and put you at risk for hemolytic uremic syndrome (HUS). Also, don’t take any medicines to stop diarrhea (such as bismuth subsalicylate [Pepto-Bismol®, Kaopectate®] or loperamide [Imodium®]), because it could keep the E. coli bacteria in your body and increase your chance of HUS.
+You should start to feel better about five to seven days from the time you first developed symptoms.
+When should I see a healthcare provider about an E. coli infection?
+See your healthcare provider about an E. coli infection if:
+You have diarrhea for more than three days and:
+- You can’t keep any fluids down.
+- You have blood in your poop.
+- You are feeling very tired.
+- You have many bouts of vomiting.
+- You have a fever higher than 102 °F.
+- You are not peeing (urinating) a lot.
+- You are losing pink color in cheeks and inside your lower eyelids.
+Prevention
+How can I prevent or avoid an E. coli infection?
+The most important thing you can do to protect against E. coli infection is to wash your hands – frequently. Always wash your hands thoroughly before and after cooking and after handling raw meat or poultry.
+Wash your hands after using the restroom, changing diapers or after contact with animals.
+If you’ve been infected with E. coli, scrub your hands vigorously with soap and clean under your fingernails where bacteria can get caught. Dry your hands with paper towels instead of cloth towels to avoid transferring bacteria.
+You can also reduce your risk of an E. coli infection by following these food preparation and cooking tips.
+When thawing meats:
+- Don’t defrost frozen meat unwrapped on the counter.
+- Keep frozen meat in a separate plastic bag (for example, a plastic grocery bag) when thawing.
+When prepping foods:
+- Don’t rinse meat before cooking. It’s not necessary. Washing the meat could spread bacterial to nearby surfaces, utensils and other food.
+- Use a plastic or ceramic cutting board to cut raw meat. These materials can be cleaned more easily and thoroughly than wooden cutting boards.
+- Don’t “cross-contaminate” a prepping surface. If you had raw meat or chicken on a prepping surface, such as a cutting board, wash it thoroughly with soap and hot water before putting another type of food (such as a raw vegetable) on it. Better yet, use different cutting boards for the foods you are preparing.
+- Rinse all raw fruits and vegetables under cold running water before eating them. It’s ok to scrub firm produce but don’t use detergent or soap.
+When cooking and serving meats:
+- Cook all meat well (undercooked meat is another source of E. coli contamination). Cooking foods well kills bacteria.
+- Use a food thermometer when cooking meat, and cook all meat and other foods to the safe temperatures recommended by the United States Department of Agriculture (see references for link).
+- Don’t put a cooked hamburger on a plate that had raw ground beef or any other raw meat on it.
+- Refrigerate leftovers right away.
+Outlook / Prognosis
+What can I expect if I have an E. coli infection?
+It’s important to keep in mind that most strains of E. coli are harmless. They live naturally in your intestinal tract and help digest your food. Sometimes, however, you may eat food or drink water that is contaminated with illness-causing E. coli. Sometimes a mild E. coli infection will cause a brief bout of diarrhea. Other strains of E. coli, the Shiga toxin-producing E. coli (STEC), cause bloody diarrhea, vomiting, stomach pain and cramps. If you are otherwise healthy, you should recover from an E. coli infection within about a week without any treatment.
+Although hemolytic uremic syndrome (HUS) is a serious complication, it is rare and occurs in about 5% to 10% of people. With early treatment and proper care, people can recover from HUS.
+Living With
+How long does E. coli survive outside the body?
+E. coli can survive outside the body from hours to months. It can live in soil for about 130 days. E. coli survives in river water for 27 days and in cattle slurry for 10 days. On stainless steel, E. coli was shown to survive for more than 60 days. It survives for at least 12 hours on wooden cutting boards.
+Many factors affect how long E. coli can live outside the body including temperature, presence of water, availability of nutrients, pH and solar radiation.
+How does E. coli cause a urinary tract infection?
+Urinary tract infections are sometimes caused when E. coli from your gastrointestinal tract get into your urinary tract. This can happen more easily in women because the anus (where poop exits your body) is located close to the urethra (the tube from which urine exits the body). E. coli bacteria can travel up the urethra to the bladder and even up to the ureters and kidneys. You may have been told – if you are a woman – to always “wipe from front to back.” This is so you don’t accidently spread E. coli bacteria from your anus to your urethra.
+The most common urinary tract infections caused by E. coli are a bladder infection (cystitis), infection of the urethra (urethritis) and kidney infection.
+Are there better food choices I can make as I start to feel better after an E. coli infection?
+Drink clear liquids, such as broths, clear sodas and water. Stick with bland, low-fiber foods like toast, rice, plain crackers and applesauce. Stay away from high-fiber foods, fatty foods and dairy products.
+When can I return to work or school if I’ve been infected with E. coli?
+Check with your healthcare provider. If your infection was part of a local outbreak, your local state health department may have specific instructions about when it’s safe to be around groups of people.
+A note from Cleveland Clinic
+The best and easiest way to avoid getting an E. coli infection is to frequently wash your hands with soap and water. Wash your hands before and after handling foods (including prepping, cooking and serving foods), after using the bathroom, after touching animals (especially farm or zoo animals), after changing diapers and after shaking hands or being touched by others (you never know what their hands have touched). Washing your hands can not only prevent contracting E. coli, but also many other infectious disease that are spread from person to person. Make frequent hand washing a new habit.
+Keep in mind that most strains of E. coli are harmless. Even if you do come down with the STEC O157 strain, your symptoms will resolve on their own within five to seven days. Drink plenty of fluids to stay hydrated and get plenty of rest.
+Do call your healthcare provider if you have diarrhea (and especially bloody diarrhea) for more than three days, have trouble keeping fluids down and have continuous bouts of vomiting and have a fever. These symptoms could mean you are developing serious complications that could lead to kidney failure.

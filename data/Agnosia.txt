@@ -1,0 +1,133 @@
+Agnosia
+Overview
+What is agnosia?
+Agnosias are a group of conditions where your brain can’t recognize something, even though your senses can detect it. The conditions can affect your senses, including vision, hearing, smell, taste and touch.
+They can also affect your brain’s ability to assemble and make sense of information. An example of this is being unable to recognize that an object is moving, even though you can identify the object when it’s standing still.
+Who does it affect?
+Agnosias can happen to anyone at any age but tend to happen because of certain brain conditions. Some, but not all, of these conditions have a connection to your age or other age-related diseases.
+How common is this condition?
+Agnosias are very rare overall. Less than 1% of people receiving care for a neurological (brain) condition have any type of agnosia.
+How does this condition affect my body?
+Agnosias are conditions that you can’t explain away as a problem with a person’s senses or memory. An example of this is a person who knows what a cat is and can see that there’s a cat in the room with them, but can’t tell you that it’s a cat by looking at it (visual agnosia), or they can’t identify that it’s a cat from its meow (auditory agnosia).
+What’s the difference between agnosia and aphasia?
+Agnosia and aphasia have some similarities but are still very different conditions. Both involve damage to part of your brain, but that damage affects your brain differently. The differences are as follows:
+- An agnosia is a condition where damage to your brain keeps it from recognizing input from one of your senses, such as your vision, hearing, etc. Your sense works fine, but the part of your brain that processes the sensory information isn’t working.
+- Aphasia is a condition where damage to areas of your brain disrupts your language abilities. Different types of aphasias can slow down your speaking, make it harder for you to use or pronounce the right word, or keep you from speaking at all.
+Symptoms and Causes
+What are the symptoms of agnosia?
+The symptoms of an agnosia disorder depend on the form, type and sense involved. Agnosia comes in two main forms:
+- Apperceptive: This form involves a problem of perception. The person’s senses work, but their brain can’t process the information.
+- Associative: This type is a problem of recognition. The senses can pick up information and the brain can process it, but it can’t recognize or make sense of the information coming in.
+The difference between these forms is slight but important. An example of this is to take multiple copies of the same picture of a cat and show it to people with the forms of agnosia. The person knows what a cat is in either form, but their brain can’t recognize them by sight.
+- Apperceptive: If you show multiple copies of a picture of a cat to a person with apperceptive agnosia, they wouldn’t be able to tell that it’s a cat, and they can’t tell that it’s the same picture.
+- Associative: If you show the same pictures to someone with associative agnosia, they would recognize it’s the same picture but wouldn’t be able to tell that it’s a cat.
+Specific types of agnosias
+The following are specific types of agnosias:
+- Akinetopsia: This is when you can recognize objects but can’t recognize that they’re moving.
+- Alexia: People with this condition can’t read. They can still see the words and can write and speak without any problem.
+- Amusia: The visual effect of this issue causes you to lose the ability to read music (see the auditory effect below).
+- Autopagnosia: This means you have trouble recognizing body parts, either your own or on another person. You might also have trouble recognizing body parts from a drawing or picture. A sub-type of this is finger agnosia, which means you know what fingers are, but can’t recognize them when you see them.
+- Achromatopsia: Also known as color agnosia, this is where you can see colors and tell them apart, but can’t identify the color.
+- Cortical blindness: This happens when there’s damage to the parts of your brain that receive visual input. Your eyes work fine, but your brain can’t process the signals sent from your eyes.
+- Environmental agnosia: This type means you can’t recognize where you are, describe a familiar location or give directions to it.
+- Topographical agnosia is a type of environmental agnosia. Having this means you can remember the specifics of a building layout or its surroundings but can't recognize where you are in relation to the layout and find your way around.
+- Form agnosia: This is where you can see the parts of an object but can’t recognize the object itself. An example of this is identifying the wheels, seat and handlebars of a bicycle when you look at each part, but you can’t recognize them as part of the whole bicycle.
+- Simultagnosia: This is when you have trouble seeing more than one of an object. There are multiple types of this condition. Dorsal simultanagnosia is where you can only see one object at a time. When you aren’t focusing on an object, you can’t see it. Ventral simultanagnosia is where you can see multiple objects at a time, but can only identify them individually. This is like standing in a forest but only recognizing one tree at a time and never recognizing the forest.
+- Prosopagnosia: Also known as “face-blindness,” this condition has two types. Apperceptive prosopagnosia is when you can’t recognize a person’s facial expressions or other nonverbal cues. Associative prosopagnosia is when you can’t recognize a person’s face even if you’re familiar with them. You can still recognize them by other means, such as their voice or the sound of how they walk. This condition usually happens because of brain damage, but it also has a congenital form, meaning you have it at birth. People born with this have trouble recognizing faces their whole lives. It’s possible that congenital prosopagnosia is an inherited condition, as it sometimes runs in families.
+- Social-emotional agnosia: This is when you can’t recognize nonverbal cues like body language. It’s similar to apperceptive prosopagnosia (see directly above) but involves a person’s whole body rather than just their face.
+- Amusia: The auditory effect of this problem means you can’t recognize songs or melodies you knew before. You also might not be able to tell music apart from other sounds or recognize specific musical notes.
+- Auditory agnosia: This is when you can’t recognize sounds, even though you have no problem hearing them. When it comes to sounds from people, there are multiple types of this. Verbal auditory agnosia, also known as “word deafness,” is when you can’t comprehend words spoken aloud. You can still read and write them, and you have no problem speaking words yourself. Nonverbal auditory agnosia is when you can’t recognize sounds other people make, but you can understand words they say.
+- Cortical deafness: Like cortical blindness, this is a problem with certain parts of your brain. Your ears can pick up sounds and send signals to your brain about what they hear. However, damage to certain parts of your brain means your brain can’t process those signals.
+- Phonagnosia:People with this type can't recognize familiar voices, but they have no problem recognizing what a familiar voice is saying.
+- Ahylognosia: This is when you can’t recognize the properties of an object you touch. That means you can't tell what it’s made of, its weight, density or texture. However, you can still recognize it by its shape.
+- Amorphognosia: This means you can’t identify the shape or size of an object by feeling it.
+- Astereognosis: This is when you can’t tell what an object is by feeling it, but you know what the object is by looking at it.
+- Anosognosia: This is when you can’t recognize that you have a medical condition. This is more than just denial in the sense of not wanting to face the reality of a serious medical condition. This means your brain can’t recognize that you have the problem at all. An example of this is having trouble controlling muscle movements from Parkinson’s disease but not understanding that you have that condition.
+- Anosodiaphoria: This is when you recognize that you have a medical condition, but you can’t recognize or understand its importance. People with this might downplay a problem because they can’t recognize that it’s serious.
+- Gustatory (taste) agnosia: This can affect your ability to recognize types of tastes (sweet vs. bitter) or familiar foods you’re tasting.
+- Olfactory agnosia: This is smell agnosia. Having this means you may not recognize certain smells or types of odors that you previously recognized.
+- Unilateral neglect: This is a problem where you can’t recognize any kind of sensory input on one side of your body. This usually happens because of a lesion on the opposite side of your brain. You also might not recognize the affected side of your body at all.
+What causes agnosia?
+Agnosias are problems with your brain, not the senses themselves. Like any other part of your body, your brain is prone to injuries. These injuries, known as lesions, will have different effects depending on where in your brain they happen. Lesions can also happen suddenly or slowly over time, depending on the underlying cause.
+Potential conditions and causes of brain lesions leading to agnosias include, but aren’t limited to, the following:
+- Alzheimer’s disease.
+- Aneurysms.
+- Brain tumors (including cancerous and noncancerous growths).
+- Dementia.
+- Developmental disorders.
+- Head injuries such as concussions or traumatic brain injuries (TBIs).
+- Cerebral hypoxia (brain damage from lack of oxygen).
+- Infections (such as those that cause encephalitis).
+- Seizures and epilepsy.
+- Sleep apnea.
+- Stroke.
+- Toxins, such as carbon monoxide poisoning.
+Is it contagious?
+Agnosias aren’t contagious. While some of the infections that can ultimately cause agnosias are contagious, agnosia rarely happens because of them.
+Diagnosis and Tests
+How is it diagnosed?
+Diagnosing agnosias takes a combination of a physical exam, asking questions about your history, diagnostic imaging and testing, and more.
+Diagnosing agnosias involves tests and exams that’ll ensure the following:
+- Sensory tests: These tests will make sure that the involved sense in question works as it should and rule out any sense-related problems or conditions.
+- Cognitive and mental status check: These tests ensure the problem isn’t with the person’s thinking, focusing or problem-solving abilities.
+- Memory and familiarity tests: These tests will verify that the person doesn’t have a memory problem. They also make sure a person’s lack of recognition isn’t because of a lack of experience or familiarity with something.
+- Diagnostic and imaging tests: These tests look for lesions or signs of damage to the relevant part of your brain.
+What tests will be done to diagnose this condition?
+The following diagnostic tests are possible with agnosias:
+- Computed tomography (CT) scan.
+- Electroencephalogram (EEG).
+- Evoked potentials test.
+- Magnetic resonance imaging (MRI).
+- Spinal tap (lumbar puncture).
+Other tests are also possible, depending on the underlying cause that healthcare providers suspect or want to rule out. Your healthcare provider can best explain the likely tests in your situation and why they believe those tests are necessary.
+Management and Treatment
+How are agnosias treated, and is there a cure?
+Agnosias themselves aren’t curable, but the underlying causes are in some situations. Agnosias are usually treatable with a variety of approaches. Some of those approaches focus on the underlying problem. Other methods help you learn how to work around or compensate for your agnosia.
+What medications or treatments are used?
+The treatments and medications for agnosias depend on the underlying cause, the severity and location of lesions and more. Possible treatments include:
+- Medications: These range from antibiotics for infections to antidementia medications.
+- Surgery: Agnosias can happen when tumors press on certain areas of your brain. Removing those tumors with surgery, when possible, can alleviate pressure on your brain and let it function normally.
+- Therapy and rehabilitation: Because brain disorders like agnosia are often permanent, treatment often involves teaching a person with an agnosia how to compensate or work around it. Specialized rehabilitation, especially speech and occupational therapies, is often a tool to help people with agnosias learn how to manage the condition.
+Alternative strategies aside from rehabilitation
+Agnosias most often affect a single sense (though there are some instances where a brain injury can damage multiple senses), which means the other senses aren’t affected. Therapy can help by showing someone with an agnosia disorder how to compensate with another of their senses. Examples include:
+- Prosopagnosia: Teaching people with face blindness to identify others by the sound of their voice.
+- Verbal auditory agnosia: Helping people adapt by teaching them lip-reading or using other means of written communication whenever possible.
+- Visual agnosia: Using labels to identify objects that a person can’t recognize by sight alone.
+Other strategies include organizing and creating routines to help people find things by placing them in the same location every time. It can also include reducing clutter so people with visual agnosia don’t confuse items because they can’t recognize them by sight alone.
+Possible complications and side effects of the treatments
+The complications or side effects from the treatments depend on the treatments involved, other health conditions you have or your life circumstances. Because these can vary widely from person to person, your healthcare provider is the best person to tell you about the possible side effects or complications. They can tailor the information they provide to your specific situation and help you understand what you can do to avoid future issues.
+How can I take care of myself or manage symptoms?
+You shouldn’t try to self-diagnose or manage an agnosia on your own without first talking to a healthcare provider. That’s because diagnosing these takes specialized training and experience. It’s also important to talk to a healthcare provider because some of the causes of this condition, especially brain tumors (even those that aren’t cancer), become worse over time and could ultimately put your life at risk.
+How long does it take to recover from treatment or this condition?
+In cases where the damage is temporary, limited or happens because of a curable condition, recovery from an agnosia can occur over a few months or up to a year. Certain types of therapy and rehabilitation can also help in some cases. However, brain damage that causes an agnosia is often permanent, which means the agnosia is permanent, too.
+Prevention
+How can I prevent an agnosia from developing or reduce my risk of developing one?
+Some of the conditions that cause agnosias are unpredictable and unavoidable. That means it’s impossible to prevent them. In other cases, it’s possible to prevent a condition from causing an agnosia or reduce the risk of the condition happening. The best things you can do include:
+- Eat a balanced diet and maintain a healthy weight. Many conditions related to your circulatory and heart health, especially stroke, can damage areas of your brain, causing agnosias. Preventing stroke and similar conditions is a key way to prevent agnosias or reduce your risk of them happening.
+- Don’t ignore infections. Eye and ear infections need fast treatment. If these infections spread to your brain, they can become serious or even deadly, and they can cause brain damage leading to an agnosia.
+- Wear safety equipment. Head injuries can result in brain damage that causes agnosias. Whether you’re on the job or on your own time, using safety equipment can help you avoid an injury that causes an agnosia.
+- Manage your health conditions. It’s essential to manage conditions that can lead to brain damage, such as epilepsy or sleep apnea. Managing those conditions can help you avoid or limit permanent damage, preventing or reducing the severity of an agnosia.
+Outlook / Prognosis
+What can I expect if I have an agnosia?
+The outlook for agnosias depends strongly on the severity, type and how it impacts your life. For most people, these conditions can cause major difficulties, while others may have minimal impacts. Therapy and rehabilitation are key to helping you adapt to this condition if it’s permanent. In many cases, techniques and strategies learned in therapy can help people with an agnosia continue to live a long, healthy and happy life.
+How long does an agnosia last?
+The underlying cause and severity of an agnosia are the key factors in how long it will last. However, most agnosias are permanent.
+What’s the outlook for this condition? Is it fatal?
+Agnosias are rarely dangerous or fatal to you directly. However, agnosias can happen because of deadly conditions. Examples of life-threatening conditions that cause agnosias include strokes, brain tumors and more.
+These conditions can also make it harder for you to function, sometimes leading to dangerous situations. For example, with akinetopsia, the inability to see objects moving can put you at risk when doing something as common as crossing the street. That’s why adapting to this condition, especially with rehabilitation and therapy, is so important.
+Living With
+How do I take care of myself?
+Your healthcare provider is the best person to guide you on living with an agnosia. They can provide resources and refer you to specially trained, experienced healthcare providers or qualified programs that can help you adapt to and live with this condition.
+When should I see my healthcare provider?
+You should talk to your healthcare provider if you notice you (or a loved one) are having new trouble recognizing familiar items in any way. This kind of change — whether or not it’s an agnosia of any kind — usually signals a problem with your brain that needs medical care.
+When should I go to the ER?
+You should get immediate medical attention if you notice any type of agnosia that happens suddenly, especially along with any symptom of a stroke or brain injury. The symptoms of stroke include:
+- Weakness, numbness or paralysis on one side of your body.
+- Slurred or garbled speech.
+- Droop on one side of your face or vision loss in one eye.
+- Trouble swallowing.
+- Confusion, irritability or agitation.
+- Trouble focusing, thinking or remembering.
+- Sudden headache that’s severe or keeps you from going about your usual activities.
+A note from Cleveland Clinic
+Agnosias can be a confusing, frightening neurological condition. They can suddenly deprive you of simple abilities like identifying familiar faces or understanding people talking to you. Fortunately, there are ways that you can adapt and compensate if you have an agnosia. If you have one of these conditions, talking to a healthcare provider can aid you in finding specialists and programs that can help you with this condition. Even if the condition is permanent, there are ways you can compensate and work around it. That way, you can set the limit on how much an agnosia affects how you want to live your life.

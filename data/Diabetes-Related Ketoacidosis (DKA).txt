@@ -1,0 +1,128 @@
+Diabetes-Related Ketoacidosis (DKA)
+Overview
+What is diabetes-related ketoacidosis (DKA)?
+Diabetes-related ketoacidosis (DKA) is a serious and life-threatening, but treatable, complication that affects people with diabetes and those who have undiagnosed diabetes.
+Diabetes-related ketoacidosis occurs when your body doesn't have enough insulin (a hormone that's either produced by your pancreas or injected). Your body needs insulin to turn glucose, your body’s go-to source of fuel, into energy. If there’s no insulin or not enough insulin, your body starts breaking down fat for energy instead. As fat is broken down, ketones are released into the bloodstream.
+For a person with diabetes, a high amount of ketones causes their blood to become acidic (the blood pH is too low). This creates an emergency medical situation that requires immediate attention and treatment.
+Who does diabetes-related ketoacidosis (DKA) affect?
+Diabetes-related ketoacidosis can develop in people of any age who have diabetes or undiagnosed diabetes.
+- Individuals who have undiagnosed Type 1 diabetes: For some people, diabetes-related ketoacidosis (DKA) is how they find out that they have Type 1 diabetes. Type 1 diabetes (also known as diabetes mellitus or insulin-dependent diabetes and formerly known as juvenile diabetes) is a chronic autoimmune disease in which your immune system attacks the insulin-producing beta cells in your pancreas. Oftentimes people are in DKA when they're first diagnosed with Type 1 diabetes because they no longer have enough insulin in their body to use glucose for energy. Type 1 diabetes typically develops during childhood or adolescence but can also develop in adulthood. You can develop Type 1 diabetes even if you don’t have a family history of diabetes. Approximately 20% to 40% of DKA cases are from people who are newly diagnosed with Type 1 diabetes.
+- Individuals who have Type 1 diabetes: People who have been diagnosed with Type 1 diabetes can develop DKA at any point throughout their life if their body does not get as much insulin as it needs.
+- Individuals who have Type 2 diabetes: Although it’s not as common, people with Type 2 diabetes who have ketosis-prone diabetes can develop diabetes-related ketoacidosis (DKA).
+What's the difference between diabetes-related ketoacidosis (DKA) and hyperglycemia (high blood sugar)?
+Hyperglycemia (high blood sugar) and diabetes-related ketoacidosis both happen when your body doesn't have enough insulin or isn't using the insulin it has properly.
+The difference is that DKA is an acute complication, meaning it has a severe and sudden onset. While very high blood sugar (above 250 mg/dL) is almost always a contributing factor to DKA, other conditions need to be present to have DKA, including ketones in your blood and/or urine. You can have high blood sugar without having ketones in your blood and/or urine.
+Untreated high blood sugar can lead to DKA. This is why it’s important to treat high blood sugar with insulin as soon as possible.
+Although it’s not as common, you can be in DKA even if your blood sugar is lower than 250 mg/dL. This is known as euglycemic diabetes-related ketoacidosis (euDKA).
+What's the difference between diabetes-related ketoacidosis (DKA) and ketosis?
+Even though they sound alike, diabetes-related ketoacidosis and ketosis are two different things.
+Ketosis occurs when you have ketones in your blood and/or urine but not enough to turn your blood acidic. It usually happens if you are eating a low-carbohydrate diet, if you’re fasting or if you’ve drunk too much alcohol. Ketosis isn't harmful.
+Diabetes-related ketoacidosis (DKA) affects people with diabetes and people with undiagnosed diabetes. It happens when your blood turns acidic because there are too many ketones in your blood due to a lack of insulin. Diabetes-related ketoacidosis is life-threatening and requires immediate treatment.
+Symptoms and Causes
+What are the symptoms and signs of DKA (diabetes-re;ated ketoacidosis)?
+It’s important to remember these signs of DKA, especially if you have diabetes or if you or your child are at risk for developing Type 1 diabetes.
+Early symptoms of DKA can include:
+- Peeing more often than usual (frequent urination).
+- Extreme thirst.
+- Dehydration.
+- Headache.
+- High amounts of ketones in your pee or blood (as shown by at-home urine ketone test strips or a blood meter test).
+- High blood glucose (blood sugar) levels (over 250 mg/dL).
+More severe symptoms of DKA can include:
+- Nausea and vomiting.
+- Abdominal pain.
+- Shortness of breath.
+- Fruity-smelling breath.
+- Feeling very tired or weak.
+- Feeling disoriented or confused.
+- Decreased alertness.
+If you have any of these symptoms, call your healthcare provider immediately or go to the nearest emergency room.
+What causes diabetes-related ketoacidosis (DKA)?
+The main cause of DKA is not enough insulin in your body. The following situations can cause a lack of insulin:
+- New diagnosis of Type 1 diabetes: Type 1 diabetes (also known as diabetes mellitus or insulin-dependent diabetes and formerly known as juvenile diabetes) is a chronic autoimmune disease in which your immune system attacks the insulin-producing beta cells in your pancreas. Oftentimes people have diabetes-related ketoacidosis (DKA) when they're first diagnosed with Type 1 diabetes because they no longer have enough insulin in their body to use glucose for energy and they missed the early signs of Type 1 diabetes.
+- Forgetting to take or not taking one or more insulin doses: If you have insulin-dependent diabetes, your body needs injected insulin to function. Forgetting to take or not taking insulin, especially with a meal, can cause DKA.
+- Insulin pump issues: For people with diabetes who use an insulin pump, a kinked cannula or a disconnected site/tubing can prevent the insulin from being delivered into the body. A malfunctioning or broken insulin pump can also prevent insulin from being delivered.
+- Using expired or spoiled insulin: All types of insulin are affected by extreme cold or heat. If your vial or pen of insulin or inhaled insulin (Afrezza®) is exposed to extreme heat or cold, the insulin can become ineffective (it won’t work as it should). Be sure to read the instructions for how you should store your type of insulin when it’s not in use. Expired insulin can also become ineffective.
+The following conditions or situations can also contribute to developing DKA:
+- Illness: Sometimes being sick can cause your body to release higher amounts of certain hormones like cortisol (stress hormone) and adrenaline. These hormones make it more difficult for your body to use insulin properly. Vomiting from an illness can also trigger DKA to develop.
+- Infection: Just like with illness, infection causes your body to release certain hormones that make it harder for your body to use insulin. Oftentimes if you have diabetes and have an infection, your body needs more insulin than usual. The most common infections that can lead to DKA include pneumonia, urinary tract infections (UTI) and skin infections.
+- Pregnancy: People with diabetes who are pregnant experience insulin resistance as their pregnancy progresses and require more insulin. This makes it more likely that someone who's pregnant and has diabetes could develop DKA.
+- Emotional or physical trauma: If a person with diabetes experiences emotional or physical trauma, it can cause DKA due to the high amounts of cortisol (stress hormone) produced by their body. High amounts of cortisol make it difficult for your body to use insulin properly.
+- Pancreatitis: Some cases of pancreatitis can cause lower than normal levels of insulin, which could trigger DKA.
+- Heart attack or stroke: If a person with diabetes has a heart attack or stroke, it could cause DKA.
+- Alcohol abuse or drug abuse, particularly cocaine: Alcohol and drug abuse can make your body produce hormones that make it difficult to use insulin properly. In addition, a person with diabetes who abuses alcohol or drugs is more likely to miss their doses of insulin and/or medication, which can trigger DKA.
+- Certain medications: Some antipsychotic drugs and corticosteroids can cause DKA.
+How long does it take for diabetes-related ketoacidosis (DKA) to develop?
+Diabetes-related ketoacidosis is considered an acute complication, meaning it has a severe and sudden onset. DKA can develop within 24 hours. If you’re vomiting, it could develop much more quickly. It’s essential to call your healthcare provider or go to the hospital as soon as you experience symptoms to get treatment before the DKA becomes more severe.
+Diagnosis and Tests
+How is DKA (diabetes-related ketoacidosis) diagnosed?
+Diabetes-related ketoacidosis is generally diagnosed if you have the following four conditions:
+- Your blood glucose (sugar) level is above 250 mg/dL. (It’s possible for you to be in DKA even if your blood sugar is lower than 250. This is known as euglycemic diabetes-related ketoacidosis [euDKA], and it’s not as common.)
+- Your blood pH is less than 7.3 (acidosis).
+- You have ketones in your urine and/or blood.
+- Your serum (blood) bicarbonate level is less than 18 mEq per L.
+What tests are used to diagnose diabetes-related ketoacidosis (DKA)?
+In the hospital, healthcare providers may use the following tests to diagnose DKA:
+- Blood glucose test.
+- Ketone testing (through a urine or blood test).
+- Arterial blood gas.
+- Basic metabolic panel.
+- Blood pressure check.
+- Osmolality blood test.
+If you have diabetes and call your healthcare provider from home about your symptoms, they can usually determine if you have diabetes-related ketoacidosis based on your history, blood sugar levels and urine and/or blood ketones. They will also determine if you can treat your symptoms from home or if you need to go to the hospital for treatment. There are a few at-home tests you can take to see if you could have DKA, including:
+- Urine ketone test: A urine ketone test measures the number of ketones in your pee. It’s usually a strip that will turn a certain color depending on what level of ketones are in your pee. Urine ketone tests can be purchased at your local pharmacy without a prescription. Follow the instructions on the packaging to be sure you are doing the test properly.
+- Blood ketone test: Some at-home blood glucose meters (glucometers) can check blood ketones as well as blood sugar levels with a drop of blood. There are also meters that just check ketones in your blood that you can buy.
+- Blood glucose (blood sugar) tests: High blood sugar (above 250 mg/dL) is a sign that you could have DKA. Checking your blood sugar with a blood glucose meter (glucometer) or using a continuous glucose monitoring (CGM) sensor is the only way to know for sure if you have high blood sugar.
+Management and Treatment
+What is the treatment for DKA (diabetes-related ketoacidosis)?
+If DKA is caught early enough, people with diabetes can sometimes treat DKA from home with specific instructions from their healthcare provider. If you think you might be developing DKA, call your healthcare provider immediately. They'll determine if you'll be able to treat it from home or if you'll need to go to the hospital.
+If you have diabetes and your healthcare provider has determined that you can treat DKA from home, be sure to do the following:
+- Follow your healthcare provider’s instructions: They will tell you how much insulin and/or medication to take and other steps to safely get out of or prevent DKA.
+- Check your blood sugar often: Try to check your blood sugar every hour to be sure that your treatment is working and that your blood sugar is decreasing safely.
+- Check your ketones: Use urine ketone strips or a blood ketone meter to check for ketones as you're recovering to be sure that the level of ketones in your body is decreasing and not increasing.
+- Drink fluids to prevent dehydration: Drink water, broth or sugar-free drinks to stay hydrated. This is especially important if you are sick and/or vomiting.
+- Try to eat normally: It’s important to eat as you normally do, especially if you are sick. If you take insulin, be sure to take the appropriate amount with your meal as directed by your healthcare provider.
+- Don't exercise: Physical activity can increase your blood sugar and increase ketones in your body. Your healthcare provider will let you know when you can start exercising again.
+If your symptoms of DKA are severe, you’ll have to go to the hospital for treatment. You may receive the following treatments in a hospital setting:
+- IV fluids: IV fluids help to correct possible dehydration, clear ketones through the urine and correct electrolyte imbalance.
+- Insulin: Your healthcare team may give you insulin through an IV or as a needle injection (subcutaneous shot).
+- Other treatments: Depending on the severity of your DKA, your healthcare team may give you other treatments to help you recover.
+What are the side effects of DKA (diabetes-related ketoacidosis) treatment?
+One of the goals of diabetes-related ketoacidosis treatment is to lower blood sugar levels into an acceptable range. Your body needs insulin to decrease blood sugar levels. Sometimes, too much insulin can cause low blood sugar (hypoglycemia). If this happens and you're treating your DKA from home, you’ll need to treat the low blood sugar by consuming sugar or carbohydrates per your healthcare provider’s instructions. If you are in the hospital for DKA treatment, your healthcare team will give you glucose to treat your low blood sugar.
+How soon after treatment for DKA (diabetes-related ketoacidosis) will I feel better?
+DKA is fully treated when your blood sugar is less than 200 mg/dL and your blood pH is higher than 7.3. DKA is usually corrected within 24 hours. Depending on the severity of the DKA, it could take multiple days before the DKA is fully treated and you can leave the hospital.
+Prevention
+What are the risk factors for diabetes-related ketoacidosis (DKA)?
+Risk factors for developing DKA include:
+- Family history of diabetes: If you have a family history of diabetes, you could be at risk for developing Type 1 diabetes. If you have undiagnosed Type 1 diabetes and miss the early signs and symptoms of the disease, you could develop DKA.
+- Family history of autoimmune diseases: If you have a family history of autoimmune diseases, you could be at risk for developing Type 1 diabetes. Undiagnosed Type 1 diabetes could result in DKA.
+- Poorly managed Type 1 diabetes: If you have Type 1 diabetes and have frequent high blood sugar, don't take your insulin regularly and don’t check your blood sugar often, you're at a higher risk of developing DKA.
+- Poorly managed Type 2 diabetes: DKA is not as common in people with Type 2 diabetes, but those who have ketosis-prone Type 2 diabetes can develop DKA. This is more likely to happen if you have frequent high blood sugar, don't take your medication regularly and don't check your blood sugar often.
+How can I prevent DKA (diabetes-related ketoacidosis)?
+If you don't have diabetes but are experiencing symptoms of diabetes-related ketoacidosis, call your healthcare provider immediately or go to the nearest emergency room. The only way to prevent more severe symptoms and side effects of DKA, in this case, is to seek medical attention and treatment.
+If you already have diabetes, there are many things you can do to prevent diabetes-related ketoacidosis, including:
+- Check your blood sugar often: Checking your blood sugar with a glucometer and/or using a continuous glucose monitor (CGM) is crucial to managing diabetes and preventing complications. Try to at least check your blood sugar before and after meals and before you go to sleep. It’s important to treat high blood sugar as soon as possible in order to prevent DKA.
+- Take your insulin and/or medication regularly: Follow your healthcare provider’s instructions for taking your insulin and/or medication. Missed doses can lead to DKA.
+- Check for ketones: If you are experiencing sustained high blood sugar, check for ketones using a urine or blood test to be sure you are not close to developing DKA.
+- Check your insulin pump: If you use an insulin pump to manage your diabetes and are experiencing high blood sugar, be sure to check your pump for issues such as a kinked cannula or a disconnected site/tubing. These issues could be preventing you from receiving insulin.
+- Have a sick day plan: Talk with your healthcare provider about how to take care of yourself and manage your diabetes when you are sick. Since illness can trigger DKA, it’s important to know what to do if you get sick before it happens so that you are prepared.
+- See your healthcare provider regularly: It’s important to see your healthcare provider regularly to be sure that your diabetes management plan is working. If your management plan isn’t working for you, reach out to your healthcare provider or schedule an appointment to make improvements to your management.
+- Stay educated: Don’t be afraid to ask your healthcare team about DKA. The more you know about DKA and your diabetes management, the more likely you will be able to prevent DKA or catch it in its early stage.
+- Ask for help: Diabetes management can be confusing and difficult. If you're struggling to manage your diabetes, contact your healthcare provider and reach out to family and friends for support.
+Outlook / Prognosis
+What is the outlook (prognosis) if I have diabetes-related ketoacidosis (DKA)?
+Most people recover from treatment for diabetes-related ketoacidosis within a day. Sometimes it takes longer.
+If not treated soon enough, diabetes-related ketoacidosis can lead to severe complications including:
+- Very low potassium levels (hypokalemia).
+- Swelling inside of the brain (cerebral edema).
+- Fluid inside of the lungs (pulmonary edema).
+- Damage to your kidneys and other organs.
+- Coma.
+- Death.
+Can I die from DKA (diabetes-related ketoacidosis)?
+Yes, if left untreated, diabetes-related ketoacidosis results in death. Because of this, it’s essential to treat DKA as soon as possible. Call your healthcare provider immediately or go to the nearest emergency room if you experience symptoms.
+Living With
+When should I call my doctor about DKA?
+Diabetes-related ketoacidosis (DKA) is a complication of diabetes that requires immediate treatment. If you experience symptoms such as frequent urination, extreme thirst, high blood sugar, ketones in your urine or blood and vomiting, call your healthcare provider immediately.
+A note from Cleveland Clinic:
+Diabetes-related ketoacidosis (DKA) is a serious and life-threatening condition, so acting fast if you’re experiencing symptoms is very important. It’s much easier to treat diabetes-related ketoacidosis in its early phase than it is once symptoms become more severe. Be sure to call your healthcare provider if you experience symptoms. Diabetes complications can be scary. Being educated and prepared are crucial to preventing DKA. Don’t be afraid to ask your healthcare provider questions about DKA or your diabetes management.

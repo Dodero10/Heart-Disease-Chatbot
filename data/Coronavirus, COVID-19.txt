@@ -1,0 +1,124 @@
+Coronavirus, COVID-19
+Overview
+What is coronavirus?
+Coronaviruses are a family of viruses that can cause respiratory illness in humans. They are called “corona” because of crown-like spikes on the surface of the virus. Severe acute respiratory syndrome (SARS), Middle East respiratory syndrome (MERS) and the common cold are examples of coronaviruses that cause illness in humans.
+The new strain of coronavirus — SARS-CoV-2 — was first reported in Wuhan, China in December 2019. It has since spread to every country around the world.
+Where do coronaviruses come from?
+Coronaviruses are often found in bats, cats and camels. The viruses live in but don’t infect the animals. Sometimes these viruses then spread to different animal species. The viruses may change (mutate) as they transfer to other species. Eventually, the virus can jump from animal species and begin to infect humans. In the case of SARS-CoV-19, the first people infected are thought to have contracted the virus at a food market that sold meat, fish and live animals.
+How do you get COVID-19?
+SARS-CoV-2, the virus that causes COVID-19, enters your body through your mouth, nose or eyes (directly from the airborne droplets or from the transfer of the virus from your hands to your face). It then travels to the back of your nasal passages and mucous membrane in the back of your throat. It attaches to cells there, begins to multiply and moves into lung tissue. From there, the virus can spread to other body tissues.
+How does the new coronavirus (SARS-CoV-2) spread from person to person?
+Coronavirus is likely spread:
+- The virus travels in respiratory droplets released into the air when an infected person coughs, sneezes, talks, sings or breathes near you. You may be infected if you inhale these droplets.
+- You can also get coronavirus from close contact (touching, shaking hands) with an infected person and then touching your face.
+How long is a person with COVID-19 considered contagious?
+If you have COVID-19 it can take several days to develop symptoms — but you’re contagious during this time. You are no longer contagious 10 days after your symptoms began.
+The best way to avoid spreading COVID-19 to others is to:
+- Stay 6 feet away from others whenever possible.
+- Wear a cloth mask that covers your mouth and nose when around others.
+- Wash your hands often. If soap isn’t available, use a hand sanitizer that contains at least 60% alcohol.
+- Avoid crowded indoor spaces. Open windows to bring in outdoor air as much as possible.
+- Stay self-isolated at home if you are feeling ill with symptoms that could be COVID-19 or have a positive test for COVID-19.
+- Clean and disinfect frequently touched surfaces.
+Who’s most at risk for getting COVID-19?
+Persons at greatest risk of contracting COVID-19 include those who:
+- Live in or have recently traveled to any area with ongoing active spread.
+- Have had close contact with a person who has a laboratory-confirmed or a suspected case of the COVID-19 virus. Close contact is defined as being within 6 feet of an infected person for a cumulative total of 15 minutes or more over a 24-hour period.
+- Are over the age of 60 with pre-existing medical conditions or a weakened immune system.
+How soon after becoming infected with SARS-CoV-2 will I develop COVID-19 symptoms?
+The time between becoming infected and showing symptoms (incubation period) can range from two to 14 days. The average time before experiencing symptoms is five days. Symptoms can range in severity from very mild to severe. In about 80% of people, COVID-19 causes only mild symptoms, although this may change as variants emerge.
+If I recover from a case of COVID-19, can I be infected again?
+If you test positive for SARS-CoV-2 three months after your last positive test, it’s considered a reinfection. Before the omicron variant, reinfection with SARS-CoV-2 was rare but possible.
+Omicron (B.1.1.529) was first reported in South Africa in November 2021 and quickly spread around the world. With many mutations, omicron was able to evade immune systems and we had more reinfections than ever before.
+As the virus that causes COVID-19 continues to mutate, reinfection remains possible. Vaccination — including a booster dose — is the best protection against severe disease.
+Symptoms and Causes
+What are the symptoms of COVID-19?
+COVID-19 symptoms vary from person to person. In fact, some infected people don’t develop any symptoms (asymptomatic). In general, people with COVID-19 report some of the following symptoms:
+- Fever or chills.
+- Cough.
+- Shortness of breath or difficulty breathing.
+- Tiredness.
+- Muscle or body aches.
+- Headaches.
+- New loss of taste or smell.
+- Sore throat.
+- Congestion or runny nose.
+- Nausea or vomiting.
+- Diarrhea.
+Additional symptoms are possible.
+Symptoms may appear two to 14 days after exposure to the virus. Children have similar, but usually milder, symptoms than adults. Older adults and people who have severe underlying medical conditions are at higher risk of more serious complication from COVID-19.
+Call 911 and get immediate medical attention if you have these warning signs:
+- Trouble breathing.
+- Persistent pain or pressure in your chest.
+- New confusion.
+- Inability to wake up from sleep.
+- Bluish lips or face.
+This list does not include all possible symptoms. Contact your healthcare provider if you’re concerned you may have coronavirus or have any severe symptoms.
+Diagnosis and Tests
+How is coronavirus diagnosed?
+COVID-19 is diagnosed with a laboratory test. Your healthcare provider may collect a sample of your saliva or swab your nose or throat to send for testing.
+When should I be tested for the coronavirus (COVID-19)?
+Call your healthcare provider if you:
+- Feel sick with fever, cough or have difficulty breathing.
+- Have been in close contact with a person known or suspected to have COVID-19.
+Your healthcare provider will ask you questions about your symptoms and tell you if you need to be tested for COVID-19.
+If I have a positive test for coronavirus, how long should I self-isolate?
+According to current CDC recommendations, you should self-isolate until you've met both of the following criteria:
+- It's been five days since your symptoms first appeared and your symptoms are improving.
+- You've not had a fever for 24 hours and you've not used fever-lowing medications during this time.
+While at home, self-isolate within a separate room of your home if possible to limit interaction with other family members. If you can’t stay 100% isolated in a separate room, keep 6 feet away from others and wear a cloth mask, wash your/family members' hands often and frequently disinfect commonly touched surfaces and shared areas.
+You don't need to be retested after your period of self-isolation. But every case is unique, so follow your healthcare provider's recommendations for testing.
+If you have a weakened immune system or have had a severe case of COVID-19, the CDC's criteria don’t apply to you. You may need to stay home for up to 20 days after your symptoms first appeared. Talk with your healthcare provider about your situation.
+How long do I need to isolate myself if I’ve been around a person with COVID-19?
+You should quarantine for five days if:
+- You haven’t been fully vaccinated.
+- More than six months have gone by since your second vaccine dose and you haven’t been boosted.
+After this time, you should wear a well-fitting mask whenever you’re around others for an additional five days. The CDC recommends testing on day five if possible. This quarantine period may vary depending on variant strains and the availability of testing.
+Is it possible to test negative for coronavirus and still be infected with it?
+Yes, it’s possible. There are several reasons for “false negative” test results — meaning you really do have COVID-19 although the test result says you don’t.
+Reasons for a false negative COVID-19 test result include:
+- You were tested too early in the course of illness. The virus hasn’t multiplied in your body to the level that it could be detected by the test.
+- The swab didn’t get a good specimen. You or the healthcare personnel may not have swabbed deeply enough in your nasal cavity to collect a good sample. There could also be less likely handling errors and transportation errors.
+- The test itself was not sensitive or specific enough to detect SARS-CoV-2, the virus that causes COVID-19. Sensitivity refers to the ability of the test to detect the smallest amount of virus. Specificity refers to the ability of the test to detect only the COVID-19 virus and not other similar viruses. Many different commercial and hospital laboratories have developed tests for SARS-CoV-2. All must meet standards, but there’s always the possibility of “false negative” and “false positive” tests.
+If you think you might have COVID-19 even if your test is negative, it’s best to follow the current CDC recommendations. Stay home for 10 days if you think you are sick (“social distancing”). Stay 6 feet away from others (“physical distancing”) and wear a cloth mask. Contact your healthcare provider if your symptoms worsen. Don’t decide on your own if it’s safe for you to be around others. Instead, contact your healthcare provider when your symptoms improve.
+Management and Treatment
+What treatments do people receive if they have COVID-19?
+Treatments for COVID-19 vary depending on the severity of your symptoms. If you’re not in the hospital or don’t need supplemental oxygen, no specific antiviral or immunotherapy is recommended.
+Depending on the severity of your COVID symptoms, you may need:
+- Supplemental oxygen (given through tubing inserted into your nostrils).
+- Some people may benefit from an infusion of monoclonal antibodies.
+- Antiviral medications may reduce the risk of hospitalization and death in certain patients with COVID-19.
+- Mechanical ventilation (oxygen through a tube inserted down your trachea). You are given medications to keep you comfortable and sleepy as long as you’re receiving oxygen through a ventilator.
+- Extracorporeal membrane oxygenation (ECMO). You continue to receive treatment while a machine pumps your blood outside your body. It takes over the function of your body’s lungs and heart.
+Can vaccinated people still get COVID-19?
+Yes, it’s possible to get COVID-19 even if you’ve been vaccinated. No vaccines are 100% effective. In fact, breakthrough cases (when someone tests positive more than two weeks after they're fully vaccinated) are expected, especially as the SARS-CoV-2 virus mutates.
+The vaccines significantly reduce — but don’t eliminate — your risk of infection. The risk of a severe illness or death from a breakthrough infection is very low.
+How can I manage my symptoms at home?
+If you have mild COVID-19 symptoms, you can likely manage your health at home. Follow these tips:
+- If you have a fever, drink plenty of fluids (water is best), get lots of rest and take acetaminophen (Tylenol®).
+- If you have a cough, lie on your side or sit up (don’t lie on your back). Add a teaspoon of honey to your hot tea or hot water (don’t give honey to children under 1 year of age). Gargle with salt water. Call your healthcare provider or pharmacist for advice about over-the-counter, comfort care products like cough suppressants and cough drops/lozenges. Have a friend or family member pick up any needed medicines. You must stay at home.
+- If you’re anxious about your breathing, try to relax. Take slow deep breaths in through your nose and slowly release through pursed lips (like you’re are slowly blowing out a candle).
+- If you’re having trouble breathing, call 911.
+If you have a mild case of COVID-19, you should start to feel better in a few days to a week. If you think your symptoms are getting worse, call your healthcare provider.
+Prevention
+How can I keep from getting COVID-19?
+The best defense to prevent getting COVID-19 is to get vaccinated. You should also follow the same steps you would take to prevent getting other viruses, such as the common cold or the flu.
+- Wash your hands for at least 20 seconds — especially before eating and preparing food, after using the bathroom, after wiping your nose, and after coming in contact with someone who has a cold.
+- Wear a multilayered cloth facemask that fits snugly on your face and covers your mouth, nose and chin as recommended by the CDC.
+- Avoid touching your eyes, nose and mouth to prevent the spread of viruses from your hands.
+- Cover your mouth and nose with a tissue when sneezing and coughing or sneeze and cough into your sleeve. Throw the tissue in the trash. Wash your hands afterward. Never cough or sneeze into your hands!
+- Avoid close contact (within 6 feet) with those who have coughs, colds or are sick. Stay home if you’re sick.
+- If you’re prone to sickness or have a weakened immune system, stay away from large crowds of people. Follow the directions of your healthcare authorities, especially during outbreaks.
+- Clean frequently used surfaces (such as doorknobs and countertops) with a virus-killing disinfectant.
+- Use hand sanitizers that contain at least 60% alcohol if soap and water are not available.
+- Greet people with a friendly gesture instead of shaking hands.
+- Get enough sleep, eat a healthy diet, drink plenty of liquids and exercise if you are able. These steps will strengthen your immune system and help you fight off infections more easily.
+Should I wear a face mask?
+Your healthcare provider can answer any questions you have about when you should wear a face mask to help slow the transmission of COVID-19. In general, the CDC recommends wearing a face mask in the following situations:
+- If you’re in an area with high community levels of COVID-19, wear a face mask in public.
+- If you’re sick but can’t avoid being around others.
+- If you’re caring for someone who has COVID-19.
+- If you’re at higher risk for severe illness or live with someone who is.
+A note from Cleveland Clinic
+We’ve come a long way since the first cases of COVID-19 were confirmed in the United States. We’ve learned a lot about the virus and how to treat people who have it. We’ve also greatly increased our ability for testing. You — our communities — have made tremendous efforts to adapt, too.
+The changes we’ve all made to stay safe and healthy can feel challenging. But please stay vigilant. We know it’s not easy, but it’s critical. COVID-19 shouldn't be taken lightly. While most people get only mild symptoms, others develop serious complications of the lungs, brain and heart. There may also be other long-term effects that we don’t yet know about.
