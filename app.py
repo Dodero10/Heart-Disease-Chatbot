@@ -9,14 +9,10 @@ from langchain.memory import ConversationBufferMemory
 from streamlit_option_menu import option_menu
 
 from prepare_retrieval import get_bm25_scores
-from streamlit_extras.add_vertical_space import add_vertical_space
 
 model_dict = {"llama-2-7b": "llama-2-7b-chat.ggmlv3.q4_0.bin", "zephyr-7b": "zephyr-7b-alpha.Q4_0.gguf","mistral-7b": "mistral-7b-v0.1.Q3_K_M.gguf"}
 def initialize_sidebar():
     st.sidebar.title("🤗💬 LLM Chat App about heart disease")
-    st.sidebar.markdown(
-        "## About\nThis app is an LLM-powered chatbot built using:\n- [Streamlit](https://streamlit.io/)\n- [LangChain](https://python.langchain.com/)\n- [PaLM](https://makersuite.google.com/app/home) Embeddings & LLM model")
-    add_vertical_space(5)
     st.sidebar.markdown(
         "<a href='https://github.com/Dodero10' style='color: white; text-decoration: none; font-weight: bold;'>Trương Công Đạt - 20215346</a>",
         unsafe_allow_html=True)
@@ -36,33 +32,32 @@ def setup_RAG(model_name):
     embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2",
                                        model_kwargs={'device': "cpu"})
     vector_store = FAISS.from_documents(text_chunks, embeddings)
+    retriever = vector_store.as_retriever(search_kwargs={"k": 2})
     if model_name == "llama-2-7b-chat.ggmlv3.q4_0.bin":
         llm = CTransformers(model=model_name, model_type = "llama", config={'max_new_tokens': 128, 'temperature': 0.01})
     else:
         llm = CTransformers(model=model_name, config={'max_new_tokens': 128, 'temperature': 0.01})
 
     memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
-    return ConversationalRetrievalChain.from_llm(llm=llm, chain_type='stuff',
-                                                 retriever=vector_store.as_retriever(search_kwargs={"k": 2}),
-                                                 memory=memory)
+    return ConversationalRetrievalChain.from_llm(llm=llm, chain_type='stuff', retriever=retriever, memory=memory)
 
 
 def get_chain(model_name):
     if 'rag_chain' not in st.session_state:
-        st.session_state.rag_chain = setup_RAG(model_name)
+        st.session_state.rag_chain= setup_RAG(model_name)
     return st.session_state.rag_chain
 
 
 def handle_conversation(query, model_name):
     if len(st.session_state['history']) == 0:
         get_bm25_scores(query["content"])
-        output = f"What do you want to ask about {query['content']}?"
-        st.session_state['history'].append((query["content"], output))
-    else:
-        chain = get_chain(model_name)
-        result = chain({"question": query["content"], "chat_history": st.session_state['history']})
-        output = result["answer"]
-        st.session_state['history'].append((query["content"], output))
+    #get_bm25_scores(query["content"])
+    chain = get_chain(model_name)
+    result = chain({"question": query["content"], "chat_history": st.session_state['history']})
+    output = result["answer"]
+    st.session_state['history'].append((query["content"], output))
+    # print(rt.invoke(query["content"])[0].page_content)
+    # print(rt.invoke(query["content"])[1].page_content)
     return {"role": "assistant", "content": output}
 
 
@@ -97,3 +92,4 @@ selected = option_menu(menu_title=None, options=["llama-2-7b", "mistral-7b", "ze
 initialize_session_state()
 model_name = model_dict[selected]
 display_chat(model_name)
+
