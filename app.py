@@ -9,6 +9,18 @@ from langchain.memory import ConversationBufferMemory
 from streamlit_option_menu import option_menu
 
 from prepare_retrieval import get_bm25_scores
+import pymongo
+database_name = "chatbot"
+
+# URI connection string
+uri = f"mongodb+srv://hoangdinhhung20012003:hust20210399@cluster0.25m2gdf.mongodb.net/{database_name}?retryWrites=true&w=majority"
+
+# Kết nối đến MongoDB Atlas
+client = pymongo.MongoClient(uri)
+
+# Chọn database
+db = client[database_name]
+my_collection = db["history"]
 
 model_dict = {"llama-2-7b": "llama-2-7b-chat.ggmlv3.q4_0.bin", "zephyr-7b": "zephyr-7b-alpha.Q4_0.gguf","mistral-7b": "mistral-7b-v0.1.Q3_K_M.gguf"}
 def initialize_sidebar():
@@ -65,9 +77,12 @@ def initialize_session_state():
     if 'history' not in st.session_state:
         st.session_state['history'] = []
     if "messages" not in st.session_state:
-        st.session_state.messages = [{"role": "user", "content": "Hello!"},
-                                     {"role": "assistant", "content": "Hello, which heart disease do you care about?"}]
-
+        all_documents = list(my_collection.find())
+        st.session_state.messages=all_documents
+        st.session_state.messages.append({"role": "user", "content": "Hello!"})
+        st.session_state.messages.append({"role": "assistant", "content": "Hello, which heart disease do you care about?"})
+        my_collection.insert_one({"role": "user", "content": "Hello!"})
+        my_collection.insert_one({"role": "assistant", "content": "Hello, which heart disease do you care about?"})
 
 def display_chat(model_name):
     for message in st.session_state.messages:
@@ -76,11 +91,13 @@ def display_chat(model_name):
     prompt = st.chat_input("What is up")
     if prompt:
         user_message = {"role": "user", "content": prompt}
+        my_collection.insert_one(user_message)
         st.session_state.messages.append(user_message)
         with st.chat_message(user_message["role"]):
             st.markdown(user_message["content"])
 
         res = handle_conversation(user_message, model_name)
+        my_collection.insert_one(res)
         st.session_state.messages.append(res)
         with st.chat_message(res["role"]):
             st.markdown(res["content"])
